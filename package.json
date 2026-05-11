@@ -1,0 +1,12 @@
+{
+  "name": "frivio-feed",
+  "version": "1.0.0",
+  "description": "Vehicle catalog feed generator for frivio.se (auctions: motorhomes, caravans, boats)",
+  "main": "generate-feed.js",
+  "scripts": {
+    "generate": "node generate-feed.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
