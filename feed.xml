@@ -4,7 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Mon, 11 May 2026 17:28:59 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 19:58:30 GMT</lastBuildDate>
     <item>
       <vehicle_id>478</vehicle_id>
       <g:id>478</g:id>
@@ -911,7 +911,7 @@
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-05-18T17:56:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
       <frivio:current_bid>80000 SEK</frivio:current_bid>
       <frivio:bid_count>2</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
@@ -1679,18 +1679,18 @@
         <value>0</value>
         <unit>KM</unit>
       </mileage>
-      <price>100000 SEK</price>
-      <g:price>100000 SEK</g:price>
+      <price>100500 SEK</price>
+      <g:price>100500 SEK</g:price>
       <address>Lessebo</address>
       <condition>used</condition>
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-05-25T17:22:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>100000 SEK</frivio:current_bid>
-      <frivio:bid_count>0</frivio:bid_count>
-      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
-      <frivio:monthly_cost>1582 kr/mån</frivio:monthly_cost>
+      <frivio:current_bid>100500 SEK</frivio:current_bid>
+      <frivio:bid_count>1</frivio:bid_count>
+      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
+      <frivio:monthly_cost>1590 kr/mån</frivio:monthly_cost>
       <body_style>Caravan</body_style>
       <frivio:region>Kronoberg</frivio:region>
       <availability>in stock</availability>
