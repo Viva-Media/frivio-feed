@@ -4,98 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Mon, 11 May 2026 14:17:37 GMT</lastBuildDate>
-    <item>
-      <vehicle_id>481</vehicle_id>
-      <g:id>481</g:id>
-      <title>Bürstner Aviano I684</title>
-      <description>En rymlig och välutrustad Bürstner Aviano I684 med smart planlösning och hög komfortnivå. Här möts du av en ljus interiör, generösa sällskapsytor och en bekväm sovdel med både fast säng bak och praktisk taksäng fram. Fullutrustat kök och gott om förvaring gör den perfekt för längre resor - en husbil som kombinerar funktion, trivsel och smidig körning. - Taksäng - Servad 17/2 -2026 - Kamkedja Årsmodell: 2009 · Typ: Husbil · Drivmedel: Diesel · Växellåda: Manuell · Mätarställning: 10 000 mil · Ort: Tranås</description>
-      <url>https://frivio.se/auktion/481</url>
-      <g:link>https://frivio.se/auktion/481</g:link>
-      <image>
-        <url>https://backend.frivio.se/vehicle/481/a1777278274528.jpeg</url>
-        <tag>Exterior</tag>
-      </image>
-      <g:image_link>https://backend.frivio.se/vehicle/481/a1777278274528.jpeg</g:image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/481/b1777278274719.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/481/c1777278274870.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/481/d1777278274997.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/481/e1777278275130.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/481/f1777278275384.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/481/g1777278275271.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/481/h1777278275507.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/481/i1777278275633.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/481/j1777278275743.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/481/k1777278275869.jpeg</g:additional_image_link>
-      <make>Bürstner</make>
-      <model>Aviano I684</model>
-      <year>2009</year>
-      <mileage>
-        <value>100000</value>
-        <unit>KM</unit>
-      </mileage>
-      <price>305000 SEK</price>
-      <g:price>305000 SEK</g:price>
-      <address>Tranås</address>
-      <condition>used</condition>
-      <state_of_vehicle>USED</state_of_vehicle>
-      <frivio:listing_type>auction</frivio:listing_type>
-      <frivio:auction_end_date>2026-05-11T14:21:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>305000 SEK</frivio:current_bid>
-      <frivio:bid_count>17</frivio:bid_count>
-      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>4826 kr/mån</frivio:monthly_cost>
-      <body_style>Motorhome</body_style>
-      <fuel_type>Diesel</fuel_type>
-      <frivio:region>Jönköping</frivio:region>
-      <availability>in stock</availability>
-    </item>
-    <item>
-      <vehicle_id>466</vehicle_id>
-      <g:id>466</g:id>
-      <title>Kabe Royal 780 GDL KS</title>
-      <description>Kabe Royal 780 GDL KS från 2008. Stor och rymlig barnkammarvagn med genomtänkt planlösning för familjen. Utrustad med separat barnkammare, stor rundsoffa framtill samt rymligt kök med goda arbetsytor. Gott om förvaring och bekväma sovplatser gör vagnen idealisk för både kortare resor och längre semestrar. - Levereras nybesiktad - Fukttest utförs vid försäljning Årsmodell: 2008 · Typ: Husvagn · Ort: Göteborg</description>
-      <url>https://frivio.se/auktion/466</url>
-      <g:link>https://frivio.se/auktion/466</g:link>
-      <image>
-        <url>https://backend.frivio.se/vehicle/466/a1776930626727.jpeg</url>
-        <tag>Exterior</tag>
-      </image>
-      <g:image_link>https://backend.frivio.se/vehicle/466/a1776930626727.jpeg</g:image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/466/b1776930626844.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/466/c1776930627603.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/466/d1776930627466.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/466/e1776930627734.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/466/f1776930627875.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/466/g1776930628140.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/466/h1776930627221.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/466/i1776930627336.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/466/j1776930626245.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/466/k1776930626511.jpeg</g:additional_image_link>
-      <make>Kabe</make>
-      <model>Royal 780 GDL KS</model>
-      <year>2008</year>
-      <mileage>
-        <value>0</value>
-        <unit>KM</unit>
-      </mileage>
-      <price>130000 SEK</price>
-      <g:price>130000 SEK</g:price>
-      <address>Göteborg</address>
-      <condition>used</condition>
-      <state_of_vehicle>USED</state_of_vehicle>
-      <frivio:listing_type>auction</frivio:listing_type>
-      <frivio:auction_end_date>2026-05-11T15:49:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>130000 SEK</frivio:current_bid>
-      <frivio:bid_count>2</frivio:bid_count>
-      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>2057 kr/mån</frivio:monthly_cost>
-      <body_style>Caravan</body_style>
-      <frivio:region>Västra Götaland</frivio:region>
-      <availability>in stock</availability>
-    </item>
+    <lastBuildDate>Mon, 11 May 2026 17:28:59 GMT</lastBuildDate>
     <item>
       <vehicle_id>478</vehicle_id>
       <g:id>478</g:id>
@@ -825,7 +734,7 @@
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-05-18T14:42:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
       <frivio:current_bid>80000 SEK</frivio:current_bid>
       <frivio:bid_count>0</frivio:bid_count>
       <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
@@ -870,7 +779,7 @@
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-05-18T15:01:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
       <frivio:current_bid>695000 SEK</frivio:current_bid>
       <frivio:bid_count>5</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
@@ -916,7 +825,7 @@
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-05-18T15:37:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
       <frivio:current_bid>80000 SEK</frivio:current_bid>
       <frivio:bid_count>6</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
@@ -957,7 +866,7 @@
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-05-18T16:28:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
       <frivio:current_bid>32500 SEK</frivio:current_bid>
       <frivio:bid_count>0</frivio:bid_count>
       <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
@@ -1506,18 +1415,18 @@
         <value>31000</value>
         <unit>KM</unit>
       </mileage>
-      <price>200500 SEK</price>
-      <g:price>200500 SEK</g:price>
+      <price>220000 SEK</price>
+      <g:price>220000 SEK</g:price>
       <address>Värmdö</address>
       <condition>used</condition>
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-05-21T14:50:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>200500 SEK</frivio:current_bid>
-      <frivio:bid_count>1</frivio:bid_count>
+      <frivio:current_bid>220000 SEK</frivio:current_bid>
+      <frivio:bid_count>2</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>3172 kr/mån</frivio:monthly_cost>
+      <frivio:monthly_cost>3481 kr/mån</frivio:monthly_cost>
       <body_style>Motorhome</body_style>
       <fuel_type>Diesel</fuel_type>
       <frivio:region>Stockholm</frivio:region>
@@ -1813,18 +1722,18 @@
         <value>156000</value>
         <unit>KM</unit>
       </mileage>
-      <price>165000 SEK</price>
-      <g:price>165000 SEK</g:price>
+      <price>165500 SEK</price>
+      <g:price>165500 SEK</g:price>
       <address>Ånge</address>
       <condition>used</condition>
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-05-25T17:40:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>165000 SEK</frivio:current_bid>
-      <frivio:bid_count>0</frivio:bid_count>
-      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
-      <frivio:monthly_cost>2611 kr/mån</frivio:monthly_cost>
+      <frivio:current_bid>165500 SEK</frivio:current_bid>
+      <frivio:bid_count>1</frivio:bid_count>
+      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
+      <frivio:monthly_cost>2619 kr/mån</frivio:monthly_cost>
       <body_style>Motorhome</body_style>
       <fuel_type>Diesel</fuel_type>
       <frivio:region>Västernorrland</frivio:region>
