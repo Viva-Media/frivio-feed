@@ -4,105 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Tue, 12 May 2026 18:07:17 GMT</lastBuildDate>
-    <item>
-      <vehicle_id>490</vehicle_id>
-      <g:id>490</g:id>
-      <title>Cremo 470R med motor</title>
-      <description>Cremo 470R är en lättdriven och stabil rorkultsbåt som utmärker sig med sitt breda skrov och fina kursstabilitet. Den öppna designen utan pulpet ger maximalt med rörelsefrihet ombord, vilket gör den särskilt smidig vid lastning och när du rör dig i båten. Med sin låga vikt är den enkel att hantera både på trailer och i sjön - en praktisk och flexibel båt för dig som värdesätter enkelhet och funktion. - Nypris: 166 780 sek (utan motor) - Utan självläns - Elektrisk länspump Årsmodell: 2025 · Typ: Båt · Ort: Varberg</description>
-      <url>https://frivio.se/auktion/490</url>
-      <g:link>https://frivio.se/auktion/490</g:link>
-      <image>
-        <url>https://backend.frivio.se/vehicle/490/a1777536692125.jpeg</url>
-        <tag>Exterior</tag>
-      </image>
-      <g:image_link>https://backend.frivio.se/vehicle/490/a1777536692125.jpeg</g:image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/490/b1777536692294.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/490/c1777536692432.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/490/d1777536692572.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/490/e1777536691942.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/490/f1777536692727.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/490/g1777536692853.jpeg</g:additional_image_link>
-      <make>Cremo</make>
-      <model>Cremo 470R med motor</model>
-      <year>2025</year>
-      <mileage>
-        <value>0</value>
-        <unit>KM</unit>
-      </mileage>
-      <price>60000 SEK</price>
-      <g:price>60000 SEK</g:price>
-      <address>Varberg</address>
-      <address format="simple">
-        <component name="addr1">Varberg</component>
-        <component name="city">Varberg</component>
-        <component name="region">Halland</component>
-        <component name="country">SE</component>
-      </address>
-      <condition>EXCELLENT</condition>
-      <state_of_vehicle>NEW</state_of_vehicle>
-      <frivio:listing_type>auction</frivio:listing_type>
-      <frivio:auction_end_date>2026-05-12T18:08:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>60000 SEK</frivio:current_bid>
-      <frivio:bid_count>1</frivio:bid_count>
-      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>949 kr/mån</frivio:monthly_cost>
-      <body_style>OTHER</body_style>
-      <frivio:body_type_label>Båt</frivio:body_type_label>
-      <fuel_type>NONE</fuel_type>
-      <frivio:region>Halland</frivio:region>
-      <availability>AVAILABLE</availability>
-    </item>
-    <item>
-      <vehicle_id>497</vehicle_id>
-      <g:id>497</g:id>
-      <title>Ryds 438F</title>
-      <description>Ryds 438F från 2018 är en smidig och lättkörd styrpulpet perfekt för både fiske och familjeturer. Den svenska kvalitetsbåten är byggd för nordiska förhållanden och erbjuder stabil gång, enkel hantering och låg driftkostnad. Med sina praktiska ytor och mångsidighet passar den lika bra för lugna dagar på sjön som aktiva utflykter. En perfekt instegsbåt för dig som vill ha ett bekymmersfritt båtliv. Årsmodell: 2018 · Typ: Båt · Ort: Varberg</description>
-      <url>https://frivio.se/auktion/497</url>
-      <g:link>https://frivio.se/auktion/497</g:link>
-      <image>
-        <url>https://backend.frivio.se/vehicle/497/a1777538106064.jpeg</url>
-        <tag>Exterior</tag>
-      </image>
-      <g:image_link>https://backend.frivio.se/vehicle/497/a1777538106064.jpeg</g:image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/497/b1777538105913.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/497/c1777538105722.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/497/d1777538106335.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/497/e1777538106468.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/497/f1777538106597.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/497/g1777538106208.jpeg</g:additional_image_link>
-      <make>Ryds</make>
-      <model>Ryds 438F</model>
-      <year>2018</year>
-      <mileage>
-        <value>0</value>
-        <unit>KM</unit>
-      </mileage>
-      <price>34500 SEK</price>
-      <g:price>34500 SEK</g:price>
-      <address>Varberg</address>
-      <address format="simple">
-        <component name="addr1">Varberg</component>
-        <component name="city">Varberg</component>
-        <component name="region">Halland</component>
-        <component name="country">SE</component>
-      </address>
-      <condition>EXCELLENT</condition>
-      <state_of_vehicle>NEW</state_of_vehicle>
-      <frivio:listing_type>auction</frivio:listing_type>
-      <frivio:auction_end_date>2026-05-12T18:30:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>34500 SEK</frivio:current_bid>
-      <frivio:bid_count>0</frivio:bid_count>
-      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
-      <frivio:monthly_cost>546 kr/mån</frivio:monthly_cost>
-      <body_style>OTHER</body_style>
-      <frivio:body_type_label>Båt</frivio:body_type_label>
-      <fuel_type>NONE</fuel_type>
-      <frivio:region>Halland</frivio:region>
-      <availability>AVAILABLE</availability>
-    </item>
+    <lastBuildDate>Tue, 12 May 2026 20:44:49 GMT</lastBuildDate>
     <item>
       <vehicle_id>455</vehicle_id>
       <g:id>455</g:id>
@@ -186,8 +88,8 @@
         <value>0</value>
         <unit>KM</unit>
       </mileage>
-      <price>135000 SEK</price>
-      <g:price>135000 SEK</g:price>
+      <price>140000 SEK</price>
+      <g:price>140000 SEK</g:price>
       <address>Kalmar</address>
       <address format="simple">
         <component name="addr1">Kalmar</component>
@@ -200,10 +102,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-05-13T14:46:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>135000 SEK</frivio:current_bid>
-      <frivio:bid_count>3</frivio:bid_count>
+      <frivio:current_bid>140000 SEK</frivio:current_bid>
+      <frivio:bid_count>4</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>2136 kr/mån</frivio:monthly_cost>
+      <frivio:monthly_cost>2215 kr/mån</frivio:monthly_cost>
       <body_style>OTHER</body_style>
       <frivio:body_type_label>Husvagn</frivio:body_type_label>
       <fuel_type>NONE</fuel_type>
