@@ -4,7 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Tue, 12 May 2026 09:46:31 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 11:16:10 GMT</lastBuildDate>
     <item>
       <vehicle_id>478</vehicle_id>
       <g:id>478</g:id>
@@ -37,7 +37,7 @@
       <price>170000 SEK</price>
       <g:price>170000 SEK</g:price>
       <address>Mörbylånga</address>
-      <condition>used</condition>
+      <condition>GOOD</condition>
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-05-12T14:30:00.000Z</frivio:auction_end_date>
@@ -46,9 +46,11 @@
       <frivio:bid_count>2</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
       <frivio:monthly_cost>2690 kr/mån</frivio:monthly_cost>
-      <body_style>Caravan</body_style>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Husvagn</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
       <frivio:region>Kalmar</frivio:region>
-      <availability>in stock</availability>
+      <availability>AVAILABLE</availability>
     </item>
     <item>
       <vehicle_id>480</vehicle_id>
@@ -72,6 +74,7 @@
       <g:additional_image_link>https://backend.frivio.se/vehicle/480/i1777023504933.jpeg</g:additional_image_link>
       <g:additional_image_link>https://backend.frivio.se/vehicle/480/j1777023504808.jpeg</g:additional_image_link>
       <g:additional_image_link>https://backend.frivio.se/vehicle/480/k1777023505097.jpeg</g:additional_image_link>
+      <make>Aquador</make>
       <model>Aquador 25 DC</model>
       <year>2019</year>
       <mileage>
@@ -81,7 +84,7 @@
       <price>685000 SEK</price>
       <g:price>685000 SEK</g:price>
       <address>Tranås</address>
-      <condition>used</condition>
+      <condition>GOOD</condition>
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-05-12T14:36:00.000Z</frivio:auction_end_date>
@@ -90,9 +93,11 @@
       <frivio:bid_count>6</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
       <frivio:monthly_cost>10838 kr/mån</frivio:monthly_cost>
-      <body_style>Boat</body_style>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Båt</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
       <frivio:region>Jönköping</frivio:region>
-      <availability>in stock</availability>
+      <availability>AVAILABLE</availability>
     </item>
     <item>
       <vehicle_id>492</vehicle_id>
@@ -108,6 +113,7 @@
       <g:image_link>https://backend.frivio.se/vehicle/492/a1777537245396.jpeg</g:image_link>
       <g:additional_image_link>https://backend.frivio.se/vehicle/492/b1777537245178.jpeg</g:additional_image_link>
       <g:additional_image_link>https://backend.frivio.se/vehicle/492/c1777537245559.jpeg</g:additional_image_link>
+      <make>Cremo</make>
       <model>Cremo 515SC</model>
       <year>2024</year>
       <mileage>
@@ -117,7 +123,7 @@
       <price>47500 SEK</price>
       <g:price>47500 SEK</g:price>
       <address>Varberg</address>
-      <condition>new</condition>
+      <condition>EXCELLENT</condition>
       <state_of_vehicle>NEW</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-05-12T14:39:00.000Z</frivio:auction_end_date>
@@ -126,9 +132,11 @@
       <frivio:bid_count>0</frivio:bid_count>
       <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
       <frivio:monthly_cost>752 kr/mån</frivio:monthly_cost>
-      <body_style>Boat</body_style>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Båt</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
       <frivio:region>Halland</frivio:region>
-      <availability>in stock</availability>
+      <availability>AVAILABLE</availability>
     </item>
     <item>
       <vehicle_id>489</vehicle_id>
@@ -145,6 +153,7 @@
       <g:additional_image_link>https://backend.frivio.se/vehicle/489/b1777536478281.jpeg</g:additional_image_link>
       <g:additional_image_link>https://backend.frivio.se/vehicle/489/c1777536478461.jpeg</g:additional_image_link>
       <g:additional_image_link>https://backend.frivio.se/vehicle/489/d1777536478629.jpeg</g:additional_image_link>
+      <make>Cremo</make>
       <model>Cremo 465R</model>
       <year>2024</year>
       <mileage>
@@ -154,7 +163,7 @@
       <price>29500 SEK</price>
       <g:price>29500 SEK</g:price>
       <address>Varberg</address>
-      <condition>new</condition>
+      <condition>EXCELLENT</condition>
       <state_of_vehicle>NEW</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-05-12T14:55:00.000Z</frivio:auction_end_date>
@@ -163,9 +172,11 @@
       <frivio:bid_count>0</frivio:bid_count>
       <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
       <frivio:monthly_cost>467 kr/mån</frivio:monthly_cost>
-      <body_style>Boat</body_style>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Båt</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
       <frivio:region>Halland</frivio:region>
-      <availability>in stock</availability>
+      <availability>AVAILABLE</availability>
     </item>
     <item>
       <vehicle_id>495</vehicle_id>
@@ -183,6 +194,7 @@
       <g:additional_image_link>https://backend.frivio.se/vehicle/495/c1777537837877.jpeg</g:additional_image_link>
       <g:additional_image_link>https://backend.frivio.se/vehicle/495/d1777537838005.jpeg</g:additional_image_link>
       <g:additional_image_link>https://backend.frivio.se/vehicle/495/e1777537837740.jpeg</g:additional_image_link>
+      <make>Cremo</make>
       <model>Cremo 560SC</model>
       <year>2023</year>
       <mileage>
@@ -192,7 +204,7 @@
       <price>70000 SEK</price>
       <g:price>70000 SEK</g:price>
       <address>Varberg</address>
-      <condition>new</condition>
+      <condition>EXCELLENT</condition>
       <state_of_vehicle>NEW</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-05-12T15:29:00.000Z</frivio:auction_end_date>
@@ -201,9 +213,11 @@
       <frivio:bid_count>1</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
       <frivio:monthly_cost>1108 kr/mån</frivio:monthly_cost>
-      <body_style>Boat</body_style>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Båt</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
       <frivio:region>Halland</frivio:region>
-      <availability>in stock</availability>
+      <availability>AVAILABLE</availability>
     </item>
     <item>
       <vehicle_id>491</vehicle_id>
@@ -222,6 +236,7 @@
       <g:additional_image_link>https://backend.frivio.se/vehicle/491/d1777537009799.jpeg</g:additional_image_link>
       <g:additional_image_link>https://backend.frivio.se/vehicle/491/e1777537009383.jpeg</g:additional_image_link>
       <g:additional_image_link>https://backend.frivio.se/vehicle/491/f1777537009660.jpeg</g:additional_image_link>
+      <make>Cremo</make>
       <model>Cremo 490SC</model>
       <year>2022</year>
       <mileage>
@@ -231,7 +246,7 @@
       <price>34500 SEK</price>
       <g:price>34500 SEK</g:price>
       <address>Varberg</address>
-      <condition>new</condition>
+      <condition>EXCELLENT</condition>
       <state_of_vehicle>NEW</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-05-12T17:13:00.000Z</frivio:auction_end_date>
@@ -240,9 +255,11 @@
       <frivio:bid_count>0</frivio:bid_count>
       <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
       <frivio:monthly_cost>546 kr/mån</frivio:monthly_cost>
-      <body_style>Boat</body_style>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Båt</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
       <frivio:region>Halland</frivio:region>
-      <availability>in stock</availability>
+      <availability>AVAILABLE</availability>
     </item>
     <item>
       <vehicle_id>493</vehicle_id>
@@ -260,6 +277,7 @@
       <g:additional_image_link>https://backend.frivio.se/vehicle/493/c1777537513118.jpeg</g:additional_image_link>
       <g:additional_image_link>https://backend.frivio.se/vehicle/493/d1777537513266.jpeg</g:additional_image_link>
       <g:additional_image_link>https://backend.frivio.se/vehicle/493/e1777537513413.jpeg</g:additional_image_link>
+      <make>Cremo</make>
       <model>Cremo 550SC med motor</model>
       <year>2023</year>
       <mileage>
@@ -269,7 +287,7 @@
       <price>85000 SEK</price>
       <g:price>85000 SEK</g:price>
       <address>Varberg</address>
-      <condition>new</condition>
+      <condition>EXCELLENT</condition>
       <state_of_vehicle>NEW</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-05-12T17:25:00.000Z</frivio:auction_end_date>
@@ -278,9 +296,11 @@
       <frivio:bid_count>1</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
       <frivio:monthly_cost>1345 kr/mån</frivio:monthly_cost>
-      <body_style>Boat</body_style>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Båt</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
       <frivio:region>Halland</frivio:region>
-      <availability>in stock</availability>
+      <availability>AVAILABLE</availability>
     </item>
     <item>
       <vehicle_id>494</vehicle_id>
@@ -296,6 +316,7 @@
       <g:image_link>https://backend.frivio.se/vehicle/494/a1777537688582.jpeg</g:image_link>
       <g:additional_image_link>https://backend.frivio.se/vehicle/494/b1777537688876.jpeg</g:additional_image_link>
       <g:additional_image_link>https://backend.frivio.se/vehicle/494/c1777537688745.jpeg</g:additional_image_link>
+      <make>Cremo</make>
       <model>Cremo 550F med motor</model>
       <year>2026</year>
       <mileage>
@@ -305,7 +326,7 @@
       <price>100000 SEK</price>
       <g:price>100000 SEK</g:price>
       <address>Varberg</address>
-      <condition>new</condition>
+      <condition>EXCELLENT</condition>
       <state_of_vehicle>NEW</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-05-12T17:26:00.000Z</frivio:auction_end_date>
@@ -314,9 +335,11 @@
       <frivio:bid_count>2</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
       <frivio:monthly_cost>1582 kr/mån</frivio:monthly_cost>
-      <body_style>Boat</body_style>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Båt</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
       <frivio:region>Halland</frivio:region>
-      <availability>in stock</availability>
+      <availability>AVAILABLE</availability>
     </item>
     <item>
       <vehicle_id>496</vehicle_id>
@@ -335,6 +358,7 @@
       <g:additional_image_link>https://backend.frivio.se/vehicle/496/d1777538000428.jpeg</g:additional_image_link>
       <g:additional_image_link>https://backend.frivio.se/vehicle/496/e1777538000727.jpeg</g:additional_image_link>
       <g:additional_image_link>https://backend.frivio.se/vehicle/496/f1777538000575.jpeg</g:additional_image_link>
+      <make>Cremo</make>
       <model>Cremo 381CC</model>
       <year>2023</year>
       <mileage>
@@ -344,7 +368,7 @@
       <price>50000 SEK</price>
       <g:price>50000 SEK</g:price>
       <address>Varberg</address>
-      <condition>new</condition>
+      <condition>EXCELLENT</condition>
       <state_of_vehicle>NEW</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-05-12T17:31:00.000Z</frivio:auction_end_date>
@@ -353,9 +377,11 @@
       <frivio:bid_count>1</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
       <frivio:monthly_cost>791 kr/mån</frivio:monthly_cost>
-      <body_style>Boat</body_style>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Båt</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
       <frivio:region>Halland</frivio:region>
-      <availability>in stock</availability>
+      <availability>AVAILABLE</availability>
     </item>
     <item>
       <vehicle_id>488</vehicle_id>
@@ -373,6 +399,7 @@
       <g:additional_image_link>https://backend.frivio.se/vehicle/488/c1777535779154.jpeg</g:additional_image_link>
       <g:additional_image_link>https://backend.frivio.se/vehicle/488/d1777535779292.jpeg</g:additional_image_link>
       <g:additional_image_link>https://backend.frivio.se/vehicle/488/e1777535778870.jpeg</g:additional_image_link>
+      <make>Cremo</make>
       <model>Cremo 410SC med motor</model>
       <year>2024</year>
       <mileage>
@@ -382,7 +409,7 @@
       <price>44000 SEK</price>
       <g:price>44000 SEK</g:price>
       <address>Varberg</address>
-      <condition>new</condition>
+      <condition>EXCELLENT</condition>
       <state_of_vehicle>NEW</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-05-12T17:55:00.000Z</frivio:auction_end_date>
@@ -391,9 +418,11 @@
       <frivio:bid_count>1</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
       <frivio:monthly_cost>696 kr/mån</frivio:monthly_cost>
-      <body_style>Boat</body_style>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Båt</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
       <frivio:region>Halland</frivio:region>
-      <availability>in stock</availability>
+      <availability>AVAILABLE</availability>
     </item>
     <item>
       <vehicle_id>490</vehicle_id>
@@ -413,6 +442,7 @@
       <g:additional_image_link>https://backend.frivio.se/vehicle/490/e1777536691942.jpeg</g:additional_image_link>
       <g:additional_image_link>https://backend.frivio.se/vehicle/490/f1777536692727.jpeg</g:additional_image_link>
       <g:additional_image_link>https://backend.frivio.se/vehicle/490/g1777536692853.jpeg</g:additional_image_link>
+      <make>Cremo</make>
       <model>Cremo 470R med motor</model>
       <year>2025</year>
       <mileage>
@@ -422,7 +452,7 @@
       <price>60000 SEK</price>
       <g:price>60000 SEK</g:price>
       <address>Varberg</address>
-      <condition>new</condition>
+      <condition>EXCELLENT</condition>
       <state_of_vehicle>NEW</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-05-12T18:08:00.000Z</frivio:auction_end_date>
@@ -431,9 +461,11 @@
       <frivio:bid_count>1</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
       <frivio:monthly_cost>949 kr/mån</frivio:monthly_cost>
-      <body_style>Boat</body_style>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Båt</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
       <frivio:region>Halland</frivio:region>
-      <availability>in stock</availability>
+      <availability>AVAILABLE</availability>
     </item>
     <item>
       <vehicle_id>497</vehicle_id>
@@ -453,6 +485,7 @@
       <g:additional_image_link>https://backend.frivio.se/vehicle/497/e1777538106468.jpeg</g:additional_image_link>
       <g:additional_image_link>https://backend.frivio.se/vehicle/497/f1777538106597.jpeg</g:additional_image_link>
       <g:additional_image_link>https://backend.frivio.se/vehicle/497/g1777538106208.jpeg</g:additional_image_link>
+      <make>Ryds</make>
       <model>Ryds 438F</model>
       <year>2018</year>
       <mileage>
@@ -462,7 +495,7 @@
       <price>34500 SEK</price>
       <g:price>34500 SEK</g:price>
       <address>Varberg</address>
-      <condition>new</condition>
+      <condition>EXCELLENT</condition>
       <state_of_vehicle>NEW</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-05-12T18:30:00.000Z</frivio:auction_end_date>
@@ -471,9 +504,11 @@
       <frivio:bid_count>0</frivio:bid_count>
       <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
       <frivio:monthly_cost>546 kr/mån</frivio:monthly_cost>
-      <body_style>Boat</body_style>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Båt</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
       <frivio:region>Halland</frivio:region>
-      <availability>in stock</availability>
+      <availability>AVAILABLE</availability>
     </item>
     <item>
       <vehicle_id>455</vehicle_id>
@@ -507,7 +542,7 @@
       <price>430000 SEK</price>
       <g:price>430000 SEK</g:price>
       <address>Härnösand</address>
-      <condition>used</condition>
+      <condition>GOOD</condition>
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-05-13T14:31:00.000Z</frivio:auction_end_date>
@@ -516,10 +551,11 @@
       <frivio:bid_count>6</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
       <frivio:monthly_cost>6804 kr/mån</frivio:monthly_cost>
-      <body_style>Motorhome</body_style>
-      <fuel_type>Diesel</fuel_type>
+      <body_style>VAN</body_style>
+      <frivio:body_type_label>Husbil</frivio:body_type_label>
+      <fuel_type>DIESEL</fuel_type>
       <frivio:region>Västernorrland</frivio:region>
-      <availability>in stock</availability>
+      <availability>AVAILABLE</availability>
     </item>
     <item>
       <vehicle_id>484</vehicle_id>
@@ -553,7 +589,7 @@
       <price>135000 SEK</price>
       <g:price>135000 SEK</g:price>
       <address>Kalmar</address>
-      <condition>used</condition>
+      <condition>GOOD</condition>
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-05-13T14:46:00.000Z</frivio:auction_end_date>
@@ -562,9 +598,11 @@
       <frivio:bid_count>3</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
       <frivio:monthly_cost>2136 kr/mån</frivio:monthly_cost>
-      <body_style>Caravan</body_style>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Husvagn</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
       <frivio:region>Kalmar</frivio:region>
-      <availability>in stock</availability>
+      <availability>AVAILABLE</availability>
     </item>
     <item>
       <vehicle_id>485</vehicle_id>
@@ -588,6 +626,7 @@
       <g:additional_image_link>https://backend.frivio.se/vehicle/485/i1777530043874.jpeg</g:additional_image_link>
       <g:additional_image_link>https://backend.frivio.se/vehicle/485/j1777530043998.jpeg</g:additional_image_link>
       <g:additional_image_link>https://backend.frivio.se/vehicle/485/k1777530044141.jpeg</g:additional_image_link>
+      <make>Örnvik</make>
       <model>Örnvik</model>
       <year>1977</year>
       <mileage>
@@ -597,7 +636,7 @@
       <price>30000 SEK</price>
       <g:price>30000 SEK</g:price>
       <address>Kävlinge</address>
-      <condition>used</condition>
+      <condition>GOOD</condition>
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-05-14T15:16:00.000Z</frivio:auction_end_date>
@@ -606,9 +645,11 @@
       <frivio:bid_count>0</frivio:bid_count>
       <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
       <frivio:monthly_cost>475 kr/mån</frivio:monthly_cost>
-      <body_style>Boat</body_style>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Båt</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
       <frivio:region>Skåne</frivio:region>
-      <availability>in stock</availability>
+      <availability>AVAILABLE</availability>
     </item>
     <item>
       <vehicle_id>517</vehicle_id>
@@ -642,7 +683,7 @@
       <price>150000 SEK</price>
       <g:price>150000 SEK</g:price>
       <address>Norrtälje</address>
-      <condition>used</condition>
+      <condition>GOOD</condition>
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-05-14T18:17:00.000Z</frivio:auction_end_date>
@@ -651,9 +692,11 @@
       <frivio:bid_count>1</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
       <frivio:monthly_cost>2373 kr/mån</frivio:monthly_cost>
-      <body_style>Caravan</body_style>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Husvagn</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
       <frivio:region>Stockholm</frivio:region>
-      <availability>in stock</availability>
+      <availability>AVAILABLE</availability>
     </item>
     <item>
       <vehicle_id>503</vehicle_id>
@@ -677,6 +720,7 @@
       <g:additional_image_link>https://backend.frivio.se/vehicle/503/j1777558317848.jpeg</g:additional_image_link>
       <g:additional_image_link>https://backend.frivio.se/vehicle/503/k1777558317973.jpeg</g:additional_image_link>
       <g:additional_image_link>https://backend.frivio.se/vehicle/503/l1777558318122.jpeg</g:additional_image_link>
+      <make>Bayliner</make>
       <model>Bayliner 2855 Sierra Sunbridge</model>
       <year>1988</year>
       <mileage>
@@ -686,7 +730,7 @@
       <price>130000 SEK</price>
       <g:price>130000 SEK</g:price>
       <address>Uddevalla</address>
-      <condition>used</condition>
+      <condition>GOOD</condition>
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-05-15T14:54:00.000Z</frivio:auction_end_date>
@@ -695,9 +739,11 @@
       <frivio:bid_count>0</frivio:bid_count>
       <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
       <frivio:monthly_cost>2057 kr/mån</frivio:monthly_cost>
-      <body_style>Boat</body_style>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Båt</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
       <frivio:region>Västra Götaland</frivio:region>
-      <availability>in stock</availability>
+      <availability>AVAILABLE</availability>
     </item>
     <item>
       <vehicle_id>519</vehicle_id>
@@ -721,6 +767,7 @@
       <g:additional_image_link>https://backend.frivio.se/vehicle/519/i1778165125207.jpeg</g:additional_image_link>
       <g:additional_image_link>https://backend.frivio.se/vehicle/519/j1778165124975.jpeg</g:additional_image_link>
       <g:additional_image_link>https://backend.frivio.se/vehicle/519/k1778165123896.jpeg</g:additional_image_link>
+      <make>Royal</make>
       <model>Royal Regal 250XL</model>
       <year>1989</year>
       <mileage>
@@ -730,7 +777,7 @@
       <price>80000 SEK</price>
       <g:price>80000 SEK</g:price>
       <address>Södertälje</address>
-      <condition>used</condition>
+      <condition>GOOD</condition>
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-05-18T14:42:00.000Z</frivio:auction_end_date>
@@ -739,9 +786,11 @@
       <frivio:bid_count>0</frivio:bid_count>
       <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
       <frivio:monthly_cost>1266 kr/mån</frivio:monthly_cost>
-      <body_style>Boat</body_style>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Båt</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
       <frivio:region>Stockholm</frivio:region>
-      <availability>in stock</availability>
+      <availability>AVAILABLE</availability>
     </item>
     <item>
       <vehicle_id>506</vehicle_id>
@@ -775,7 +824,7 @@
       <price>695000 SEK</price>
       <g:price>695000 SEK</g:price>
       <address>Kungsbacka</address>
-      <condition>used</condition>
+      <condition>GOOD</condition>
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-05-18T15:01:00.000Z</frivio:auction_end_date>
@@ -784,10 +833,11 @@
       <frivio:bid_count>5</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
       <frivio:monthly_cost>10996 kr/mån</frivio:monthly_cost>
-      <body_style>Motorhome</body_style>
-      <fuel_type>Diesel</fuel_type>
+      <body_style>VAN</body_style>
+      <frivio:body_type_label>Husbil</frivio:body_type_label>
+      <fuel_type>DIESEL</fuel_type>
       <frivio:region>Halland</frivio:region>
-      <availability>in stock</availability>
+      <availability>AVAILABLE</availability>
     </item>
     <item>
       <vehicle_id>482</vehicle_id>
@@ -821,7 +871,7 @@
       <price>80000 SEK</price>
       <g:price>80000 SEK</g:price>
       <address>Kalmar</address>
-      <condition>used</condition>
+      <condition>GOOD</condition>
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-05-18T15:37:00.000Z</frivio:auction_end_date>
@@ -830,9 +880,11 @@
       <frivio:bid_count>6</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
       <frivio:monthly_cost>1266 kr/mån</frivio:monthly_cost>
-      <body_style>Caravan</body_style>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Husvagn</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
       <frivio:region>Kalmar</frivio:region>
-      <availability>in stock</availability>
+      <availability>AVAILABLE</availability>
     </item>
     <item>
       <vehicle_id>486</vehicle_id>
@@ -853,6 +905,7 @@
       <g:additional_image_link>https://backend.frivio.se/vehicle/486/f1778239121566.jpeg</g:additional_image_link>
       <g:additional_image_link>https://backend.frivio.se/vehicle/486/g1778239121319.jpeg</g:additional_image_link>
       <g:additional_image_link>https://backend.frivio.se/vehicle/486/h1778239121671.jpeg</g:additional_image_link>
+      <make>Swemax</make>
       <model>Swemax 690</model>
       <year>1982</year>
       <mileage>
@@ -862,7 +915,7 @@
       <price>32500 SEK</price>
       <g:price>32500 SEK</g:price>
       <address>Sala</address>
-      <condition>used</condition>
+      <condition>GOOD</condition>
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-05-18T16:28:00.000Z</frivio:auction_end_date>
@@ -871,9 +924,11 @@
       <frivio:bid_count>0</frivio:bid_count>
       <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
       <frivio:monthly_cost>514 kr/mån</frivio:monthly_cost>
-      <body_style>Boat</body_style>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Båt</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
       <frivio:region>Västmanland</frivio:region>
-      <availability>in stock</availability>
+      <availability>AVAILABLE</availability>
     </item>
     <item>
       <vehicle_id>505</vehicle_id>
@@ -907,7 +962,7 @@
       <price>80000 SEK</price>
       <g:price>80000 SEK</g:price>
       <address>Mönsterås</address>
-      <condition>used</condition>
+      <condition>GOOD</condition>
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-05-18T17:56:00.000Z</frivio:auction_end_date>
@@ -916,9 +971,11 @@
       <frivio:bid_count>2</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
       <frivio:monthly_cost>1266 kr/mån</frivio:monthly_cost>
-      <body_style>Caravan</body_style>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Husvagn</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
       <frivio:region>Kalmar</frivio:region>
-      <availability>in stock</availability>
+      <availability>AVAILABLE</availability>
     </item>
     <item>
       <vehicle_id>483</vehicle_id>
@@ -937,6 +994,7 @@
       <g:additional_image_link>https://backend.frivio.se/vehicle/483/e1778055448872.jpeg</g:additional_image_link>
       <g:additional_image_link>https://backend.frivio.se/vehicle/483/f1778055448983.jpeg</g:additional_image_link>
       <g:additional_image_link>https://backend.frivio.se/vehicle/483/g1778055449116.jpeg</g:additional_image_link>
+      <make>AMT</make>
       <model>AMT 200 DC</model>
       <year>2018</year>
       <mileage>
@@ -946,7 +1004,7 @@
       <price>201000 SEK</price>
       <g:price>201000 SEK</g:price>
       <address>Södertälje</address>
-      <condition>used</condition>
+      <condition>GOOD</condition>
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-05-19T14:47:00.000Z</frivio:auction_end_date>
@@ -955,9 +1013,11 @@
       <frivio:bid_count>1</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
       <frivio:monthly_cost>3180 kr/mån</frivio:monthly_cost>
-      <body_style>Boat</body_style>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Båt</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
       <frivio:region>Stockholm</frivio:region>
-      <availability>in stock</availability>
+      <availability>AVAILABLE</availability>
     </item>
     <item>
       <vehicle_id>487</vehicle_id>
@@ -978,6 +1038,7 @@
       <g:additional_image_link>https://backend.frivio.se/vehicle/487/f1777533048630.jpeg</g:additional_image_link>
       <g:additional_image_link>https://backend.frivio.se/vehicle/487/g1777533048020.jpeg</g:additional_image_link>
       <g:additional_image_link>https://backend.frivio.se/vehicle/487/h1777533048493.jpeg</g:additional_image_link>
+      <make>Bayliner</make>
       <model>Bayliner 602</model>
       <year>2002</year>
       <mileage>
@@ -987,7 +1048,7 @@
       <price>50000 SEK</price>
       <g:price>50000 SEK</g:price>
       <address>Eskilstuna</address>
-      <condition>used</condition>
+      <condition>GOOD</condition>
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-05-19T15:43:00.000Z</frivio:auction_end_date>
@@ -996,9 +1057,11 @@
       <frivio:bid_count>0</frivio:bid_count>
       <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
       <frivio:monthly_cost>791 kr/mån</frivio:monthly_cost>
-      <body_style>Boat</body_style>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Båt</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
       <frivio:region>Södermanland</frivio:region>
-      <availability>in stock</availability>
+      <availability>AVAILABLE</availability>
     </item>
     <item>
       <vehicle_id>508</vehicle_id>
@@ -1031,7 +1094,7 @@
       <price>90000 SEK</price>
       <g:price>90000 SEK</g:price>
       <address>Borås</address>
-      <condition>used</condition>
+      <condition>GOOD</condition>
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-05-20T14:52:00.000Z</frivio:auction_end_date>
@@ -1040,9 +1103,11 @@
       <frivio:bid_count>3</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
       <frivio:monthly_cost>1424 kr/mån</frivio:monthly_cost>
-      <body_style>Caravan</body_style>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Husvagn</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
       <frivio:region>Västra Götaland</frivio:region>
-      <availability>in stock</availability>
+      <availability>AVAILABLE</availability>
     </item>
     <item>
       <vehicle_id>500</vehicle_id>
@@ -1076,7 +1141,7 @@
       <price>60000 SEK</price>
       <g:price>60000 SEK</g:price>
       <address>Härnösand</address>
-      <condition>used</condition>
+      <condition>GOOD</condition>
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-05-20T14:57:00.000Z</frivio:auction_end_date>
@@ -1085,9 +1150,11 @@
       <frivio:bid_count>6</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
       <frivio:monthly_cost>949 kr/mån</frivio:monthly_cost>
-      <body_style>Caravan</body_style>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Husvagn</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
       <frivio:region>Västernorrland</frivio:region>
-      <availability>in stock</availability>
+      <availability>AVAILABLE</availability>
     </item>
     <item>
       <vehicle_id>498</vehicle_id>
@@ -1118,7 +1185,7 @@
       <price>280000 SEK</price>
       <g:price>280000 SEK</g:price>
       <address>Oskarshamn</address>
-      <condition>used</condition>
+      <condition>GOOD</condition>
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-05-20T15:25:00.000Z</frivio:auction_end_date>
@@ -1127,9 +1194,11 @@
       <frivio:bid_count>2</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
       <frivio:monthly_cost>4430 kr/mån</frivio:monthly_cost>
-      <body_style>Caravan</body_style>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Husvagn</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
       <frivio:region>Kalmar</frivio:region>
-      <availability>in stock</availability>
+      <availability>AVAILABLE</availability>
     </item>
     <item>
       <vehicle_id>479</vehicle_id>
@@ -1163,7 +1232,7 @@
       <price>75000 SEK</price>
       <g:price>75000 SEK</g:price>
       <address>Oskarshamn</address>
-      <condition>used</condition>
+      <condition>GOOD</condition>
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-05-20T15:30:00.000Z</frivio:auction_end_date>
@@ -1172,9 +1241,11 @@
       <frivio:bid_count>3</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
       <frivio:monthly_cost>1187 kr/mån</frivio:monthly_cost>
-      <body_style>Caravan</body_style>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Husvagn</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
       <frivio:region>Kalmar</frivio:region>
-      <availability>in stock</availability>
+      <availability>AVAILABLE</availability>
     </item>
     <item>
       <vehicle_id>501</vehicle_id>
@@ -1208,7 +1279,7 @@
       <price>75000 SEK</price>
       <g:price>75000 SEK</g:price>
       <address>Vetlanda</address>
-      <condition>used</condition>
+      <condition>GOOD</condition>
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-05-20T15:32:00.000Z</frivio:auction_end_date>
@@ -1217,9 +1288,11 @@
       <frivio:bid_count>0</frivio:bid_count>
       <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
       <frivio:monthly_cost>1187 kr/mån</frivio:monthly_cost>
-      <body_style>Caravan</body_style>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Husvagn</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
       <frivio:region>Jönköping</frivio:region>
-      <availability>in stock</availability>
+      <availability>AVAILABLE</availability>
     </item>
     <item>
       <vehicle_id>513</vehicle_id>
@@ -1238,6 +1311,7 @@
       <g:additional_image_link>https://backend.frivio.se/vehicle/513/d1778056851676.jpeg</g:additional_image_link>
       <g:additional_image_link>https://backend.frivio.se/vehicle/513/e1778056851122.jpeg</g:additional_image_link>
       <g:additional_image_link>https://backend.frivio.se/vehicle/513/f1778056851405.jpeg</g:additional_image_link>
+      <make>Admiral</make>
       <model>Admiral 560 Premium</model>
       <year>2015</year>
       <mileage>
@@ -1247,7 +1321,7 @@
       <price>110000 SEK</price>
       <g:price>110000 SEK</g:price>
       <address>Uppsala</address>
-      <condition>used</condition>
+      <condition>GOOD</condition>
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-05-20T17:38:00.000Z</frivio:auction_end_date>
@@ -1256,9 +1330,11 @@
       <frivio:bid_count>0</frivio:bid_count>
       <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
       <frivio:monthly_cost>1740 kr/mån</frivio:monthly_cost>
-      <body_style>Boat</body_style>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Båt</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
       <frivio:region>Uppsala</frivio:region>
-      <availability>in stock</availability>
+      <availability>AVAILABLE</availability>
     </item>
     <item>
       <vehicle_id>499</vehicle_id>
@@ -1292,7 +1368,7 @@
       <price>350000 SEK</price>
       <g:price>350000 SEK</g:price>
       <address>Jönköping</address>
-      <condition>used</condition>
+      <condition>GOOD</condition>
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-05-20T17:55:00.000Z</frivio:auction_end_date>
@@ -1301,9 +1377,11 @@
       <frivio:bid_count>0</frivio:bid_count>
       <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
       <frivio:monthly_cost>5538 kr/mån</frivio:monthly_cost>
-      <body_style>Caravan</body_style>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Husvagn</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
       <frivio:region>Jönköping</frivio:region>
-      <availability>in stock</availability>
+      <availability>AVAILABLE</availability>
     </item>
     <item>
       <vehicle_id>512</vehicle_id>
@@ -1334,7 +1412,7 @@
       <price>150000 SEK</price>
       <g:price>150000 SEK</g:price>
       <address>Köping</address>
-      <condition>used</condition>
+      <condition>GOOD</condition>
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-05-20T18:24:00.000Z</frivio:auction_end_date>
@@ -1343,9 +1421,11 @@
       <frivio:bid_count>0</frivio:bid_count>
       <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
       <frivio:monthly_cost>2373 kr/mån</frivio:monthly_cost>
-      <body_style>Caravan</body_style>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Husvagn</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
       <frivio:region>Västmanland</frivio:region>
-      <availability>in stock</availability>
+      <availability>AVAILABLE</availability>
     </item>
     <item>
       <vehicle_id>514</vehicle_id>
@@ -1379,7 +1459,7 @@
       <price>220000 SEK</price>
       <g:price>220000 SEK</g:price>
       <address>Värmdö</address>
-      <condition>used</condition>
+      <condition>GOOD</condition>
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-05-21T14:50:00.000Z</frivio:auction_end_date>
@@ -1388,10 +1468,11 @@
       <frivio:bid_count>2</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
       <frivio:monthly_cost>3481 kr/mån</frivio:monthly_cost>
-      <body_style>Motorhome</body_style>
-      <fuel_type>Diesel</fuel_type>
+      <body_style>VAN</body_style>
+      <frivio:body_type_label>Husbil</frivio:body_type_label>
+      <fuel_type>DIESEL</fuel_type>
       <frivio:region>Stockholm</frivio:region>
-      <availability>in stock</availability>
+      <availability>AVAILABLE</availability>
     </item>
     <item>
       <vehicle_id>509</vehicle_id>
@@ -1425,7 +1506,7 @@
       <price>60000 SEK</price>
       <g:price>60000 SEK</g:price>
       <address>Stockholm</address>
-      <condition>used</condition>
+      <condition>GOOD</condition>
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-05-21T16:18:00.000Z</frivio:auction_end_date>
@@ -1434,9 +1515,11 @@
       <frivio:bid_count>4</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
       <frivio:monthly_cost>949 kr/mån</frivio:monthly_cost>
-      <body_style>Caravan</body_style>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Husvagn</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
       <frivio:region>Stockholm</frivio:region>
-      <availability>in stock</availability>
+      <availability>AVAILABLE</availability>
     </item>
     <item>
       <vehicle_id>458</vehicle_id>
@@ -1470,7 +1553,7 @@
       <price>89000 SEK</price>
       <g:price>89000 SEK</g:price>
       <address>Alvesta</address>
-      <condition>used</condition>
+      <condition>GOOD</condition>
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>fixed_price</frivio:listing_type>
       <frivio:auction_end_date>2026-05-21T17:09:00.000Z</frivio:auction_end_date>
@@ -1478,9 +1561,11 @@
       <frivio:bid_count>0</frivio:bid_count>
       <frivio:reserve_price_status>Ej tillämpligt (fast pris)</frivio:reserve_price_status>
       <frivio:monthly_cost>1408 kr/mån</frivio:monthly_cost>
-      <body_style>Caravan</body_style>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Husvagn</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
       <frivio:region>Kronoberg</frivio:region>
-      <availability>in stock</availability>
+      <availability>AVAILABLE</availability>
     </item>
     <item>
       <vehicle_id>515</vehicle_id>
@@ -1499,6 +1584,7 @@
       <g:additional_image_link>https://backend.frivio.se/vehicle/515/d1778074248452.jpeg</g:additional_image_link>
       <g:additional_image_link>https://backend.frivio.se/vehicle/515/e1778074247755.jpeg</g:additional_image_link>
       <g:additional_image_link>https://backend.frivio.se/vehicle/515/f1778074248294.jpeg</g:additional_image_link>
+      <make>Janmor</make>
       <model>Janmor 580</model>
       <year>2005</year>
       <mileage>
@@ -1508,7 +1594,7 @@
       <price>80000 SEK</price>
       <g:price>80000 SEK</g:price>
       <address>Hammarö</address>
-      <condition>used</condition>
+      <condition>GOOD</condition>
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-05-21T18:30:00.000Z</frivio:auction_end_date>
@@ -1517,9 +1603,11 @@
       <frivio:bid_count>0</frivio:bid_count>
       <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
       <frivio:monthly_cost>1266 kr/mån</frivio:monthly_cost>
-      <body_style>Boat</body_style>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Båt</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
       <frivio:region>Värmland</frivio:region>
-      <availability>in stock</availability>
+      <availability>AVAILABLE</availability>
     </item>
     <item>
       <vehicle_id>521</vehicle_id>
@@ -1552,7 +1640,7 @@
       <price>500500 SEK</price>
       <g:price>500500 SEK</g:price>
       <address>Hofors</address>
-      <condition>used</condition>
+      <condition>GOOD</condition>
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-05-24T17:24:00.000Z</frivio:auction_end_date>
@@ -1561,10 +1649,11 @@
       <frivio:bid_count>1</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
       <frivio:monthly_cost>7919 kr/mån</frivio:monthly_cost>
-      <body_style>Motorhome</body_style>
-      <fuel_type>Diesel</fuel_type>
+      <body_style>VAN</body_style>
+      <frivio:body_type_label>Husbil</frivio:body_type_label>
+      <fuel_type>DIESEL</fuel_type>
       <frivio:region>Gävleborg</frivio:region>
-      <availability>in stock</availability>
+      <availability>AVAILABLE</availability>
     </item>
     <item>
       <vehicle_id>504</vehicle_id>
@@ -1598,7 +1687,7 @@
       <price>280000 SEK</price>
       <g:price>280000 SEK</g:price>
       <address>Ronneby</address>
-      <condition>used</condition>
+      <condition>GOOD</condition>
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-05-24T17:36:00.000Z</frivio:auction_end_date>
@@ -1607,10 +1696,11 @@
       <frivio:bid_count>2</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
       <frivio:monthly_cost>4430 kr/mån</frivio:monthly_cost>
-      <body_style>Motorhome</body_style>
-      <fuel_type>Diesel</fuel_type>
+      <body_style>VAN</body_style>
+      <frivio:body_type_label>Husbil</frivio:body_type_label>
+      <fuel_type>DIESEL</fuel_type>
       <frivio:region>Blekinge</frivio:region>
-      <availability>in stock</availability>
+      <availability>AVAILABLE</availability>
     </item>
     <item>
       <vehicle_id>511</vehicle_id>
@@ -1634,6 +1724,7 @@
       <g:additional_image_link>https://backend.frivio.se/vehicle/511/i1778051683131.jpeg</g:additional_image_link>
       <g:additional_image_link>https://backend.frivio.se/vehicle/511/j1778051683021.jpeg</g:additional_image_link>
       <g:additional_image_link>https://backend.frivio.se/vehicle/511/k1778051683253.jpeg</g:additional_image_link>
+      <make>Fareast</make>
       <model>Fareast 28R</model>
       <year>2015</year>
       <mileage>
@@ -1643,7 +1734,7 @@
       <price>150000 SEK</price>
       <g:price>150000 SEK</g:price>
       <address>Uppsala</address>
-      <condition>used</condition>
+      <condition>GOOD</condition>
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-05-25T16:07:00.000Z</frivio:auction_end_date>
@@ -1652,9 +1743,11 @@
       <frivio:bid_count>0</frivio:bid_count>
       <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
       <frivio:monthly_cost>2373 kr/mån</frivio:monthly_cost>
-      <body_style>Boat</body_style>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Båt</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
       <frivio:region>Uppsala</frivio:region>
-      <availability>in stock</availability>
+      <availability>AVAILABLE</availability>
     </item>
     <item>
       <vehicle_id>522</vehicle_id>
@@ -1687,7 +1780,7 @@
       <price>100500 SEK</price>
       <g:price>100500 SEK</g:price>
       <address>Lessebo</address>
-      <condition>used</condition>
+      <condition>GOOD</condition>
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-05-25T17:22:00.000Z</frivio:auction_end_date>
@@ -1696,9 +1789,11 @@
       <frivio:bid_count>1</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
       <frivio:monthly_cost>1590 kr/mån</frivio:monthly_cost>
-      <body_style>Caravan</body_style>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Husvagn</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
       <frivio:region>Kronoberg</frivio:region>
-      <availability>in stock</availability>
+      <availability>AVAILABLE</availability>
     </item>
     <item>
       <vehicle_id>518</vehicle_id>
@@ -1730,7 +1825,7 @@
       <price>165500 SEK</price>
       <g:price>165500 SEK</g:price>
       <address>Ånge</address>
-      <condition>used</condition>
+      <condition>GOOD</condition>
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-05-25T17:40:00.000Z</frivio:auction_end_date>
@@ -1739,10 +1834,11 @@
       <frivio:bid_count>1</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
       <frivio:monthly_cost>2619 kr/mån</frivio:monthly_cost>
-      <body_style>Motorhome</body_style>
-      <fuel_type>Diesel</fuel_type>
+      <body_style>VAN</body_style>
+      <frivio:body_type_label>Husbil</frivio:body_type_label>
+      <fuel_type>DIESEL</fuel_type>
       <frivio:region>Västernorrland</frivio:region>
-      <availability>in stock</availability>
+      <availability>AVAILABLE</availability>
     </item>
     <item>
       <vehicle_id>442</vehicle_id>
@@ -1766,6 +1862,7 @@
       <g:additional_image_link>https://backend.frivio.se/vehicle/442/i1775807532777.jpeg</g:additional_image_link>
       <g:additional_image_link>https://backend.frivio.se/vehicle/442/j1775807532619.jpeg</g:additional_image_link>
       <g:additional_image_link>https://backend.frivio.se/vehicle/442/k1775807533066.jpeg</g:additional_image_link>
+      <make>Motocraft</make>
       <model>Motocraft Fish XL</model>
       <year>2024</year>
       <mileage>
@@ -1775,7 +1872,7 @@
       <price>34950 SEK</price>
       <g:price>34950 SEK</g:price>
       <address>Älmhult</address>
-      <condition>new</condition>
+      <condition>EXCELLENT</condition>
       <state_of_vehicle>NEW</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-05-26T15:42:00.000Z</frivio:auction_end_date>
@@ -1784,9 +1881,11 @@
       <frivio:bid_count>0</frivio:bid_count>
       <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
       <frivio:monthly_cost>553 kr/mån</frivio:monthly_cost>
-      <body_style>Boat</body_style>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Båt</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
       <frivio:region>Kronoberg</frivio:region>
-      <availability>in stock</availability>
+      <availability>AVAILABLE</availability>
     </item>
     <item>
       <vehicle_id>441</vehicle_id>
@@ -1810,6 +1909,7 @@
       <g:additional_image_link>https://backend.frivio.se/vehicle/441/i1775807038343.jpeg</g:additional_image_link>
       <g:additional_image_link>https://backend.frivio.se/vehicle/441/j1775807041007.jpeg</g:additional_image_link>
       <g:additional_image_link>https://backend.frivio.se/vehicle/441/k1775807041515.jpeg</g:additional_image_link>
+      <make>Motocraft</make>
       <model>Motocraft Angler 440</model>
       <year>2024</year>
       <mileage>
@@ -1819,7 +1919,7 @@
       <price>59500 SEK</price>
       <g:price>59500 SEK</g:price>
       <address>Älmhult</address>
-      <condition>new</condition>
+      <condition>EXCELLENT</condition>
       <state_of_vehicle>NEW</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-05-26T15:42:00.000Z</frivio:auction_end_date>
@@ -1828,9 +1928,11 @@
       <frivio:bid_count>0</frivio:bid_count>
       <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
       <frivio:monthly_cost>941 kr/mån</frivio:monthly_cost>
-      <body_style>Boat</body_style>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Båt</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
       <frivio:region>Kronoberg</frivio:region>
-      <availability>in stock</availability>
+      <availability>AVAILABLE</availability>
     </item>
     <item>
       <vehicle_id>523</vehicle_id>
@@ -1854,6 +1956,7 @@
       <g:additional_image_link>https://backend.frivio.se/vehicle/523/j1778483056066.jpeg</g:additional_image_link>
       <g:additional_image_link>https://backend.frivio.se/vehicle/523/k1778483055579.jpeg</g:additional_image_link>
       <g:additional_image_link>https://backend.frivio.se/vehicle/523/l1778483055414.jpeg</g:additional_image_link>
+      <make>Forbina</make>
       <model>Forbina 650F</model>
       <year>1999</year>
       <mileage>
@@ -1863,7 +1966,7 @@
       <price>80000 SEK</price>
       <g:price>80000 SEK</g:price>
       <address>Kungsbacka</address>
-      <condition>used</condition>
+      <condition>GOOD</condition>
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-05-26T18:00:00.000Z</frivio:auction_end_date>
@@ -1872,9 +1975,11 @@
       <frivio:bid_count>0</frivio:bid_count>
       <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
       <frivio:monthly_cost>1266 kr/mån</frivio:monthly_cost>
-      <body_style>Boat</body_style>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Båt</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
       <frivio:region>Halland</frivio:region>
-      <availability>in stock</availability>
+      <availability>AVAILABLE</availability>
     </item>
     <item>
       <vehicle_id>520</vehicle_id>
@@ -1908,7 +2013,7 @@
       <price>269000 SEK</price>
       <g:price>269000 SEK</g:price>
       <address>Mörbylånga</address>
-      <condition>used</condition>
+      <condition>GOOD</condition>
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>fixed_price</frivio:listing_type>
       <frivio:auction_end_date>2026-05-26T18:04:00.000Z</frivio:auction_end_date>
@@ -1916,9 +2021,11 @@
       <frivio:bid_count>0</frivio:bid_count>
       <frivio:reserve_price_status>Ej tillämpligt (fast pris)</frivio:reserve_price_status>
       <frivio:monthly_cost>4256 kr/mån</frivio:monthly_cost>
-      <body_style>Caravan</body_style>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Husvagn</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
       <frivio:region>Kalmar</frivio:region>
-      <availability>in stock</availability>
+      <availability>AVAILABLE</availability>
     </item>
     <item>
       <vehicle_id>524</vehicle_id>
@@ -1952,7 +2059,7 @@
       <price>299500 SEK</price>
       <g:price>299500 SEK</g:price>
       <address>Borlänge</address>
-      <condition>used</condition>
+      <condition>GOOD</condition>
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-05-27T16:38:00.000Z</frivio:auction_end_date>
@@ -1961,10 +2068,11 @@
       <frivio:bid_count>0</frivio:bid_count>
       <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
       <frivio:monthly_cost>4739 kr/mån</frivio:monthly_cost>
-      <body_style>Motorhome</body_style>
-      <fuel_type>Diesel</fuel_type>
+      <body_style>VAN</body_style>
+      <frivio:body_type_label>Husbil</frivio:body_type_label>
+      <fuel_type>DIESEL</fuel_type>
       <frivio:region>Dalarna</frivio:region>
-      <availability>in stock</availability>
+      <availability>AVAILABLE</availability>
     </item>
     <item>
       <vehicle_id>516</vehicle_id>
@@ -1998,7 +2106,7 @@
       <price>189000 SEK</price>
       <g:price>189000 SEK</g:price>
       <address>Mönsterås</address>
-      <condition>used</condition>
+      <condition>GOOD</condition>
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>fixed_price</frivio:listing_type>
       <frivio:auction_end_date>2026-05-31T17:43:00.000Z</frivio:auction_end_date>
@@ -2006,9 +2114,11 @@
       <frivio:bid_count>0</frivio:bid_count>
       <frivio:reserve_price_status>Ej tillämpligt (fast pris)</frivio:reserve_price_status>
       <frivio:monthly_cost>2990 kr/mån</frivio:monthly_cost>
-      <body_style>Caravan</body_style>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Husvagn</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
       <frivio:region>Kalmar</frivio:region>
-      <availability>in stock</availability>
+      <availability>AVAILABLE</availability>
     </item>
   </channel>
 </rss>
