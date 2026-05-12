@@ -247,8 +247,9 @@ function generateCSV(vehicles, details) {
     'vehicle_id', 'title', 'description', 'url', 'image[0].url', 'image[0].tag',
     'make', 'model', 'year',
     'mileage.value', 'mileage.unit',
-    'price', 'address', 'condition',
-    // Structured address (Meta vehicles prefers these over a single address string)
+    'price', 'condition',
+    // Address (Meta requires the structured form; a plain "address" column
+    // containing a city string is rejected as malformed).
     'address.addr1', 'address.city', 'address.region', 'address.country',
     // Auction extensions
     'auction_end_date', 'auction_ends_within_7_days',
@@ -279,14 +280,13 @@ function generateCSV(vehicles, details) {
       escapeCsv(buildDescription(v, detail)),
       escapeCsv(getVehicleUrl(v)),
       escapeCsv(getPrimaryImage(v)),
-      escapeCsv('Exterior'),
+      escapeCsv('["Exterior"]'),
       escapeCsv(getMake(v)),
       escapeCsv(v.title || ''),
       escapeCsv(v.year || ''),
       escapeCsv(mileageKm),
       escapeCsv('KM'),
       escapeCsv(`${price} SEK`),
-      escapeCsv(v.city || ''),
       escapeCsv(mapCondition(v.condition)),
       escapeCsv(v.city || ''),
       escapeCsv(v.city || ''),
