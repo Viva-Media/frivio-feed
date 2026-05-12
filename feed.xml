@@ -4,7 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Tue, 12 May 2026 12:02:55 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 12:19:37 GMT</lastBuildDate>
     <item>
       <vehicle_id>478</vehicle_id>
       <g:id>478</g:id>
@@ -37,6 +37,12 @@
       <price>170000 SEK</price>
       <g:price>170000 SEK</g:price>
       <address>Mörbylånga</address>
+      <address format="simple">
+        <component name="addr1">Mörbylånga</component>
+        <component name="city">Mörbylånga</component>
+        <component name="region">Kalmar</component>
+        <component name="country">SE</component>
+      </address>
       <condition>GOOD</condition>
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
@@ -84,6 +90,12 @@
       <price>685000 SEK</price>
       <g:price>685000 SEK</g:price>
       <address>Tranås</address>
+      <address format="simple">
+        <component name="addr1">Tranås</component>
+        <component name="city">Tranås</component>
+        <component name="region">Jönköping</component>
+        <component name="country">SE</component>
+      </address>
       <condition>GOOD</condition>
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
@@ -123,6 +135,12 @@
       <price>47500 SEK</price>
       <g:price>47500 SEK</g:price>
       <address>Varberg</address>
+      <address format="simple">
+        <component name="addr1">Varberg</component>
+        <component name="city">Varberg</component>
+        <component name="region">Halland</component>
+        <component name="country">SE</component>
+      </address>
       <condition>EXCELLENT</condition>
       <state_of_vehicle>NEW</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
@@ -163,6 +181,12 @@
       <price>29500 SEK</price>
       <g:price>29500 SEK</g:price>
       <address>Varberg</address>
+      <address format="simple">
+        <component name="addr1">Varberg</component>
+        <component name="city">Varberg</component>
+        <component name="region">Halland</component>
+        <component name="country">SE</component>
+      </address>
       <condition>EXCELLENT</condition>
       <state_of_vehicle>NEW</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
@@ -204,6 +228,12 @@
       <price>70000 SEK</price>
       <g:price>70000 SEK</g:price>
       <address>Varberg</address>
+      <address format="simple">
+        <component name="addr1">Varberg</component>
+        <component name="city">Varberg</component>
+        <component name="region">Halland</component>
+        <component name="country">SE</component>
+      </address>
       <condition>EXCELLENT</condition>
       <state_of_vehicle>NEW</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
@@ -246,6 +276,12 @@
       <price>34500 SEK</price>
       <g:price>34500 SEK</g:price>
       <address>Varberg</address>
+      <address format="simple">
+        <component name="addr1">Varberg</component>
+        <component name="city">Varberg</component>
+        <component name="region">Halland</component>
+        <component name="country">SE</component>
+      </address>
       <condition>EXCELLENT</condition>
       <state_of_vehicle>NEW</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
@@ -287,6 +323,12 @@
       <price>85000 SEK</price>
       <g:price>85000 SEK</g:price>
       <address>Varberg</address>
+      <address format="simple">
+        <component name="addr1">Varberg</component>
+        <component name="city">Varberg</component>
+        <component name="region">Halland</component>
+        <component name="country">SE</component>
+      </address>
       <condition>EXCELLENT</condition>
       <state_of_vehicle>NEW</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
@@ -326,6 +368,12 @@
       <price>100000 SEK</price>
       <g:price>100000 SEK</g:price>
       <address>Varberg</address>
+      <address format="simple">
+        <component name="addr1">Varberg</component>
+        <component name="city">Varberg</component>
+        <component name="region">Halland</component>
+        <component name="country">SE</component>
+      </address>
       <condition>EXCELLENT</condition>
       <state_of_vehicle>NEW</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
@@ -368,6 +416,12 @@
       <price>50000 SEK</price>
       <g:price>50000 SEK</g:price>
       <address>Varberg</address>
+      <address format="simple">
+        <component name="addr1">Varberg</component>
+        <component name="city">Varberg</component>
+        <component name="region">Halland</component>
+        <component name="country">SE</component>
+      </address>
       <condition>EXCELLENT</condition>
       <state_of_vehicle>NEW</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
@@ -409,6 +463,12 @@
       <price>44000 SEK</price>
       <g:price>44000 SEK</g:price>
       <address>Varberg</address>
+      <address format="simple">
+        <component name="addr1">Varberg</component>
+        <component name="city">Varberg</component>
+        <component name="region">Halland</component>
+        <component name="country">SE</component>
+      </address>
       <condition>EXCELLENT</condition>
       <state_of_vehicle>NEW</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
@@ -452,6 +512,12 @@
       <price>60000 SEK</price>
       <g:price>60000 SEK</g:price>
       <address>Varberg</address>
+      <address format="simple">
+        <component name="addr1">Varberg</component>
+        <component name="city">Varberg</component>
+        <component name="region">Halland</component>
+        <component name="country">SE</component>
+      </address>
       <condition>EXCELLENT</condition>
       <state_of_vehicle>NEW</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
@@ -495,6 +561,12 @@
       <price>34500 SEK</price>
       <g:price>34500 SEK</g:price>
       <address>Varberg</address>
+      <address format="simple">
+        <component name="addr1">Varberg</component>
+        <component name="city">Varberg</component>
+        <component name="region">Halland</component>
+        <component name="country">SE</component>
+      </address>
       <condition>EXCELLENT</condition>
       <state_of_vehicle>NEW</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
@@ -542,8 +614,15 @@
       <price>430000 SEK</price>
       <g:price>430000 SEK</g:price>
       <address>Härnösand</address>
+      <address format="simple">
+        <component name="addr1">Härnösand</component>
+        <component name="city">Härnösand</component>
+        <component name="region">Västernorrland</component>
+        <component name="country">SE</component>
+      </address>
       <condition>GOOD</condition>
       <state_of_vehicle>USED</state_of_vehicle>
+      <transmission>MANUAL</transmission>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-05-13T14:31:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
@@ -589,6 +668,12 @@
       <price>135000 SEK</price>
       <g:price>135000 SEK</g:price>
       <address>Kalmar</address>
+      <address format="simple">
+        <component name="addr1">Kalmar</component>
+        <component name="city">Kalmar</component>
+        <component name="region">Kalmar</component>
+        <component name="country">SE</component>
+      </address>
       <condition>GOOD</condition>
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
@@ -636,6 +721,12 @@
       <price>30000 SEK</price>
       <g:price>30000 SEK</g:price>
       <address>Kävlinge</address>
+      <address format="simple">
+        <component name="addr1">Kävlinge</component>
+        <component name="city">Kävlinge</component>
+        <component name="region">Skåne</component>
+        <component name="country">SE</component>
+      </address>
       <condition>GOOD</condition>
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
@@ -683,6 +774,12 @@
       <price>150000 SEK</price>
       <g:price>150000 SEK</g:price>
       <address>Norrtälje</address>
+      <address format="simple">
+        <component name="addr1">Norrtälje</component>
+        <component name="city">Norrtälje</component>
+        <component name="region">Stockholm</component>
+        <component name="country">SE</component>
+      </address>
       <condition>GOOD</condition>
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
@@ -730,6 +827,12 @@
       <price>130000 SEK</price>
       <g:price>130000 SEK</g:price>
       <address>Uddevalla</address>
+      <address format="simple">
+        <component name="addr1">Uddevalla</component>
+        <component name="city">Uddevalla</component>
+        <component name="region">Västra Götaland</component>
+        <component name="country">SE</component>
+      </address>
       <condition>GOOD</condition>
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
@@ -777,6 +880,12 @@
       <price>80000 SEK</price>
       <g:price>80000 SEK</g:price>
       <address>Södertälje</address>
+      <address format="simple">
+        <component name="addr1">Södertälje</component>
+        <component name="city">Södertälje</component>
+        <component name="region">Stockholm</component>
+        <component name="country">SE</component>
+      </address>
       <condition>GOOD</condition>
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
@@ -824,8 +933,15 @@
       <price>695000 SEK</price>
       <g:price>695000 SEK</g:price>
       <address>Kungsbacka</address>
+      <address format="simple">
+        <component name="addr1">Kungsbacka</component>
+        <component name="city">Kungsbacka</component>
+        <component name="region">Halland</component>
+        <component name="country">SE</component>
+      </address>
       <condition>GOOD</condition>
       <state_of_vehicle>USED</state_of_vehicle>
+      <transmission>AUTOMATIC</transmission>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-05-18T15:01:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
@@ -871,6 +987,12 @@
       <price>80000 SEK</price>
       <g:price>80000 SEK</g:price>
       <address>Kalmar</address>
+      <address format="simple">
+        <component name="addr1">Kalmar</component>
+        <component name="city">Kalmar</component>
+        <component name="region">Kalmar</component>
+        <component name="country">SE</component>
+      </address>
       <condition>GOOD</condition>
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
@@ -915,6 +1037,12 @@
       <price>32500 SEK</price>
       <g:price>32500 SEK</g:price>
       <address>Sala</address>
+      <address format="simple">
+        <component name="addr1">Sala</component>
+        <component name="city">Sala</component>
+        <component name="region">Västmanland</component>
+        <component name="country">SE</component>
+      </address>
       <condition>GOOD</condition>
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
@@ -962,6 +1090,12 @@
       <price>80000 SEK</price>
       <g:price>80000 SEK</g:price>
       <address>Mönsterås</address>
+      <address format="simple">
+        <component name="addr1">Mönsterås</component>
+        <component name="city">Mönsterås</component>
+        <component name="region">Kalmar</component>
+        <component name="country">SE</component>
+      </address>
       <condition>GOOD</condition>
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
@@ -1004,6 +1138,12 @@
       <price>201000 SEK</price>
       <g:price>201000 SEK</g:price>
       <address>Södertälje</address>
+      <address format="simple">
+        <component name="addr1">Södertälje</component>
+        <component name="city">Södertälje</component>
+        <component name="region">Stockholm</component>
+        <component name="country">SE</component>
+      </address>
       <condition>GOOD</condition>
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
@@ -1048,6 +1188,12 @@
       <price>50000 SEK</price>
       <g:price>50000 SEK</g:price>
       <address>Eskilstuna</address>
+      <address format="simple">
+        <component name="addr1">Eskilstuna</component>
+        <component name="city">Eskilstuna</component>
+        <component name="region">Södermanland</component>
+        <component name="country">SE</component>
+      </address>
       <condition>GOOD</condition>
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
@@ -1094,6 +1240,12 @@
       <price>90000 SEK</price>
       <g:price>90000 SEK</g:price>
       <address>Borås</address>
+      <address format="simple">
+        <component name="addr1">Borås</component>
+        <component name="city">Borås</component>
+        <component name="region">Västra Götaland</component>
+        <component name="country">SE</component>
+      </address>
       <condition>GOOD</condition>
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
@@ -1141,6 +1293,12 @@
       <price>60000 SEK</price>
       <g:price>60000 SEK</g:price>
       <address>Härnösand</address>
+      <address format="simple">
+        <component name="addr1">Härnösand</component>
+        <component name="city">Härnösand</component>
+        <component name="region">Västernorrland</component>
+        <component name="country">SE</component>
+      </address>
       <condition>GOOD</condition>
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
@@ -1185,6 +1343,12 @@
       <price>280000 SEK</price>
       <g:price>280000 SEK</g:price>
       <address>Oskarshamn</address>
+      <address format="simple">
+        <component name="addr1">Oskarshamn</component>
+        <component name="city">Oskarshamn</component>
+        <component name="region">Kalmar</component>
+        <component name="country">SE</component>
+      </address>
       <condition>GOOD</condition>
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
@@ -1232,6 +1396,12 @@
       <price>75000 SEK</price>
       <g:price>75000 SEK</g:price>
       <address>Oskarshamn</address>
+      <address format="simple">
+        <component name="addr1">Oskarshamn</component>
+        <component name="city">Oskarshamn</component>
+        <component name="region">Kalmar</component>
+        <component name="country">SE</component>
+      </address>
       <condition>GOOD</condition>
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
@@ -1279,6 +1449,12 @@
       <price>75000 SEK</price>
       <g:price>75000 SEK</g:price>
       <address>Vetlanda</address>
+      <address format="simple">
+        <component name="addr1">Vetlanda</component>
+        <component name="city">Vetlanda</component>
+        <component name="region">Jönköping</component>
+        <component name="country">SE</component>
+      </address>
       <condition>GOOD</condition>
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
@@ -1321,6 +1497,12 @@
       <price>110000 SEK</price>
       <g:price>110000 SEK</g:price>
       <address>Uppsala</address>
+      <address format="simple">
+        <component name="addr1">Uppsala</component>
+        <component name="city">Uppsala</component>
+        <component name="region">Uppsala</component>
+        <component name="country">SE</component>
+      </address>
       <condition>GOOD</condition>
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
@@ -1368,6 +1550,12 @@
       <price>350000 SEK</price>
       <g:price>350000 SEK</g:price>
       <address>Jönköping</address>
+      <address format="simple">
+        <component name="addr1">Jönköping</component>
+        <component name="city">Jönköping</component>
+        <component name="region">Jönköping</component>
+        <component name="country">SE</component>
+      </address>
       <condition>GOOD</condition>
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
@@ -1412,6 +1600,12 @@
       <price>150000 SEK</price>
       <g:price>150000 SEK</g:price>
       <address>Köping</address>
+      <address format="simple">
+        <component name="addr1">Köping</component>
+        <component name="city">Köping</component>
+        <component name="region">Västmanland</component>
+        <component name="country">SE</component>
+      </address>
       <condition>GOOD</condition>
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
@@ -1459,8 +1653,15 @@
       <price>220000 SEK</price>
       <g:price>220000 SEK</g:price>
       <address>Värmdö</address>
+      <address format="simple">
+        <component name="addr1">Värmdö</component>
+        <component name="city">Värmdö</component>
+        <component name="region">Stockholm</component>
+        <component name="country">SE</component>
+      </address>
       <condition>GOOD</condition>
       <state_of_vehicle>USED</state_of_vehicle>
+      <transmission>MANUAL</transmission>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-05-21T14:50:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
@@ -1506,6 +1707,12 @@
       <price>60000 SEK</price>
       <g:price>60000 SEK</g:price>
       <address>Stockholm</address>
+      <address format="simple">
+        <component name="addr1">Stockholm</component>
+        <component name="city">Stockholm</component>
+        <component name="region">Stockholm</component>
+        <component name="country">SE</component>
+      </address>
       <condition>GOOD</condition>
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
@@ -1553,6 +1760,12 @@
       <price>89000 SEK</price>
       <g:price>89000 SEK</g:price>
       <address>Alvesta</address>
+      <address format="simple">
+        <component name="addr1">Alvesta</component>
+        <component name="city">Alvesta</component>
+        <component name="region">Kronoberg</component>
+        <component name="country">SE</component>
+      </address>
       <condition>GOOD</condition>
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>fixed_price</frivio:listing_type>
@@ -1594,6 +1807,12 @@
       <price>80000 SEK</price>
       <g:price>80000 SEK</g:price>
       <address>Hammarö</address>
+      <address format="simple">
+        <component name="addr1">Hammarö</component>
+        <component name="city">Hammarö</component>
+        <component name="region">Värmland</component>
+        <component name="country">SE</component>
+      </address>
       <condition>GOOD</condition>
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
@@ -1640,8 +1859,15 @@
       <price>500500 SEK</price>
       <g:price>500500 SEK</g:price>
       <address>Hofors</address>
+      <address format="simple">
+        <component name="addr1">Hofors</component>
+        <component name="city">Hofors</component>
+        <component name="region">Gävleborg</component>
+        <component name="country">SE</component>
+      </address>
       <condition>GOOD</condition>
       <state_of_vehicle>USED</state_of_vehicle>
+      <transmission>AUTOMATIC</transmission>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-05-24T17:24:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
@@ -1687,8 +1913,15 @@
       <price>280000 SEK</price>
       <g:price>280000 SEK</g:price>
       <address>Ronneby</address>
+      <address format="simple">
+        <component name="addr1">Ronneby</component>
+        <component name="city">Ronneby</component>
+        <component name="region">Blekinge</component>
+        <component name="country">SE</component>
+      </address>
       <condition>GOOD</condition>
       <state_of_vehicle>USED</state_of_vehicle>
+      <transmission>MANUAL</transmission>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-05-24T17:36:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
@@ -1734,6 +1967,12 @@
       <price>150000 SEK</price>
       <g:price>150000 SEK</g:price>
       <address>Uppsala</address>
+      <address format="simple">
+        <component name="addr1">Uppsala</component>
+        <component name="city">Uppsala</component>
+        <component name="region">Uppsala</component>
+        <component name="country">SE</component>
+      </address>
       <condition>GOOD</condition>
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
@@ -1780,6 +2019,12 @@
       <price>100500 SEK</price>
       <g:price>100500 SEK</g:price>
       <address>Lessebo</address>
+      <address format="simple">
+        <component name="addr1">Lessebo</component>
+        <component name="city">Lessebo</component>
+        <component name="region">Kronoberg</component>
+        <component name="country">SE</component>
+      </address>
       <condition>GOOD</condition>
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
@@ -1825,8 +2070,15 @@
       <price>165500 SEK</price>
       <g:price>165500 SEK</g:price>
       <address>Ånge</address>
+      <address format="simple">
+        <component name="addr1">Ånge</component>
+        <component name="city">Ånge</component>
+        <component name="region">Västernorrland</component>
+        <component name="country">SE</component>
+      </address>
       <condition>GOOD</condition>
       <state_of_vehicle>USED</state_of_vehicle>
+      <transmission>MANUAL</transmission>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-05-25T17:40:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
@@ -1872,6 +2124,12 @@
       <price>34950 SEK</price>
       <g:price>34950 SEK</g:price>
       <address>Älmhult</address>
+      <address format="simple">
+        <component name="addr1">Älmhult</component>
+        <component name="city">Älmhult</component>
+        <component name="region">Kronoberg</component>
+        <component name="country">SE</component>
+      </address>
       <condition>EXCELLENT</condition>
       <state_of_vehicle>NEW</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
@@ -1919,6 +2177,12 @@
       <price>59500 SEK</price>
       <g:price>59500 SEK</g:price>
       <address>Älmhult</address>
+      <address format="simple">
+        <component name="addr1">Älmhult</component>
+        <component name="city">Älmhult</component>
+        <component name="region">Kronoberg</component>
+        <component name="country">SE</component>
+      </address>
       <condition>EXCELLENT</condition>
       <state_of_vehicle>NEW</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
@@ -1966,6 +2230,12 @@
       <price>80000 SEK</price>
       <g:price>80000 SEK</g:price>
       <address>Kungsbacka</address>
+      <address format="simple">
+        <component name="addr1">Kungsbacka</component>
+        <component name="city">Kungsbacka</component>
+        <component name="region">Halland</component>
+        <component name="country">SE</component>
+      </address>
       <condition>GOOD</condition>
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
@@ -2013,6 +2283,12 @@
       <price>269000 SEK</price>
       <g:price>269000 SEK</g:price>
       <address>Mörbylånga</address>
+      <address format="simple">
+        <component name="addr1">Mörbylånga</component>
+        <component name="city">Mörbylånga</component>
+        <component name="region">Kalmar</component>
+        <component name="country">SE</component>
+      </address>
       <condition>GOOD</condition>
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>fixed_price</frivio:listing_type>
@@ -2059,8 +2335,15 @@
       <price>299500 SEK</price>
       <g:price>299500 SEK</g:price>
       <address>Borlänge</address>
+      <address format="simple">
+        <component name="addr1">Borlänge</component>
+        <component name="city">Borlänge</component>
+        <component name="region">Dalarna</component>
+        <component name="country">SE</component>
+      </address>
       <condition>GOOD</condition>
       <state_of_vehicle>USED</state_of_vehicle>
+      <transmission>MANUAL</transmission>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-05-27T16:38:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
@@ -2106,6 +2389,12 @@
       <price>189000 SEK</price>
       <g:price>189000 SEK</g:price>
       <address>Mönsterås</address>
+      <address format="simple">
+        <component name="addr1">Mönsterås</component>
+        <component name="city">Mönsterås</component>
+        <component name="region">Kalmar</component>
+        <component name="country">SE</component>
+      </address>
       <condition>GOOD</condition>
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>fixed_price</frivio:listing_type>
