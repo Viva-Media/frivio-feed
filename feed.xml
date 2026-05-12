@@ -4,7 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Tue, 12 May 2026 06:43:13 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 09:46:31 GMT</lastBuildDate>
     <item>
       <vehicle_id>478</vehicle_id>
       <g:id>478</g:id>
@@ -1222,45 +1222,6 @@
       <availability>in stock</availability>
     </item>
     <item>
-      <vehicle_id>507</vehicle_id>
-      <g:id>507</g:id>
-      <title>Mariah Z 225</title>
-      <description>Sugen på kraft och klass på vattnet? Mariah Z 225 från 1995 levererar en härlig körupplevelse med sin Big Block 7.4L V8 Mercruiser och Bravo One-drev är perfekt för dig som vill kombinera prestanda med komfort. Trevlig båt med gott om plats, utrustad med Bluetooth-stereo för skön stämning ombord samt hamnkapell. En sportig båt redo för nya turer. - Trailer ingår ej Årsmodell: 1995 · Typ: Båt · Ort: Botkyrka</description>
-      <url>https://frivio.se/auktion/507</url>
-      <g:link>https://frivio.se/auktion/507</g:link>
-      <image>
-        <url>https://backend.frivio.se/vehicle/507/a1777913865022.jpeg</url>
-        <tag>Exterior</tag>
-      </image>
-      <g:image_link>https://backend.frivio.se/vehicle/507/a1777913865022.jpeg</g:image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/507/b1777913864722.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/507/c1777913864875.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/507/d1777913865160.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/507/e1777913865273.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/507/f1777913864620.jpeg</g:additional_image_link>
-      <model>Mariah Z 225</model>
-      <year>1995</year>
-      <mileage>
-        <value>0</value>
-        <unit>KM</unit>
-      </mileage>
-      <price>50000 SEK</price>
-      <g:price>50000 SEK</g:price>
-      <address>Botkyrka</address>
-      <condition>used</condition>
-      <state_of_vehicle>USED</state_of_vehicle>
-      <frivio:listing_type>auction</frivio:listing_type>
-      <frivio:auction_end_date>2026-05-20T16:55:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>50000 SEK</frivio:current_bid>
-      <frivio:bid_count>0</frivio:bid_count>
-      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
-      <frivio:monthly_cost>791 kr/mån</frivio:monthly_cost>
-      <body_style>Boat</body_style>
-      <frivio:region>Stockholm</frivio:region>
-      <availability>in stock</availability>
-    </item>
-    <item>
       <vehicle_id>513</vehicle_id>
       <g:id>513</g:id>
       <title>Admiral 560 Premium</title>
@@ -1652,6 +1613,50 @@
       <availability>in stock</availability>
     </item>
     <item>
+      <vehicle_id>511</vehicle_id>
+      <g:id>511</g:id>
+      <title>Fareast 28R</title>
+      <description>Mycket fin Fareast 28R från 2015 SWE-34. Båten är i mycket gott skick, och troligtvis den mest utrustade Fareasten i Sverige. Klar att tävla med så väl fulcrew som double-handed. Båten har et stor segelgarderob och har kontinuerligt uppdaterats när det behövts. Båten är designad av Simonis-Voogd. Elektronik: Garmin 721 GPS inkl sjökort Garmin GNX-Wind vindinstrument (mastmonterat) inkl trådlös vindgivare Garmin GNX-20 multiskärm (mastmonterad) Garmin DST810 multigivare med fart genom vatten, ekolod och vattentemperatur. Raymarin autopilot EV 100. Raymarin EV1 Sensor elektronisk kompass. Allt ovan är sammankopplat i ett NMEA 2000 nätverk, vilket betyder att du kan visa vilken information du vill ha väl synligt för hela besättningen på mastdisplayerna. Velocitek GPS logg. Batteri Litium Jon 90Ah Batteriladdare 230V USB-uttag för laddning tex mobiltelefon Hopvikbar solcell (ca 50W) med fast installerad laddregulator. Segel: 1 st Storsegel North Sails, panelat 2015 1 st Storsegel North Sails, 3Di 2017 1 st Fock North Sails, panelat 2015 1 st Fock North Sails, 3Di RAW 2016 1 st Fock North Sails, 3Di 2017 1 st Fock North Sails 3DL taffetta 2016 (Toppen för dubble-handed) 1 st Code1 North Sails, nylon (på rulle, toppen för dubble-handed) 1 st gennaker North Sails 2015 1 st gennaker North Sails 2017 (lite seglad) Flera av seglen är sparsamt använda då vi har mestadels seglat dubbel-handed de senaste åren. Övrigt: Trailer bromsad, 2000 kg (leveras besiktigad) med spännband Motor Selva 6hk (nyservad) inkl trycktank Transportkapell och 2 st kapell för nedgångsbrunn (används under segling) samt pressenning för nedgångsbrunn som används vid kaj. Förtöjningsgods, fendrar, ankare, säkerhetsutrustning enl klassregler samt skot Kölyft för att kunna lyfta kölen och lasta båten vid ramp (har aldrig gjort detta själv men möjligheten finns) Lyftsling för att lyfta båten med lyftkran SRS mätbrev Fullt utrustad för kappsegling. Årsmodell: 2015 · Typ: Båt · Ort: Uppsala</description>
+      <url>https://frivio.se/auktion/511</url>
+      <g:link>https://frivio.se/auktion/511</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/511/a1778051682295.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/511/a1778051682295.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/511/b1778051683367.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/511/c1778051682488.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/511/d1778051682619.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/511/e1778051682868.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/511/f1778051682755.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/511/g1778051683689.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/511/h1778051683534.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/511/i1778051683131.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/511/j1778051683021.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/511/k1778051683253.jpeg</g:additional_image_link>
+      <model>Fareast 28R</model>
+      <year>2015</year>
+      <mileage>
+        <value>0</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>150000 SEK</price>
+      <g:price>150000 SEK</g:price>
+      <address>Uppsala</address>
+      <condition>used</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <frivio:listing_type>auction</frivio:listing_type>
+      <frivio:auction_end_date>2026-05-25T16:07:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>150000 SEK</frivio:current_bid>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
+      <frivio:monthly_cost>2373 kr/mån</frivio:monthly_cost>
+      <body_style>Boat</body_style>
+      <frivio:region>Uppsala</frivio:region>
+      <availability>in stock</availability>
+    </item>
+    <item>
       <vehicle_id>522</vehicle_id>
       <g:id>522</g:id>
       <title>Hobby 545 KMF DE LUXE</title>
@@ -1913,6 +1918,52 @@
       <frivio:monthly_cost>4256 kr/mån</frivio:monthly_cost>
       <body_style>Caravan</body_style>
       <frivio:region>Kalmar</frivio:region>
+      <availability>in stock</availability>
+    </item>
+    <item>
+      <vehicle_id>524</vehicle_id>
+      <g:id>524</g:id>
+      <title>Övriga Karmann Davis 590</title>
+      <description>Mycket fin vinteranpassad Karmann Davis 590 från 2019 med endast 3400 mil på mätaren. Utrustad med nya 18-tums sommarhjul med allrounddäck som ger både ett snyggt intryck och stabil körkänsla. Den smarta planlösningen erbjuder bekväma sovplatser, praktiskt kök och gott om förvaring i ett smidigt format som passar perfekt för både spontana weekendresor och längre äventyr året runt. En välhållen och lättkörd husbil för dig som söker komfort, kvalitet och frihet på vägarna. - Truma dieselpanna - Uppvärmd och isolerad gråvattentank - Multimediapaket med stor skärm och gps - Nyservad Årsmodell: 2019 · Typ: Husbil · Drivmedel: Diesel · Växellåda: Manuell · Mätarställning: 3 400 mil · Ort: Borlänge</description>
+      <url>https://frivio.se/auktion/524</url>
+      <g:link>https://frivio.se/auktion/524</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/524/a1778488924093.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/524/a1778488924093.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/524/b1778488923374.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/524/c1778488923957.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/524/d1778488923796.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/524/e1778488923616.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/524/f1778488924241.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/524/g1778488924580.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/524/h1778488924414.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/524/i1778488924755.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/524/j1778488924933.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/524/k1778488925087.jpeg</g:additional_image_link>
+      <make>Övriga</make>
+      <model>Karmann Davis 590</model>
+      <year>2019</year>
+      <mileage>
+        <value>34000</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>299500 SEK</price>
+      <g:price>299500 SEK</g:price>
+      <address>Borlänge</address>
+      <condition>used</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <frivio:listing_type>auction</frivio:listing_type>
+      <frivio:auction_end_date>2026-05-27T16:38:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>299500 SEK</frivio:current_bid>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
+      <frivio:monthly_cost>4739 kr/mån</frivio:monthly_cost>
+      <body_style>Motorhome</body_style>
+      <fuel_type>Diesel</fuel_type>
+      <frivio:region>Dalarna</frivio:region>
       <availability>in stock</availability>
     </item>
     <item>
