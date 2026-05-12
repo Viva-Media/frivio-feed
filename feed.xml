@@ -4,7 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Tue, 12 May 2026 12:19:37 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 14:07:21 GMT</lastBuildDate>
     <item>
       <vehicle_id>478</vehicle_id>
       <g:id>478</g:id>
@@ -2196,6 +2196,59 @@
       <frivio:body_type_label>Båt</frivio:body_type_label>
       <fuel_type>NONE</fuel_type>
       <frivio:region>Kronoberg</frivio:region>
+      <availability>AVAILABLE</availability>
+    </item>
+    <item>
+      <vehicle_id>525</vehicle_id>
+      <g:id>525</g:id>
+      <title>Hobby 495 UL Maxia</title>
+      <description>Hobby 495 UL Maxia från 2022 uttagen Ny 2024. En mycket trivsam husvagn med modern inredning och mycket förvaring. Välskött och förvaras i varmgarage när den inte är ute på äventyr. Planlösningen: Långbäddar, 4 bädd, - Värmesystem Truma iNet Ready - Elektrisk golvvärme - AC Hobby Dometic freshjet 2200 - Centraldammsugare - HobbyConnect - 3-delat Tvfäste inkl. kabeldrag - GEBO antennmast inkl. antenn - Fuktgaranti 12 år från 2024. Årsmodell: 2022 · Typ: Husvagn · Ort: Varberg</description>
+      <url>https://frivio.se/auktion/525</url>
+      <g:link>https://frivio.se/auktion/525</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/525/a1778590961104.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/525/a1778590961104.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/525/b1778590958457.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/525/c1778590959808.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/525/d1778590958948.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/525/e1778590959136.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/525/f1778590958738.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/525/g1778590959973.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/525/h1778590960456.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/525/i1778590960729.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/525/j1778590959660.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/525/k1778590959316.jpeg</g:additional_image_link>
+      <make>Hobby</make>
+      <model>495 UL Maxia</model>
+      <year>2022</year>
+      <mileage>
+        <value>0</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>147500 SEK</price>
+      <g:price>147500 SEK</g:price>
+      <address>Varberg</address>
+      <address format="simple">
+        <component name="addr1">Varberg</component>
+        <component name="city">Varberg</component>
+        <component name="region">Halland</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <frivio:listing_type>auction</frivio:listing_type>
+      <frivio:auction_end_date>2026-05-26T18:00:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>147500 SEK</frivio:current_bid>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
+      <frivio:monthly_cost>2334 kr/mån</frivio:monthly_cost>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Husvagn</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
+      <frivio:region>Halland</frivio:region>
       <availability>AVAILABLE</availability>
     </item>
     <item>
