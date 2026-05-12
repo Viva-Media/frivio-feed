@@ -125,6 +125,22 @@ function mapStateOfVehicle(cond) {
   return cond.toLowerCase().startsWith('ny') ? 'NEW' : 'USED';
 }
 
+function mapTransmission(g) {
+  // Meta: AUTOMATIC | MANUAL | OTHER. Frivio uses "Automat"/"Automatisk"/"Manuell".
+  if (!g) return '';
+  const s = g.toLowerCase();
+  if (s.startsWith('aut')) return 'AUTOMATIC';
+  if (s.startsWith('man')) return 'MANUAL';
+  return 'OTHER';
+}
+
+// Meta vehicle region needs to be a Swedish length string. The Frivio API gives
+// us a region (e.g. "Jönköping"). For Meta we map the common Swedish counties
+// to recognisable values; everything else flows through unchanged.
+function getRegion(v) {
+  return v.region || '';
+}
+
 function getMake(v) {
   // Required by Meta. Boats often have brand=null in the Frivio API, so fall
   // back to the first word of the title (which is usually the manufacturer)
@@ -228,17 +244,19 @@ function escapeCsv(v) {
 function generateCSV(vehicles, details) {
   const headers = [
     // Required
-    'vehicle_id', 'title', 'description', 'url', 'image[0].url',
+    'vehicle_id', 'title', 'description', 'url', 'image[0].url', 'image[0].tag',
     'make', 'model', 'year',
     'mileage.value', 'mileage.unit',
     'price', 'address', 'condition',
+    // Structured address (Meta vehicles prefers these over a single address string)
+    'address.addr1', 'address.city', 'address.region', 'address.country',
     // Auction extensions
     'auction_end_date', 'auction_ends_within_7_days',
     'current_bid', 'reserve_price_status',
-    'monthly_cost', 'body_style', 'body_type_label', 'fuel_type',
+    'monthly_cost', 'body_style', 'body_type_label', 'fuel_type', 'transmission',
     // Extra useful fields
     'state_of_vehicle', 'availability', 'currency',
-    'starting_price', 'fixed_price', 'bid_count', 'region', 'listing_type'
+    'starting_price', 'fixed_price', 'bid_count', 'listing_type'
   ];
 
   let rows = [headers.join(',')];
@@ -261,6 +279,7 @@ function generateCSV(vehicles, details) {
       escapeCsv(buildDescription(v, detail)),
       escapeCsv(getVehicleUrl(v)),
       escapeCsv(getPrimaryImage(v)),
+      escapeCsv('Exterior'),
       escapeCsv(getMake(v)),
       escapeCsv(v.title || ''),
       escapeCsv(v.year || ''),
@@ -269,6 +288,10 @@ function generateCSV(vehicles, details) {
       escapeCsv(`${price} SEK`),
       escapeCsv(v.city || ''),
       escapeCsv(mapCondition(v.condition)),
+      escapeCsv(v.city || ''),
+      escapeCsv(v.city || ''),
+      escapeCsv(getRegion(v)),
+      escapeCsv('SE'),
       escapeCsv(getAuctionEndIso(v)),
       escapeCsv(endsWithinDays(v, 7) ? 'true' : 'false'),
       escapeCsv(v.current_price || ''),
@@ -277,13 +300,13 @@ function generateCSV(vehicles, details) {
       escapeCsv(mapBodyStyle(v.vehicle_category)),
       escapeCsv(v.vehicle_category || ''),
       escapeCsv(mapFuelType(v.fuel)),
+      escapeCsv(mapTransmission(v.gearbox)),
       escapeCsv(mapStateOfVehicle(v.condition)),
       escapeCsv('AVAILABLE'),
       escapeCsv('SEK'),
       escapeCsv(v.starting_price || ''),
       escapeCsv(v.fixed_price || ''),
       escapeCsv(v.bid_count || 0),
-      escapeCsv(v.region || ''),
       escapeCsv(isAuction(v) ? 'auction' : 'fixed_price')
     ];
     rows.push(row.join(','));
@@ -365,8 +388,16 @@ function generateXML(vehicles, details) {
     lines.push(`      <g:price>${price} SEK</g:price>`);
 
     lines.push(`      <address>${escapeXml(v.city || '')}</address>`);
+    lines.push('      <address format="simple">');
+    lines.push(`        <component name="addr1">${escapeXml(v.city || '')}</component>`);
+    lines.push(`        <component name="city">${escapeXml(v.city || '')}</component>`);
+    lines.push(`        <component name="region">${escapeXml(getRegion(v))}</component>`);
+    lines.push('        <component name="country">SE</component>');
+    lines.push('      </address>');
     lines.push(`      <condition>${mapCondition(v.condition)}</condition>`);
     lines.push(`      <state_of_vehicle>${mapStateOfVehicle(v.condition)}</state_of_vehicle>`);
+    const transmission = mapTransmission(v.gearbox);
+    if (transmission) lines.push(`      <transmission>${transmission}</transmission>`);
 
     // Auction-specific extensions (Frivio namespace)
     lines.push(`      <frivio:listing_type>${isAuction(v) ? 'auction' : 'fixed_price'}</frivio:listing_type>`);
