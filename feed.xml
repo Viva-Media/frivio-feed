@@ -4,7 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Tue, 12 May 2026 03:56:16 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 06:43:13 GMT</lastBuildDate>
     <item>
       <vehicle_id>478</vehicle_id>
       <g:id>478</g:id>
@@ -78,18 +78,18 @@
         <value>0</value>
         <unit>KM</unit>
       </mileage>
-      <price>670000 SEK</price>
-      <g:price>670000 SEK</g:price>
+      <price>685000 SEK</price>
+      <g:price>685000 SEK</g:price>
       <address>Tranås</address>
       <condition>used</condition>
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-05-12T14:36:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>670000 SEK</frivio:current_bid>
-      <frivio:bid_count>4</frivio:bid_count>
+      <frivio:current_bid>685000 SEK</frivio:current_bid>
+      <frivio:bid_count>6</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>10601 kr/mån</frivio:monthly_cost>
+      <frivio:monthly_cost>10838 kr/mån</frivio:monthly_cost>
       <body_style>Boat</body_style>
       <frivio:region>Jönköping</frivio:region>
       <availability>in stock</availability>
