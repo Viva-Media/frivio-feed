@@ -78,26 +78,63 @@ async function fetchVehicleDetails(vehicles) {
 
 /* ---------- Field mapping helpers ---------- */
 
+// Meta Commerce Manager (Vehicles) enum values. The catalog ingestor rejects rows
+// that don't match these enums, so we map every Frivio value to a valid one and
+// fall back to OTHER/NONE when there is no direct equivalent.
+
 function mapBodyStyle(category) {
-  const m = { 'Husbil': 'Motorhome', 'Husvagn': 'Caravan', 'Båt': 'Boat' };
-  return m[category] || category || '';
+  // Allowed: CONVERTIBLE, COUPE, CROSSOVER, ESTATE, GRANDTOURER, HATCHBACK,
+  // MINIBUS, MINIVAN, MPV, PICKUP, ROADSTER, SALOON, SEDAN, SMALL_CAR,
+  // SPORTSCAR, SUPERCAR, SUPERMINI, SUV, TRUCK, VAN, WAGON, OTHER, NONE.
+  // Frivio sells Husbil (motorhome) / Husvagn (caravan) / Båt (boat) — none of
+  // which have a direct car-body equivalent. Use VAN for husbil and OTHER for
+  // the rest. Real category is preserved in the body_type_label field.
+  const m = { 'Husbil': 'VAN', 'Husvagn': 'OTHER', 'Båt': 'OTHER' };
+  return m[category] || 'OTHER';
 }
 
 function mapFuelType(fuel) {
-  if (!fuel) return '';
-  const m = { 'Bensin': 'Gasoline', 'Diesel': 'Diesel', 'El': 'Electric', 'Elhybrid': 'Hybrid', 'Laddhybrid': 'Plug-in Hybrid' };
-  return m[fuel] || fuel;
+  // Allowed: DIESEL, ELECTRIC, FLEX, GASOLINE, GASOLINE_AND_NATURAL_GAS,
+  // GASOLINE_AND_PROPANE, HYBRID, HYDROGEN, NATURAL_GAS, PLUG_IN_HYBRID,
+  // PROPANE, NONE, OTHER.
+  if (!fuel) return 'NONE';
+  const m = {
+    'Bensin': 'GASOLINE',
+    'Diesel': 'DIESEL',
+    'El': 'ELECTRIC',
+    'Elektrisk': 'ELECTRIC',
+    'Elhybrid': 'HYBRID',
+    'Hybrid': 'HYBRID',
+    'Laddhybrid': 'PLUG_IN_HYBRID',
+    'Gas': 'NATURAL_GAS',
+    'Etanol': 'FLEX'
+  };
+  return m[fuel] || 'OTHER';
 }
 
 function mapCondition(cond) {
-  if (!cond) return 'used';
-  const c = cond.toLowerCase();
-  if (c.startsWith('ny')) return 'new';
-  return 'used';
+  // Allowed: EXCELLENT, VERY_GOOD, GOOD, FAIR, POOR, OTHER.
+  // Frivio only exposes "Nytt" / "Begagnat", so we map them to a sensible default.
+  if (!cond) return 'GOOD';
+  return cond.toLowerCase().startsWith('ny') ? 'EXCELLENT' : 'GOOD';
 }
 
-function mapConditionLabel(cond) {
-  return mapCondition(cond) === 'new' ? 'NEW' : 'USED';
+function mapStateOfVehicle(cond) {
+  // Allowed: NEW, USED, CPO.
+  if (!cond) return 'USED';
+  return cond.toLowerCase().startsWith('ny') ? 'NEW' : 'USED';
+}
+
+function getMake(v) {
+  // Required by Meta. Boats often have brand=null in the Frivio API, so fall
+  // back to the first word of the title (which is usually the manufacturer)
+  // and only use a generic placeholder as last resort.
+  if (v.brand) return v.brand;
+  if (v.title) {
+    const first = v.title.trim().split(/\s+/)[0];
+    if (first && first.length >= 2) return first;
+  }
+  return 'Övrigt';
 }
 
 function buildTitle(v) {
@@ -198,7 +235,7 @@ function generateCSV(vehicles, details) {
     // Auction extensions
     'auction_end_date', 'auction_ends_within_7_days',
     'current_bid', 'reserve_price_status',
-    'monthly_cost', 'body_style', 'fuel_type',
+    'monthly_cost', 'body_style', 'body_type_label', 'fuel_type',
     // Extra useful fields
     'state_of_vehicle', 'availability', 'currency',
     'starting_price', 'fixed_price', 'bid_count', 'region', 'listing_type'
@@ -224,7 +261,7 @@ function generateCSV(vehicles, details) {
       escapeCsv(buildDescription(v, detail)),
       escapeCsv(getVehicleUrl(v)),
       escapeCsv(getPrimaryImage(v)),
-      escapeCsv(v.brand || ''),
+      escapeCsv(getMake(v)),
       escapeCsv(v.title || ''),
       escapeCsv(v.year || ''),
       escapeCsv(mileageKm),
@@ -238,9 +275,10 @@ function generateCSV(vehicles, details) {
       escapeCsv(getReservePriceStatus(v)),
       escapeCsv(monthly ? `${monthly} kr/mån` : ''),
       escapeCsv(mapBodyStyle(v.vehicle_category)),
+      escapeCsv(v.vehicle_category || ''),
       escapeCsv(mapFuelType(v.fuel)),
-      escapeCsv(mapConditionLabel(v.condition)),
-      escapeCsv('in stock'),
+      escapeCsv(mapStateOfVehicle(v.condition)),
+      escapeCsv('AVAILABLE'),
       escapeCsv('SEK'),
       escapeCsv(v.starting_price || ''),
       escapeCsv(v.fixed_price || ''),
@@ -314,7 +352,7 @@ function generateXML(vehicles, details) {
       }
     }
 
-    if (v.brand) lines.push(`      <make>${escapeXml(v.brand)}</make>`);
+    lines.push(`      <make>${escapeXml(getMake(v))}</make>`);
     lines.push(`      <model>${escapeXml(v.title)}</model>`);
     if (v.year) lines.push(`      <year>${v.year}</year>`);
 
@@ -328,7 +366,7 @@ function generateXML(vehicles, details) {
 
     lines.push(`      <address>${escapeXml(v.city || '')}</address>`);
     lines.push(`      <condition>${mapCondition(v.condition)}</condition>`);
-    lines.push(`      <state_of_vehicle>${mapConditionLabel(v.condition)}</state_of_vehicle>`);
+    lines.push(`      <state_of_vehicle>${mapStateOfVehicle(v.condition)}</state_of_vehicle>`);
 
     // Auction-specific extensions (Frivio namespace)
     lines.push(`      <frivio:listing_type>${isAuction(v) ? 'auction' : 'fixed_price'}</frivio:listing_type>`);
@@ -347,10 +385,11 @@ function generateXML(vehicles, details) {
       lines.push(`      <frivio:monthly_cost>${monthly} kr/mån</frivio:monthly_cost>`);
     }
     lines.push(`      <body_style>${escapeXml(mapBodyStyle(v.vehicle_category))}</body_style>`);
-    if (v.fuel) lines.push(`      <fuel_type>${escapeXml(mapFuelType(v.fuel))}</fuel_type>`);
+    if (v.vehicle_category) lines.push(`      <frivio:body_type_label>${escapeXml(v.vehicle_category)}</frivio:body_type_label>`);
+    lines.push(`      <fuel_type>${escapeXml(mapFuelType(v.fuel))}</fuel_type>`);
     if (v.region) lines.push(`      <frivio:region>${escapeXml(v.region)}</frivio:region>`);
 
-    lines.push('      <availability>in stock</availability>');
+    lines.push('      <availability>AVAILABLE</availability>');
     lines.push('    </item>');
     included++;
   }
