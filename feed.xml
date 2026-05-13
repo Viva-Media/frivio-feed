@@ -4,7 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Wed, 13 May 2026 07:55:56 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 10:38:31 GMT</lastBuildDate>
     <item>
       <vehicle_id>455</vehicle_id>
       <g:id>455</g:id>
@@ -1777,6 +1777,59 @@
       <frivio:body_type_label>Husvagn</frivio:body_type_label>
       <fuel_type>NONE</fuel_type>
       <frivio:region>Kalmar</frivio:region>
+      <availability>AVAILABLE</availability>
+    </item>
+    <item>
+      <vehicle_id>527</vehicle_id>
+      <g:id>527</g:id>
+      <title>Knaus 500 Sport Silver Selection</title>
+      <description>Smidig och bra husvagn i mycket bra skick med stort isabella tält 3,5m samt tältmatta . Den är för tillfället obesiktad då den bara agerat attefallshus på tomten senaste 2 åren, men den kommer att levereras nybesiktad, fukttestad samt gasoltestad. Eventuella inventarier kan ingå enligt överenskommelse. Årsmodell: 2021 · Typ: Husvagn · Ort: Sandviken</description>
+      <url>https://frivio.se/auktion/527</url>
+      <g:link>https://frivio.se/auktion/527</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/527/a1778661486861.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/527/a1778661486861.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/527/b1778661487712.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/527/c1778661487221.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/527/d1778661486521.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/527/e1778661486695.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/527/f1778661488090.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/527/g1778661487538.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/527/h1778661487887.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/527/i1778661487375.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/527/j1778661485513.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/527/k1778661486342.jpeg</g:additional_image_link>
+      <make>Knaus</make>
+      <model>500 Sport Silver Selection</model>
+      <year>2021</year>
+      <mileage>
+        <value>0</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>95000 SEK</price>
+      <g:price>95000 SEK</g:price>
+      <address>Sandviken</address>
+      <address format="simple">
+        <component name="addr1">Sandviken</component>
+        <component name="city">Sandviken</component>
+        <component name="region">Gävleborg</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <frivio:listing_type>auction</frivio:listing_type>
+      <frivio:auction_end_date>2026-05-27T14:37:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>95000 SEK</frivio:current_bid>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
+      <frivio:monthly_cost>1503 kr/mån</frivio:monthly_cost>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Husvagn</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
+      <frivio:region>Gävleborg</frivio:region>
       <availability>AVAILABLE</availability>
     </item>
     <item>
