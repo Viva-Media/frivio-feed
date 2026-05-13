@@ -4,114 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Wed, 13 May 2026 13:22:55 GMT</lastBuildDate>
-    <item>
-      <vehicle_id>455</vehicle_id>
-      <g:id>455</g:id>
-      <title>McLouis MC4-75</title>
-      <description>Upptäck denna välvårdade McLouis MC4-75 från 2015 med endast 1 500 mil på mätaren - ett riktigt guldkorn! En modern och rymlig husbil med smart planlösning, bekväma långbäddar och trevliga sällskapsytor. Här reser du med både komfort och stil, perfekt för såväl weekendresor som längre äventyr. Lättkörd och välutrustad med allt du behöver för ett bekymmersfritt husbilsliv. Missa inte chansen! - Kamrem bytt 2021 vid 1000mil Årsmodell: 2015 · Typ: Husbil · Drivmedel: Diesel · Växellåda: Manuell · Mätarställning: 1 500 mil · Ort: Härnösand</description>
-      <url>https://frivio.se/auktion/455</url>
-      <g:link>https://frivio.se/auktion/455</g:link>
-      <image>
-        <url>https://backend.frivio.se/vehicle/455/b1776772952234.jpeg</url>
-        <tag>Exterior</tag>
-      </image>
-      <g:image_link>https://backend.frivio.se/vehicle/455/b1776772952234.jpeg</g:image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/455/c1776772952404.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/455/d1776772952552.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/455/e1776772954016.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/455/f1776772954209.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/455/g1776772953211.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/455/h1776772953358.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/455/i1776772953510.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/455/j1776772953652.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/455/k1776772953800.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/455/l1776772954533.jpeg</g:additional_image_link>
-      <make>McLouis</make>
-      <model>MC4-75</model>
-      <year>2015</year>
-      <mileage>
-        <value>15000</value>
-        <unit>KM</unit>
-      </mileage>
-      <price>430000 SEK</price>
-      <g:price>430000 SEK</g:price>
-      <address>Härnösand</address>
-      <address format="simple">
-        <component name="addr1">Härnösand</component>
-        <component name="city">Härnösand</component>
-        <component name="region">Västernorrland</component>
-        <component name="country">SE</component>
-      </address>
-      <condition>GOOD</condition>
-      <state_of_vehicle>USED</state_of_vehicle>
-      <transmission>MANUAL</transmission>
-      <frivio:listing_type>auction</frivio:listing_type>
-      <frivio:auction_end_date>2026-05-13T14:31:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>430000 SEK</frivio:current_bid>
-      <frivio:bid_count>6</frivio:bid_count>
-      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>6804 kr/mån</frivio:monthly_cost>
-      <body_style>VAN</body_style>
-      <frivio:body_type_label>Husbil</frivio:body_type_label>
-      <fuel_type>DIESEL</fuel_type>
-      <frivio:region>Västernorrland</frivio:region>
-      <availability>AVAILABLE</availability>
-    </item>
-    <item>
-      <vehicle_id>484</vehicle_id>
-      <g:id>484</g:id>
-      <title>Knaus 650 UDF Exclusive</title>
-      <description>Knaus 650 UDF Scandinavian Selection Exclusive från 2016 är en rymlig och välutrustad familjevagn med hög komfort och smart planlösning. Här får du en lyxig känsla rakt igenom, inklusive praktisk barnkammare och generösa ytor för hela familjen. En mycket trevlig husvagn utrustad med AC för ett bekvämligt inneklimat. - Vattenburen golvvärme - Formsydd heltäckningsmatta till hela vagnen - Franskbädd cirka 150cm bred ink extra Wellpur bäddmadrass - Bäddbart överskåp med skyddsnät inklusive stege - Bäddbar dinett ink Wellpur bäddmadrass - LED-Belysning - Klädvinda - Isabella 3m förtält med lättviktspinnar - Förtältsmatta - Vinterdäck - Besiktad till 2028-04-30 - Fukt- och gasoltestad 2025/2026 - Mindre bruksspår finns i form av en liten buckla (som en enkrona), ett hack i bordet samt en mindre spricka ovanför handfatet. Årsmodell: 2016 · Typ: Husvagn · Ort: Kalmar</description>
-      <url>https://frivio.se/auktion/484</url>
-      <g:link>https://frivio.se/auktion/484</g:link>
-      <image>
-        <url>https://backend.frivio.se/vehicle/484/a1777445724875.jpeg</url>
-        <tag>Exterior</tag>
-      </image>
-      <g:image_link>https://backend.frivio.se/vehicle/484/a1777445724875.jpeg</g:image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/484/b1777445725130.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/484/c1777445725347.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/484/d1777445725538.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/484/e1777445728169.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/484/f1777445725727.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/484/g1777445725898.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/484/h1777445726102.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/484/i1777445726301.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/484/j1777445726508.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/484/k1777445726724.jpeg</g:additional_image_link>
-      <make>Knaus</make>
-      <model>650 UDF Exclusive</model>
-      <year>2016</year>
-      <mileage>
-        <value>0</value>
-        <unit>KM</unit>
-      </mileage>
-      <price>140000 SEK</price>
-      <g:price>140000 SEK</g:price>
-      <address>Kalmar</address>
-      <address format="simple">
-        <component name="addr1">Kalmar</component>
-        <component name="city">Kalmar</component>
-        <component name="region">Kalmar</component>
-        <component name="country">SE</component>
-      </address>
-      <condition>GOOD</condition>
-      <state_of_vehicle>USED</state_of_vehicle>
-      <frivio:listing_type>auction</frivio:listing_type>
-      <frivio:auction_end_date>2026-05-13T14:46:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>140000 SEK</frivio:current_bid>
-      <frivio:bid_count>4</frivio:bid_count>
-      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>2215 kr/mån</frivio:monthly_cost>
-      <body_style>OTHER</body_style>
-      <frivio:body_type_label>Husvagn</frivio:body_type_label>
-      <fuel_type>NONE</fuel_type>
-      <frivio:region>Kalmar</frivio:region>
-      <availability>AVAILABLE</availability>
-    </item>
+    <lastBuildDate>Wed, 13 May 2026 16:27:35 GMT</lastBuildDate>
     <item>
       <vehicle_id>485</vehicle_id>
       <g:id>485</g:id>
@@ -673,7 +566,7 @@
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-05-20T14:52:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
       <frivio:current_bid>90000 SEK</frivio:current_bid>
       <frivio:bid_count>3</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
@@ -726,7 +619,7 @@
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-05-20T14:57:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
       <frivio:current_bid>60000 SEK</frivio:current_bid>
       <frivio:bid_count>6</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
@@ -776,7 +669,7 @@
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-05-20T15:25:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
       <frivio:current_bid>280000 SEK</frivio:current_bid>
       <frivio:bid_count>2</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
@@ -829,7 +722,7 @@
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-05-20T15:30:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
       <frivio:current_bid>75000 SEK</frivio:current_bid>
       <frivio:bid_count>3</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
@@ -882,7 +775,7 @@
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-05-20T15:32:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
       <frivio:current_bid>75000 SEK</frivio:current_bid>
       <frivio:bid_count>0</frivio:bid_count>
       <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
