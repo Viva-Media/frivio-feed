@@ -4,7 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Wed, 13 May 2026 04:53:50 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 07:55:56 GMT</lastBuildDate>
     <item>
       <vehicle_id>455</vehicle_id>
       <g:id>455</g:id>
@@ -1831,6 +1831,59 @@
       <frivio:body_type_label>Husbil</frivio:body_type_label>
       <fuel_type>DIESEL</fuel_type>
       <frivio:region>Dalarna</frivio:region>
+      <availability>AVAILABLE</availability>
+    </item>
+    <item>
+      <vehicle_id>526</vehicle_id>
+      <g:id>526</g:id>
+      <title>Kabe Ametist GLE KS</title>
+      <description>Nu finns möjlighet att förvärva en Kabe Ametist GLE KS från 2016 i oerhört fint skick. Här erbjuds en välvårdad kvalitetsvagn med hög komfort och genomtänkt planlösning. Utrustad med allt du behöver för ett bekvämt campingliv, inklusive rymliga ytor, praktiskt kök och separata bäddar. En premiumvagn för dig som söker kvalitet, komfort och trygghet. Årsmodell: 2016 · Typ: Husvagn · Ort: Mörbylånga</description>
+      <url>https://frivio.se/auktion/526</url>
+      <g:link>https://frivio.se/auktion/526</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/526/a1778655267419.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/526/a1778655267419.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/526/b1778655267143.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/526/c1778655267635.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/526/e1778655266883.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/526/f1778655266275.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/526/g1778655266425.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/526/h1778655265126.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/526/i1778655265395.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/526/j1778655265259.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/526/k1778655264963.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/526/l1778655266579.jpeg</g:additional_image_link>
+      <make>Kabe</make>
+      <model>Ametist GLE KS</model>
+      <year>2016</year>
+      <mileage>
+        <value>0</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>150000 SEK</price>
+      <g:price>150000 SEK</g:price>
+      <address>Mörbylånga</address>
+      <address format="simple">
+        <component name="addr1">Mörbylånga</component>
+        <component name="city">Mörbylånga</component>
+        <component name="region">Kalmar</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <frivio:listing_type>auction</frivio:listing_type>
+      <frivio:auction_end_date>2026-05-31T15:54:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>150000 SEK</frivio:current_bid>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
+      <frivio:monthly_cost>2373 kr/mån</frivio:monthly_cost>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Husvagn</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
+      <frivio:region>Kalmar</frivio:region>
       <availability>AVAILABLE</availability>
     </item>
     <item>
