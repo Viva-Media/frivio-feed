@@ -4,60 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Thu, 14 May 2026 18:01:57 GMT</lastBuildDate>
-    <item>
-      <vehicle_id>517</vehicle_id>
-      <g:id>517</g:id>
-      <title>Hobby 560 FC PRESTIGE</title>
-      <description>Första reg: 2024-08-02 Fabriksgaranti 2 år Nya dubbade vinterhjul på stålfälg monterade 15&quot; Aluminium fälgar på sommar Förstärkt chassie för möjlig ändring lastvikt till högre totalvikt Utv. belysning Bodelsdörr med fönster Plats för 2 gasolflaskor Dragkrok 13 pol Stödben manuella Extra lastlucka sängplatser: 2-4 1st Bodelsbatteri Mörklägg. gardiner bodel Takluckor: 3 Klädsel: Textil U-soffa Bäddbar sittgrupp Fällbart bord Stort Vinkelskök Bra med avställningsyta Kylskåp med frysfack 230V - 12V - Gasol AES - Automatisk Gasolspis med gnist Vitrinskåp Skofack Badrum med duschkabin Franskbädd Förvaring under säng LED-belysning Hög garderob Låg garderob Garderob för galgar Myggnätsdörr TRUMA 6E combi med el patron Varmvattensberedare 220V uttag i bodel USB uttag i bodel Brandvarnare Gaslarm Elektrisk golvvärme Frostvakt Hobby connect Bluetooth Årsmodell: 2024 · Typ: Husvagn · Ort: Norrtälje</description>
-      <url>https://frivio.se/auktion/517</url>
-      <g:link>https://frivio.se/auktion/517</g:link>
-      <image>
-        <url>https://backend.frivio.se/vehicle/517/a1778159890602.jpeg</url>
-        <tag>Exterior</tag>
-      </image>
-      <g:image_link>https://backend.frivio.se/vehicle/517/a1778159890602.jpeg</g:image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/517/b1778159892807.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/517/c1778159892241.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/517/d1778159890449.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/517/e1778159890752.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/517/f1778159892388.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/517/g1778159890874.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/517/h1778159892951.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/517/i1778159893245.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/517/j1778159893396.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/517/k1778159893551.jpeg</g:additional_image_link>
-      <make>Hobby</make>
-      <model>560 FC PRESTIGE</model>
-      <year>2024</year>
-      <mileage>
-        <value>0</value>
-        <unit>KM</unit>
-      </mileage>
-      <price>170000 SEK</price>
-      <g:price>170000 SEK</g:price>
-      <address>Norrtälje</address>
-      <address format="simple">
-        <component name="addr1">Norrtälje</component>
-        <component name="city">Norrtälje</component>
-        <component name="region">Stockholm</component>
-        <component name="country">SE</component>
-      </address>
-      <condition>GOOD</condition>
-      <state_of_vehicle>USED</state_of_vehicle>
-      <frivio:listing_type>auction</frivio:listing_type>
-      <frivio:auction_end_date>2026-05-14T18:17:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>170000 SEK</frivio:current_bid>
-      <frivio:bid_count>2</frivio:bid_count>
-      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>2690 kr/mån</frivio:monthly_cost>
-      <body_style>OTHER</body_style>
-      <frivio:body_type_label>Husvagn</frivio:body_type_label>
-      <fuel_type>NONE</fuel_type>
-      <frivio:region>Stockholm</frivio:region>
-      <availability>AVAILABLE</availability>
-    </item>
+    <lastBuildDate>Thu, 14 May 2026 20:39:57 GMT</lastBuildDate>
     <item>
       <vehicle_id>503</vehicle_id>
       <g:id>503</g:id>
@@ -1080,7 +1027,7 @@
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-05-21T18:30:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
       <frivio:current_bid>80000 SEK</frivio:current_bid>
       <frivio:bid_count>0</frivio:bid_count>
       <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
