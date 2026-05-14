@@ -4,60 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Thu, 14 May 2026 12:58:55 GMT</lastBuildDate>
-    <item>
-      <vehicle_id>485</vehicle_id>
-      <g:id>485</g:id>
-      <title>Örnvik</title>
-      <description>Välhållen Örnvik-båt med Yanmar YSB 12 inombordare. Båten har haft en och samma ägare sedan ny och har aldrig legat i hamn, utan alltid tagits upp efter användning, vilket bidragit till dess fina skick. Stabil och trygg båt med praktisk hytt, gott om utrymme och enkel hantering. Perfekt för fiske, utflykter eller lugna turer på sjön. En pålitlig klassiker redo för nya äventyr. - Originalhytt - Sötvattenkylning - Nytt kapell - Trailer på bild ingår Årsmodell: 1977 · Typ: Båt · Ort: Kävlinge</description>
-      <url>https://frivio.se/auktion/485</url>
-      <g:link>https://frivio.se/auktion/485</g:link>
-      <image>
-        <url>https://backend.frivio.se/vehicle/485/a1777530042810.jpeg</url>
-        <tag>Exterior</tag>
-      </image>
-      <g:image_link>https://backend.frivio.se/vehicle/485/a1777530042810.jpeg</g:image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/485/b1777530042999.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/485/c1777530043139.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/485/d1777530043266.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/485/e1777530043497.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/485/f1777530043381.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/485/g1777530043750.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/485/h1777530043621.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/485/i1777530043874.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/485/j1777530043998.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/485/k1777530044141.jpeg</g:additional_image_link>
-      <make>Örnvik</make>
-      <model>Örnvik</model>
-      <year>1977</year>
-      <mileage>
-        <value>0</value>
-        <unit>KM</unit>
-      </mileage>
-      <price>30000 SEK</price>
-      <g:price>30000 SEK</g:price>
-      <address>Kävlinge</address>
-      <address format="simple">
-        <component name="addr1">Kävlinge</component>
-        <component name="city">Kävlinge</component>
-        <component name="region">Skåne</component>
-        <component name="country">SE</component>
-      </address>
-      <condition>GOOD</condition>
-      <state_of_vehicle>USED</state_of_vehicle>
-      <frivio:listing_type>auction</frivio:listing_type>
-      <frivio:auction_end_date>2026-05-14T15:16:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>30000 SEK</frivio:current_bid>
-      <frivio:bid_count>0</frivio:bid_count>
-      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
-      <frivio:monthly_cost>475 kr/mån</frivio:monthly_cost>
-      <body_style>OTHER</body_style>
-      <frivio:body_type_label>Båt</frivio:body_type_label>
-      <fuel_type>NONE</fuel_type>
-      <frivio:region>Skåne</frivio:region>
-      <availability>AVAILABLE</availability>
-    </item>
+    <lastBuildDate>Thu, 14 May 2026 15:27:43 GMT</lastBuildDate>
     <item>
       <vehicle_id>517</vehicle_id>
       <g:id>517</g:id>
@@ -980,7 +927,7 @@
       <transmission>MANUAL</transmission>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-05-21T14:50:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
       <frivio:current_bid>220000 SEK</frivio:current_bid>
       <frivio:bid_count>2</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
