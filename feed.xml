@@ -4,60 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Fri, 15 May 2026 14:26:52 GMT</lastBuildDate>
-    <item>
-      <vehicle_id>503</vehicle_id>
-      <g:id>503</g:id>
-      <title>Bayliner 2855 Sierra Sunbridge</title>
-      <description>Bayliner 2855 Sierra Sunbridge (1988) - En rymlig och välutrustad dieselcruiser med stark Volvo Penta D4 på 260 hk och 440h. Båten erbjuder generösa utrymmen både ute och inne, med bekväm kabin för upp till 6 personer, pentry och separat toalett med dusch. Utrustad med bland annat bogpropeller, plotter, solceller och landström - perfekt för längre turer och övernattning. Ankarspelet fungerar i dagsläget inte, vilket innebär att man ankrar manuellt. - Farthållare och automatiskt trim - DPH drev med nya rostfria proppar - QL trimplan - Bogpropeller - 5 batterier - Värmare - Pentry med kylskåp &amp; frysfack, spis som drivs med sprit eller 220 - Toa med septitank (land och sjötömning) - Dusch på badbryggan Årsmodell: 1988 · Typ: Båt · Ort: Uddevalla</description>
-      <url>https://frivio.se/auktion/503</url>
-      <g:link>https://frivio.se/auktion/503</g:link>
-      <image>
-        <url>https://backend.frivio.se/vehicle/503/b1777558316660.jpeg</url>
-        <tag>Exterior</tag>
-      </image>
-      <g:image_link>https://backend.frivio.se/vehicle/503/b1777558316660.jpeg</g:image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/503/c1777558316844.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/503/d1777558317075.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/503/e1777558317248.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/503/f1777558317408.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/503/g1777558317545.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/503/h1777558316947.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/503/i1777558317713.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/503/j1777558317848.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/503/k1777558317973.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/503/l1777558318122.jpeg</g:additional_image_link>
-      <make>Bayliner</make>
-      <model>Bayliner 2855 Sierra Sunbridge</model>
-      <year>1988</year>
-      <mileage>
-        <value>0</value>
-        <unit>KM</unit>
-      </mileage>
-      <price>130000 SEK</price>
-      <g:price>130000 SEK</g:price>
-      <address>Uddevalla</address>
-      <address format="simple">
-        <component name="addr1">Uddevalla</component>
-        <component name="city">Uddevalla</component>
-        <component name="region">Västra Götaland</component>
-        <component name="country">SE</component>
-      </address>
-      <condition>GOOD</condition>
-      <state_of_vehicle>USED</state_of_vehicle>
-      <frivio:listing_type>auction</frivio:listing_type>
-      <frivio:auction_end_date>2026-05-15T14:54:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>130000 SEK</frivio:current_bid>
-      <frivio:bid_count>0</frivio:bid_count>
-      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
-      <frivio:monthly_cost>2057 kr/mån</frivio:monthly_cost>
-      <body_style>OTHER</body_style>
-      <frivio:body_type_label>Båt</frivio:body_type_label>
-      <fuel_type>NONE</fuel_type>
-      <frivio:region>Västra Götaland</frivio:region>
-      <availability>AVAILABLE</availability>
-    </item>
+    <lastBuildDate>Fri, 15 May 2026 16:56:00 GMT</lastBuildDate>
     <item>
       <vehicle_id>519</vehicle_id>
       <g:id>519</g:id>
