@@ -4,7 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Sun, 17 May 2026 19:20:16 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 17 May 2026 21:03:25 GMT</lastBuildDate>
     <item>
       <vehicle_id>519</vehicle_id>
       <g:id>519</g:id>
@@ -447,8 +447,8 @@
         <value>0</value>
         <unit>KM</unit>
       </mileage>
-      <price>60000 SEK</price>
-      <g:price>60000 SEK</g:price>
+      <price>60500 SEK</price>
+      <g:price>60500 SEK</g:price>
       <address>Härnösand</address>
       <address format="simple">
         <component name="addr1">Härnösand</component>
@@ -461,10 +461,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-05-20T14:57:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>60000 SEK</frivio:current_bid>
-      <frivio:bid_count>6</frivio:bid_count>
+      <frivio:current_bid>60500 SEK</frivio:current_bid>
+      <frivio:bid_count>7</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>949 kr/mån</frivio:monthly_cost>
+      <frivio:monthly_cost>957 kr/mån</frivio:monthly_cost>
       <body_style>OTHER</body_style>
       <frivio:body_type_label>Husvagn</frivio:body_type_label>
       <fuel_type>NONE</fuel_type>
