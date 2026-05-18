@@ -4,7 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Mon, 18 May 2026 10:21:09 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 14:36:30 GMT</lastBuildDate>
     <item>
       <vehicle_id>519</vehicle_id>
       <g:id>519</g:id>
@@ -89,8 +89,8 @@
         <value>36000</value>
         <unit>KM</unit>
       </mileage>
-      <price>695000 SEK</price>
-      <g:price>695000 SEK</g:price>
+      <price>711000 SEK</price>
+      <g:price>711000 SEK</g:price>
       <address>Kungsbacka</address>
       <address format="simple">
         <component name="addr1">Kungsbacka</component>
@@ -104,10 +104,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-05-18T15:01:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>695000 SEK</frivio:current_bid>
-      <frivio:bid_count>5</frivio:bid_count>
+      <frivio:current_bid>711000 SEK</frivio:current_bid>
+      <frivio:bid_count>6</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>10996 kr/mån</frivio:monthly_cost>
+      <frivio:monthly_cost>11250 kr/mån</frivio:monthly_cost>
       <body_style>VAN</body_style>
       <frivio:body_type_label>Husbil</frivio:body_type_label>
       <fuel_type>DIESEL</fuel_type>
@@ -354,8 +354,8 @@
         <value>0</value>
         <unit>KM</unit>
       </mileage>
-      <price>55000 SEK</price>
-      <g:price>55000 SEK</g:price>
+      <price>56000 SEK</price>
+      <g:price>56000 SEK</g:price>
       <address>Eskilstuna</address>
       <address format="simple">
         <component name="addr1">Eskilstuna</component>
@@ -368,10 +368,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-05-19T15:43:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>55000 SEK</frivio:current_bid>
-      <frivio:bid_count>9</frivio:bid_count>
+      <frivio:current_bid>56000 SEK</frivio:current_bid>
+      <frivio:bid_count>11</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>870 kr/mån</frivio:monthly_cost>
+      <frivio:monthly_cost>886 kr/mån</frivio:monthly_cost>
       <body_style>OTHER</body_style>
       <frivio:body_type_label>Båt</frivio:body_type_label>
       <fuel_type>NONE</fuel_type>
@@ -570,8 +570,8 @@
         <value>0</value>
         <unit>KM</unit>
       </mileage>
-      <price>75000 SEK</price>
-      <g:price>75000 SEK</g:price>
+      <price>80000 SEK</price>
+      <g:price>80000 SEK</g:price>
       <address>Oskarshamn</address>
       <address format="simple">
         <component name="addr1">Oskarshamn</component>
@@ -584,10 +584,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-05-20T15:30:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>75000 SEK</frivio:current_bid>
-      <frivio:bid_count>3</frivio:bid_count>
+      <frivio:current_bid>80000 SEK</frivio:current_bid>
+      <frivio:bid_count>4</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>1187 kr/mån</frivio:monthly_cost>
+      <frivio:monthly_cost>1266 kr/mån</frivio:monthly_cost>
       <body_style>OTHER</body_style>
       <frivio:body_type_label>Husvagn</frivio:body_type_label>
       <fuel_type>NONE</fuel_type>
@@ -1738,6 +1738,57 @@
       <custom_label_1>Slutar 2026-05-31 15:54</custom_label_1>
     </item>
     <item>
+      <vehicle_id>534</vehicle_id>
+      <g:id>534</g:id>
+      <title>Alloycraft J370</title>
+      <description>Mycket trevlig Alloycraft J370 med 9.9hk motor och trailer. Här får ni alltså ett komplett paket! Robust och lättkörd aluminiumbåt från 2020 som passar lika bra till fiske som lugna turer på sjön. Den helsvetsade konstruktionen ger en stabil känsla i vattnet och båten är enkel att hantera både vid sjösättning och transport. Denna är redo för sommarens äventyr direkt. En smidig och tålig båt med plats för upp till 3 personer. - Extrautrustad med lådor, golv, fästplatta för frontmotor - Egenbyggda hyllor för batteri och bensindunk - Motorn har gått 27 timmar Årsmodell: 2020 · Typ: Båt · Ort: Växjö</description>
+      <url>https://frivio.se/auktion/534</url>
+      <g:link>https://frivio.se/auktion/534</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/534/a1779106975389.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/534/a1779106975389.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/534/b1779106975528.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/534/c1779106974931.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/534/d1779106975117.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/534/e1779106975813.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/534/f1779106975679.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/534/g1779106975285.jpeg</g:additional_image_link>
+      <make>Alloycraft</make>
+      <model>Alloycraft J370</model>
+      <year>2020</year>
+      <mileage>
+        <value>0</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>25000 SEK</price>
+      <g:price>25000 SEK</g:price>
+      <address>Växjö</address>
+      <address format="simple">
+        <component name="addr1">Växjö</component>
+        <component name="city">Växjö</component>
+        <component name="region">Kronoberg</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <frivio:listing_type>auction</frivio:listing_type>
+      <frivio:auction_end_date>2026-05-31T17:20:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>25000 SEK</frivio:current_bid>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
+      <frivio:monthly_cost>396 kr/mån</frivio:monthly_cost>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Båt</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
+      <frivio:region>Kronoberg</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Båt</custom_label_0>
+      <custom_label_1>Slutar 2026-05-31 17:20</custom_label_1>
+    </item>
+    <item>
       <vehicle_id>516</vehicle_id>
       <g:id>516</g:id>
       <title>Adria Altea 492 LU</title>
@@ -1847,6 +1898,61 @@
       <custom_label_1>Slutar 2026-06-01 15:50</custom_label_1>
     </item>
     <item>
+      <vehicle_id>533</vehicle_id>
+      <g:id>533</g:id>
+      <title>Örnvik</title>
+      <description>Välhållen Örnvik-båt med Yanmar YSB 12 inombordare. Båten har haft en och samma ägare sedan ny och har aldrig legat i hamn, utan alltid tagits upp efter användning, vilket bidragit till dess fina skick. Stabil och trygg båt med praktisk hytt, gott om utrymme och enkel hantering. Perfekt för fiske, utflykter eller lugna turer på sjön. En pålitlig klassiker redo för nya äventyr. - Originalhytt - Sötvattenkylning - Nytt kapell - Trailer på bild ingår Årsmodell: 1977 · Typ: Båt · Ort: Kävlinge</description>
+      <url>https://frivio.se/auktion/533</url>
+      <g:link>https://frivio.se/auktion/533</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/533/a1779106552004.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/533/a1779106552004.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/533/b1779106552316.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/533/c1779106552175.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/533/d1779106552433.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/533/e1779106553003.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/533/f1779106552571.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/533/g1779106553150.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/533/h1779106552722.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/533/i1779106552851.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/533/j1779106553435.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/533/k1779106553289.jpeg</g:additional_image_link>
+      <make>Örnvik</make>
+      <model>Örnvik</model>
+      <year>1977</year>
+      <mileage>
+        <value>0</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>25000 SEK</price>
+      <g:price>25000 SEK</g:price>
+      <address>Kävlinge</address>
+      <address format="simple">
+        <component name="addr1">Kävlinge</component>
+        <component name="city">Kävlinge</component>
+        <component name="region">Skåne</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <frivio:listing_type>auction</frivio:listing_type>
+      <frivio:auction_end_date>2026-06-01T16:15:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>25000 SEK</frivio:current_bid>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
+      <frivio:monthly_cost>396 kr/mån</frivio:monthly_cost>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Båt</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
+      <frivio:region>Skåne</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Båt</custom_label_0>
+      <custom_label_1>Slutar 2026-06-01 16:15</custom_label_1>
+    </item>
+    <item>
       <vehicle_id>531</vehicle_id>
       <g:id>531</g:id>
       <title>Hobby 560 FC PRESTIGE</title>
@@ -1954,6 +2060,61 @@
       <availability>AVAILABLE</availability>
       <custom_label_0>Båt</custom_label_0>
       <custom_label_1>Slutar 2026-06-03 14:35</custom_label_1>
+    </item>
+    <item>
+      <vehicle_id>532</vehicle_id>
+      <g:id>532</g:id>
+      <title>Kabe Royal 720 GXL KS</title>
+      <description>Kabe Royal 720 GXL KS från 2008. Stor och rymlig husvagn med sovplatser för 5 personer, och rymligt Isabella 3-meters förält. Vagnen har en praktisk planlösning med rundsittgrupp bak och dubbelsäng fram samt gott om förvaring i hela vagnen. Utrustad med stor kyl och frys, ugn samt AC för behagligare temperatur under varma dagar. Passar både för längre semestrar och säsongscamping där man vill ha ordentligt med utrymme och komfort. - Besiktad till 2028-04-30 - Fukttest utfört UA 2026 Årsmodell: 2008 · Typ: Husvagn · Ort: Vimmerby</description>
+      <url>https://frivio.se/auktion/532</url>
+      <g:link>https://frivio.se/auktion/532</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/532/a1779106322788.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/532/a1779106322788.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/532/b1779106323213.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/532/c1779106322226.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/532/d1779106323517.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/532/e1779106321230.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/532/f1779106321649.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/532/g1779106321881.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/532/h1779106321450.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/532/i1779106322406.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/532/j1779106322058.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/532/k1779106322612.jpeg</g:additional_image_link>
+      <make>Kabe</make>
+      <model>Royal 720 GXL KS</model>
+      <year>2008</year>
+      <mileage>
+        <value>0</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>110000 SEK</price>
+      <g:price>110000 SEK</g:price>
+      <address>Vimmerby</address>
+      <address format="simple">
+        <component name="addr1">Vimmerby</component>
+        <component name="city">Vimmerby</component>
+        <component name="region">Kalmar</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <frivio:listing_type>auction</frivio:listing_type>
+      <frivio:auction_end_date>2026-06-03T14:52:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>110000 SEK</frivio:current_bid>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
+      <frivio:monthly_cost>1740 kr/mån</frivio:monthly_cost>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Husvagn</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
+      <frivio:region>Kalmar</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Husvagn</custom_label_0>
+      <custom_label_1>Slutar 2026-06-03 14:52</custom_label_1>
     </item>
   </channel>
 </rss>
