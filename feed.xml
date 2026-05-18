@@ -4,225 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Mon, 18 May 2026 14:36:30 GMT</lastBuildDate>
-    <item>
-      <vehicle_id>519</vehicle_id>
-      <g:id>519</g:id>
-      <title>Royal Regal 250XL</title>
-      <description>Royal Regal 250 XL från 1989 - en rymlig och trygg båt i mycket gott skick. Perfekt för både familj och vänner som vill njuta av många dagar på sjön. Båten är välskött och har fått löpande omsorg. Ett riktigt bra val för dig som vill ha en stabil och motorstark båt utan stora överraskningar. - Dubbla Volvo Penta-motorer ,helt genomgångna - Ny servad &amp; vinterkonserverad - Startklar för säsongen - Driftsäker och pigg på vattnet - Båtsläp medföljer (30-kärra) - Nytt kapell 2023 – mycket fint skick - Nya sportstolar fram – bekväma och snygga - Nylackad träinteriör – fräsch och välvårdad look i hela båten - Gott om sittplatser och bra planlösning - Badplattform med stege - Flera stuvutrymmen Årsmodell: 1989 · Typ: Båt · Ort: Södertälje</description>
-      <url>https://frivio.se/auktion/519</url>
-      <g:link>https://frivio.se/auktion/519</g:link>
-      <image>
-        <url>https://backend.frivio.se/vehicle/519/a1778165124095.jpeg</url>
-        <tag>Exterior</tag>
-      </image>
-      <g:image_link>https://backend.frivio.se/vehicle/519/a1778165124095.jpeg</g:image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/519/b1778165124240.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/519/c1778165124437.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/519/d1778165124571.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/519/e1778165124706.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/519/f1778165125094.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/519/g1778165124855.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/519/h1778165125335.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/519/i1778165125207.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/519/j1778165124975.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/519/k1778165123896.jpeg</g:additional_image_link>
-      <make>Royal</make>
-      <model>Royal Regal 250XL</model>
-      <year>1989</year>
-      <mileage>
-        <value>0</value>
-        <unit>KM</unit>
-      </mileage>
-      <price>80500 SEK</price>
-      <g:price>80500 SEK</g:price>
-      <address>Södertälje</address>
-      <address format="simple">
-        <component name="addr1">Södertälje</component>
-        <component name="city">Södertälje</component>
-        <component name="region">Stockholm</component>
-        <component name="country">SE</component>
-      </address>
-      <condition>GOOD</condition>
-      <state_of_vehicle>USED</state_of_vehicle>
-      <frivio:listing_type>auction</frivio:listing_type>
-      <frivio:auction_end_date>2026-05-18T14:42:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>80500 SEK</frivio:current_bid>
-      <frivio:bid_count>1</frivio:bid_count>
-      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>1274 kr/mån</frivio:monthly_cost>
-      <body_style>OTHER</body_style>
-      <frivio:body_type_label>Båt</frivio:body_type_label>
-      <fuel_type>NONE</fuel_type>
-      <frivio:region>Stockholm</frivio:region>
-      <availability>AVAILABLE</availability>
-      <custom_label_0>Båt</custom_label_0>
-      <custom_label_1>Slutar 2026-05-18 14:42</custom_label_1>
-    </item>
-    <item>
-      <vehicle_id>506</vehicle_id>
-      <g:id>506</g:id>
-      <title>Eura-mobil Integra Line LS 810</title>
-      <description>Eura Mobil Integra Line LS 810 från 2014 i mycket fint skick med endast 3 600 mil på mätaren. En stor, rymlig och lyxig helintegrerad husbil med hög komfort och smart planlösning. Generösa ytor, gott om förvaring och en exklusiv känsla rakt igenom. Perfekt för långa resor med maximal bekvämlighet. Ett mycket välvårdat exemplar redo för nya äventyr! - Fukttest utfört april 2026 UA - Duo-Control - Värmeväxlare - Nya batterier - 2 gasolflaskor - Hydraliska stödben fram, mekaniska bak - Nyservad - Kamkedja Årsmodell: 2014 · Typ: Husbil · Drivmedel: Diesel · Växellåda: Automatisk · Mätarställning: 3 600 mil · Ort: Kungsbacka</description>
-      <url>https://frivio.se/auktion/506</url>
-      <g:link>https://frivio.se/auktion/506</g:link>
-      <image>
-        <url>https://backend.frivio.se/vehicle/506/a1777906928007.jpeg</url>
-        <tag>Exterior</tag>
-      </image>
-      <g:image_link>https://backend.frivio.se/vehicle/506/a1777906928007.jpeg</g:image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/506/b1777906927872.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/506/c1777906928861.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/506/d1777906927050.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/506/e1777906927207.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/506/f1777906927356.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/506/g1777906927495.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/506/h1777906927610.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/506/i1777906928425.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/506/j1777906928578.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/506/k1777906928721.jpeg</g:additional_image_link>
-      <make>Eura-mobil</make>
-      <model>Integra Line LS 810</model>
-      <year>2014</year>
-      <mileage>
-        <value>36000</value>
-        <unit>KM</unit>
-      </mileage>
-      <price>711000 SEK</price>
-      <g:price>711000 SEK</g:price>
-      <address>Kungsbacka</address>
-      <address format="simple">
-        <component name="addr1">Kungsbacka</component>
-        <component name="city">Kungsbacka</component>
-        <component name="region">Halland</component>
-        <component name="country">SE</component>
-      </address>
-      <condition>GOOD</condition>
-      <state_of_vehicle>USED</state_of_vehicle>
-      <transmission>AUTOMATIC</transmission>
-      <frivio:listing_type>auction</frivio:listing_type>
-      <frivio:auction_end_date>2026-05-18T15:01:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>711000 SEK</frivio:current_bid>
-      <frivio:bid_count>6</frivio:bid_count>
-      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>11250 kr/mån</frivio:monthly_cost>
-      <body_style>VAN</body_style>
-      <frivio:body_type_label>Husbil</frivio:body_type_label>
-      <fuel_type>DIESEL</fuel_type>
-      <frivio:region>Halland</frivio:region>
-      <availability>AVAILABLE</availability>
-      <custom_label_0>Husbil</custom_label_0>
-      <custom_label_1>Slutar 2026-05-18 15:01</custom_label_1>
-    </item>
-    <item>
-      <vehicle_id>482</vehicle_id>
-      <g:id>482</g:id>
-      <title>Hobby 540 UL DE LUXE</title>
-      <description>Hobby 540 UL Deluxe från 2014. Välplanerad planlösning med separata enkelsängar bak, rymlig sittgrupp fram och ett funktionellt kök med bra förvaring. Utrustad med stort kylskåp, gott om skåp och smarta detaljer som gör semestern bekväm. Perfekt för både kortare utflykter och längre resor - en trivsam husvagn med hög komfort och praktiska lösningar för ett smidigt campingliv. - Finns en repa på ena sidan (se bild) samt en mindre på andra sidan. - Endast 1 tidigare ägare sedan ny Årsmodell: 2014 · Typ: Husvagn · Ort: Kalmar</description>
-      <url>https://frivio.se/auktion/482</url>
-      <g:link>https://frivio.se/auktion/482</g:link>
-      <image>
-        <url>https://backend.frivio.se/vehicle/482/a1777290597409.jpeg</url>
-        <tag>Exterior</tag>
-      </image>
-      <g:image_link>https://backend.frivio.se/vehicle/482/a1777290597409.jpeg</g:image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/482/b1777290598057.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/482/c1777290600216.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/482/d1777290597208.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/482/e1777290601377.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/482/f1777290601535.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/482/g1777290600387.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/482/h1777290601211.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/482/i1777290600558.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/482/j1777290597756.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/482/l1777290600708.jpeg</g:additional_image_link>
-      <make>Hobby</make>
-      <model>540 UL DE LUXE</model>
-      <year>2014</year>
-      <mileage>
-        <value>0</value>
-        <unit>KM</unit>
-      </mileage>
-      <price>80000 SEK</price>
-      <g:price>80000 SEK</g:price>
-      <address>Kalmar</address>
-      <address format="simple">
-        <component name="addr1">Kalmar</component>
-        <component name="city">Kalmar</component>
-        <component name="region">Kalmar</component>
-        <component name="country">SE</component>
-      </address>
-      <condition>GOOD</condition>
-      <state_of_vehicle>USED</state_of_vehicle>
-      <frivio:listing_type>auction</frivio:listing_type>
-      <frivio:auction_end_date>2026-05-18T15:37:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>80000 SEK</frivio:current_bid>
-      <frivio:bid_count>6</frivio:bid_count>
-      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>1266 kr/mån</frivio:monthly_cost>
-      <body_style>OTHER</body_style>
-      <frivio:body_type_label>Husvagn</frivio:body_type_label>
-      <fuel_type>NONE</fuel_type>
-      <frivio:region>Kalmar</frivio:region>
-      <availability>AVAILABLE</availability>
-      <custom_label_0>Husvagn</custom_label_0>
-      <custom_label_1>Slutar 2026-05-18 15:37</custom_label_1>
-    </item>
-    <item>
-      <vehicle_id>486</vehicle_id>
-      <g:id>486</g:id>
-      <title>Swemax 690</title>
-      <description>Trevlig och klassisk Swemax 690 från 1982, en stabil och välbyggd svensk fritidsbåt på strax under 7 meter. Båten är känd för sin robusta konstruktion, goda sjöegenskaper och praktiska planlösning som passar både dagsturer och övernattning . Rymlig hytt med sittplatser, bra förvaringsutrymmen och möjlighet till kojplatser. En pålitlig familjebåt med tidlös design, perfekt för skärgårdsliv och bekväma turer på vattnet. - Inombordare AQ130 Volvo Penta - Plotter - Kyl, spis, sjö- och färskvattentank - Värmare - Badbrygga - 30-kärra ingår Årsmodell: 1982 · Typ: Båt · Ort: Sala</description>
-      <url>https://frivio.se/auktion/486</url>
-      <g:link>https://frivio.se/auktion/486</g:link>
-      <image>
-        <url>https://backend.frivio.se/vehicle/486/b1778239063531.jpeg</url>
-        <tag>Exterior</tag>
-      </image>
-      <g:image_link>https://backend.frivio.se/vehicle/486/b1778239063531.jpeg</g:image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/486/c1778239063709.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/486/d1778239064007.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/486/d1778239121155.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/486/e1778239121438.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/486/f1778239121566.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/486/g1778239121319.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/486/h1778239121671.jpeg</g:additional_image_link>
-      <make>Swemax</make>
-      <model>Swemax 690</model>
-      <year>1982</year>
-      <mileage>
-        <value>0</value>
-        <unit>KM</unit>
-      </mileage>
-      <price>32500 SEK</price>
-      <g:price>32500 SEK</g:price>
-      <address>Sala</address>
-      <address format="simple">
-        <component name="addr1">Sala</component>
-        <component name="city">Sala</component>
-        <component name="region">Västmanland</component>
-        <component name="country">SE</component>
-      </address>
-      <condition>GOOD</condition>
-      <state_of_vehicle>USED</state_of_vehicle>
-      <frivio:listing_type>auction</frivio:listing_type>
-      <frivio:auction_end_date>2026-05-18T16:28:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>32500 SEK</frivio:current_bid>
-      <frivio:bid_count>0</frivio:bid_count>
-      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
-      <frivio:monthly_cost>514 kr/mån</frivio:monthly_cost>
-      <body_style>OTHER</body_style>
-      <frivio:body_type_label>Båt</frivio:body_type_label>
-      <fuel_type>NONE</fuel_type>
-      <frivio:region>Västmanland</frivio:region>
-      <availability>AVAILABLE</availability>
-      <custom_label_0>Båt</custom_label_0>
-      <custom_label_1>Slutar 2026-05-18 16:28</custom_label_1>
-    </item>
+    <lastBuildDate>Mon, 18 May 2026 17:33:46 GMT</lastBuildDate>
     <item>
       <vehicle_id>505</vehicle_id>
       <g:id>505</g:id>
@@ -252,8 +34,8 @@
         <value>0</value>
         <unit>KM</unit>
       </mileage>
-      <price>80000 SEK</price>
-      <g:price>80000 SEK</g:price>
+      <price>82000 SEK</price>
+      <g:price>82000 SEK</g:price>
       <address>Mönsterås</address>
       <address format="simple">
         <component name="addr1">Mönsterås</component>
@@ -266,10 +48,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-05-18T17:56:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>80000 SEK</frivio:current_bid>
-      <frivio:bid_count>2</frivio:bid_count>
+      <frivio:current_bid>82000 SEK</frivio:current_bid>
+      <frivio:bid_count>3</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>1266 kr/mån</frivio:monthly_cost>
+      <frivio:monthly_cost>1297 kr/mån</frivio:monthly_cost>
       <body_style>OTHER</body_style>
       <frivio:body_type_label>Husvagn</frivio:body_type_label>
       <fuel_type>NONE</fuel_type>
@@ -1176,7 +958,7 @@
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-05-25T16:07:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
       <frivio:current_bid>150000 SEK</frivio:current_bid>
       <frivio:bid_count>0</frivio:bid_count>
       <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
@@ -1230,7 +1012,7 @@
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-05-25T17:22:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
       <frivio:current_bid>150000 SEK</frivio:current_bid>
       <frivio:bid_count>3</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
