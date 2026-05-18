@@ -4,7 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Mon, 18 May 2026 07:50:09 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 10:21:09 GMT</lastBuildDate>
     <item>
       <vehicle_id>519</vehicle_id>
       <g:id>519</g:id>
@@ -1845,6 +1845,115 @@
       <availability>AVAILABLE</availability>
       <custom_label_0>Husvagn</custom_label_0>
       <custom_label_1>Slutar 2026-06-01 15:50</custom_label_1>
+    </item>
+    <item>
+      <vehicle_id>531</vehicle_id>
+      <g:id>531</g:id>
+      <title>Hobby 560 FC PRESTIGE</title>
+      <description>Första reg: 2024-08-02 Fabriksgaranti 2 år Nya dubbade vinterhjul på stålfälg monterade 15&quot; Aluminium fälgar på sommar Förstärkt chassie för möjlig ändring lastvikt till högre totalvikt Utv. belysning Bodelsdörr med fönster Plats för 2 gasolflaskor Dragkrok 13 pol Stödben manuella Extra lastlucka sängplatser: 2-4 1st Bodelsbatteri Mörklägg. gardiner bodel Takluckor: 3 Klädsel: Textil U-soffa Bäddbar sittgrupp Fällbart bord Stort Vinkelskök Bra med avställningsyta Kylskåp med frysfack 230V - 12V - Gasol AES - Automatisk Gasolspis med gnist Vitrinskåp Skofack Badrum med duschkabin Franskbädd Förvaring under säng LED-belysning Hög garderob Låg garderob Garderob för galgar Myggnätsdörr TRUMA 6E combi med el patron Varmvattensberedare 220V uttag i bodel USB uttag i bodel Brandvarnare Gaslarm Elektrisk golvvärme Frostvakt Hobby connect Bluetooth Årsmodell: 2024 · Typ: Husvagn · Ort: Norrtälje</description>
+      <url>https://frivio.se/auktion/531</url>
+      <g:link>https://frivio.se/auktion/531</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/531/a1779096635194.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/531/a1779096635194.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/531/b1779096637680.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/531/c1779096636473.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/531/d1779096634287.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/531/e1779096634471.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/531/f1779096635919.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/531/g1779096634628.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/531/h1779096636619.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/531/i1779096637220.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/531/j1779096637375.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/531/k1779096637528.jpeg</g:additional_image_link>
+      <make>Hobby</make>
+      <model>560 FC PRESTIGE</model>
+      <year>2024</year>
+      <mileage>
+        <value>0</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>269900 SEK</price>
+      <g:price>269900 SEK</g:price>
+      <address>Norrtälje</address>
+      <address format="simple">
+        <component name="addr1">Norrtälje</component>
+        <component name="city">Norrtälje</component>
+        <component name="region">Stockholm</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <frivio:listing_type>fixed_price</frivio:listing_type>
+      <frivio:auction_end_date>2026-06-02T17:30:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Ej tillämpligt (fast pris)</frivio:reserve_price_status>
+      <frivio:monthly_cost>4270 kr/mån</frivio:monthly_cost>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Husvagn</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
+      <frivio:region>Stockholm</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Husvagn</custom_label_0>
+      <custom_label_1>Slutar 2026-06-02 17:30</custom_label_1>
+    </item>
+    <item>
+      <vehicle_id>530</vehicle_id>
+      <g:id>530</g:id>
+      <title>Bayliner 2855 Sierra Sunbridge</title>
+      <description>Bayliner 2855 Sierra Sunbridge (1988) - En rymlig och välutrustad dieselcruiser med stark Volvo Penta D4 på 260 hk och 440h. Båten erbjuder generösa utrymmen både ute och inne, med bekväm kabin för upp till 6 personer, pentry och separat toalett med dusch. Utrustad med bland annat bogpropeller, plotter, solceller och landström - perfekt för längre turer och övernattning. Ankarspelet fungerar i dagsläget inte, vilket innebär att man ankrar manuellt. - Farthållare och automatiskt trim - DPH drev med nya rostfria proppar - QL trimplan - Bogpropeller - 5 batterier - Värmare - Pentry med kylskåp &amp; frysfack, spis som drivs med sprit eller 220 - Toa med septitank (land och sjötömning) - Dusch på badbryggan Årsmodell: 1988 · Typ: Båt · Ort: Uddevalla</description>
+      <url>https://frivio.se/auktion/530</url>
+      <g:link>https://frivio.se/auktion/530</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/530/a1779093390127.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/530/a1779093390127.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/530/b1779093389275.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/530/c1779093389455.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/530/d1779093389603.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/530/e1779093389748.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/530/f1779093389996.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/530/g1779093389886.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/530/h1779093390388.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/530/i1779093390273.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/530/j1779093390630.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/530/k1779093390509.jpeg</g:additional_image_link>
+      <make>Bayliner</make>
+      <model>Bayliner 2855 Sierra Sunbridge</model>
+      <year>1988</year>
+      <mileage>
+        <value>0</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>130000 SEK</price>
+      <g:price>130000 SEK</g:price>
+      <address>Uddevalla</address>
+      <address format="simple">
+        <component name="addr1">Uddevalla</component>
+        <component name="city">Uddevalla</component>
+        <component name="region">Västra Götaland</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <frivio:listing_type>auction</frivio:listing_type>
+      <frivio:auction_end_date>2026-06-03T14:35:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>130000 SEK</frivio:current_bid>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
+      <frivio:monthly_cost>2057 kr/mån</frivio:monthly_cost>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Båt</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
+      <frivio:region>Västra Götaland</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Båt</custom_label_0>
+      <custom_label_1>Slutar 2026-06-03 14:35</custom_label_1>
     </item>
   </channel>
 </rss>
