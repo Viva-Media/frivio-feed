@@ -4,7 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Mon, 18 May 2026 05:12:37 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 07:50:09 GMT</lastBuildDate>
     <item>
       <vehicle_id>519</vehicle_id>
       <g:id>519</g:id>
@@ -57,6 +57,8 @@
       <fuel_type>NONE</fuel_type>
       <frivio:region>Stockholm</frivio:region>
       <availability>AVAILABLE</availability>
+      <custom_label_0>Båt</custom_label_0>
+      <custom_label_1>Slutar 2026-05-18 14:42</custom_label_1>
     </item>
     <item>
       <vehicle_id>506</vehicle_id>
@@ -111,6 +113,8 @@
       <fuel_type>DIESEL</fuel_type>
       <frivio:region>Halland</frivio:region>
       <availability>AVAILABLE</availability>
+      <custom_label_0>Husbil</custom_label_0>
+      <custom_label_1>Slutar 2026-05-18 15:01</custom_label_1>
     </item>
     <item>
       <vehicle_id>482</vehicle_id>
@@ -164,6 +168,8 @@
       <fuel_type>NONE</fuel_type>
       <frivio:region>Kalmar</frivio:region>
       <availability>AVAILABLE</availability>
+      <custom_label_0>Husvagn</custom_label_0>
+      <custom_label_1>Slutar 2026-05-18 15:37</custom_label_1>
     </item>
     <item>
       <vehicle_id>486</vehicle_id>
@@ -214,6 +220,8 @@
       <fuel_type>NONE</fuel_type>
       <frivio:region>Västmanland</frivio:region>
       <availability>AVAILABLE</availability>
+      <custom_label_0>Båt</custom_label_0>
+      <custom_label_1>Slutar 2026-05-18 16:28</custom_label_1>
     </item>
     <item>
       <vehicle_id>505</vehicle_id>
@@ -267,6 +275,8 @@
       <fuel_type>NONE</fuel_type>
       <frivio:region>Kalmar</frivio:region>
       <availability>AVAILABLE</availability>
+      <custom_label_0>Husvagn</custom_label_0>
+      <custom_label_1>Slutar 2026-05-18 17:56</custom_label_1>
     </item>
     <item>
       <vehicle_id>483</vehicle_id>
@@ -315,6 +325,8 @@
       <fuel_type>NONE</fuel_type>
       <frivio:region>Stockholm</frivio:region>
       <availability>AVAILABLE</availability>
+      <custom_label_0>Båt</custom_label_0>
+      <custom_label_1>Slutar 2026-05-19 14:47</custom_label_1>
     </item>
     <item>
       <vehicle_id>487</vehicle_id>
@@ -342,8 +354,8 @@
         <value>0</value>
         <unit>KM</unit>
       </mileage>
-      <price>54000 SEK</price>
-      <g:price>54000 SEK</g:price>
+      <price>55000 SEK</price>
+      <g:price>55000 SEK</g:price>
       <address>Eskilstuna</address>
       <address format="simple">
         <component name="addr1">Eskilstuna</component>
@@ -356,15 +368,17 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-05-19T15:43:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>54000 SEK</frivio:current_bid>
-      <frivio:bid_count>7</frivio:bid_count>
+      <frivio:current_bid>55000 SEK</frivio:current_bid>
+      <frivio:bid_count>9</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>854 kr/mån</frivio:monthly_cost>
+      <frivio:monthly_cost>870 kr/mån</frivio:monthly_cost>
       <body_style>OTHER</body_style>
       <frivio:body_type_label>Båt</frivio:body_type_label>
       <fuel_type>NONE</fuel_type>
       <frivio:region>Södermanland</frivio:region>
       <availability>AVAILABLE</availability>
+      <custom_label_0>Båt</custom_label_0>
+      <custom_label_1>Slutar 2026-05-19 15:43</custom_label_1>
     </item>
     <item>
       <vehicle_id>508</vehicle_id>
@@ -417,6 +431,8 @@
       <fuel_type>NONE</fuel_type>
       <frivio:region>Västra Götaland</frivio:region>
       <availability>AVAILABLE</availability>
+      <custom_label_0>Husvagn</custom_label_0>
+      <custom_label_1>Slutar 2026-05-20 14:52</custom_label_1>
     </item>
     <item>
       <vehicle_id>500</vehicle_id>
@@ -470,6 +486,8 @@
       <fuel_type>NONE</fuel_type>
       <frivio:region>Västernorrland</frivio:region>
       <availability>AVAILABLE</availability>
+      <custom_label_0>Husvagn</custom_label_0>
+      <custom_label_1>Slutar 2026-05-20 14:57</custom_label_1>
     </item>
     <item>
       <vehicle_id>498</vehicle_id>
@@ -520,6 +538,8 @@
       <fuel_type>NONE</fuel_type>
       <frivio:region>Kalmar</frivio:region>
       <availability>AVAILABLE</availability>
+      <custom_label_0>Husvagn</custom_label_0>
+      <custom_label_1>Slutar 2026-05-20 15:25</custom_label_1>
     </item>
     <item>
       <vehicle_id>479</vehicle_id>
@@ -573,6 +593,8 @@
       <fuel_type>NONE</fuel_type>
       <frivio:region>Kalmar</frivio:region>
       <availability>AVAILABLE</availability>
+      <custom_label_0>Husvagn</custom_label_0>
+      <custom_label_1>Slutar 2026-05-20 15:30</custom_label_1>
     </item>
     <item>
       <vehicle_id>501</vehicle_id>
@@ -626,6 +648,8 @@
       <fuel_type>NONE</fuel_type>
       <frivio:region>Jönköping</frivio:region>
       <availability>AVAILABLE</availability>
+      <custom_label_0>Husvagn</custom_label_0>
+      <custom_label_1>Slutar 2026-05-20 15:32</custom_label_1>
     </item>
     <item>
       <vehicle_id>513</vehicle_id>
@@ -674,6 +698,8 @@
       <fuel_type>NONE</fuel_type>
       <frivio:region>Uppsala</frivio:region>
       <availability>AVAILABLE</availability>
+      <custom_label_0>Båt</custom_label_0>
+      <custom_label_1>Slutar 2026-05-20 17:38</custom_label_1>
     </item>
     <item>
       <vehicle_id>499</vehicle_id>
@@ -727,6 +753,8 @@
       <fuel_type>NONE</fuel_type>
       <frivio:region>Jönköping</frivio:region>
       <availability>AVAILABLE</availability>
+      <custom_label_0>Husvagn</custom_label_0>
+      <custom_label_1>Slutar 2026-05-20 17:55</custom_label_1>
     </item>
     <item>
       <vehicle_id>512</vehicle_id>
@@ -777,6 +805,8 @@
       <fuel_type>NONE</fuel_type>
       <frivio:region>Västmanland</frivio:region>
       <availability>AVAILABLE</availability>
+      <custom_label_0>Husvagn</custom_label_0>
+      <custom_label_1>Slutar 2026-05-20 18:24</custom_label_1>
     </item>
     <item>
       <vehicle_id>514</vehicle_id>
@@ -831,6 +861,8 @@
       <fuel_type>DIESEL</fuel_type>
       <frivio:region>Stockholm</frivio:region>
       <availability>AVAILABLE</availability>
+      <custom_label_0>Husbil</custom_label_0>
+      <custom_label_1>Slutar 2026-05-21 14:50</custom_label_1>
     </item>
     <item>
       <vehicle_id>509</vehicle_id>
@@ -884,6 +916,8 @@
       <fuel_type>NONE</fuel_type>
       <frivio:region>Stockholm</frivio:region>
       <availability>AVAILABLE</availability>
+      <custom_label_0>Husvagn</custom_label_0>
+      <custom_label_1>Slutar 2026-05-21 16:18</custom_label_1>
     </item>
     <item>
       <vehicle_id>458</vehicle_id>
@@ -936,6 +970,8 @@
       <fuel_type>NONE</fuel_type>
       <frivio:region>Kronoberg</frivio:region>
       <availability>AVAILABLE</availability>
+      <custom_label_0>Husvagn</custom_label_0>
+      <custom_label_1>Slutar 2026-05-21 17:09</custom_label_1>
     </item>
     <item>
       <vehicle_id>515</vehicle_id>
@@ -984,6 +1020,8 @@
       <fuel_type>NONE</fuel_type>
       <frivio:region>Värmland</frivio:region>
       <availability>AVAILABLE</availability>
+      <custom_label_0>Båt</custom_label_0>
+      <custom_label_1>Slutar 2026-05-21 18:30</custom_label_1>
     </item>
     <item>
       <vehicle_id>521</vehicle_id>
@@ -1037,6 +1075,8 @@
       <fuel_type>DIESEL</fuel_type>
       <frivio:region>Gävleborg</frivio:region>
       <availability>AVAILABLE</availability>
+      <custom_label_0>Husbil</custom_label_0>
+      <custom_label_1>Slutar 2026-05-24 17:24</custom_label_1>
     </item>
     <item>
       <vehicle_id>504</vehicle_id>
@@ -1091,6 +1131,8 @@
       <fuel_type>DIESEL</fuel_type>
       <frivio:region>Blekinge</frivio:region>
       <availability>AVAILABLE</availability>
+      <custom_label_0>Husbil</custom_label_0>
+      <custom_label_1>Slutar 2026-05-24 17:36</custom_label_1>
     </item>
     <item>
       <vehicle_id>511</vehicle_id>
@@ -1144,6 +1186,8 @@
       <fuel_type>NONE</fuel_type>
       <frivio:region>Uppsala</frivio:region>
       <availability>AVAILABLE</availability>
+      <custom_label_0>Båt</custom_label_0>
+      <custom_label_1>Slutar 2026-05-25 16:07</custom_label_1>
     </item>
     <item>
       <vehicle_id>522</vehicle_id>
@@ -1196,6 +1240,8 @@
       <fuel_type>NONE</fuel_type>
       <frivio:region>Kronoberg</frivio:region>
       <availability>AVAILABLE</availability>
+      <custom_label_0>Husvagn</custom_label_0>
+      <custom_label_1>Slutar 2026-05-25 17:22</custom_label_1>
     </item>
     <item>
       <vehicle_id>518</vehicle_id>
@@ -1248,6 +1294,8 @@
       <fuel_type>DIESEL</fuel_type>
       <frivio:region>Västernorrland</frivio:region>
       <availability>AVAILABLE</availability>
+      <custom_label_0>Husbil</custom_label_0>
+      <custom_label_1>Slutar 2026-05-25 17:40</custom_label_1>
     </item>
     <item>
       <vehicle_id>442</vehicle_id>
@@ -1301,6 +1349,8 @@
       <fuel_type>NONE</fuel_type>
       <frivio:region>Kronoberg</frivio:region>
       <availability>AVAILABLE</availability>
+      <custom_label_0>Båt</custom_label_0>
+      <custom_label_1>Slutar 2026-05-26 15:42</custom_label_1>
     </item>
     <item>
       <vehicle_id>441</vehicle_id>
@@ -1354,6 +1404,8 @@
       <fuel_type>NONE</fuel_type>
       <frivio:region>Kronoberg</frivio:region>
       <availability>AVAILABLE</availability>
+      <custom_label_0>Båt</custom_label_0>
+      <custom_label_1>Slutar 2026-05-26 15:42</custom_label_1>
     </item>
     <item>
       <vehicle_id>525</vehicle_id>
@@ -1407,6 +1459,8 @@
       <fuel_type>NONE</fuel_type>
       <frivio:region>Halland</frivio:region>
       <availability>AVAILABLE</availability>
+      <custom_label_0>Husvagn</custom_label_0>
+      <custom_label_1>Slutar 2026-05-26 18:00</custom_label_1>
     </item>
     <item>
       <vehicle_id>523</vehicle_id>
@@ -1460,6 +1514,8 @@
       <fuel_type>NONE</fuel_type>
       <frivio:region>Halland</frivio:region>
       <availability>AVAILABLE</availability>
+      <custom_label_0>Båt</custom_label_0>
+      <custom_label_1>Slutar 2026-05-26 18:00</custom_label_1>
     </item>
     <item>
       <vehicle_id>520</vehicle_id>
@@ -1512,6 +1568,8 @@
       <fuel_type>NONE</fuel_type>
       <frivio:region>Kalmar</frivio:region>
       <availability>AVAILABLE</availability>
+      <custom_label_0>Husvagn</custom_label_0>
+      <custom_label_1>Slutar 2026-05-26 18:04</custom_label_1>
     </item>
     <item>
       <vehicle_id>527</vehicle_id>
@@ -1565,6 +1623,8 @@
       <fuel_type>NONE</fuel_type>
       <frivio:region>Gävleborg</frivio:region>
       <availability>AVAILABLE</availability>
+      <custom_label_0>Husvagn</custom_label_0>
+      <custom_label_1>Slutar 2026-05-27 14:37</custom_label_1>
     </item>
     <item>
       <vehicle_id>524</vehicle_id>
@@ -1619,6 +1679,8 @@
       <fuel_type>DIESEL</fuel_type>
       <frivio:region>Dalarna</frivio:region>
       <availability>AVAILABLE</availability>
+      <custom_label_0>Husbil</custom_label_0>
+      <custom_label_1>Slutar 2026-05-27 16:38</custom_label_1>
     </item>
     <item>
       <vehicle_id>526</vehicle_id>
@@ -1672,6 +1734,8 @@
       <fuel_type>NONE</fuel_type>
       <frivio:region>Kalmar</frivio:region>
       <availability>AVAILABLE</availability>
+      <custom_label_0>Husvagn</custom_label_0>
+      <custom_label_1>Slutar 2026-05-31 15:54</custom_label_1>
     </item>
     <item>
       <vehicle_id>516</vehicle_id>
@@ -1724,6 +1788,63 @@
       <fuel_type>NONE</fuel_type>
       <frivio:region>Kalmar</frivio:region>
       <availability>AVAILABLE</availability>
+      <custom_label_0>Husvagn</custom_label_0>
+      <custom_label_1>Slutar 2026-05-31 17:43</custom_label_1>
+    </item>
+    <item>
+      <vehicle_id>529</vehicle_id>
+      <g:id>529</g:id>
+      <title>Knaus 650 UDF Exclusive</title>
+      <description>Knaus 650 UDF Scandinavian Selection Exclusive från 2016 är en rymlig och välutrustad familjevagn med hög komfort och smart planlösning. Här får du en lyxig känsla rakt igenom, inklusive praktisk barnkammare och generösa ytor för hela familjen. En mycket trevlig husvagn utrustad med AC för ett bekvämligt inneklimat. - Vattenburen golvvärme - Formsydd heltäckningsmatta till hela vagnen - Franskbädd cirka 150cm bred ink extra Wellpur bäddmadrass - Bäddbart överskåp med skyddsnät inklusive stege - Bäddbar dinett ink Wellpur bäddmadrass - LED-Belysning - Klädvinda - Isabella 3m förtält med lättviktspinnar - Förtältsmatta - Vinterdäck - Besiktad till 2028-04-30 - Fukt- och gasoltestad 2025/2026 - Mindre bruksspår finns i form av en liten buckla (som en enkrona), ett hack i bordet samt en mindre spricka ovanför handfatet. Årsmodell: 2016 · Typ: Husvagn · Ort: Kalmar</description>
+      <url>https://frivio.se/auktion/529</url>
+      <g:link>https://frivio.se/auktion/529</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/529/a1779087043397.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/529/a1779087043397.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/529/b1779087042380.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/529/c1779087041841.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/529/d1779087042997.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/529/e1779087046176.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/529/f1779087042816.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/529/g1779087044004.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/529/h1779087043795.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/529/i1779087044207.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/529/j1779087044421.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/529/k1779087043185.jpeg</g:additional_image_link>
+      <make>Knaus</make>
+      <model>650 UDF Exclusive</model>
+      <year>2016</year>
+      <mileage>
+        <value>0</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>124500 SEK</price>
+      <g:price>124500 SEK</g:price>
+      <address>Kalmar</address>
+      <address format="simple">
+        <component name="addr1">Kalmar</component>
+        <component name="city">Kalmar</component>
+        <component name="region">Kalmar</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <frivio:listing_type>auction</frivio:listing_type>
+      <frivio:auction_end_date>2026-06-01T15:50:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>124500 SEK</frivio:current_bid>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
+      <frivio:monthly_cost>1970 kr/mån</frivio:monthly_cost>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Husvagn</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
+      <frivio:region>Kalmar</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Husvagn</custom_label_0>
+      <custom_label_1>Slutar 2026-06-01 15:50</custom_label_1>
     </item>
   </channel>
 </rss>
