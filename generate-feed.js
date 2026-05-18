@@ -199,6 +199,14 @@ function getAuctionEndIso(v) {
   return new Date(v.auction_end).toISOString();
 }
 
+// Human-readable Swedish auction end label, e.g. "Slutar 2026-05-18 14:42".
+function getAuctionEndLabel(v) {
+  if (!v.auction_end) return '';
+  const d = new Date(v.auction_end);
+  const pad = (n) => String(n).padStart(2, '0');
+  return `Slutar ${d.getFullYear()}-${pad(d.getMonth() + 1)}-${pad(d.getDate())} ${pad(d.getHours())}:${pad(d.getMinutes())}`;
+}
+
 function endsWithinDays(v, days) {
   if (!v.auction_end) return false;
   const diff = v.auction_end - Date.now();
@@ -257,7 +265,12 @@ function generateCSV(vehicles, details) {
     'monthly_cost', 'body_style', 'body_type_label', 'fuel_type', 'transmission',
     // Extra useful fields
     'state_of_vehicle', 'availability', 'currency',
-    'starting_price', 'fixed_price', 'bid_count', 'listing_type'
+    'starting_price', 'fixed_price', 'bid_count', 'listing_type',
+    // Meta custom labels — picked up automatically without manual mapping.
+    // 0 = vehicle type in Swedish (Husbil/Husvagn/Båt) so Malin can filter on
+    // the real category instead of the generic Meta body_style enum (VAN/OTHER).
+    // 1 = human-readable auction end timestamp.
+    'custom_label_0', 'custom_label_1'
   ];
 
   let rows = [headers.join(',')];
@@ -307,7 +320,9 @@ function generateCSV(vehicles, details) {
       escapeCsv(v.starting_price || ''),
       escapeCsv(v.fixed_price || ''),
       escapeCsv(v.bid_count || 0),
-      escapeCsv(isAuction(v) ? 'auction' : 'fixed_price')
+      escapeCsv(isAuction(v) ? 'auction' : 'fixed_price'),
+      escapeCsv(v.vehicle_category || ''),
+      escapeCsv(getAuctionEndLabel(v))
     ];
     rows.push(row.join(','));
     included++;
@@ -421,6 +436,9 @@ function generateXML(vehicles, details) {
     if (v.region) lines.push(`      <frivio:region>${escapeXml(v.region)}</frivio:region>`);
 
     lines.push('      <availability>AVAILABLE</availability>');
+    if (v.vehicle_category) lines.push(`      <custom_label_0>${escapeXml(v.vehicle_category)}</custom_label_0>`);
+    const endLabel = getAuctionEndLabel(v);
+    if (endLabel) lines.push(`      <custom_label_1>${escapeXml(endLabel)}</custom_label_1>`);
     lines.push('    </item>');
     included++;
   }
