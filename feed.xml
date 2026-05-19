@@ -4,7 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Tue, 19 May 2026 16:28:51 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 19:08:55 GMT</lastBuildDate>
     <item>
       <vehicle_id>508</vehicle_id>
       <g:id>508</g:id>
@@ -88,8 +88,8 @@
         <value>0</value>
         <unit>KM</unit>
       </mileage>
-      <price>60500 SEK</price>
-      <g:price>60500 SEK</g:price>
+      <price>61000 SEK</price>
+      <g:price>61000 SEK</g:price>
       <address>Härnösand</address>
       <address format="simple">
         <component name="addr1">Härnösand</component>
@@ -102,10 +102,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-05-20T14:57:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>60500 SEK</frivio:current_bid>
-      <frivio:bid_count>7</frivio:bid_count>
+      <frivio:current_bid>61000 SEK</frivio:current_bid>
+      <frivio:bid_count>8</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>957 kr/mån</frivio:monthly_cost>
+      <frivio:monthly_cost>965 kr/mån</frivio:monthly_cost>
       <body_style>OTHER</body_style>
       <frivio:body_type_label>Husvagn</frivio:body_type_label>
       <fuel_type>NONE</fuel_type>
@@ -300,8 +300,8 @@
         <value>0</value>
         <unit>KM</unit>
       </mileage>
-      <price>110000 SEK</price>
-      <g:price>110000 SEK</g:price>
+      <price>112000 SEK</price>
+      <g:price>112000 SEK</g:price>
       <address>Uppsala</address>
       <address format="simple">
         <component name="addr1">Uppsala</component>
@@ -314,10 +314,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-05-20T17:38:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>110000 SEK</frivio:current_bid>
-      <frivio:bid_count>0</frivio:bid_count>
-      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
-      <frivio:monthly_cost>1740 kr/mån</frivio:monthly_cost>
+      <frivio:current_bid>112000 SEK</frivio:current_bid>
+      <frivio:bid_count>1</frivio:bid_count>
+      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
+      <frivio:monthly_cost>1772 kr/mån</frivio:monthly_cost>
       <body_style>OTHER</body_style>
       <frivio:body_type_label>Båt</frivio:body_type_label>
       <fuel_type>NONE</fuel_type>
@@ -462,8 +462,8 @@
         <value>31000</value>
         <unit>KM</unit>
       </mileage>
-      <price>221000 SEK</price>
-      <g:price>221000 SEK</g:price>
+      <price>235000 SEK</price>
+      <g:price>235000 SEK</g:price>
       <address>Värmdö</address>
       <address format="simple">
         <component name="addr1">Värmdö</component>
@@ -477,10 +477,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-05-21T14:50:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>221000 SEK</frivio:current_bid>
-      <frivio:bid_count>3</frivio:bid_count>
+      <frivio:current_bid>235000 SEK</frivio:current_bid>
+      <frivio:bid_count>4</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>3497 kr/mån</frivio:monthly_cost>
+      <frivio:monthly_cost>3718 kr/mån</frivio:monthly_cost>
       <body_style>VAN</body_style>
       <frivio:body_type_label>Husbil</frivio:body_type_label>
       <fuel_type>DIESEL</fuel_type>
@@ -1074,7 +1074,7 @@
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-05-26T18:00:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
       <frivio:current_bid>147500 SEK</frivio:current_bid>
       <frivio:bid_count>0</frivio:bid_count>
       <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
@@ -1129,7 +1129,7 @@
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-05-26T18:00:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
       <frivio:current_bid>81000 SEK</frivio:current_bid>
       <frivio:bid_count>1</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
@@ -1184,7 +1184,7 @@
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>fixed_price</frivio:listing_type>
       <frivio:auction_end_date>2026-05-26T18:04:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
       <frivio:bid_count>0</frivio:bid_count>
       <frivio:reserve_price_status>Ej tillämpligt (fast pris)</frivio:reserve_price_status>
       <frivio:monthly_cost>4256 kr/mån</frivio:monthly_cost>
