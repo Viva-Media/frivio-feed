@@ -4,7 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Tue, 19 May 2026 19:08:55 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 21:27:25 GMT</lastBuildDate>
     <item>
       <vehicle_id>508</vehicle_id>
       <g:id>508</g:id>
@@ -622,8 +622,8 @@
         <value>0</value>
         <unit>KM</unit>
       </mileage>
-      <price>80000 SEK</price>
-      <g:price>80000 SEK</g:price>
+      <price>80500 SEK</price>
+      <g:price>80500 SEK</g:price>
       <address>Hammarö</address>
       <address format="simple">
         <component name="addr1">Hammarö</component>
@@ -636,10 +636,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-05-21T18:30:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>80000 SEK</frivio:current_bid>
-      <frivio:bid_count>0</frivio:bid_count>
-      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
-      <frivio:monthly_cost>1266 kr/mån</frivio:monthly_cost>
+      <frivio:current_bid>80500 SEK</frivio:current_bid>
+      <frivio:bid_count>1</frivio:bid_count>
+      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
+      <frivio:monthly_cost>1274 kr/mån</frivio:monthly_cost>
       <body_style>OTHER</body_style>
       <frivio:body_type_label>Båt</frivio:body_type_label>
       <fuel_type>NONE</fuel_type>
