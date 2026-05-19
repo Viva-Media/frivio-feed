@@ -4,109 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Tue, 19 May 2026 12:17:38 GMT</lastBuildDate>
-    <item>
-      <vehicle_id>483</vehicle_id>
-      <g:id>483</g:id>
-      <title>AMT 200 DC</title>
-      <description>Välskött AMT 200 DC från 2018 är en modern och lättkörd daycruiser med smarta lösningar och hög komfort. Båten erbjuder generösa sociala ytor, praktisk genomgång till fördäck och övernattningsmöjlighet för två. Stabilt skrov och smidig hantering gör den perfekt för både dagsturer och längre utflykter. Redo för sommarens alla äventyr på sjön! - Ankare - Flagga - Bojlina - Förtöjningslinor med fjäder - Garmin GPS - Nymålad botten - Trailer ingår Årsmodell: 2018 · Typ: Båt · Ort: Södertälje</description>
-      <url>https://frivio.se/auktion/483</url>
-      <g:link>https://frivio.se/auktion/483</g:link>
-      <image>
-        <url>https://backend.frivio.se/vehicle/483/b1778055449277.jpeg</url>
-        <tag>Exterior</tag>
-      </image>
-      <g:image_link>https://backend.frivio.se/vehicle/483/b1778055449277.jpeg</g:image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/483/c1778055449641.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/483/d1778055448705.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/483/e1778055448872.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/483/f1778055448983.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/483/g1778055449116.jpeg</g:additional_image_link>
-      <make>AMT</make>
-      <model>AMT 200 DC</model>
-      <year>2018</year>
-      <mileage>
-        <value>0</value>
-        <unit>KM</unit>
-      </mileage>
-      <price>227000 SEK</price>
-      <g:price>227000 SEK</g:price>
-      <address>Södertälje</address>
-      <address format="simple">
-        <component name="addr1">Södertälje</component>
-        <component name="city">Södertälje</component>
-        <component name="region">Stockholm</component>
-        <component name="country">SE</component>
-      </address>
-      <condition>GOOD</condition>
-      <state_of_vehicle>USED</state_of_vehicle>
-      <frivio:listing_type>auction</frivio:listing_type>
-      <frivio:auction_end_date>2026-05-19T14:47:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>227000 SEK</frivio:current_bid>
-      <frivio:bid_count>8</frivio:bid_count>
-      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>3592 kr/mån</frivio:monthly_cost>
-      <body_style>OTHER</body_style>
-      <frivio:body_type_label>Båt</frivio:body_type_label>
-      <fuel_type>NONE</fuel_type>
-      <frivio:region>Stockholm</frivio:region>
-      <availability>AVAILABLE</availability>
-      <custom_label_0>Båt</custom_label_0>
-      <custom_label_1>Slutar 2026-05-19 14:47</custom_label_1>
-    </item>
-    <item>
-      <vehicle_id>487</vehicle_id>
-      <g:id>487</g:id>
-      <title>Bayliner 602</title>
-      <description>Fin Bayliner 602 från 2002 säljes tillsammans med Mercruiser 4.3 MPI från 2007. Förvarad inomhus i värme under vinterhalvåret. Inredning i gott skick, men finns något mindre hål. Servad varje år med olja och filter, och nu även nyservad innan den ställdes in höstas. En lättkörd och smidig daycruiser med gott om plats för familj och vänner - perfekt för både badturer och lugna utflykter på sjön. - Garmin Echoplotter 92sv med sjökort över Mälaren och Stockholms Skärgård - VHF Radio - Stereo med bluetooth - Dubbla batterier med separata huvudströmbrytare - Hamnkapell i OK-skick (lagat ett par gånger) - Förvaringskapell - Fendrar och förtöjningstampar - Nya tändkablar, tändstift, rotor och pick-up, tändspole, tändbox ESU, generator, multirem samt batterier - Drevet genomgånget och provtryck i samband med service, och ny olja i drevet. - El genomgången i samband med att nya batterier och brytare installerades. - 30-kärra med nya däck medföljer Årsmodell: 2002 · Typ: Båt · Ort: Eskilstuna</description>
-      <url>https://frivio.se/auktion/487</url>
-      <g:link>https://frivio.se/auktion/487</g:link>
-      <image>
-        <url>https://backend.frivio.se/vehicle/487/a1777533049064.jpeg</url>
-        <tag>Exterior</tag>
-      </image>
-      <g:image_link>https://backend.frivio.se/vehicle/487/a1777533049064.jpeg</g:image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/487/b1777533048763.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/487/c1777533048916.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/487/d1777533048196.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/487/e1777533048338.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/487/f1777533048630.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/487/g1777533048020.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/487/h1777533048493.jpeg</g:additional_image_link>
-      <make>Bayliner</make>
-      <model>Bayliner 602</model>
-      <year>2002</year>
-      <mileage>
-        <value>0</value>
-        <unit>KM</unit>
-      </mileage>
-      <price>58500 SEK</price>
-      <g:price>58500 SEK</g:price>
-      <address>Eskilstuna</address>
-      <address format="simple">
-        <component name="addr1">Eskilstuna</component>
-        <component name="city">Eskilstuna</component>
-        <component name="region">Södermanland</component>
-        <component name="country">SE</component>
-      </address>
-      <condition>GOOD</condition>
-      <state_of_vehicle>USED</state_of_vehicle>
-      <frivio:listing_type>auction</frivio:listing_type>
-      <frivio:auction_end_date>2026-05-19T15:43:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>58500 SEK</frivio:current_bid>
-      <frivio:bid_count>14</frivio:bid_count>
-      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>926 kr/mån</frivio:monthly_cost>
-      <body_style>OTHER</body_style>
-      <frivio:body_type_label>Båt</frivio:body_type_label>
-      <fuel_type>NONE</fuel_type>
-      <frivio:region>Södermanland</frivio:region>
-      <availability>AVAILABLE</availability>
-      <custom_label_0>Båt</custom_label_0>
-      <custom_label_1>Slutar 2026-05-19 15:43</custom_label_1>
-    </item>
+    <lastBuildDate>Tue, 19 May 2026 16:28:51 GMT</lastBuildDate>
     <item>
       <vehicle_id>508</vehicle_id>
       <g:id>508</g:id>
@@ -1066,7 +964,7 @@
       <state_of_vehicle>NEW</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-05-26T15:42:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
       <frivio:current_bid>34950 SEK</frivio:current_bid>
       <frivio:bid_count>0</frivio:bid_count>
       <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
@@ -1121,7 +1019,7 @@
       <state_of_vehicle>NEW</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-05-26T15:42:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
       <frivio:current_bid>59500 SEK</frivio:current_bid>
       <frivio:bid_count>0</frivio:bid_count>
       <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
@@ -1327,8 +1225,8 @@
         <value>0</value>
         <unit>KM</unit>
       </mileage>
-      <price>95000 SEK</price>
-      <g:price>95000 SEK</g:price>
+      <price>95500 SEK</price>
+      <g:price>95500 SEK</g:price>
       <address>Sandviken</address>
       <address format="simple">
         <component name="addr1">Sandviken</component>
@@ -1341,10 +1239,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-05-27T14:37:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>95000 SEK</frivio:current_bid>
-      <frivio:bid_count>0</frivio:bid_count>
-      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
-      <frivio:monthly_cost>1503 kr/mån</frivio:monthly_cost>
+      <frivio:current_bid>95500 SEK</frivio:current_bid>
+      <frivio:bid_count>1</frivio:bid_count>
+      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
+      <frivio:monthly_cost>1511 kr/mån</frivio:monthly_cost>
       <body_style>OTHER</body_style>
       <frivio:body_type_label>Husvagn</frivio:body_type_label>
       <fuel_type>NONE</fuel_type>
@@ -1729,6 +1627,61 @@
       <availability>AVAILABLE</availability>
       <custom_label_0>Båt</custom_label_0>
       <custom_label_1>Slutar 2026-06-01 16:15</custom_label_1>
+    </item>
+    <item>
+      <vehicle_id>537</vehicle_id>
+      <g:id>537</g:id>
+      <title>Adria Adora 613 HT</title>
+      <description>Adria Adora 613HT från 2014 med smart planlösning och två enkelsängar bak. Utrustad med stort kylskåp, ugn, toalett samt gott om förvaring. Bekväm sittgrupp som enkelt rymmer flera personer och fint ljusinsläpp från stora fönster och taklucka. Vagnen är välhållen och har en trivsam interiör med modern känsla. Perfekt för både längre semestrar och helgturer. - Besiktad till 2028-05-31 - Ventura 3M tält med lättviktsstativ - Nya däck - Fukt och gasoltest utfört 2022 UA Årsmodell: 2014 · Typ: Husvagn · Ort: Kalmar</description>
+      <url>https://frivio.se/auktion/537</url>
+      <g:link>https://frivio.se/auktion/537</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/537/a1779188778336.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/537/a1779188778336.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/537/b1779188777613.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/537/c1779188777788.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/537/d1779188776291.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/537/e1779188776746.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/537/f1779188777969.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/537/g1779188776540.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/537/h1779188778155.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/537/i1779188777104.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/537/j1779188776945.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/537/k1779188777272.jpeg</g:additional_image_link>
+      <make>Adria</make>
+      <model>Adora 613 HT</model>
+      <year>2014</year>
+      <mileage>
+        <value>0</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>95000 SEK</price>
+      <g:price>95000 SEK</g:price>
+      <address>Kalmar</address>
+      <address format="simple">
+        <component name="addr1">Kalmar</component>
+        <component name="city">Kalmar</component>
+        <component name="region">Kalmar</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <frivio:listing_type>auction</frivio:listing_type>
+      <frivio:auction_end_date>2026-06-02T16:58:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>95000 SEK</frivio:current_bid>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
+      <frivio:monthly_cost>1503 kr/mån</frivio:monthly_cost>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Husvagn</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
+      <frivio:region>Kalmar</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Husvagn</custom_label_0>
+      <custom_label_1>Slutar 2026-06-02 16:58</custom_label_1>
     </item>
     <item>
       <vehicle_id>531</vehicle_id>
