@@ -4,7 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Tue, 19 May 2026 08:34:27 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 12:17:38 GMT</lastBuildDate>
     <item>
       <vehicle_id>483</vehicle_id>
       <g:id>483</g:id>
@@ -29,8 +29,8 @@
         <value>0</value>
         <unit>KM</unit>
       </mileage>
-      <price>225000 SEK</price>
-      <g:price>225000 SEK</g:price>
+      <price>227000 SEK</price>
+      <g:price>227000 SEK</g:price>
       <address>Södertälje</address>
       <address format="simple">
         <component name="addr1">Södertälje</component>
@@ -43,10 +43,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-05-19T14:47:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>225000 SEK</frivio:current_bid>
-      <frivio:bid_count>6</frivio:bid_count>
+      <frivio:current_bid>227000 SEK</frivio:current_bid>
+      <frivio:bid_count>8</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>3560 kr/mån</frivio:monthly_cost>
+      <frivio:monthly_cost>3592 kr/mån</frivio:monthly_cost>
       <body_style>OTHER</body_style>
       <frivio:body_type_label>Båt</frivio:body_type_label>
       <fuel_type>NONE</fuel_type>
@@ -81,8 +81,8 @@
         <value>0</value>
         <unit>KM</unit>
       </mileage>
-      <price>58000 SEK</price>
-      <g:price>58000 SEK</g:price>
+      <price>58500 SEK</price>
+      <g:price>58500 SEK</g:price>
       <address>Eskilstuna</address>
       <address format="simple">
         <component name="addr1">Eskilstuna</component>
@@ -95,10 +95,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-05-19T15:43:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>58000 SEK</frivio:current_bid>
-      <frivio:bid_count>13</frivio:bid_count>
+      <frivio:current_bid>58500 SEK</frivio:current_bid>
+      <frivio:bid_count>14</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>918 kr/mån</frivio:monthly_cost>
+      <frivio:monthly_cost>926 kr/mån</frivio:monthly_cost>
       <body_style>OTHER</body_style>
       <frivio:body_type_label>Båt</frivio:body_type_label>
       <fuel_type>NONE</fuel_type>
@@ -1570,6 +1570,57 @@
       <custom_label_1>Slutar 2026-05-31 17:43</custom_label_1>
     </item>
     <item>
+      <vehicle_id>528</vehicle_id>
+      <g:id>528</g:id>
+      <title>Carado Capron I449</title>
+      <description>Letar du efter en husbil i absolut toppskick, med låg körsträcka, då är denna helintegrerade Carado Capron I449 från 2021 ett perfekt val. Den är väl omhändertagen och är i mycket gott skick. En komplett och välutrustad husbil, perfekt för både nya och erfarna husbilsägare. Fukttest, gasoltest samt funktionskontroll är gjort 2024 utan anmärkning. - Endast 1360 mil - 4 bältade platser - Manuella stödben bak - Solcell - Inverter 1500w Årsmodell: 2021 · Typ: Husbil · Drivmedel: Diesel · Växellåda: Automatisk · Mätarställning: 1 350 mil · Ort: Uppsala</description>
+      <url>https://frivio.se/auktion/528</url>
+      <g:link>https://frivio.se/auktion/528</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/528/a1778921648410.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/528/a1778921648410.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/528/b1778921648282.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/528/c1778921648216.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/528/d1778921648030.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/528/e1778921648134.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/528/f1778921648346.jpeg</g:additional_image_link>
+      <make>Carado</make>
+      <model>Capron I449</model>
+      <year>2021</year>
+      <mileage>
+        <value>13500</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>437500 SEK</price>
+      <g:price>437500 SEK</g:price>
+      <address>Uppsala</address>
+      <address format="simple">
+        <component name="addr1">Uppsala</component>
+        <component name="city">Uppsala</component>
+        <component name="region">Uppsala</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <transmission>AUTOMATIC</transmission>
+      <frivio:listing_type>auction</frivio:listing_type>
+      <frivio:auction_end_date>2026-05-31T17:48:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>437500 SEK</frivio:current_bid>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
+      <frivio:monthly_cost>6922 kr/mån</frivio:monthly_cost>
+      <body_style>VAN</body_style>
+      <frivio:body_type_label>Husbil</frivio:body_type_label>
+      <fuel_type>DIESEL</fuel_type>
+      <frivio:region>Uppsala</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Husbil</custom_label_0>
+      <custom_label_1>Slutar 2026-05-31 17:48</custom_label_1>
+    </item>
+    <item>
       <vehicle_id>529</vehicle_id>
       <g:id>529</g:id>
       <title>Knaus 650 UDF Exclusive</title>
@@ -1842,6 +1893,61 @@
       <availability>AVAILABLE</availability>
       <custom_label_0>Husvagn</custom_label_0>
       <custom_label_1>Slutar 2026-06-03 14:52</custom_label_1>
+    </item>
+    <item>
+      <vehicle_id>538</vehicle_id>
+      <g:id>538</g:id>
+      <title>Kabe Ametist XL KS</title>
+      <description>Denna Kabe Ametist XL KS från 2005 är utrustad med AC för behagliga dagar oavsett temperatur. Här möts du av en ljus och hemtrevlig interiör med stor rund sittgrupp fram, perfekt för umgänge, samt en bekväm bädddel bak. En mycket välplanerad vagn med gott om förvaring och klassisk Kabe-kvalitet - redo att användas direkt. - Nybesiktad och går till 2028-04-30 - Nytt batteri - Nya däck - Elpatroner bytt - Kylskåp renoverat - Ny dörr till toalett - Nya mattor - Ny trappa Årsmodell: 2005 · Typ: Husvagn · Ort: Mönsterås</description>
+      <url>https://frivio.se/auktion/538</url>
+      <g:link>https://frivio.se/auktion/538</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/538/a1779191797902.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/538/a1779191797902.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/538/b1779191798154.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/538/c1779191798419.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/538/d1779191797633.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/538/e1779191796916.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/538/f1779191797413.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/538/g1779191795412.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/538/h1779191795688.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/538/i1779191797145.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/538/j1779191796480.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/538/k1779191796690.jpeg</g:additional_image_link>
+      <make>Kabe</make>
+      <model>Ametist XL KS</model>
+      <year>2005</year>
+      <mileage>
+        <value>0</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>69000 SEK</price>
+      <g:price>69000 SEK</g:price>
+      <address>Mönsterås</address>
+      <address format="simple">
+        <component name="addr1">Mönsterås</component>
+        <component name="city">Mönsterås</component>
+        <component name="region">Kalmar</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <frivio:listing_type>auction</frivio:listing_type>
+      <frivio:auction_end_date>2026-06-04T16:56:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>69000 SEK</frivio:current_bid>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
+      <frivio:monthly_cost>1092 kr/mån</frivio:monthly_cost>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Husvagn</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
+      <frivio:region>Kalmar</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Husvagn</custom_label_0>
+      <custom_label_1>Slutar 2026-06-04 16:56</custom_label_1>
     </item>
   </channel>
 </rss>
