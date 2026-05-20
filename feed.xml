@@ -4,7 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Wed, 20 May 2026 04:17:34 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 08:32:35 GMT</lastBuildDate>
     <item>
       <vehicle_id>508</vehicle_id>
       <g:id>508</g:id>
@@ -1547,8 +1547,8 @@
         <value>0</value>
         <unit>KM</unit>
       </mileage>
-      <price>124500 SEK</price>
-      <g:price>124500 SEK</g:price>
+      <price>125000 SEK</price>
+      <g:price>125000 SEK</g:price>
       <address>Kalmar</address>
       <address format="simple">
         <component name="addr1">Kalmar</component>
@@ -1561,10 +1561,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-06-01T15:50:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>124500 SEK</frivio:current_bid>
-      <frivio:bid_count>0</frivio:bid_count>
-      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
-      <frivio:monthly_cost>1970 kr/mån</frivio:monthly_cost>
+      <frivio:current_bid>125000 SEK</frivio:current_bid>
+      <frivio:bid_count>1</frivio:bid_count>
+      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
+      <frivio:monthly_cost>1978 kr/mån</frivio:monthly_cost>
       <body_style>OTHER</body_style>
       <frivio:body_type_label>Husvagn</frivio:body_type_label>
       <fuel_type>NONE</fuel_type>
@@ -1821,8 +1821,8 @@
         <value>0</value>
         <unit>KM</unit>
       </mileage>
-      <price>110000 SEK</price>
-      <g:price>110000 SEK</g:price>
+      <price>110500 SEK</price>
+      <g:price>110500 SEK</g:price>
       <address>Vimmerby</address>
       <address format="simple">
         <component name="addr1">Vimmerby</component>
@@ -1835,10 +1835,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-06-03T14:52:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>110000 SEK</frivio:current_bid>
-      <frivio:bid_count>0</frivio:bid_count>
-      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
-      <frivio:monthly_cost>1740 kr/mån</frivio:monthly_cost>
+      <frivio:current_bid>110500 SEK</frivio:current_bid>
+      <frivio:bid_count>1</frivio:bid_count>
+      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
+      <frivio:monthly_cost>1748 kr/mån</frivio:monthly_cost>
       <body_style>OTHER</body_style>
       <frivio:body_type_label>Husvagn</frivio:body_type_label>
       <fuel_type>NONE</fuel_type>
@@ -1901,6 +1901,61 @@
       <availability>AVAILABLE</availability>
       <custom_label_0>Husvagn</custom_label_0>
       <custom_label_1>Slutar 2026-06-04 16:56</custom_label_1>
+    </item>
+    <item>
+      <vehicle_id>540</vehicle_id>
+      <g:id>540</g:id>
+      <title>Hobby 540 UL DE LUXE</title>
+      <description>Hobby 540 UL Deluxe från 2014. Välplanerad planlösning med separata enkelsängar bak, rymlig sittgrupp fram och ett funktionellt kök med bra förvaring. Utrustad med stort kylskåp, gott om skåp och smarta detaljer som gör semestern bekväm. Perfekt för både kortare utflykter och längre resor - en trivsam husvagn med hög komfort och praktiska lösningar för ett smidigt campingliv. - Finns en repa på ena sidan (se bild) samt en mindre på andra sidan. - Endast 1 tidigare ägare sedan ny Årsmodell: 2014 · Typ: Husvagn · Ort: Kalmar</description>
+      <url>https://frivio.se/auktion/540</url>
+      <g:link>https://frivio.se/auktion/540</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/540/b1779261394803.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/540/b1779261394803.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/540/c1779261395000.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/540/d1779261395192.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/540/e1779261396309.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/540/f1779261396461.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/540/g1779261397585.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/540/h1779261395467.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/540/i1779261395973.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/540/j1779261396138.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/540/k1779261395806.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/540/l1779261395646.jpeg</g:additional_image_link>
+      <make>Hobby</make>
+      <model>540 UL DE LUXE</model>
+      <year>2014</year>
+      <mileage>
+        <value>0</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>60000 SEK</price>
+      <g:price>60000 SEK</g:price>
+      <address>Kalmar</address>
+      <address format="simple">
+        <component name="addr1">Kalmar</component>
+        <component name="city">Kalmar</component>
+        <component name="region">Kalmar</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <frivio:listing_type>auction</frivio:listing_type>
+      <frivio:auction_end_date>2026-06-07T15:13:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>60000 SEK</frivio:current_bid>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
+      <frivio:monthly_cost>949 kr/mån</frivio:monthly_cost>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Husvagn</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
+      <frivio:region>Kalmar</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Husvagn</custom_label_0>
+      <custom_label_1>Slutar 2026-06-07 15:13</custom_label_1>
     </item>
   </channel>
 </rss>
