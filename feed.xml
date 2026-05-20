@@ -4,112 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Wed, 20 May 2026 15:45:49 GMT</lastBuildDate>
-    <item>
-      <vehicle_id>513</vehicle_id>
-      <g:id>513</g:id>
-      <title>Admiral 560 Premium</title>
-      <description>Admiral 560 Premium är en snipa i modern utformning med utrustning för att göra det trevligt att vara på sjön. I tillägg till utrustningslistan är alla vertikala ytor klädd med teakribbor. Runt om finns avbärarerep men också 2 st fenderfesten på varje sida. Båten är utrustad med spray hood och hamnkapell samt dynor på alla sittytor. Motor, styrning och drivlina är levererad av Vetus i Holland. Uppskattad gångtid totalt ca 30 timmar. - 2 st ankare medföljar samt 30 m blyad ankarlina. - Garmin 7” navigator/ekolod med givare. - Brenderup upptagningsvagn - NOA 6 m ställning + riktig presenning. Årsmodell: 2015 · Typ: Båt · Ort: Uppsala</description>
-      <url>https://frivio.se/auktion/513</url>
-      <g:link>https://frivio.se/auktion/513</g:link>
-      <image>
-        <url>https://backend.frivio.se/vehicle/513/a1778056850689.jpeg</url>
-        <tag>Exterior</tag>
-      </image>
-      <g:image_link>https://backend.frivio.se/vehicle/513/a1778056850689.jpeg</g:image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/513/b1778056850493.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/513/c1778056850270.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/513/d1778056851676.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/513/e1778056851122.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/513/f1778056851405.jpeg</g:additional_image_link>
-      <make>Admiral</make>
-      <model>Admiral 560 Premium</model>
-      <year>2015</year>
-      <mileage>
-        <value>0</value>
-        <unit>KM</unit>
-      </mileage>
-      <price>112000 SEK</price>
-      <g:price>112000 SEK</g:price>
-      <address>Uppsala</address>
-      <address format="simple">
-        <component name="addr1">Uppsala</component>
-        <component name="city">Uppsala</component>
-        <component name="region">Uppsala</component>
-        <component name="country">SE</component>
-      </address>
-      <condition>GOOD</condition>
-      <state_of_vehicle>USED</state_of_vehicle>
-      <frivio:listing_type>auction</frivio:listing_type>
-      <frivio:auction_end_date>2026-05-20T17:38:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>112000 SEK</frivio:current_bid>
-      <frivio:bid_count>1</frivio:bid_count>
-      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>1772 kr/mån</frivio:monthly_cost>
-      <body_style>OTHER</body_style>
-      <frivio:body_type_label>Båt</frivio:body_type_label>
-      <fuel_type>NONE</fuel_type>
-      <frivio:region>Uppsala</frivio:region>
-      <availability>AVAILABLE</availability>
-      <custom_label_0>Båt</custom_label_0>
-      <custom_label_1>Slutar 2026-05-20 17:38</custom_label_1>
-    </item>
-    <item>
-      <vehicle_id>499</vehicle_id>
-      <g:id>499</g:id>
-      <title>Kabe Royal 740 TDL KS</title>
-      <description>Knappt använd Kabe Royal 740 TDL KS i absolut toppskick. Endast använd 20–30 nätter och uttagen i trafik så sent som 2025-02-14, vilket gör att du i praktiken får en nästan ny vagn. Modellår 2023, men tillverkad 2022-10. Här möts du av en exklusiv och modern interiör med generösa sällskapsytor, fullt utrustat kök, separat dusch och bekväma långbäddar. En vagn byggd för högsta komfort - året runt, oavsett resmål. - Nyservad april 2026 - Fukt och gasoltest utfört UA april 2026 - 17&quot; Kabe aluminiumfälgar med Continental däck - Wifi-router för simkort - Bashögtalare under soffan Årsmodell: 2023 · Typ: Husvagn · Ort: Jönköping</description>
-      <url>https://frivio.se/auktion/499</url>
-      <g:link>https://frivio.se/auktion/499</g:link>
-      <image>
-        <url>https://backend.frivio.se/vehicle/499/a1777548503857.jpeg</url>
-        <tag>Exterior</tag>
-      </image>
-      <g:image_link>https://backend.frivio.se/vehicle/499/a1777548503857.jpeg</g:image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/499/b1777548504575.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/499/c1777548503070.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/499/d1777548501752.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/499/e1777548504979.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/499/f1777548507633.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/499/g1777548500506.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/499/h1777548504218.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/499/i1777548502272.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/499/j1777548502663.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/499/k1777548505487.jpeg</g:additional_image_link>
-      <make>Kabe</make>
-      <model>Royal 740 TDL KS</model>
-      <year>2023</year>
-      <mileage>
-        <value>0</value>
-        <unit>KM</unit>
-      </mileage>
-      <price>350000 SEK</price>
-      <g:price>350000 SEK</g:price>
-      <address>Jönköping</address>
-      <address format="simple">
-        <component name="addr1">Jönköping</component>
-        <component name="city">Jönköping</component>
-        <component name="region">Jönköping</component>
-        <component name="country">SE</component>
-      </address>
-      <condition>GOOD</condition>
-      <state_of_vehicle>USED</state_of_vehicle>
-      <frivio:listing_type>auction</frivio:listing_type>
-      <frivio:auction_end_date>2026-05-20T17:55:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>350000 SEK</frivio:current_bid>
-      <frivio:bid_count>0</frivio:bid_count>
-      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
-      <frivio:monthly_cost>5538 kr/mån</frivio:monthly_cost>
-      <body_style>OTHER</body_style>
-      <frivio:body_type_label>Husvagn</frivio:body_type_label>
-      <fuel_type>NONE</fuel_type>
-      <frivio:region>Jönköping</frivio:region>
-      <availability>AVAILABLE</availability>
-      <custom_label_0>Husvagn</custom_label_0>
-      <custom_label_1>Slutar 2026-05-20 17:55</custom_label_1>
-    </item>
+    <lastBuildDate>Wed, 20 May 2026 18:26:18 GMT</lastBuildDate>
     <item>
       <vehicle_id>512</vehicle_id>
       <g:id>512</g:id>
@@ -136,8 +31,8 @@
         <value>0</value>
         <unit>KM</unit>
       </mileage>
-      <price>150000 SEK</price>
-      <g:price>150000 SEK</g:price>
+      <price>160000 SEK</price>
+      <g:price>160000 SEK</g:price>
       <address>Köping</address>
       <address format="simple">
         <component name="addr1">Köping</component>
@@ -148,19 +43,19 @@
       <condition>GOOD</condition>
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
-      <frivio:auction_end_date>2026-05-20T18:24:00.000Z</frivio:auction_end_date>
+      <frivio:auction_end_date>2026-05-20T18:27:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>150000 SEK</frivio:current_bid>
-      <frivio:bid_count>0</frivio:bid_count>
-      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
-      <frivio:monthly_cost>2373 kr/mån</frivio:monthly_cost>
+      <frivio:current_bid>160000 SEK</frivio:current_bid>
+      <frivio:bid_count>1</frivio:bid_count>
+      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
+      <frivio:monthly_cost>2532 kr/mån</frivio:monthly_cost>
       <body_style>OTHER</body_style>
       <frivio:body_type_label>Husvagn</frivio:body_type_label>
       <fuel_type>NONE</fuel_type>
       <frivio:region>Västmanland</frivio:region>
       <availability>AVAILABLE</availability>
       <custom_label_0>Husvagn</custom_label_0>
-      <custom_label_1>Slutar 2026-05-20 18:24</custom_label_1>
+      <custom_label_1>Slutar 2026-05-20 18:27</custom_label_1>
     </item>
     <item>
       <vehicle_id>514</vehicle_id>
@@ -1023,7 +918,7 @@
       <transmission>MANUAL</transmission>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-05-27T16:38:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
       <frivio:current_bid>299500 SEK</frivio:current_bid>
       <frivio:bid_count>0</frivio:bid_count>
       <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
