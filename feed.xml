@@ -4,278 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Wed, 20 May 2026 11:54:34 GMT</lastBuildDate>
-    <item>
-      <vehicle_id>508</vehicle_id>
-      <g:id>508</g:id>
-      <title>Cabby 620+</title>
-      <description>Välskött Cabby 620+ från 2010 med genomtänkt planlösning och hög komfort. Här möts du av en rymlig sittgrupp, praktiskt kök och gott om förvaring. Vagnen erbjuder separata långbäddar bak samt en inbjudande matplats fram som enkelt bäddas om vid behov. Helt enkelt en kvalitetsvagn från Cabby! - Fukttest utfört 2022 utan anmärkning - Besiktad till 2028-03-31 Årsmodell: 2010 · Typ: Husvagn · Ort: Borås</description>
-      <url>https://frivio.se/auktion/508</url>
-      <g:link>https://frivio.se/auktion/508</g:link>
-      <image>
-        <url>https://backend.frivio.se/vehicle/508/a1777982217823.jpeg</url>
-        <tag>Exterior</tag>
-      </image>
-      <g:image_link>https://backend.frivio.se/vehicle/508/a1777982217823.jpeg</g:image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/508/b1777982218074.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/508/c1777982218275.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/508/d1777982218482.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/508/e1777982218682.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/508/f1777982218877.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/508/g1777982219076.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/508/h1777982219277.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/508/i1777982219748.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/508/j1777982219532.jpeg</g:additional_image_link>
-      <make>Cabby</make>
-      <model>620+</model>
-      <year>2010</year>
-      <mileage>
-        <value>0</value>
-        <unit>KM</unit>
-      </mileage>
-      <price>90000 SEK</price>
-      <g:price>90000 SEK</g:price>
-      <address>Borås</address>
-      <address format="simple">
-        <component name="addr1">Borås</component>
-        <component name="city">Borås</component>
-        <component name="region">Västra Götaland</component>
-        <component name="country">SE</component>
-      </address>
-      <condition>GOOD</condition>
-      <state_of_vehicle>USED</state_of_vehicle>
-      <frivio:listing_type>auction</frivio:listing_type>
-      <frivio:auction_end_date>2026-05-20T14:52:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>90000 SEK</frivio:current_bid>
-      <frivio:bid_count>3</frivio:bid_count>
-      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>1424 kr/mån</frivio:monthly_cost>
-      <body_style>OTHER</body_style>
-      <frivio:body_type_label>Husvagn</frivio:body_type_label>
-      <fuel_type>NONE</fuel_type>
-      <frivio:region>Västra Götaland</frivio:region>
-      <availability>AVAILABLE</availability>
-      <custom_label_0>Husvagn</custom_label_0>
-      <custom_label_1>Slutar 2026-05-20 14:52</custom_label_1>
-    </item>
-    <item>
-      <vehicle_id>500</vehicle_id>
-      <g:id>500</g:id>
-      <title>Adria Action 361 LH</title>
-      <description>Smidig och modern Adria Action 361 LH från 2007 med sin karaktäristiska design och smarta planlösning. Lättdragen husvagn med rymlig sittgrupp som enkelt bäddas om till sovplatser. Utrustad med kök, badrum med toalett och bra förvaringsmöjligheter. Perfekt för både kortare utflykter och längre semestrar. En praktisk och trivsam husvagn som är lätt att trivas i och redo för nya äventyr. - Besiktad till 2028-04-30 - Fukttest utfört 2023 Årsmodell: 2007 · Typ: Husvagn · Ort: Härnösand</description>
-      <url>https://frivio.se/auktion/500</url>
-      <g:link>https://frivio.se/auktion/500</g:link>
-      <image>
-        <url>https://backend.frivio.se/vehicle/500/a1777552256085.jpeg</url>
-        <tag>Exterior</tag>
-      </image>
-      <g:image_link>https://backend.frivio.se/vehicle/500/a1777552256085.jpeg</g:image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/500/b1777552257922.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/500/c1777552256272.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/500/d1777552256439.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/500/e1777552258198.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/500/f1777552258408.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/500/g1777552255618.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/500/h1777552256674.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/500/i1777552256902.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/500/j1777552257066.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/500/k1777552257250.jpeg</g:additional_image_link>
-      <make>Adria</make>
-      <model>Action 361 LH</model>
-      <year>2007</year>
-      <mileage>
-        <value>0</value>
-        <unit>KM</unit>
-      </mileage>
-      <price>61000 SEK</price>
-      <g:price>61000 SEK</g:price>
-      <address>Härnösand</address>
-      <address format="simple">
-        <component name="addr1">Härnösand</component>
-        <component name="city">Härnösand</component>
-        <component name="region">Västernorrland</component>
-        <component name="country">SE</component>
-      </address>
-      <condition>GOOD</condition>
-      <state_of_vehicle>USED</state_of_vehicle>
-      <frivio:listing_type>auction</frivio:listing_type>
-      <frivio:auction_end_date>2026-05-20T14:57:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>61000 SEK</frivio:current_bid>
-      <frivio:bid_count>8</frivio:bid_count>
-      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>965 kr/mån</frivio:monthly_cost>
-      <body_style>OTHER</body_style>
-      <frivio:body_type_label>Husvagn</frivio:body_type_label>
-      <fuel_type>NONE</fuel_type>
-      <frivio:region>Västernorrland</frivio:region>
-      <availability>AVAILABLE</availability>
-      <custom_label_0>Husvagn</custom_label_0>
-      <custom_label_1>Slutar 2026-05-20 14:57</custom_label_1>
-    </item>
-    <item>
-      <vehicle_id>498</vehicle_id>
-      <g:id>498</g:id>
-      <title>Adria Alpina 663 PT</title>
-      <description>Adria Alpina 663 PT från 2023. En rymlig och exklusiv barnkammarvagn med hög komfort. Smart planlösning med separat barnkammare, stor sittgrupp, välutrustat kök och bekväm dubbelsäng. Modern interiör, gott om förvaring och badrum med dusch gör den perfekt för familjer som vill resa bekvämt året runt. - Besiktad till 2028-07-31 Årsmodell: 2023 · Typ: Husvagn · Ort: Oskarshamn</description>
-      <url>https://frivio.se/auktion/498</url>
-      <g:link>https://frivio.se/auktion/498</g:link>
-      <image>
-        <url>https://backend.frivio.se/vehicle/498/a1777541155419.jpeg</url>
-        <tag>Exterior</tag>
-      </image>
-      <g:image_link>https://backend.frivio.se/vehicle/498/a1777541155419.jpeg</g:image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/498/b1777541155291.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/498/c1777541154936.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/498/d1777541155823.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/498/e1777541155688.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/498/f1777541155975.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/498/g1777541155547.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/498/h1777541155146.jpeg</g:additional_image_link>
-      <make>Adria</make>
-      <model>Alpina 663 PT</model>
-      <year>2023</year>
-      <mileage>
-        <value>0</value>
-        <unit>KM</unit>
-      </mileage>
-      <price>290000 SEK</price>
-      <g:price>290000 SEK</g:price>
-      <address>Oskarshamn</address>
-      <address format="simple">
-        <component name="addr1">Oskarshamn</component>
-        <component name="city">Oskarshamn</component>
-        <component name="region">Kalmar</component>
-        <component name="country">SE</component>
-      </address>
-      <condition>GOOD</condition>
-      <state_of_vehicle>USED</state_of_vehicle>
-      <frivio:listing_type>auction</frivio:listing_type>
-      <frivio:auction_end_date>2026-05-20T15:25:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>290000 SEK</frivio:current_bid>
-      <frivio:bid_count>4</frivio:bid_count>
-      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>4588 kr/mån</frivio:monthly_cost>
-      <body_style>OTHER</body_style>
-      <frivio:body_type_label>Husvagn</frivio:body_type_label>
-      <fuel_type>NONE</fuel_type>
-      <frivio:region>Kalmar</frivio:region>
-      <availability>AVAILABLE</availability>
-      <custom_label_0>Husvagn</custom_label_0>
-      <custom_label_1>Slutar 2026-05-20 15:25</custom_label_1>
-    </item>
-    <item>
-      <vehicle_id>479</vehicle_id>
-      <g:id>479</g:id>
-      <title>Bürstner Belcanto 690TS</title>
-      <description>Bürstner Belcanto 690TS från 2006. En rymlig och trivsam vagn med genomtänkt planlösning och gott om komfort! Här erbjuds generösa sällskapsytor, praktiskt kök, bekväma sovplatser och ett stort förtält som skapar extra utrymme och förlänger säsongen. En perfekt vagn för både avkopplande semestrar och längre vistelser. - Levereras nybesiktad Årsmodell: 2006 · Typ: Husvagn · Ort: Oskarshamn</description>
-      <url>https://frivio.se/auktion/479</url>
-      <g:link>https://frivio.se/auktion/479</g:link>
-      <image>
-        <url>https://backend.frivio.se/vehicle/479/a1777021485883.jpeg</url>
-        <tag>Exterior</tag>
-      </image>
-      <g:image_link>https://backend.frivio.se/vehicle/479/a1777021485883.jpeg</g:image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/479/b1777021485475.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/479/c1777021485105.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/479/d1777021487912.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/479/e1777021486308.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/479/f1777021485700.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/479/g1777021486886.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/479/h1777021486708.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/479/i1777021486069.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/479/j1777021487393.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/479/k1777021488298.jpeg</g:additional_image_link>
-      <make>Bürstner</make>
-      <model>Belcanto 690TS</model>
-      <year>2006</year>
-      <mileage>
-        <value>0</value>
-        <unit>KM</unit>
-      </mileage>
-      <price>80000 SEK</price>
-      <g:price>80000 SEK</g:price>
-      <address>Oskarshamn</address>
-      <address format="simple">
-        <component name="addr1">Oskarshamn</component>
-        <component name="city">Oskarshamn</component>
-        <component name="region">Kalmar</component>
-        <component name="country">SE</component>
-      </address>
-      <condition>GOOD</condition>
-      <state_of_vehicle>USED</state_of_vehicle>
-      <frivio:listing_type>auction</frivio:listing_type>
-      <frivio:auction_end_date>2026-05-20T15:30:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>80000 SEK</frivio:current_bid>
-      <frivio:bid_count>4</frivio:bid_count>
-      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>1266 kr/mån</frivio:monthly_cost>
-      <body_style>OTHER</body_style>
-      <frivio:body_type_label>Husvagn</frivio:body_type_label>
-      <fuel_type>NONE</fuel_type>
-      <frivio:region>Kalmar</frivio:region>
-      <availability>AVAILABLE</availability>
-      <custom_label_0>Husvagn</custom_label_0>
-      <custom_label_1>Slutar 2026-05-20 15:30</custom_label_1>
-    </item>
-    <item>
-      <vehicle_id>501</vehicle_id>
-      <g:id>501</g:id>
-      <title>Kabe Diamant GLE KS</title>
-      <description>Kabe Diamant GLE KS från 2006. En klassisk vagn med smart planlösning och gedigen Kabe-kvalitet rakt igenom. Besiktad till 2027-04-30. Förtältsmatta, tvättvinda och induktionshäll medföljer - ett riktigt prisvärt val för dig som vill ha en komplett lösning från start. Årsmodell: 2006 · Typ: Husvagn · Ort: Vetlanda</description>
-      <url>https://frivio.se/auktion/501</url>
-      <g:link>https://frivio.se/auktion/501</g:link>
-      <image>
-        <url>https://backend.frivio.se/vehicle/501/a1777552363957.jpeg</url>
-        <tag>Exterior</tag>
-      </image>
-      <g:image_link>https://backend.frivio.se/vehicle/501/a1777552363957.jpeg</g:image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/501/b1777552364107.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/501/c1777552364260.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/501/d1777552364412.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/501/e1777552364723.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/501/f1777552364573.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/501/g1777552363075.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/501/h1777552363240.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/501/i1777552362296.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/501/j1777552362501.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/501/k1777552362657.jpeg</g:additional_image_link>
-      <make>Kabe</make>
-      <model>Diamant GLE KS</model>
-      <year>2006</year>
-      <mileage>
-        <value>0</value>
-        <unit>KM</unit>
-      </mileage>
-      <price>75000 SEK</price>
-      <g:price>75000 SEK</g:price>
-      <address>Vetlanda</address>
-      <address format="simple">
-        <component name="addr1">Vetlanda</component>
-        <component name="city">Vetlanda</component>
-        <component name="region">Jönköping</component>
-        <component name="country">SE</component>
-      </address>
-      <condition>GOOD</condition>
-      <state_of_vehicle>USED</state_of_vehicle>
-      <frivio:listing_type>auction</frivio:listing_type>
-      <frivio:auction_end_date>2026-05-20T15:32:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>75000 SEK</frivio:current_bid>
-      <frivio:bid_count>0</frivio:bid_count>
-      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
-      <frivio:monthly_cost>1187 kr/mån</frivio:monthly_cost>
-      <body_style>OTHER</body_style>
-      <frivio:body_type_label>Husvagn</frivio:body_type_label>
-      <fuel_type>NONE</fuel_type>
-      <frivio:region>Jönköping</frivio:region>
-      <availability>AVAILABLE</availability>
-      <custom_label_0>Husvagn</custom_label_0>
-      <custom_label_1>Slutar 2026-05-20 15:32</custom_label_1>
-    </item>
+    <lastBuildDate>Wed, 20 May 2026 15:45:49 GMT</lastBuildDate>
     <item>
       <vehicle_id>513</vehicle_id>
       <g:id>513</g:id>
@@ -1238,7 +967,7 @@
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-05-27T14:37:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
       <frivio:current_bid>95500 SEK</frivio:current_bid>
       <frivio:bid_count>1</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
@@ -1846,6 +1575,116 @@
       <availability>AVAILABLE</availability>
       <custom_label_0>Husvagn</custom_label_0>
       <custom_label_1>Slutar 2026-06-03 14:52</custom_label_1>
+    </item>
+    <item>
+      <vehicle_id>542</vehicle_id>
+      <g:id>542</g:id>
+      <title>Beneteau Barracuda 7</title>
+      <description>Beneteau Barracuda 7 från 2019 i mycket fint skick, redo för sjösättning. Utrustad med Evinrude E-tec G2 150 hk (2020) med endast ca 130 gångtimmar och nyligen servad (2024). Nästa service ska ske 2029. Båten har bogpropeller, Garmin GPS/kartplotter med ekolod, landström 230V, däcksspolning samt vindrutetorkare med spolning. Ombord finns toalett med septiktank och däckstömning samt elektrisk tömning (för bruk på land), och helt oanvända dynor. För extra komfort och funktion finns även live bait-utrymme samt möjlighet att komplettera med utrustning för hummerfiske. Ny dieselvärmare från Nordkapp medföljer för installation. Brenderup-trailer ingår. En mycket välutrustad och lättkörd hyttbåt med hög standard, perfekt för dig som söker en modern och pålitlig båt med det mesta redan på plats. Brenderup 30-trailer ingår. Årsmodell: 2019 · Typ: Båt · Ort: Kungsbacka</description>
+      <url>https://frivio.se/auktion/542</url>
+      <g:link>https://frivio.se/auktion/542</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/542/a1779279993678.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/542/a1779279993678.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/542/b1779279993889.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/542/c1779279994021.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/542/d1779279994127.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/542/e1779279994271.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/542/f1779279994614.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/542/g1779279994384.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/542/h1779279994512.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/542/i1779279994744.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/542/j1779279994874.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/542/k1779279994995.jpeg</g:additional_image_link>
+      <make>Beneteau</make>
+      <model>Beneteau Barracuda 7</model>
+      <year>2019</year>
+      <mileage>
+        <value>0</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>225000 SEK</price>
+      <g:price>225000 SEK</g:price>
+      <address>Kungsbacka</address>
+      <address format="simple">
+        <component name="addr1">Kungsbacka</component>
+        <component name="city">Kungsbacka</component>
+        <component name="region">Halland</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <frivio:listing_type>auction</frivio:listing_type>
+      <frivio:auction_end_date>2026-06-04T15:26:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>225000 SEK</frivio:current_bid>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
+      <frivio:monthly_cost>3560 kr/mån</frivio:monthly_cost>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Båt</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
+      <frivio:region>Halland</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Båt</custom_label_0>
+      <custom_label_1>Slutar 2026-06-04 15:26</custom_label_1>
+    </item>
+    <item>
+      <vehicle_id>541</vehicle_id>
+      <g:id>541</g:id>
+      <title>Bayliner 3055</title>
+      <description>Bayliner 3055 Ciera Sunbridge med en MerCruiser 7,4 MPI (454 V8) med cirka 300hk är en välutrustad 30-fots cruiser från början av 90-talet. Redo för nya äventyr! - 9tums plotter/fishfinder Echomap UHD92SV - Sovplatser för 4–6 personer - Pentry med: kylskåp, spritoch gasolkök - Separat toalett med septiktank - Tryckvatten och dusch - Varmvattenberedare - Landström 230 V - Kapell/camperkapell - Trimplan - Badbrygga och badstege - VHF och äldre plotter/ekolod - Värmare på vissa båtar - Ankarspel Årsmodell: 1993 · Typ: Båt · Ort: Malmö</description>
+      <url>https://frivio.se/auktion/541</url>
+      <g:link>https://frivio.se/auktion/541</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/541/a1779276790705.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/541/a1779276790705.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/541/b1779276790897.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/541/c1779276791990.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/541/d1779276791402.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/541/e1779276791034.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/541/f1779276791158.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/541/g1779276791284.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/541/h1779276791634.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/541/i1779276791859.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/541/j1779276791530.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/541/k1779276791746.jpeg</g:additional_image_link>
+      <make>Bayliner</make>
+      <model>Bayliner 3055</model>
+      <year>1993</year>
+      <mileage>
+        <value>0</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>145000 SEK</price>
+      <g:price>145000 SEK</g:price>
+      <address>Malmö</address>
+      <address format="simple">
+        <component name="addr1">Malmö</component>
+        <component name="city">Malmö</component>
+        <component name="region">Skåne</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <frivio:listing_type>auction</frivio:listing_type>
+      <frivio:auction_end_date>2026-06-04T15:28:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>145000 SEK</frivio:current_bid>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
+      <frivio:monthly_cost>2294 kr/mån</frivio:monthly_cost>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Båt</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
+      <frivio:region>Skåne</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Båt</custom_label_0>
+      <custom_label_1>Slutar 2026-06-04 15:28</custom_label_1>
     </item>
     <item>
       <vehicle_id>538</vehicle_id>
