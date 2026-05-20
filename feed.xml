@@ -4,59 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Wed, 20 May 2026 18:26:18 GMT</lastBuildDate>
-    <item>
-      <vehicle_id>512</vehicle_id>
-      <g:id>512</g:id>
-      <title>Knaus Sudwind 650 PEB</title>
-      <description>Knaus Südwind 650 PEB från 2021 är en mycket fin och välplanerad premiumvagn med modern design och hög komfort. Vagnen erbjuder rymlig sittgrupp, välutrustat kök med stort kylskåp, långbäddar samt badrum med separat dusch. Den ljusa interiören, generösa förvaringen och stora panoramafönstren skapar en härlig rymd. Dubbelaxel och bred kaross ger mycket stabila och trygga köregenskaper året om. Årsmodell: 2021 · Typ: Husvagn · Ort: Köping</description>
-      <url>https://frivio.se/auktion/512</url>
-      <g:link>https://frivio.se/auktion/512</g:link>
-      <image>
-        <url>https://backend.frivio.se/vehicle/512/a1778052841751.jpeg</url>
-        <tag>Exterior</tag>
-      </image>
-      <g:image_link>https://backend.frivio.se/vehicle/512/a1778052841751.jpeg</g:image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/512/b1778052841995.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/512/c1778052842453.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/512/d1778052842691.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/512/e1778052841005.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/512/f1778052841333.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/512/g1778052841561.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/512/h1778052842223.jpeg</g:additional_image_link>
-      <make>Knaus</make>
-      <model>Sudwind 650 PEB</model>
-      <year>2021</year>
-      <mileage>
-        <value>0</value>
-        <unit>KM</unit>
-      </mileage>
-      <price>160000 SEK</price>
-      <g:price>160000 SEK</g:price>
-      <address>Köping</address>
-      <address format="simple">
-        <component name="addr1">Köping</component>
-        <component name="city">Köping</component>
-        <component name="region">Västmanland</component>
-        <component name="country">SE</component>
-      </address>
-      <condition>GOOD</condition>
-      <state_of_vehicle>USED</state_of_vehicle>
-      <frivio:listing_type>auction</frivio:listing_type>
-      <frivio:auction_end_date>2026-05-20T18:27:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>160000 SEK</frivio:current_bid>
-      <frivio:bid_count>1</frivio:bid_count>
-      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>2532 kr/mån</frivio:monthly_cost>
-      <body_style>OTHER</body_style>
-      <frivio:body_type_label>Husvagn</frivio:body_type_label>
-      <fuel_type>NONE</fuel_type>
-      <frivio:region>Västmanland</frivio:region>
-      <availability>AVAILABLE</availability>
-      <custom_label_0>Husvagn</custom_label_0>
-      <custom_label_1>Slutar 2026-05-20 18:27</custom_label_1>
-    </item>
+    <lastBuildDate>Wed, 20 May 2026 21:04:05 GMT</lastBuildDate>
     <item>
       <vehicle_id>514</vehicle_id>
       <g:id>514</g:id>
