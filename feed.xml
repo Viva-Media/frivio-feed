@@ -4,7 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Mon, 25 May 2026 05:26:14 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 10:25:03 GMT</lastBuildDate>
     <item>
       <vehicle_id>511</vehicle_id>
       <g:id>511</g:id>
@@ -34,8 +34,8 @@
         <value>0</value>
         <unit>KM</unit>
       </mileage>
-      <price>150000 SEK</price>
-      <g:price>150000 SEK</g:price>
+      <price>151000 SEK</price>
+      <g:price>151000 SEK</g:price>
       <address>Uppsala</address>
       <address format="simple">
         <component name="addr1">Uppsala</component>
@@ -48,10 +48,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-05-25T16:07:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>150000 SEK</frivio:current_bid>
-      <frivio:bid_count>0</frivio:bid_count>
-      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
-      <frivio:monthly_cost>2373 kr/mån</frivio:monthly_cost>
+      <frivio:current_bid>151000 SEK</frivio:current_bid>
+      <frivio:bid_count>1</frivio:bid_count>
+      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
+      <frivio:monthly_cost>2389 kr/mån</frivio:monthly_cost>
       <body_style>OTHER</body_style>
       <frivio:body_type_label>Båt</frivio:body_type_label>
       <fuel_type>NONE</fuel_type>
@@ -557,7 +557,7 @@
       <vehicle_id>528</vehicle_id>
       <g:id>528</g:id>
       <title>Carado Capron I449</title>
-      <description>Letar du efter en husbil i absolut toppskick, med låg körsträcka, då är denna helintegrerade Carado Capron I449 från 2021 ett perfekt val. Den är väl omhändertagen och är i mycket gott skick. En komplett och välutrustad husbil, perfekt för både nya och erfarna husbilsägare. Fukttest, gasoltest samt funktionskontroll är gjort 2024 utan anmärkning. - Endast 1360 mil - 4 bältade platser - Manuella stödben bak - Solcell - Inverter 1500w Årsmodell: 2021 · Typ: Husbil · Drivmedel: Diesel · Växellåda: Automatisk · Mätarställning: 1 350 mil · Ort: Uppsala</description>
+      <description>Letar du efter en husbil i absolut toppskick, med låg körsträcka, då är denna helintegrerade Carado Capron I449 från 2021 ett perfekt val. Den är väl omhändertagen och är i mycket gott skick. En komplett och välutrustad husbil, perfekt för både nya och erfarna husbilsägare. Fukttest, gasoltest samt funktionskontroll är gjort 2024 utan anmärkning. - Kamrem bytt - Endast 1360 mil - 4 bältade platser - Manuella stödben bak - Solcell - Inverter 1500w Årsmodell: 2021 · Typ: Husbil · Drivmedel: Diesel · Växellåda: Automatisk · Mätarställning: 1 350 mil · Ort: Uppsala</description>
       <url>https://frivio.se/auktion/528</url>
       <g:link>https://frivio.se/auktion/528</g:link>
       <image>
@@ -1287,8 +1287,8 @@
         <value>0</value>
         <unit>KM</unit>
       </mileage>
-      <price>70000 SEK</price>
-      <g:price>70000 SEK</g:price>
+      <price>75000 SEK</price>
+      <g:price>75000 SEK</g:price>
       <address>Kalmar</address>
       <address format="simple">
         <component name="addr1">Kalmar</component>
@@ -1301,10 +1301,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-06-07T15:13:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>70000 SEK</frivio:current_bid>
-      <frivio:bid_count>2</frivio:bid_count>
+      <frivio:current_bid>75000 SEK</frivio:current_bid>
+      <frivio:bid_count>3</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>1108 kr/mån</frivio:monthly_cost>
+      <frivio:monthly_cost>1187 kr/mån</frivio:monthly_cost>
       <body_style>OTHER</body_style>
       <frivio:body_type_label>Husvagn</frivio:body_type_label>
       <fuel_type>NONE</fuel_type>
@@ -1312,6 +1312,60 @@
       <availability>AVAILABLE</availability>
       <custom_label_0>Husvagn</custom_label_0>
       <custom_label_1>Slutar 2026-06-07 15:13</custom_label_1>
+    </item>
+    <item>
+      <vehicle_id>536</vehicle_id>
+      <g:id>536</g:id>
+      <title>Hobby 560 KMFE Excellent</title>
+      <description>Hobby 560 KMFE Excellent från 2022. En fin barnkammarvagn som är uttagen hösten 2022 och endast använd ett fåtal nätter. Ljus och rymlig interiör med gott om plats samt 6st sovplatser. En resklar vagn i mycket gott skick. - Dometic AC (Kyla.-värme-avfuktning) - Formsydda golvmattor - El &amp; Tv-uttag på tältsidan - USB-laddningsuttag + 1st vid varje barnsäng - Bluetooth där du kan styra AC, värme, belysning m.m. direkt från telefonen - Fukt och gasoltest UA gjort 2025 Årsmodell: 2022 · Typ: Husvagn · Ort: Kalmar</description>
+      <url>https://frivio.se/auktion/536</url>
+      <g:link>https://frivio.se/auktion/536</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/536/a1779183420259.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/536/a1779183420259.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/536/b1779183420464.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/536/c1779183420624.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/536/d1779183420749.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/536/e1779183420888.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/536/f1779183421016.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/536/g1779183421137.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/536/h1779183421260.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/536/i1779183421389.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/536/j1779183421532.jpeg</g:additional_image_link>
+      <make>Hobby</make>
+      <model>560 KMFE Excellent</model>
+      <year>2022</year>
+      <mileage>
+        <value>0</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>170000 SEK</price>
+      <g:price>170000 SEK</g:price>
+      <address>Kalmar</address>
+      <address format="simple">
+        <component name="addr1">Kalmar</component>
+        <component name="city">Kalmar</component>
+        <component name="region">Kalmar</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <frivio:listing_type>auction</frivio:listing_type>
+      <frivio:auction_end_date>2026-06-08T14:34:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>170000 SEK</frivio:current_bid>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
+      <frivio:monthly_cost>2690 kr/mån</frivio:monthly_cost>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Husvagn</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
+      <frivio:region>Kalmar</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Husvagn</custom_label_0>
+      <custom_label_1>Slutar 2026-06-08 14:34</custom_label_1>
     </item>
   </channel>
 </rss>
