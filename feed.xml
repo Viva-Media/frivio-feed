@@ -4,62 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Mon, 25 May 2026 14:14:44 GMT</lastBuildDate>
-    <item>
-      <vehicle_id>511</vehicle_id>
-      <g:id>511</g:id>
-      <title>Fareast 28R</title>
-      <description>Mycket fin Fareast 28R från 2015 SWE-34. Båten är i mycket gott skick, och troligtvis den mest utrustade Fareasten i Sverige. Klar att tävla med så väl fulcrew som double-handed. Båten har et stor segelgarderob och har kontinuerligt uppdaterats när det behövts. Båten är designad av Simonis-Voogd. Elektronik: Garmin 721 GPS inkl sjökort Garmin GNX-Wind vindinstrument (mastmonterat) inkl trådlös vindgivare Garmin GNX-20 multiskärm (mastmonterad) Garmin DST810 multigivare med fart genom vatten, ekolod och vattentemperatur. Raymarin autopilot EV 100. Raymarin EV1 Sensor elektronisk kompass. Allt ovan är sammankopplat i ett NMEA 2000 nätverk, vilket betyder att du kan visa vilken information du vill ha väl synligt för hela besättningen på mastdisplayerna. Velocitek GPS logg. Batteri Litium Jon 90Ah Batteriladdare 230V USB-uttag för laddning tex mobiltelefon Hopvikbar solcell (ca 50W) med fast installerad laddregulator. Segel: 1 st Storsegel North Sails, panelat 2015 1 st Storsegel North Sails, 3Di 2017 1 st Fock North Sails, panelat 2015 1 st Fock North Sails, 3Di RAW 2016 1 st Fock North Sails, 3Di 2017 1 st Fock North Sails 3DL taffetta 2016 (Toppen för dubble-handed) 1 st Code1 North Sails, nylon (på rulle, toppen för dubble-handed) 1 st gennaker North Sails 2015 1 st gennaker North Sails 2017 (lite seglad) Flera av seglen är sparsamt använda då vi har mestadels seglat dubbel-handed de senaste åren. Övrigt: Trailer bromsad, 2000 kg (leveras besiktigad) med spännband Motor Selva 6hk (nyservad) inkl trycktank Transportkapell och 2 st kapell för nedgångsbrunn (används under segling) samt pressenning för nedgångsbrunn som används vid kaj. Förtöjningsgods, fendrar, ankare, säkerhetsutrustning enl klassregler samt skot Kölyft för att kunna lyfta kölen och lasta båten vid ramp (har aldrig gjort detta själv men möjligheten finns) Lyftsling för att lyfta båten med lyftkran SRS mätbrev Fullt utrustad för kappsegling. Årsmodell: 2015 · Typ: Båt · Ort: Uppsala</description>
-      <url>https://frivio.se/auktion/511</url>
-      <g:link>https://frivio.se/auktion/511</g:link>
-      <image>
-        <url>https://backend.frivio.se/vehicle/511/a1778051682295.jpeg</url>
-        <tag>Exterior</tag>
-      </image>
-      <g:image_link>https://backend.frivio.se/vehicle/511/a1778051682295.jpeg</g:image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/511/b1778051683367.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/511/c1778051682488.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/511/d1778051682619.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/511/e1778051682868.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/511/f1778051682755.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/511/g1778051683689.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/511/h1778051683534.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/511/i1778051683131.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/511/j1778051683021.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/511/k1778051683253.jpeg</g:additional_image_link>
-      <make>Fareast</make>
-      <model>Fareast 28R</model>
-      <year>2015</year>
-      <mileage>
-        <value>0</value>
-        <unit>KM</unit>
-      </mileage>
-      <price>151000 SEK</price>
-      <g:price>151000 SEK</g:price>
-      <address>Uppsala</address>
-      <address format="simple">
-        <component name="addr1">Uppsala</component>
-        <component name="city">Uppsala</component>
-        <component name="region">Uppsala</component>
-        <component name="country">SE</component>
-      </address>
-      <condition>GOOD</condition>
-      <state_of_vehicle>USED</state_of_vehicle>
-      <frivio:listing_type>auction</frivio:listing_type>
-      <frivio:auction_end_date>2026-05-25T16:07:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>151000 SEK</frivio:current_bid>
-      <frivio:bid_count>1</frivio:bid_count>
-      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>2389 kr/mån</frivio:monthly_cost>
-      <body_style>OTHER</body_style>
-      <frivio:body_type_label>Båt</frivio:body_type_label>
-      <fuel_type>NONE</fuel_type>
-      <frivio:region>Uppsala</frivio:region>
-      <availability>AVAILABLE</availability>
-      <custom_label_0>Båt</custom_label_0>
-      <custom_label_1>Slutar 2026-05-25 16:07</custom_label_1>
-    </item>
+    <lastBuildDate>Mon, 25 May 2026 17:11:31 GMT</lastBuildDate>
     <item>
       <vehicle_id>522</vehicle_id>
       <g:id>522</g:id>
@@ -88,8 +33,8 @@
         <value>0</value>
         <unit>KM</unit>
       </mileage>
-      <price>160000 SEK</price>
-      <g:price>160000 SEK</g:price>
+      <price>185000 SEK</price>
+      <g:price>185000 SEK</g:price>
       <address>Lessebo</address>
       <address format="simple">
         <component name="addr1">Lessebo</component>
@@ -102,10 +47,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-05-25T17:22:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>160000 SEK</frivio:current_bid>
-      <frivio:bid_count>4</frivio:bid_count>
+      <frivio:current_bid>185000 SEK</frivio:current_bid>
+      <frivio:bid_count>8</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>2532 kr/mån</frivio:monthly_cost>
+      <frivio:monthly_cost>2927 kr/mån</frivio:monthly_cost>
       <body_style>OTHER</body_style>
       <frivio:body_type_label>Husvagn</frivio:body_type_label>
       <fuel_type>NONE</fuel_type>
@@ -141,8 +86,8 @@
         <value>156000</value>
         <unit>KM</unit>
       </mileage>
-      <price>206000 SEK</price>
-      <g:price>206000 SEK</g:price>
+      <price>207000 SEK</price>
+      <g:price>207000 SEK</g:price>
       <address>Ånge</address>
       <address format="simple">
         <component name="addr1">Ånge</component>
@@ -156,10 +101,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-05-25T17:40:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>206000 SEK</frivio:current_bid>
-      <frivio:bid_count>10</frivio:bid_count>
+      <frivio:current_bid>207000 SEK</frivio:current_bid>
+      <frivio:bid_count>11</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>3259 kr/mån</frivio:monthly_cost>
+      <frivio:monthly_cost>3275 kr/mån</frivio:monthly_cost>
       <body_style>VAN</body_style>
       <frivio:body_type_label>Husbil</frivio:body_type_label>
       <fuel_type>DIESEL</fuel_type>
@@ -806,7 +751,7 @@
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-06-01T15:50:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
       <frivio:current_bid>125000 SEK</frivio:current_bid>
       <frivio:bid_count>1</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
@@ -861,7 +806,7 @@
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-06-01T16:15:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
       <frivio:current_bid>25000 SEK</frivio:current_bid>
       <frivio:bid_count>0</frivio:bid_count>
       <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
@@ -1475,6 +1420,61 @@
       <availability>AVAILABLE</availability>
       <custom_label_0>Husvagn</custom_label_0>
       <custom_label_1>Slutar 2026-06-08 17:34</custom_label_1>
+    </item>
+    <item>
+      <vehicle_id>549</vehicle_id>
+      <g:id>549</g:id>
+      <title>Kabe Royal 740 TDL KS</title>
+      <description>Knappt använd Kabe Royal 740 TDL KS i absolut toppskick. Endast använd 20-30 nätter och uttagen i trafik så sent som 2025-02-14, vilket gör att du i praktiken får en nästan ny vagn. Modellår 2023, men tillverkad 2022-10. Här möts du av en exklusiv och modern interiör med generösa sällskapsytor, fullt utrustat kök, separat dusch och bekväma långbäddar. En vagn byggd för högsta komfort - året runt, oavsett resmål. - Nyservad april 2026 - Fukt och gasoltest utfört UA april 2026 - 17&quot; Kabe aluminiumfälgar med Continental däck - Wifi-router för simkort - Bashögtalare under soffan Årsmodell: 2023 · Typ: Husvagn · Ort: Jönköping</description>
+      <url>https://frivio.se/auktion/549</url>
+      <g:link>https://frivio.se/auktion/549</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/549/a1779718678415.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/549/a1779718678415.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/549/b1779718679020.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/549/c1779718676419.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/549/d1779718675611.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/549/e1779718681285.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/549/f1779718677974.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/549/g1779718676839.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/549/h1779718677214.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/549/i1779718677601.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/549/j1779718679415.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/549/k1779718681734.jpeg</g:additional_image_link>
+      <make>Kabe</make>
+      <model>Royal 740 TDL KS</model>
+      <year>2023</year>
+      <mileage>
+        <value>0</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>350000 SEK</price>
+      <g:price>350000 SEK</g:price>
+      <address>Jönköping</address>
+      <address format="simple">
+        <component name="addr1">Jönköping</component>
+        <component name="city">Jönköping</component>
+        <component name="region">Jönköping</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <frivio:listing_type>auction</frivio:listing_type>
+      <frivio:auction_end_date>2026-06-11T15:17:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>350000 SEK</frivio:current_bid>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
+      <frivio:monthly_cost>5538 kr/mån</frivio:monthly_cost>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Husvagn</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
+      <frivio:region>Jönköping</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Husvagn</custom_label_0>
+      <custom_label_1>Slutar 2026-06-11 15:17</custom_label_1>
     </item>
   </channel>
 </rss>
