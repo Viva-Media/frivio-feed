@@ -4,117 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Tue, 26 May 2026 08:38:06 GMT</lastBuildDate>
-    <item>
-      <vehicle_id>442</vehicle_id>
-      <g:id>442</g:id>
-      <title>Motocraft Fish XL</title>
-      <description>Fabriksny Motocraft Fish XL med Mercury 9.9hk demomotor. Samma skrov som till Angler 440 men med enklare inredning och till ett betydligt lägre pris. Tre tofter fyllda med flytelement, halkfri durk och så klart finns det smidiga T-spåren i relingen för enkel montering av tillbehör. Längd: 440cm Bredd: 168cm Tjocklek aluminium: 1,8/1,6mm Vikt: 98kg Rigglängd. Lång CE-kategori: D Kapacitet: 5 pers / 450kg Motor: Mercury 9.9hk OBS! Trailer ingår ej men säljaren erbjuder både nya och begagnade till försäljning. Årsmodell: 2024 · Typ: Båt · Ort: Älmhult</description>
-      <url>https://frivio.se/auktion/442</url>
-      <g:link>https://frivio.se/auktion/442</g:link>
-      <image>
-        <url>https://backend.frivio.se/vehicle/442/a1775807517572.jpeg</url>
-        <tag>Exterior</tag>
-      </image>
-      <g:image_link>https://backend.frivio.se/vehicle/442/a1775807517572.jpeg</g:image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/442/b1775807517723.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/442/c1775807517867.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/442/d1775807532061.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/442/e1775807532202.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/442/f1775807532352.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/442/g1775807532920.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/442/h1775807532483.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/442/i1775807532777.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/442/j1775807532619.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/442/k1775807533066.jpeg</g:additional_image_link>
-      <make>Motocraft</make>
-      <model>Motocraft Fish XL</model>
-      <year>2024</year>
-      <mileage>
-        <value>0</value>
-        <unit>KM</unit>
-      </mileage>
-      <price>36500 SEK</price>
-      <g:price>36500 SEK</g:price>
-      <address>Älmhult</address>
-      <address format="simple">
-        <component name="addr1">Älmhult</component>
-        <component name="city">Älmhult</component>
-        <component name="region">Kronoberg</component>
-        <component name="country">SE</component>
-      </address>
-      <condition>EXCELLENT</condition>
-      <state_of_vehicle>NEW</state_of_vehicle>
-      <frivio:listing_type>auction</frivio:listing_type>
-      <frivio:auction_end_date>2026-05-26T15:42:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>36500 SEK</frivio:current_bid>
-      <frivio:bid_count>1</frivio:bid_count>
-      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>578 kr/mån</frivio:monthly_cost>
-      <body_style>OTHER</body_style>
-      <frivio:body_type_label>Båt</frivio:body_type_label>
-      <fuel_type>NONE</fuel_type>
-      <frivio:region>Kronoberg</frivio:region>
-      <availability>AVAILABLE</availability>
-      <custom_label_0>Båt</custom_label_0>
-      <custom_label_1>Slutar 2026-05-26 15:42</custom_label_1>
-    </item>
-    <item>
-      <vehicle_id>441</vehicle_id>
-      <g:id>441</g:id>
-      <title>Motocraft Angler 440</title>
-      <description>Fabriksny Motocraft Angler 440 av årsmodell 2024 som aldrig varit sjösatt. Båten är otroligt läcker i sin unika orange kulör, där även trailern är lackerad i samma färg - ett genomgående stilrent och mycket tilltalande ekipage som verkligen sticker ut. Motorn är en Honda BF20LHTU från 2022 med elstart och elektrisk tilt. Den är begagnad men välskött och har endast 82 gångtimmar. Motorn levereras nyservad för en trygg och bekymmersfri start. Till båten medföljer även en TK Trailer BT500 av årsmodell 2023. Trailern är begagnad, men är obetydligt använd med sina 9 dagar totalt i trafik. Den är lackerad i samma exklusiva kulör som båten och dessutom extra påkostad med aluminiumfälgar, vilket ger ett riktigt snyggt helhetsintryck. Ett ovanligt välmatchat och stilrent ekipage i mycket gott skick! Årsmodell: 2024 · Typ: Båt · Ort: Älmhult</description>
-      <url>https://frivio.se/auktion/441</url>
-      <g:link>https://frivio.se/auktion/441</g:link>
-      <image>
-        <url>https://backend.frivio.se/vehicle/441/b1775807028078.jpeg</url>
-        <tag>Exterior</tag>
-      </image>
-      <g:image_link>https://backend.frivio.se/vehicle/441/b1775807028078.jpeg</g:image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/441/c1775807027653.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/441/c1775807040105.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/441/d1775807038026.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/441/e1775807038686.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/441/f1775807039120.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/441/g1775807039662.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/441/h1775807040694.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/441/i1775807038343.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/441/j1775807041007.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/441/k1775807041515.jpeg</g:additional_image_link>
-      <make>Motocraft</make>
-      <model>Motocraft Angler 440</model>
-      <year>2024</year>
-      <mileage>
-        <value>0</value>
-        <unit>KM</unit>
-      </mileage>
-      <price>59500 SEK</price>
-      <g:price>59500 SEK</g:price>
-      <address>Älmhult</address>
-      <address format="simple">
-        <component name="addr1">Älmhult</component>
-        <component name="city">Älmhult</component>
-        <component name="region">Kronoberg</component>
-        <component name="country">SE</component>
-      </address>
-      <condition>EXCELLENT</condition>
-      <state_of_vehicle>NEW</state_of_vehicle>
-      <frivio:listing_type>auction</frivio:listing_type>
-      <frivio:auction_end_date>2026-05-26T15:42:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>59500 SEK</frivio:current_bid>
-      <frivio:bid_count>0</frivio:bid_count>
-      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
-      <frivio:monthly_cost>941 kr/mån</frivio:monthly_cost>
-      <body_style>OTHER</body_style>
-      <frivio:body_type_label>Båt</frivio:body_type_label>
-      <fuel_type>NONE</fuel_type>
-      <frivio:region>Kronoberg</frivio:region>
-      <availability>AVAILABLE</availability>
-      <custom_label_0>Båt</custom_label_0>
-      <custom_label_1>Slutar 2026-05-26 15:42</custom_label_1>
-    </item>
+    <lastBuildDate>Tue, 26 May 2026 16:49:10 GMT</lastBuildDate>
     <item>
       <vehicle_id>525</vehicle_id>
       <g:id>525</g:id>
@@ -224,60 +114,6 @@
       <availability>AVAILABLE</availability>
       <custom_label_0>Båt</custom_label_0>
       <custom_label_1>Slutar 2026-05-26 18:00</custom_label_1>
-    </item>
-    <item>
-      <vehicle_id>520</vehicle_id>
-      <g:id>520</g:id>
-      <title>Kabe Royal 520 XL</title>
-      <description>Upptäck en välutrustad och mycket välhållen Kabe från 2018 som kombinerar hög komfort med en smart och trivsam planlösning. Här får du en kvalitetsvagn byggd för bekväma resor året runt, med stilren interiör och generösa utrymmen. Vagnen är i mycket gott skick samt fukt- och gasoltestad utan anmärkning den 9 maj 2025 – ett tryggt och bekymmersfritt val för dig som vill resa med både komfort och kvalitet. Årsmodell: 2018 · Typ: Husvagn · Ort: Mörbylånga</description>
-      <url>https://frivio.se/auktion/520</url>
-      <g:link>https://frivio.se/auktion/520</g:link>
-      <image>
-        <url>https://backend.frivio.se/vehicle/520/b1779383606896.jpeg</url>
-        <tag>Exterior</tag>
-      </image>
-      <g:image_link>https://backend.frivio.se/vehicle/520/b1779383606896.jpeg</g:image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/520/c1779383609612.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/520/d1779383606228.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/520/e1779383606405.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/520/f1779383606567.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/520/g1779383606720.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/520/h1779383609766.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/520/i1779383609923.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/520/j1779383609099.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/520/k1779383607662.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/520/l1779383607502.jpeg</g:additional_image_link>
-      <make>Kabe</make>
-      <model>Royal 520 XL</model>
-      <year>2018</year>
-      <mileage>
-        <value>0</value>
-        <unit>KM</unit>
-      </mileage>
-      <price>269000 SEK</price>
-      <g:price>269000 SEK</g:price>
-      <address>Mörbylånga</address>
-      <address format="simple">
-        <component name="addr1">Mörbylånga</component>
-        <component name="city">Mörbylånga</component>
-        <component name="region">Kalmar</component>
-        <component name="country">SE</component>
-      </address>
-      <condition>GOOD</condition>
-      <state_of_vehicle>USED</state_of_vehicle>
-      <frivio:listing_type>fixed_price</frivio:listing_type>
-      <frivio:auction_end_date>2026-05-26T18:04:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:bid_count>0</frivio:bid_count>
-      <frivio:reserve_price_status>Ej tillämpligt (fast pris)</frivio:reserve_price_status>
-      <frivio:monthly_cost>4256 kr/mån</frivio:monthly_cost>
-      <body_style>OTHER</body_style>
-      <frivio:body_type_label>Husvagn</frivio:body_type_label>
-      <fuel_type>NONE</fuel_type>
-      <frivio:region>Kalmar</frivio:region>
-      <availability>AVAILABLE</availability>
-      <custom_label_0>Husvagn</custom_label_0>
-      <custom_label_1>Slutar 2026-05-26 18:04</custom_label_1>
     </item>
     <item>
       <vehicle_id>527</vehicle_id>
@@ -600,6 +436,60 @@
       <availability>AVAILABLE</availability>
       <custom_label_0>Husvagn</custom_label_0>
       <custom_label_1>Slutar 2026-05-31 17:43</custom_label_1>
+    </item>
+    <item>
+      <vehicle_id>520</vehicle_id>
+      <g:id>520</g:id>
+      <title>Kabe Royal 520 XL</title>
+      <description>Upptäck en välutrustad och mycket välhållen Kabe från 2018 som kombinerar hög komfort med en smart och trivsam planlösning. Här får du en kvalitetsvagn byggd för bekväma resor året runt, med stilren interiör och generösa utrymmen. Vagnen är i mycket gott skick samt fukt- och gasoltestad utan anmärkning den 9 maj 2025 – ett tryggt och bekymmersfritt val för dig som vill resa med både komfort och kvalitet. Årsmodell: 2018 · Typ: Husvagn · Ort: Mörbylånga</description>
+      <url>https://frivio.se/auktion/520</url>
+      <g:link>https://frivio.se/auktion/520</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/520/b1779383606896.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/520/b1779383606896.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/520/c1779383609612.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/520/d1779383606228.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/520/e1779383606405.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/520/f1779383606567.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/520/g1779383606720.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/520/h1779383609766.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/520/i1779383609923.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/520/j1779383609099.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/520/k1779383607662.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/520/l1779383607502.jpeg</g:additional_image_link>
+      <make>Kabe</make>
+      <model>Royal 520 XL</model>
+      <year>2018</year>
+      <mileage>
+        <value>0</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>269000 SEK</price>
+      <g:price>269000 SEK</g:price>
+      <address>Mörbylånga</address>
+      <address format="simple">
+        <component name="addr1">Mörbylånga</component>
+        <component name="city">Mörbylånga</component>
+        <component name="region">Kalmar</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <frivio:listing_type>fixed_price</frivio:listing_type>
+      <frivio:auction_end_date>2026-05-31T17:55:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Ej tillämpligt (fast pris)</frivio:reserve_price_status>
+      <frivio:monthly_cost>4256 kr/mån</frivio:monthly_cost>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Husvagn</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
+      <frivio:region>Kalmar</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Husvagn</custom_label_0>
+      <custom_label_1>Slutar 2026-05-31 17:55</custom_label_1>
     </item>
     <item>
       <vehicle_id>529</vehicle_id>
