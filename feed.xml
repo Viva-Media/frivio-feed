@@ -4,63 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Wed, 27 May 2026 16:42:11 GMT</lastBuildDate>
-    <item>
-      <vehicle_id>524</vehicle_id>
-      <g:id>524</g:id>
-      <title>Övriga Karmann Davis 590</title>
-      <description>Mycket fin vinteranpassad Karmann Davis 590 från 2019 med endast 3400 mil på mätaren. Utrustad med nya 18-tums sommarhjul med allrounddäck som ger både ett snyggt intryck och stabil körkänsla. Den smarta planlösningen erbjuder bekväma sovplatser, praktiskt kök och gott om förvaring i ett smidigt format som passar perfekt för både spontana weekendresor och längre äventyr året runt. En välhållen och lättkörd husbil för dig som söker komfort, kvalitet och frihet på vägarna. - Truma dieselpanna - Uppvärmd och isolerad gråvattentank - Multimediapaket med stor skärm och gps - Nyservad - Dokumenterad service - Kamrem bytt vid 2400mil år 2023 - Besiktad till 2026-07-31 Årsmodell: 2019 · Typ: Husbil · Drivmedel: Diesel · Växellåda: Manuell · Mätarställning: 3 400 mil · Ort: Borlänge</description>
-      <url>https://frivio.se/auktion/524</url>
-      <g:link>https://frivio.se/auktion/524</g:link>
-      <image>
-        <url>https://backend.frivio.se/vehicle/524/a1778488924093.jpeg</url>
-        <tag>Exterior</tag>
-      </image>
-      <g:image_link>https://backend.frivio.se/vehicle/524/a1778488924093.jpeg</g:image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/524/b1778488923374.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/524/c1778488923957.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/524/d1778488923796.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/524/e1778488923616.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/524/f1778488924241.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/524/g1778488924580.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/524/h1778488924414.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/524/i1778488924755.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/524/j1778488924933.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/524/k1778488925087.jpeg</g:additional_image_link>
-      <make>Övriga</make>
-      <model>Karmann Davis 590</model>
-      <year>2019</year>
-      <mileage>
-        <value>34000</value>
-        <unit>KM</unit>
-      </mileage>
-      <price>380000 SEK</price>
-      <g:price>380000 SEK</g:price>
-      <address>Borlänge</address>
-      <address format="simple">
-        <component name="addr1">Borlänge</component>
-        <component name="city">Borlänge</component>
-        <component name="region">Dalarna</component>
-        <component name="country">SE</component>
-      </address>
-      <condition>GOOD</condition>
-      <state_of_vehicle>USED</state_of_vehicle>
-      <transmission>MANUAL</transmission>
-      <frivio:listing_type>auction</frivio:listing_type>
-      <frivio:auction_end_date>2026-05-27T16:44:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>380000 SEK</frivio:current_bid>
-      <frivio:bid_count>11</frivio:bid_count>
-      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>6012 kr/mån</frivio:monthly_cost>
-      <body_style>VAN</body_style>
-      <frivio:body_type_label>Husbil</frivio:body_type_label>
-      <fuel_type>DIESEL</fuel_type>
-      <frivio:region>Dalarna</frivio:region>
-      <availability>AVAILABLE</availability>
-      <custom_label_0>Husbil</custom_label_0>
-      <custom_label_1>Slutar 2026-05-27 16:44</custom_label_1>
-    </item>
+    <lastBuildDate>Wed, 27 May 2026 19:29:58 GMT</lastBuildDate>
     <item>
       <vehicle_id>528</vehicle_id>
       <g:id>528</g:id>
