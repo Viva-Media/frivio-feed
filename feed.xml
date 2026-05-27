@@ -4,67 +4,12 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Wed, 27 May 2026 12:28:31 GMT</lastBuildDate>
-    <item>
-      <vehicle_id>527</vehicle_id>
-      <g:id>527</g:id>
-      <title>Knaus 500 Sport Silver Selection</title>
-      <description>Smidig och bra husvagn i mycket bra skick med stort isabella tält 3,5m samt tältmatta . Den är för tillfället obesiktad då den bara agerat attefallshus på tomten senaste 2 åren, men den kommer att levereras nybesiktad, fukttestad samt gasoltestad. Eventuella inventarier kan ingå enligt överenskommelse. Årsmodell: 2021 · Typ: Husvagn · Ort: Sandviken</description>
-      <url>https://frivio.se/auktion/527</url>
-      <g:link>https://frivio.se/auktion/527</g:link>
-      <image>
-        <url>https://backend.frivio.se/vehicle/527/b1779383048884.jpeg</url>
-        <tag>Exterior</tag>
-      </image>
-      <g:image_link>https://backend.frivio.se/vehicle/527/b1779383048884.jpeg</g:image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/527/c1779383049054.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/527/d1779383048353.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/527/e1779383046437.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/527/f1779383046768.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/527/g1779383047344.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/527/h1779383046957.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/527/i1779383047144.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/527/j1779383048702.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/527/k1779383047554.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/527/l1779383048197.jpeg</g:additional_image_link>
-      <make>Knaus</make>
-      <model>500 Sport Silver Selection</model>
-      <year>2021</year>
-      <mileage>
-        <value>0</value>
-        <unit>KM</unit>
-      </mileage>
-      <price>110000 SEK</price>
-      <g:price>110000 SEK</g:price>
-      <address>Sandviken</address>
-      <address format="simple">
-        <component name="addr1">Sandviken</component>
-        <component name="city">Sandviken</component>
-        <component name="region">Gävleborg</component>
-        <component name="country">SE</component>
-      </address>
-      <condition>GOOD</condition>
-      <state_of_vehicle>USED</state_of_vehicle>
-      <frivio:listing_type>auction</frivio:listing_type>
-      <frivio:auction_end_date>2026-05-27T14:37:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>110000 SEK</frivio:current_bid>
-      <frivio:bid_count>2</frivio:bid_count>
-      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>1740 kr/mån</frivio:monthly_cost>
-      <body_style>OTHER</body_style>
-      <frivio:body_type_label>Husvagn</frivio:body_type_label>
-      <fuel_type>NONE</fuel_type>
-      <frivio:region>Gävleborg</frivio:region>
-      <availability>AVAILABLE</availability>
-      <custom_label_0>Husvagn</custom_label_0>
-      <custom_label_1>Slutar 2026-05-27 14:37</custom_label_1>
-    </item>
+    <lastBuildDate>Wed, 27 May 2026 16:42:11 GMT</lastBuildDate>
     <item>
       <vehicle_id>524</vehicle_id>
       <g:id>524</g:id>
       <title>Övriga Karmann Davis 590</title>
-      <description>Mycket fin vinteranpassad Karmann Davis 590 från 2019 med endast 3400 mil på mätaren. Utrustad med nya 18-tums sommarhjul med allrounddäck som ger både ett snyggt intryck och stabil körkänsla. Den smarta planlösningen erbjuder bekväma sovplatser, praktiskt kök och gott om förvaring i ett smidigt format som passar perfekt för både spontana weekendresor och längre äventyr året runt. En välhållen och lättkörd husbil för dig som söker komfort, kvalitet och frihet på vägarna. - Truma dieselpanna - Uppvärmd och isolerad gråvattentank - Multimediapaket med stor skärm och gps - Nyservad - Besiktad till 2026-07-31 Årsmodell: 2019 · Typ: Husbil · Drivmedel: Diesel · Växellåda: Manuell · Mätarställning: 3 400 mil · Ort: Borlänge</description>
+      <description>Mycket fin vinteranpassad Karmann Davis 590 från 2019 med endast 3400 mil på mätaren. Utrustad med nya 18-tums sommarhjul med allrounddäck som ger både ett snyggt intryck och stabil körkänsla. Den smarta planlösningen erbjuder bekväma sovplatser, praktiskt kök och gott om förvaring i ett smidigt format som passar perfekt för både spontana weekendresor och längre äventyr året runt. En välhållen och lättkörd husbil för dig som söker komfort, kvalitet och frihet på vägarna. - Truma dieselpanna - Uppvärmd och isolerad gråvattentank - Multimediapaket med stor skärm och gps - Nyservad - Dokumenterad service - Kamrem bytt vid 2400mil år 2023 - Besiktad till 2026-07-31 Årsmodell: 2019 · Typ: Husbil · Drivmedel: Diesel · Växellåda: Manuell · Mätarställning: 3 400 mil · Ort: Borlänge</description>
       <url>https://frivio.se/auktion/524</url>
       <g:link>https://frivio.se/auktion/524</g:link>
       <image>
@@ -89,8 +34,8 @@
         <value>34000</value>
         <unit>KM</unit>
       </mileage>
-      <price>300000 SEK</price>
-      <g:price>300000 SEK</g:price>
+      <price>380000 SEK</price>
+      <g:price>380000 SEK</g:price>
       <address>Borlänge</address>
       <address format="simple">
         <component name="addr1">Borlänge</component>
@@ -102,19 +47,19 @@
       <state_of_vehicle>USED</state_of_vehicle>
       <transmission>MANUAL</transmission>
       <frivio:listing_type>auction</frivio:listing_type>
-      <frivio:auction_end_date>2026-05-27T16:38:00.000Z</frivio:auction_end_date>
+      <frivio:auction_end_date>2026-05-27T16:44:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>300000 SEK</frivio:current_bid>
-      <frivio:bid_count>1</frivio:bid_count>
+      <frivio:current_bid>380000 SEK</frivio:current_bid>
+      <frivio:bid_count>11</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>4747 kr/mån</frivio:monthly_cost>
+      <frivio:monthly_cost>6012 kr/mån</frivio:monthly_cost>
       <body_style>VAN</body_style>
       <frivio:body_type_label>Husbil</frivio:body_type_label>
       <fuel_type>DIESEL</fuel_type>
       <frivio:region>Dalarna</frivio:region>
       <availability>AVAILABLE</availability>
       <custom_label_0>Husbil</custom_label_0>
-      <custom_label_1>Slutar 2026-05-27 16:38</custom_label_1>
+      <custom_label_1>Slutar 2026-05-27 16:44</custom_label_1>
     </item>
     <item>
       <vehicle_id>528</vehicle_id>
@@ -642,7 +587,7 @@
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-06-03T14:35:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
       <frivio:current_bid>130000 SEK</frivio:current_bid>
       <frivio:bid_count>0</frivio:bid_count>
       <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
@@ -697,7 +642,7 @@
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-06-03T14:52:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
       <frivio:current_bid>110500 SEK</frivio:current_bid>
       <frivio:bid_count>1</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
@@ -1203,6 +1148,164 @@
       <availability>AVAILABLE</availability>
       <custom_label_0>Båt</custom_label_0>
       <custom_label_1>Slutar 2026-06-09 15:38</custom_label_1>
+    </item>
+    <item>
+      <vehicle_id>554</vehicle_id>
+      <g:id>554</g:id>
+      <title>Cabby 67 M</title>
+      <description>Cabby 67M från 2003 med AC är en rymlig och stabil vagn med klassisk Cabby-känsla. Här får du en praktisk planlösning med fast dubbelsäng, trevlig sittgrupp och ett funktionellt kök med bra arbetsytor. Interiören går i varm träton och ger ett ombonat intryck, samtidigt som förvaringsmöjligheterna är generösa. Badrummet är kompakt men välplanerat och vagnen står på dubbla axlar vilket ger trygg körning. En välhållen vagn med mycket potential. - Besiktad till 2027-08-31 - Kan hämtas tidigast 1/6 -2026 Årsmodell: 2003 · Typ: Husvagn · Ort: Stockholm</description>
+      <url>https://frivio.se/auktion/554</url>
+      <g:link>https://frivio.se/auktion/554</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/554/a1779890025536.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/554/a1779890025536.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/554/b1779890025667.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/554/c1779890025426.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/554/d1779890025201.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/554/e1779890025314.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/554/f1779890025836.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/554/g1779890025083.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/554/h1779890023829.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/554/i1779890024188.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/554/j1779890023573.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/554/k1779890024334.jpeg</g:additional_image_link>
+      <make>Cabby</make>
+      <model>67 M</model>
+      <year>2003</year>
+      <mileage>
+        <value>0</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>55000 SEK</price>
+      <g:price>55000 SEK</g:price>
+      <address>Stockholm</address>
+      <address format="simple">
+        <component name="addr1">Stockholm</component>
+        <component name="city">Stockholm</component>
+        <component name="region">Stockholm</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <frivio:listing_type>auction</frivio:listing_type>
+      <frivio:auction_end_date>2026-06-09T16:56:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>55000 SEK</frivio:current_bid>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
+      <frivio:monthly_cost>870 kr/mån</frivio:monthly_cost>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Husvagn</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
+      <frivio:region>Stockholm</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Husvagn</custom_label_0>
+      <custom_label_1>Slutar 2026-06-09 16:56</custom_label_1>
+    </item>
+    <item>
+      <vehicle_id>555</vehicle_id>
+      <g:id>555</g:id>
+      <title>Knaus Sudwind 650 PEB</title>
+      <description>Knaus Südwind 650 PEB från 2021 är en mycket fin och välplanerad premiumvagn med modern design och hög komfort. Vagnen erbjuder rymlig sittgrupp, välutrustat kök med stort kylskåp, långbäddar samt badrum med separat dusch. Den ljusa interiören, generösa förvaringen och stora panoramafönstren skapar en härlig rymd. Dubbelaxel och bred kaross ger mycket stabila och trygga köregenskaper året om. Årsmodell: 2021 · Typ: Husvagn · Ort: Köping</description>
+      <url>https://frivio.se/auktion/555</url>
+      <g:link>https://frivio.se/auktion/555</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/555/a1779890255384.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/555/a1779890255384.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/555/b1779890254944.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/555/c1779890253790.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/555/d1779890254019.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/555/e1779890254248.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/555/f1779890254495.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/555/g1779890255169.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/555/h1779890254751.jpeg</g:additional_image_link>
+      <make>Knaus</make>
+      <model>Sudwind 650 PEB</model>
+      <year>2021</year>
+      <mileage>
+        <value>0</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>280000 SEK</price>
+      <g:price>280000 SEK</g:price>
+      <address>Köping</address>
+      <address format="simple">
+        <component name="addr1">Köping</component>
+        <component name="city">Köping</component>
+        <component name="region">Västmanland</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <frivio:listing_type>fixed_price</frivio:listing_type>
+      <frivio:auction_end_date>2026-06-09T17:40:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Ej tillämpligt (fast pris)</frivio:reserve_price_status>
+      <frivio:monthly_cost>4430 kr/mån</frivio:monthly_cost>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Husvagn</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
+      <frivio:region>Västmanland</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Husvagn</custom_label_0>
+      <custom_label_1>Slutar 2026-06-09 17:40</custom_label_1>
+    </item>
+    <item>
+      <vehicle_id>546</vehicle_id>
+      <g:id>546</g:id>
+      <title>Bolmen ALU 570</title>
+      <description>Bolmen ALU 570 från 2020 är en stabil och sjösäker aluminiumbåt som passar perfekt för familjeliv, fiske och fritid. Båten är tillverkad i Nederländerna och utrustad med styrpulpet, hydraulstyrning, elpanel, el-länspump, belysning, badstege samt flera praktiska detaljer. CE-märkt i kategori C och byggd i kraftigt aluminium på 3–4 mm för hög kvalitet och hållbarhet. Rekommenderad motorstyrka är 60–115 hk långrigg. Säljs utan motor och är i mycket fint skick. - Trailer ingår ej - Motor ingår ej Årsmodell: 2020 · Typ: Båt · Ort: Gislaved</description>
+      <url>https://frivio.se/auktion/546</url>
+      <g:link>https://frivio.se/auktion/546</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/546/b1779794992322.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/546/b1779794992322.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/546/c1779794992643.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/546/d1779794992827.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/546/e1779794993280.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/546/f1779794992993.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/546/g1779794993133.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/546/h1779794993465.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/546/i1779794993651.jpeg</g:additional_image_link>
+      <make>Bolmen</make>
+      <model>Bolmen ALU 570</model>
+      <year>2020</year>
+      <mileage>
+        <value>0</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>34500 SEK</price>
+      <g:price>34500 SEK</g:price>
+      <address>Gislaved</address>
+      <address format="simple">
+        <component name="addr1">Gislaved</component>
+        <component name="city">Gislaved</component>
+        <component name="region">Jönköping</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <frivio:listing_type>auction</frivio:listing_type>
+      <frivio:auction_end_date>2026-06-10T16:34:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>34500 SEK</frivio:current_bid>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
+      <frivio:monthly_cost>546 kr/mån</frivio:monthly_cost>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Båt</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
+      <frivio:region>Jönköping</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Båt</custom_label_0>
+      <custom_label_1>Slutar 2026-06-10 16:34</custom_label_1>
     </item>
     <item>
       <vehicle_id>549</vehicle_id>
