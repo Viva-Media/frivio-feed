@@ -4,7 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Wed, 27 May 2026 08:43:51 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 12:28:31 GMT</lastBuildDate>
     <item>
       <vehicle_id>527</vehicle_id>
       <g:id>527</g:id>
@@ -1150,6 +1150,61 @@
       <custom_label_1>Slutar 2026-06-08 17:34</custom_label_1>
     </item>
     <item>
+      <vehicle_id>552</vehicle_id>
+      <g:id>552</g:id>
+      <title>Uttern 560 Exclusive</title>
+      <description>Uttern 560 Exclusive från 2003 med Mercury 115 hk Four Stroke från 2003. Båten är årligen servad och vinterförvarad inomhus, vilket bidragit till det fina skicket. En mycket trevlig och stabil fritidsbåt med gott om utrymme, fina sjöegenskaper och smart planlösning. Passar perfekt för både bad, dagsutflykter och vattensport. Utrustad med bland annat Garmin plotter, bekväma sittplatser och badstege. En välskött och pålitlig båt redo för sommarens äventyr. - Trailer medföljer och kommer att vara nybesiktad vid leverans - Diverse tillbehör medföljer - Lanternor fungerar ej - Glapp till Ekolod Årsmodell: 2003 · Typ: Båt · Ort: Leksand</description>
+      <url>https://frivio.se/auktion/552</url>
+      <g:link>https://frivio.se/auktion/552</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/552/a1779799462986.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/552/a1779799462986.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/552/b1779799463151.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/552/c1779799463285.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/552/d1779799463545.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/552/e1779799463424.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/552/f1779799463664.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/552/g1779799463785.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/552/h1779799463899.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/552/i1779799464008.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/552/j1779799464110.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/552/k1779799464234.jpeg</g:additional_image_link>
+      <make>Uttern</make>
+      <model>Uttern 560 Exclusive</model>
+      <year>2003</year>
+      <mileage>
+        <value>0</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>59000 SEK</price>
+      <g:price>59000 SEK</g:price>
+      <address>Leksand</address>
+      <address format="simple">
+        <component name="addr1">Leksand</component>
+        <component name="city">Leksand</component>
+        <component name="region">Dalarna</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <frivio:listing_type>auction</frivio:listing_type>
+      <frivio:auction_end_date>2026-06-09T15:38:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>59000 SEK</frivio:current_bid>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
+      <frivio:monthly_cost>934 kr/mån</frivio:monthly_cost>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Båt</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
+      <frivio:region>Dalarna</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Båt</custom_label_0>
+      <custom_label_1>Slutar 2026-06-09 15:38</custom_label_1>
+    </item>
+    <item>
       <vehicle_id>549</vehicle_id>
       <g:id>549</g:id>
       <title>Kabe Royal 740 TDL KS</title>
@@ -1203,6 +1258,114 @@
       <availability>AVAILABLE</availability>
       <custom_label_0>Husvagn</custom_label_0>
       <custom_label_1>Slutar 2026-06-11 15:17</custom_label_1>
+    </item>
+    <item>
+      <vehicle_id>551</vehicle_id>
+      <g:id>551</g:id>
+      <title>Bella 512 Excel</title>
+      <description>Bella 512 Excel från 2008 tillsammans med en Mercury 75 hk Optimax från 2009 är en mycket trevlig och välgående fritidsbåt med fina sjöegenskaper. Båten är i mycket gott skick för sin ålder och passar lika bra för nybörjaren som den erfarna båtägaren. Med den starka Optimax-motorn fungerar båten även utmärkt för vattenskidor och andra fartfyllda aktiviteter. En smidig, pålitlig och rolig båt för sommarens alla turer. - Motorn har gått 79h - Motorn servad inför säsongen - 30km/h upptagningsvagn medföljer - Kapell medföljer - Dynsats medföljer Årsmodell: 2008 · Typ: Båt · Ort: Kungsbacka</description>
+      <url>https://frivio.se/auktion/551</url>
+      <g:link>https://frivio.se/auktion/551</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/551/b1779798984293.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/551/b1779798984293.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/551/c1779798983384.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/551/d1779798983550.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/551/e1779798983688.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/551/f1779798983809.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/551/g1779798983921.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/551/h1779798984050.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/551/i1779798984175.jpeg</g:additional_image_link>
+      <make>Bella</make>
+      <model>Bella 512 Excel</model>
+      <year>2008</year>
+      <mileage>
+        <value>0</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>64500 SEK</price>
+      <g:price>64500 SEK</g:price>
+      <address>Kungsbacka</address>
+      <address format="simple">
+        <component name="addr1">Kungsbacka</component>
+        <component name="city">Kungsbacka</component>
+        <component name="region">Halland</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <frivio:listing_type>auction</frivio:listing_type>
+      <frivio:auction_end_date>2026-06-11T15:21:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>64500 SEK</frivio:current_bid>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
+      <frivio:monthly_cost>1021 kr/mån</frivio:monthly_cost>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Båt</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
+      <frivio:region>Halland</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Båt</custom_label_0>
+      <custom_label_1>Slutar 2026-06-11 15:21</custom_label_1>
+    </item>
+    <item>
+      <vehicle_id>553</vehicle_id>
+      <g:id>553</g:id>
+      <title>Weinsberg CaraCompact 640 MEG</title>
+      <description>Upptäck friheten med denna mycket välvårdade Weinsberg R53 på Mercedes-chassi - en modern och lättkörd husbil med hög komfort och smart planlösning. Husbilen är knappt använd och har endast rullat cirka 500 mil, vilket gör den till ett nästintill nybilsliknande exemplar. Stilren interiör, fina materialval och bekväma sovplatser gör den perfekt för både kortare utflykter och längre semestrar. Ett tryggt och exklusivt val för dig som vill resa bekvämt med kvalitet och körglädje. - 5 sovplatser och 4 bältade platser Årsmodell: 2025 · Typ: Husbil · Drivmedel: Diesel · Växellåda: Automatisk · Mätarställning: 500 mil · Ort: Hofors</description>
+      <url>https://frivio.se/auktion/553</url>
+      <g:link>https://frivio.se/auktion/553</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/553/a1779875120311.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/553/a1779875120311.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/553/b1779875120126.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/553/c1779875120555.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/553/d1779875120448.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/553/e1779875120664.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/553/f1779875120911.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/553/g1779875120781.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/553/h1779875121029.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/553/i1779875121280.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/553/j1779875121409.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/553/k1779875121154.jpeg</g:additional_image_link>
+      <make>Weinsberg</make>
+      <model>CaraCompact 640 MEG</model>
+      <year>2025</year>
+      <mileage>
+        <value>5000</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>500000 SEK</price>
+      <g:price>500000 SEK</g:price>
+      <address>Hofors</address>
+      <address format="simple">
+        <component name="addr1">Hofors</component>
+        <component name="city">Hofors</component>
+        <component name="region">Gävleborg</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <transmission>AUTOMATIC</transmission>
+      <frivio:listing_type>auction</frivio:listing_type>
+      <frivio:auction_end_date>2026-06-15T17:44:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>500000 SEK</frivio:current_bid>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
+      <frivio:monthly_cost>7911 kr/mån</frivio:monthly_cost>
+      <body_style>VAN</body_style>
+      <frivio:body_type_label>Husbil</frivio:body_type_label>
+      <fuel_type>DIESEL</fuel_type>
+      <frivio:region>Gävleborg</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Husbil</custom_label_0>
+      <custom_label_1>Slutar 2026-06-15 17:44</custom_label_1>
     </item>
   </channel>
 </rss>
