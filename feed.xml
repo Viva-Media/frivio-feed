@@ -4,117 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Mon, 01 Jun 2026 12:44:55 GMT</lastBuildDate>
-    <item>
-      <vehicle_id>529</vehicle_id>
-      <g:id>529</g:id>
-      <title>Knaus 650 UDF Exclusive</title>
-      <description>Knaus 650 UDF Scandinavian Selection Exclusive från 2016 är en rymlig och välutrustad familjevagn med hög komfort och smart planlösning. Här får du en lyxig känsla rakt igenom, inklusive praktisk barnkammare och generösa ytor för hela familjen. En mycket trevlig husvagn utrustad med AC för ett bekvämligt inneklimat. - Vattenburen golvvärme - Formsydd heltäckningsmatta till hela vagnen - Franskbädd cirka 150cm bred ink extra Wellpur bäddmadrass - Bäddbart överskåp med skyddsnät inklusive stege - Bäddbar dinett ink Wellpur bäddmadrass - LED-Belysning - Klädvinda - Isabella 3m förtält med lättviktspinnar - Förtältsmatta - Vinterdäck - Besiktad till 2028-04-30 - Fukt- och gasoltestad 2025/2026 - Mindre bruksspår finns i form av en liten buckla (som en enkrona), ett hack i bordet samt en mindre spricka ovanför handfatet. Årsmodell: 2016 · Typ: Husvagn · Ort: Kalmar</description>
-      <url>https://frivio.se/auktion/529</url>
-      <g:link>https://frivio.se/auktion/529</g:link>
-      <image>
-        <url>https://backend.frivio.se/vehicle/529/b1779382893936.jpeg</url>
-        <tag>Exterior</tag>
-      </image>
-      <g:image_link>https://backend.frivio.se/vehicle/529/b1779382893936.jpeg</g:image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/529/c1779382893492.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/529/d1779382893715.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/529/e1779382892353.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/529/f1779382897229.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/529/g1779382894171.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/529/h1779382895041.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/529/i1779382894379.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/529/j1779382894635.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/529/k1779382895481.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/529/l1779382894842.jpeg</g:additional_image_link>
-      <make>Knaus</make>
-      <model>650 UDF Exclusive</model>
-      <year>2016</year>
-      <mileage>
-        <value>0</value>
-        <unit>KM</unit>
-      </mileage>
-      <price>130000 SEK</price>
-      <g:price>130000 SEK</g:price>
-      <address>Kalmar</address>
-      <address format="simple">
-        <component name="addr1">Kalmar</component>
-        <component name="city">Kalmar</component>
-        <component name="region">Kalmar</component>
-        <component name="country">SE</component>
-      </address>
-      <condition>GOOD</condition>
-      <state_of_vehicle>USED</state_of_vehicle>
-      <frivio:listing_type>auction</frivio:listing_type>
-      <frivio:auction_end_date>2026-06-01T15:50:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>130000 SEK</frivio:current_bid>
-      <frivio:bid_count>2</frivio:bid_count>
-      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>2057 kr/mån</frivio:monthly_cost>
-      <body_style>OTHER</body_style>
-      <frivio:body_type_label>Husvagn</frivio:body_type_label>
-      <fuel_type>NONE</fuel_type>
-      <frivio:region>Kalmar</frivio:region>
-      <availability>AVAILABLE</availability>
-      <custom_label_0>Husvagn</custom_label_0>
-      <custom_label_1>Slutar 2026-06-01 15:50</custom_label_1>
-    </item>
-    <item>
-      <vehicle_id>533</vehicle_id>
-      <g:id>533</g:id>
-      <title>Örnvik</title>
-      <description>Välhållen Örnvik-båt med Yanmar YSB 12 inombordare. Båten har haft en och samma ägare sedan ny och har aldrig legat i hamn, utan alltid tagits upp efter användning, vilket bidragit till dess fina skick. Stabil och trygg båt med praktisk hytt, gott om utrymme och enkel hantering. Perfekt för fiske, utflykter eller lugna turer på sjön. En pålitlig klassiker redo för nya äventyr. - Originalhytt - Sötvattenkylning - Nytt kapell - Trailer på bild ingår Årsmodell: 1977 · Typ: Båt · Ort: Kävlinge</description>
-      <url>https://frivio.se/auktion/533</url>
-      <g:link>https://frivio.se/auktion/533</g:link>
-      <image>
-        <url>https://backend.frivio.se/vehicle/533/a1779106552004.jpeg</url>
-        <tag>Exterior</tag>
-      </image>
-      <g:image_link>https://backend.frivio.se/vehicle/533/a1779106552004.jpeg</g:image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/533/b1779106552316.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/533/c1779106552175.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/533/d1779106552433.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/533/e1779106553003.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/533/f1779106552571.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/533/g1779106553150.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/533/h1779106552722.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/533/i1779106552851.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/533/j1779106553435.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/533/k1779106553289.jpeg</g:additional_image_link>
-      <make>Örnvik</make>
-      <model>Örnvik</model>
-      <year>1977</year>
-      <mileage>
-        <value>0</value>
-        <unit>KM</unit>
-      </mileage>
-      <price>25000 SEK</price>
-      <g:price>25000 SEK</g:price>
-      <address>Kävlinge</address>
-      <address format="simple">
-        <component name="addr1">Kävlinge</component>
-        <component name="city">Kävlinge</component>
-        <component name="region">Skåne</component>
-        <component name="country">SE</component>
-      </address>
-      <condition>GOOD</condition>
-      <state_of_vehicle>USED</state_of_vehicle>
-      <frivio:listing_type>auction</frivio:listing_type>
-      <frivio:auction_end_date>2026-06-01T16:15:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>25000 SEK</frivio:current_bid>
-      <frivio:bid_count>0</frivio:bid_count>
-      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
-      <frivio:monthly_cost>396 kr/mån</frivio:monthly_cost>
-      <body_style>OTHER</body_style>
-      <frivio:body_type_label>Båt</frivio:body_type_label>
-      <fuel_type>NONE</fuel_type>
-      <frivio:region>Skåne</frivio:region>
-      <availability>AVAILABLE</availability>
-      <custom_label_0>Båt</custom_label_0>
-      <custom_label_1>Slutar 2026-06-01 16:15</custom_label_1>
-    </item>
+    <lastBuildDate>Mon, 01 Jun 2026 18:44:08 GMT</lastBuildDate>
     <item>
       <vehicle_id>537</vehicle_id>
       <g:id>537</g:id>
@@ -597,7 +487,7 @@
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-06-08T14:34:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
       <frivio:current_bid>230000 SEK</frivio:current_bid>
       <frivio:bid_count>3</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
@@ -652,7 +542,7 @@
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-06-08T16:28:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
       <frivio:current_bid>75000 SEK</frivio:current_bid>
       <frivio:bid_count>0</frivio:bid_count>
       <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
@@ -706,7 +596,7 @@
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-06-08T17:34:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
       <frivio:current_bid>65000 SEK</frivio:current_bid>
       <frivio:bid_count>0</frivio:bid_count>
       <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
@@ -1812,6 +1702,61 @@
       <availability>AVAILABLE</availability>
       <custom_label_0>Husbil</custom_label_0>
       <custom_label_1>Slutar 2026-06-17 15:38</custom_label_1>
+    </item>
+    <item>
+      <vehicle_id>557</vehicle_id>
+      <g:id>557</g:id>
+      <title>Wellcraft Gran Sport 34 DIESEL</title>
+      <description>Båten är 34 fot i vattenlinjen men ca 37 fot &quot;over all&quot;. Byggd 1987 men konverterad till diesel 2002 till 2 st kad 43 med 290 drev och duoprop från -02. Ca 1300 timmar på motorerna. Fräsch trots åldern då den också helrenoverades vid konverteringen -02. Teak på durken både inne och ute lades också då. 6 - 7 sovplatser inne. Dinett, stor nästan rund säng fram och midcabin med bäddbar soffa bak. Utrustning - 4-lågig gasspis - Kyl med frysfack - Wetbar med ismaskin (kan användas som frys) - Micro med grillfunktion - Integrerad kaffebryggare - Eltoa - Dusch med varmt och kallt vatten både inne och på badbrygga - VHF - Radio CD inne - Bluetoth ljudanläggning ute - TV - Varmvattenberedare - AC (ej använd av oss och inte testad) - Bogpropeller - Onan elverk - Kraftiga dävertar Årsmodell: 1987 · Typ: Båt · Ort: Tjörn</description>
+      <url>https://frivio.se/auktion/557</url>
+      <g:link>https://frivio.se/auktion/557</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/557/a1780239594288.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/557/a1780239594288.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/557/b1780239605036.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/557/c1780239614307.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/557/d1780239625582.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/557/e1780239634169.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/557/f1780239657111.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/557/g1780239666733.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/557/h1780239676701.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/557/i1780239686924.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/557/j1780239691406.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/557/k1780239701058.jpeg</g:additional_image_link>
+      <make>Wellcraft</make>
+      <model>Wellcraft Gran Sport 34 DIESEL</model>
+      <year>1987</year>
+      <mileage>
+        <value>0</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>112500 SEK</price>
+      <g:price>112500 SEK</g:price>
+      <address>Tjörn</address>
+      <address format="simple">
+        <component name="addr1">Tjörn</component>
+        <component name="city">Tjörn</component>
+        <component name="region">Västra Götaland</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <frivio:listing_type>auction</frivio:listing_type>
+      <frivio:auction_end_date>2026-06-17T17:58:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>112500 SEK</frivio:current_bid>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
+      <frivio:monthly_cost>1780 kr/mån</frivio:monthly_cost>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Båt</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
+      <frivio:region>Västra Götaland</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Båt</custom_label_0>
+      <custom_label_1>Slutar 2026-06-17 17:58</custom_label_1>
     </item>
     <item>
       <vehicle_id>562</vehicle_id>
