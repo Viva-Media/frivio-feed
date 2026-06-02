@@ -4,62 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Tue, 02 Jun 2026 14:59:51 GMT</lastBuildDate>
-    <item>
-      <vehicle_id>537</vehicle_id>
-      <g:id>537</g:id>
-      <title>Adria Adora 613 HT</title>
-      <description>Adria Adora 613HT från 2014 med smart planlösning och två enkelsängar bak. Utrustad med stort kylskåp, ugn, toalett samt gott om förvaring. Bekväm sittgrupp som enkelt rymmer flera personer och fint ljusinsläpp från stora fönster och taklucka. Vagnen är välhållen och har en trivsam interiör med modern känsla. Perfekt för både längre semestrar och helgturer. - Besiktad till 2028-05-31 - Ventura 3M tält med lättviktsstativ - Nya däck - Fukt och gasoltest utfört 2022 UA Årsmodell: 2014 · Typ: Husvagn · Ort: Kalmar</description>
-      <url>https://frivio.se/auktion/537</url>
-      <g:link>https://frivio.se/auktion/537</g:link>
-      <image>
-        <url>https://backend.frivio.se/vehicle/537/a1779188778336.jpeg</url>
-        <tag>Exterior</tag>
-      </image>
-      <g:image_link>https://backend.frivio.se/vehicle/537/a1779188778336.jpeg</g:image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/537/b1779188777613.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/537/c1779188777788.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/537/d1779188776291.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/537/e1779188776746.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/537/f1779188777969.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/537/g1779188776540.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/537/h1779188778155.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/537/i1779188777104.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/537/j1779188776945.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/537/k1779188777272.jpeg</g:additional_image_link>
-      <make>Adria</make>
-      <model>Adora 613 HT</model>
-      <year>2014</year>
-      <mileage>
-        <value>0</value>
-        <unit>KM</unit>
-      </mileage>
-      <price>125000 SEK</price>
-      <g:price>125000 SEK</g:price>
-      <address>Kalmar</address>
-      <address format="simple">
-        <component name="addr1">Kalmar</component>
-        <component name="city">Kalmar</component>
-        <component name="region">Kalmar</component>
-        <component name="country">SE</component>
-      </address>
-      <condition>GOOD</condition>
-      <state_of_vehicle>USED</state_of_vehicle>
-      <frivio:listing_type>auction</frivio:listing_type>
-      <frivio:auction_end_date>2026-06-02T16:58:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>125000 SEK</frivio:current_bid>
-      <frivio:bid_count>4</frivio:bid_count>
-      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>1978 kr/mån</frivio:monthly_cost>
-      <body_style>OTHER</body_style>
-      <frivio:body_type_label>Husvagn</frivio:body_type_label>
-      <fuel_type>NONE</fuel_type>
-      <frivio:region>Kalmar</frivio:region>
-      <availability>AVAILABLE</availability>
-      <custom_label_0>Husvagn</custom_label_0>
-      <custom_label_1>Slutar 2026-06-02 16:58</custom_label_1>
-    </item>
+    <lastBuildDate>Tue, 02 Jun 2026 18:51:31 GMT</lastBuildDate>
     <item>
       <vehicle_id>530</vehicle_id>
       <g:id>530</g:id>
@@ -651,7 +596,7 @@
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-06-09T15:38:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
       <frivio:current_bid>77000 SEK</frivio:current_bid>
       <frivio:bid_count>4</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
@@ -706,7 +651,7 @@
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-06-09T16:56:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
       <frivio:current_bid>55000 SEK</frivio:current_bid>
       <frivio:bid_count>0</frivio:bid_count>
       <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
@@ -758,7 +703,7 @@
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>fixed_price</frivio:listing_type>
       <frivio:auction_end_date>2026-06-09T17:40:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
       <frivio:bid_count>0</frivio:bid_count>
       <frivio:reserve_price_status>Ej tillämpligt (fast pris)</frivio:reserve_price_status>
       <frivio:monthly_cost>4430 kr/mån</frivio:monthly_cost>
