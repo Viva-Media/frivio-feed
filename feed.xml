@@ -4,7 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Wed, 03 Jun 2026 05:01:10 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 11:18:39 GMT</lastBuildDate>
     <item>
       <vehicle_id>530</vehicle_id>
       <g:id>530</g:id>
@@ -89,8 +89,8 @@
         <value>0</value>
         <unit>KM</unit>
       </mileage>
-      <price>120000 SEK</price>
-      <g:price>120000 SEK</g:price>
+      <price>125000 SEK</price>
+      <g:price>125000 SEK</g:price>
       <address>Vimmerby</address>
       <address format="simple">
         <component name="addr1">Vimmerby</component>
@@ -103,10 +103,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-06-03T14:52:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>120000 SEK</frivio:current_bid>
-      <frivio:bid_count>3</frivio:bid_count>
+      <frivio:current_bid>125000 SEK</frivio:current_bid>
+      <frivio:bid_count>4</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>1899 kr/mån</frivio:monthly_cost>
+      <frivio:monthly_cost>1978 kr/mån</frivio:monthly_cost>
       <body_style>OTHER</body_style>
       <frivio:body_type_label>Husvagn</frivio:body_type_label>
       <fuel_type>NONE</fuel_type>
@@ -1409,8 +1409,8 @@
         <value>5000</value>
         <unit>KM</unit>
       </mileage>
-      <price>500000 SEK</price>
-      <g:price>500000 SEK</g:price>
+      <price>500500 SEK</price>
+      <g:price>500500 SEK</g:price>
       <address>Hofors</address>
       <address format="simple">
         <component name="addr1">Hofors</component>
@@ -1424,10 +1424,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-06-15T17:44:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>500000 SEK</frivio:current_bid>
-      <frivio:bid_count>0</frivio:bid_count>
-      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
-      <frivio:monthly_cost>7911 kr/mån</frivio:monthly_cost>
+      <frivio:current_bid>500500 SEK</frivio:current_bid>
+      <frivio:bid_count>1</frivio:bid_count>
+      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
+      <frivio:monthly_cost>7919 kr/mån</frivio:monthly_cost>
       <body_style>VAN</body_style>
       <frivio:body_type_label>Husbil</frivio:body_type_label>
       <fuel_type>DIESEL</fuel_type>
@@ -1482,6 +1482,57 @@
       <availability>AVAILABLE</availability>
       <custom_label_0>Båt</custom_label_0>
       <custom_label_1>Slutar 2026-06-15 17:56</custom_label_1>
+    </item>
+    <item>
+      <vehicle_id>580</vehicle_id>
+      <g:id>580</g:id>
+      <title>Yamaha X-Max 250</title>
+      <description>Yamaha X-Max 250 är en populär och lättkörd maxiscooter som kombinerar komfort, praktiska egenskaper och god bränsleekonomi. Den kraftfulla 250-kubiksmotorn ger smidig körning både i stadstrafik och på landsväg, medan den höga vindrutan och den bekväma sittställningen bidrar till en avslappnad körupplevelse. Under sadeln finns generöst förvaringsutrymme och skotern erbjuder gott om plats för både förare och passagerare. Ett utmärkt alternativ för dig som söker ett smidigt och pålitligt transportmedel. Årsmodell: 2015 · Typ: Motorcykel · Mätarställning: 4 800 mil · Ort: Mönsterås</description>
+      <url>https://frivio.se/auktion/580</url>
+      <g:link>https://frivio.se/auktion/580</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/580/a1780476307938.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/580/a1780476307938.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/580/b1780476308227.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/580/c1780476308372.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/580/d1780476307570.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/580/e1780476307762.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/580/f1780476308522.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/580/g1780476308088.jpeg</g:additional_image_link>
+      <make>Yamaha</make>
+      <model>X-Max 250</model>
+      <year>2015</year>
+      <mileage>
+        <value>48000</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>11000 SEK</price>
+      <g:price>11000 SEK</g:price>
+      <address>Mönsterås</address>
+      <address format="simple">
+        <component name="addr1">Mönsterås</component>
+        <component name="city">Mönsterås</component>
+        <component name="region">Kalmar</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <frivio:listing_type>auction</frivio:listing_type>
+      <frivio:auction_end_date>2026-06-16T14:42:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>11000 SEK</frivio:current_bid>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
+      <frivio:monthly_cost>174 kr/mån</frivio:monthly_cost>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Motorcykel</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
+      <frivio:region>Kalmar</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Motorcykel</custom_label_0>
+      <custom_label_1>Slutar 2026-06-16 14:42</custom_label_1>
     </item>
     <item>
       <vehicle_id>559</vehicle_id>
@@ -1591,6 +1642,61 @@
       <availability>AVAILABLE</availability>
       <custom_label_0>Husvagn</custom_label_0>
       <custom_label_1>Slutar 2026-06-16 16:24</custom_label_1>
+    </item>
+    <item>
+      <vehicle_id>577</vehicle_id>
+      <g:id>577</g:id>
+      <title>Adria Adiva 502UP</title>
+      <description>Adria Adiva 502 UP från 2002 är en välplanerad husvagn med rymlig rundsittgrupp fram, praktiskt kök i mitten och bekväm franskbädd bak. Vagnen erbjuder gott om förvaring genom flera skåp och garderober samt toalett med duschmöjlighet. Den ljusa och trivsamma interiören skapar en hemtrevlig känsla och gör vagnen till ett utmärkt val för paret eller den mindre familjen som söker bekvämt campingliv. - Besiktad till 2028-05-31 - Däck gått 100mil - Brandsläckare - Gaslarm inne - Extra lastlucka under säng - 90W Solpanel med automatik Årsmodell: 2002 · Typ: Husvagn · Ort: Mönsterås</description>
+      <url>https://frivio.se/auktion/577</url>
+      <g:link>https://frivio.se/auktion/577</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/577/a1780401529805.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/577/a1780401529805.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/577/b1780401529992.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/577/c1780401530168.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/577/d1780401530312.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/577/e1780401530467.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/577/f1780401530625.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/577/g1780401530788.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/577/h1780401530939.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/577/i1780401531686.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/577/j1780401531375.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/577/k1780401532302.jpeg</g:additional_image_link>
+      <make>Adria</make>
+      <model>Adiva 502UP</model>
+      <year>2002</year>
+      <mileage>
+        <value>0</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>40000 SEK</price>
+      <g:price>40000 SEK</g:price>
+      <address>Mönsterås</address>
+      <address format="simple">
+        <component name="addr1">Mönsterås</component>
+        <component name="city">Mönsterås</component>
+        <component name="region">Kalmar</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <frivio:listing_type>auction</frivio:listing_type>
+      <frivio:auction_end_date>2026-06-16T16:52:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>40000 SEK</frivio:current_bid>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
+      <frivio:monthly_cost>633 kr/mån</frivio:monthly_cost>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Husvagn</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
+      <frivio:region>Kalmar</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Husvagn</custom_label_0>
+      <custom_label_1>Slutar 2026-06-16 16:52</custom_label_1>
     </item>
     <item>
       <vehicle_id>561</vehicle_id>
@@ -1919,6 +2025,57 @@
       <availability>AVAILABLE</availability>
       <custom_label_0>Båt</custom_label_0>
       <custom_label_1>Slutar 2026-06-18 15:35</custom_label_1>
+    </item>
+    <item>
+      <vehicle_id>579</vehicle_id>
+      <g:id>579</g:id>
+      <title>Carado Capron I449</title>
+      <description>Letar du efter en husbil i absolut toppskick, med låg körsträcka, då är denna helintegrerade Carado Capron I449 från 2021 ett perfekt val. Den är väl omhändertagen och är i mycket gott skick. En komplett och välutrustad husbil, perfekt för både nya och erfarna husbilsägare. Fukttest, gasoltest samt funktionskontroll är gjort 2024 utan anmärkning. - Kamrem bytt - Endast 1360 mil - 4 bältade platser - Manuella stödben bak - Solcell - Inverter 1500w - Besiktad till 2027-05-31 Årsmodell: 2021 · Typ: Husbil · Drivmedel: Diesel · Växellåda: Automatisk · Mätarställning: 1 350 mil · Ort: Uppsala</description>
+      <url>https://frivio.se/auktion/579</url>
+      <g:link>https://frivio.se/auktion/579</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/579/a1780474085715.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/579/a1780474085715.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/579/b1780474085446.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/579/c1780474084929.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/579/d1780474085145.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/579/e1780474085307.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/579/f1780474085579.jpeg</g:additional_image_link>
+      <make>Carado</make>
+      <model>Capron I449</model>
+      <year>2021</year>
+      <mileage>
+        <value>13500</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>437500 SEK</price>
+      <g:price>437500 SEK</g:price>
+      <address>Uppsala</address>
+      <address format="simple">
+        <component name="addr1">Uppsala</component>
+        <component name="city">Uppsala</component>
+        <component name="region">Uppsala</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <transmission>AUTOMATIC</transmission>
+      <frivio:listing_type>auction</frivio:listing_type>
+      <frivio:auction_end_date>2026-06-21T15:05:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>437500 SEK</frivio:current_bid>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
+      <frivio:monthly_cost>6922 kr/mån</frivio:monthly_cost>
+      <body_style>VAN</body_style>
+      <frivio:body_type_label>Husbil</frivio:body_type_label>
+      <fuel_type>DIESEL</fuel_type>
+      <frivio:region>Uppsala</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Husbil</custom_label_0>
+      <custom_label_1>Slutar 2026-06-21 15:05</custom_label_1>
     </item>
     <item>
       <vehicle_id>562</vehicle_id>
