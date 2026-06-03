@@ -4,117 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Wed, 03 Jun 2026 11:18:39 GMT</lastBuildDate>
-    <item>
-      <vehicle_id>530</vehicle_id>
-      <g:id>530</g:id>
-      <title>Bayliner 2855 Sierra Sunbridge</title>
-      <description>Bayliner 2855 Sierra Sunbridge (1988) - En rymlig och välutrustad dieselcruiser med stark Volvo Penta D4 på 260 hk och 440h. Båten erbjuder generösa utrymmen både ute och inne, med bekväm kabin för upp till 6 personer, pentry och separat toalett med dusch. Utrustad med bland annat bogpropeller, plotter, solceller och landström - perfekt för längre turer och övernattning. Ankarspelet fungerar i dagsläget inte, vilket innebär att man ankrar manuellt. - Farthållare och automatiskt trim - DPH drev med nya rostfria proppar - QL trimplan - Bogpropeller - 5 batterier - Värmare - Pentry med kylskåp &amp; frysfack, spis som drivs med sprit eller 220 - Toa med septitank (land och sjötömning) - Dusch på badbryggan Årsmodell: 1988 · Typ: Båt · Ort: Uddevalla</description>
-      <url>https://frivio.se/auktion/530</url>
-      <g:link>https://frivio.se/auktion/530</g:link>
-      <image>
-        <url>https://backend.frivio.se/vehicle/530/a1779093390127.jpeg</url>
-        <tag>Exterior</tag>
-      </image>
-      <g:image_link>https://backend.frivio.se/vehicle/530/a1779093390127.jpeg</g:image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/530/b1779093389275.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/530/c1779093389455.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/530/d1779093389603.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/530/e1779093389748.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/530/f1779093389996.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/530/g1779093389886.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/530/h1779093390388.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/530/i1779093390273.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/530/j1779093390630.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/530/k1779093390509.jpeg</g:additional_image_link>
-      <make>Bayliner</make>
-      <model>Bayliner 2855 Sierra Sunbridge</model>
-      <year>1988</year>
-      <mileage>
-        <value>0</value>
-        <unit>KM</unit>
-      </mileage>
-      <price>130000 SEK</price>
-      <g:price>130000 SEK</g:price>
-      <address>Uddevalla</address>
-      <address format="simple">
-        <component name="addr1">Uddevalla</component>
-        <component name="city">Uddevalla</component>
-        <component name="region">Västra Götaland</component>
-        <component name="country">SE</component>
-      </address>
-      <condition>GOOD</condition>
-      <state_of_vehicle>USED</state_of_vehicle>
-      <frivio:listing_type>auction</frivio:listing_type>
-      <frivio:auction_end_date>2026-06-03T14:35:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>130000 SEK</frivio:current_bid>
-      <frivio:bid_count>0</frivio:bid_count>
-      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
-      <frivio:monthly_cost>2057 kr/mån</frivio:monthly_cost>
-      <body_style>OTHER</body_style>
-      <frivio:body_type_label>Båt</frivio:body_type_label>
-      <fuel_type>NONE</fuel_type>
-      <frivio:region>Västra Götaland</frivio:region>
-      <availability>AVAILABLE</availability>
-      <custom_label_0>Båt</custom_label_0>
-      <custom_label_1>Slutar 2026-06-03 14:35</custom_label_1>
-    </item>
-    <item>
-      <vehicle_id>532</vehicle_id>
-      <g:id>532</g:id>
-      <title>Kabe Royal 720 GXL KS</title>
-      <description>Kabe Royal 720 GXL KS från 2008. Stor och rymlig husvagn med sovplatser för 5 personer, och rymligt Isabella 3-meters förält. Vagnen har en praktisk planlösning med rundsittgrupp bak och dubbelsäng fram samt gott om förvaring i hela vagnen. Utrustad med stor kyl och frys, ugn samt AC för behagligare temperatur under varma dagar. Passar både för längre semestrar och säsongscamping där man vill ha ordentligt med utrymme och komfort. - Besiktad till 2028-04-30 - Fukttest utfört UA 2026 Årsmodell: 2008 · Typ: Husvagn · Ort: Vimmerby</description>
-      <url>https://frivio.se/auktion/532</url>
-      <g:link>https://frivio.se/auktion/532</g:link>
-      <image>
-        <url>https://backend.frivio.se/vehicle/532/b1779382532942.jpeg</url>
-        <tag>Exterior</tag>
-      </image>
-      <g:image_link>https://backend.frivio.se/vehicle/532/b1779382532942.jpeg</g:image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/532/c1779382533183.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/532/d1779382532535.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/532/e1779382530463.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/532/f1779382530923.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/532/g1779382531526.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/532/h1779382531738.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/532/i1779382531104.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/532/j1779382532112.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/532/k1779382531345.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/532/l1779382531931.jpeg</g:additional_image_link>
-      <make>Kabe</make>
-      <model>Royal 720 GXL KS</model>
-      <year>2008</year>
-      <mileage>
-        <value>0</value>
-        <unit>KM</unit>
-      </mileage>
-      <price>125000 SEK</price>
-      <g:price>125000 SEK</g:price>
-      <address>Vimmerby</address>
-      <address format="simple">
-        <component name="addr1">Vimmerby</component>
-        <component name="city">Vimmerby</component>
-        <component name="region">Kalmar</component>
-        <component name="country">SE</component>
-      </address>
-      <condition>GOOD</condition>
-      <state_of_vehicle>USED</state_of_vehicle>
-      <frivio:listing_type>auction</frivio:listing_type>
-      <frivio:auction_end_date>2026-06-03T14:52:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>125000 SEK</frivio:current_bid>
-      <frivio:bid_count>4</frivio:bid_count>
-      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>1978 kr/mån</frivio:monthly_cost>
-      <body_style>OTHER</body_style>
-      <frivio:body_type_label>Husvagn</frivio:body_type_label>
-      <fuel_type>NONE</fuel_type>
-      <frivio:region>Kalmar</frivio:region>
-      <availability>AVAILABLE</availability>
-      <custom_label_0>Husvagn</custom_label_0>
-      <custom_label_1>Slutar 2026-06-03 14:52</custom_label_1>
-    </item>
+    <lastBuildDate>Wed, 03 Jun 2026 17:05:21 GMT</lastBuildDate>
     <item>
       <vehicle_id>542</vehicle_id>
       <g:id>542</g:id>
@@ -754,7 +644,7 @@
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-06-10T16:34:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
       <frivio:current_bid>37000 SEK</frivio:current_bid>
       <frivio:bid_count>2</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
@@ -1508,8 +1398,8 @@
         <value>48000</value>
         <unit>KM</unit>
       </mileage>
-      <price>11000 SEK</price>
-      <g:price>11000 SEK</g:price>
+      <price>12000 SEK</price>
+      <g:price>12000 SEK</g:price>
       <address>Mönsterås</address>
       <address format="simple">
         <component name="addr1">Mönsterås</component>
@@ -1522,10 +1412,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-06-16T14:42:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>11000 SEK</frivio:current_bid>
-      <frivio:bid_count>0</frivio:bid_count>
-      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
-      <frivio:monthly_cost>174 kr/mån</frivio:monthly_cost>
+      <frivio:current_bid>12000 SEK</frivio:current_bid>
+      <frivio:bid_count>1</frivio:bid_count>
+      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
+      <frivio:monthly_cost>190 kr/mån</frivio:monthly_cost>
       <body_style>OTHER</body_style>
       <frivio:body_type_label>Motorcykel</frivio:body_type_label>
       <fuel_type>NONE</fuel_type>
@@ -1699,6 +1589,55 @@
       <custom_label_1>Slutar 2026-06-16 16:52</custom_label_1>
     </item>
     <item>
+      <vehicle_id>581</vehicle_id>
+      <g:id>581</g:id>
+      <title>Windy 24 MC</title>
+      <description>Windy 24 MC är en klassisk norsk kvalitetsbåt från 1981, känd för sin robusta konstruktion, goda sjöegenskaper och välplanerade layout. Båten är utrustad med en Volvo Penta 260 AQ med AQ280-drev som ger pålitlig drift och fina prestanda på vattnet. För bästa grepp och drivkraft medföljer två uppsättningar duoprop-propellrar. Den rymliga midcabin-lösningen erbjuder bekväma övernattningsmöjligheter och gör båten väl lämpad för både dagsutflykter och längre turer. - V8 Chevablock på 275hk. - Sötvattenkylning - Ca 30 gångtimmar senaste 10 åren - Drev ompackat med nya bälgar 2024 - Nya begagnade avgaslimpor 2025 - 3st nya batterier 2026 - Ny toalett 2026 - El-ankarspel - Kapell 6 år - tvättat med nya sömmar och nytt fönster 2026 Årsmodell: 1981 · Typ: Båt · Ort: Stockholm</description>
+      <url>https://frivio.se/auktion/581</url>
+      <g:link>https://frivio.se/auktion/581</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/581/b1780486930532.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/581/b1780486930532.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/581/c1780486930679.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/581/d1780486930833.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/581/e1780486930985.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/581/f1780486931114.jpeg</g:additional_image_link>
+      <make>Windy</make>
+      <model>Windy 24 MC</model>
+      <year>1981</year>
+      <mileage>
+        <value>0</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>49000 SEK</price>
+      <g:price>49000 SEK</g:price>
+      <address>Stockholm</address>
+      <address format="simple">
+        <component name="addr1">Stockholm</component>
+        <component name="city">Stockholm</component>
+        <component name="region">Stockholm</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <frivio:listing_type>auction</frivio:listing_type>
+      <frivio:auction_end_date>2026-06-17T14:38:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>49000 SEK</frivio:current_bid>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
+      <frivio:monthly_cost>775 kr/mån</frivio:monthly_cost>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Båt</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
+      <frivio:region>Stockholm</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Båt</custom_label_0>
+      <custom_label_1>Slutar 2026-06-17 14:38</custom_label_1>
+    </item>
+    <item>
       <vehicle_id>561</vehicle_id>
       <g:id>561</g:id>
       <title>Dethleffs I7870</title>
@@ -1727,8 +1666,8 @@
         <value>110000</value>
         <unit>KM</unit>
       </mileage>
-      <price>200000 SEK</price>
-      <g:price>200000 SEK</g:price>
+      <price>201000 SEK</price>
+      <g:price>201000 SEK</g:price>
       <address>Ronneby</address>
       <address format="simple">
         <component name="addr1">Ronneby</component>
@@ -1742,10 +1681,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-06-17T15:38:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>200000 SEK</frivio:current_bid>
-      <frivio:bid_count>0</frivio:bid_count>
-      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
-      <frivio:monthly_cost>3164 kr/mån</frivio:monthly_cost>
+      <frivio:current_bid>201000 SEK</frivio:current_bid>
+      <frivio:bid_count>1</frivio:bid_count>
+      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
+      <frivio:monthly_cost>3180 kr/mån</frivio:monthly_cost>
       <body_style>VAN</body_style>
       <frivio:body_type_label>Husbil</frivio:body_type_label>
       <fuel_type>DIESEL</fuel_type>
@@ -1753,6 +1692,58 @@
       <availability>AVAILABLE</availability>
       <custom_label_0>Husbil</custom_label_0>
       <custom_label_1>Slutar 2026-06-17 15:38</custom_label_1>
+    </item>
+    <item>
+      <vehicle_id>578</vehicle_id>
+      <g:id>578</g:id>
+      <title>Flipper 630 OC</title>
+      <description>Flipper 630 OC från 2011 är en välplanerad och lättkörd kabinbåt som passar perfekt för både dagsutflykter och längre turer i skärgården. Båten är utrustad med en stark och driftsäker Mercury 150 hk från 2021 som ger fina köregenskaper och god bränsleekonomi. Under vinterhalvåret har båten förvarats inomhus och samtidigt servats löpande. Den rymliga sittbrunnen, smarta planlösningen och det välvårdade skicket gör detta till en mycket attraktiv båt för nästa ägare. En mycket välskött båt. - All dokumentation finns - Alla manualer finns - Kapell tvättat och impregnerat 2025 - Nytt startbatteri 125AH lithium 2025 - 2st nya batterier 2025 - Ny ankarlina i ankarpelet 2025 - Ny plotter Garmin 9&quot; med sjökort 2024 - Spis med värmelock, kylbox samt dricksvattenkran - Bluetooth-stereo med högtalare - Landström - Badstege för och akter - Aktersoffan kan bli matplats med bord eller soldäck Årsmodell: 2011 · Typ: Båt · Ort: Lidingö</description>
+      <url>https://frivio.se/auktion/578</url>
+      <g:link>https://frivio.se/auktion/578</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/578/a1780470717229.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/578/a1780470717229.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/578/b1780470717450.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/578/c1780470717617.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/578/d1780470717760.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/578/e1780470717879.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/578/f1780470718029.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/578/g1780470718192.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/578/h1780470718353.jpeg</g:additional_image_link>
+      <make>Flipper</make>
+      <model>Flipper 630 OC</model>
+      <year>2011</year>
+      <mileage>
+        <value>0</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>137500 SEK</price>
+      <g:price>137500 SEK</g:price>
+      <address>Lidingö</address>
+      <address format="simple">
+        <component name="addr1">Lidingö</component>
+        <component name="city">Lidingö</component>
+        <component name="region">Stockholm</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <frivio:listing_type>auction</frivio:listing_type>
+      <frivio:auction_end_date>2026-06-17T16:08:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>137500 SEK</frivio:current_bid>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
+      <frivio:monthly_cost>2176 kr/mån</frivio:monthly_cost>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Båt</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
+      <frivio:region>Stockholm</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Båt</custom_label_0>
+      <custom_label_1>Slutar 2026-06-17 16:08</custom_label_1>
     </item>
     <item>
       <vehicle_id>572</vehicle_id>
@@ -1945,8 +1936,8 @@
         <value>0</value>
         <unit>KM</unit>
       </mileage>
-      <price>22500 SEK</price>
-      <g:price>22500 SEK</g:price>
+      <price>23000 SEK</price>
+      <g:price>23000 SEK</g:price>
       <address>Kungsbacka</address>
       <address format="simple">
         <component name="addr1">Kungsbacka</component>
@@ -1959,10 +1950,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-06-18T14:41:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>22500 SEK</frivio:current_bid>
-      <frivio:bid_count>0</frivio:bid_count>
-      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
-      <frivio:monthly_cost>356 kr/mån</frivio:monthly_cost>
+      <frivio:current_bid>23000 SEK</frivio:current_bid>
+      <frivio:bid_count>1</frivio:bid_count>
+      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
+      <frivio:monthly_cost>364 kr/mån</frivio:monthly_cost>
       <body_style>OTHER</body_style>
       <frivio:body_type_label>Husvagn</frivio:body_type_label>
       <fuel_type>NONE</fuel_type>
@@ -2000,8 +1991,8 @@
         <value>0</value>
         <unit>KM</unit>
       </mileage>
-      <price>275000 SEK</price>
-      <g:price>275000 SEK</g:price>
+      <price>300000 SEK</price>
+      <g:price>300000 SEK</g:price>
       <address>Malmö</address>
       <address format="simple">
         <component name="addr1">Malmö</component>
@@ -2014,10 +2005,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-06-18T15:35:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>275000 SEK</frivio:current_bid>
-      <frivio:bid_count>0</frivio:bid_count>
-      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
-      <frivio:monthly_cost>4351 kr/mån</frivio:monthly_cost>
+      <frivio:current_bid>300000 SEK</frivio:current_bid>
+      <frivio:bid_count>1</frivio:bid_count>
+      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
+      <frivio:monthly_cost>4747 kr/mån</frivio:monthly_cost>
       <body_style>OTHER</body_style>
       <frivio:body_type_label>Båt</frivio:body_type_label>
       <fuel_type>NONE</fuel_type>
