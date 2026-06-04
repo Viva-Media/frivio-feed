@@ -4,62 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Thu, 04 Jun 2026 16:25:36 GMT</lastBuildDate>
-    <item>
-      <vehicle_id>538</vehicle_id>
-      <g:id>538</g:id>
-      <title>Kabe Ametist XL KS</title>
-      <description>Denna Kabe Ametist XL KS från 2005 är utrustad med AC för behagliga dagar oavsett temperatur. Här möts du av en ljus och hemtrevlig interiör med stor rund sittgrupp fram, perfekt för umgänge, samt en bekväm bädddel bak. En mycket välplanerad vagn med gott om förvaring och klassisk Kabe-kvalitet - redo att användas direkt. - Nybesiktad och går till 2028-04-30 - Nytt batteri - Nya däck - Elpatroner bytt - Kylskåp renoverat - Ny dörr till toalett - Nya mattor - Ny trappa Årsmodell: 2005 · Typ: Husvagn · Ort: Mönsterås</description>
-      <url>https://frivio.se/auktion/538</url>
-      <g:link>https://frivio.se/auktion/538</g:link>
-      <image>
-        <url>https://backend.frivio.se/vehicle/538/b1779382391904.jpeg</url>
-        <tag>Exterior</tag>
-      </image>
-      <g:image_link>https://backend.frivio.se/vehicle/538/b1779382391904.jpeg</g:image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/538/c1779382389357.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/538/d1779382388571.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/538/e1779382388829.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/538/f1779382389107.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/538/g1779382390064.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/538/h1779382389856.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/538/i1779382390347.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/538/j1779382390983.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/538/k1779382390561.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/538/l1779382391206.jpeg</g:additional_image_link>
-      <make>Kabe</make>
-      <model>Ametist XL KS</model>
-      <year>2005</year>
-      <mileage>
-        <value>0</value>
-        <unit>KM</unit>
-      </mileage>
-      <price>69500 SEK</price>
-      <g:price>69500 SEK</g:price>
-      <address>Mönsterås</address>
-      <address format="simple">
-        <component name="addr1">Mönsterås</component>
-        <component name="city">Mönsterås</component>
-        <component name="region">Kalmar</component>
-        <component name="country">SE</component>
-      </address>
-      <condition>GOOD</condition>
-      <state_of_vehicle>USED</state_of_vehicle>
-      <frivio:listing_type>auction</frivio:listing_type>
-      <frivio:auction_end_date>2026-06-04T16:56:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>69500 SEK</frivio:current_bid>
-      <frivio:bid_count>1</frivio:bid_count>
-      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>1100 kr/mån</frivio:monthly_cost>
-      <body_style>OTHER</body_style>
-      <frivio:body_type_label>Husvagn</frivio:body_type_label>
-      <fuel_type>NONE</fuel_type>
-      <frivio:region>Kalmar</frivio:region>
-      <availability>AVAILABLE</availability>
-      <custom_label_0>Husvagn</custom_label_0>
-      <custom_label_1>Slutar 2026-06-04 16:56</custom_label_1>
-    </item>
+    <lastBuildDate>Thu, 04 Jun 2026 19:27:33 GMT</lastBuildDate>
     <item>
       <vehicle_id>540</vehicle_id>
       <g:id>540</g:id>
@@ -1609,8 +1554,8 @@
         <value>0</value>
         <unit>KM</unit>
       </mileage>
-      <price>137500 SEK</price>
-      <g:price>137500 SEK</g:price>
+      <price>140000 SEK</price>
+      <g:price>140000 SEK</g:price>
       <address>Lidingö</address>
       <address format="simple">
         <component name="addr1">Lidingö</component>
@@ -1623,10 +1568,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-06-17T16:08:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>137500 SEK</frivio:current_bid>
-      <frivio:bid_count>0</frivio:bid_count>
-      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
-      <frivio:monthly_cost>2176 kr/mån</frivio:monthly_cost>
+      <frivio:current_bid>140000 SEK</frivio:current_bid>
+      <frivio:bid_count>1</frivio:bid_count>
+      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
+      <frivio:monthly_cost>2215 kr/mån</frivio:monthly_cost>
       <body_style>OTHER</body_style>
       <frivio:body_type_label>Båt</frivio:body_type_label>
       <fuel_type>NONE</fuel_type>
