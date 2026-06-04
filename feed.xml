@@ -4,117 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Thu, 04 Jun 2026 12:10:04 GMT</lastBuildDate>
-    <item>
-      <vehicle_id>542</vehicle_id>
-      <g:id>542</g:id>
-      <title>Beneteau Barracuda 7</title>
-      <description>Beneteau Barracuda 7 från 2019 i mycket fint skick, redo för sjösättning. Utrustad med Evinrude E-tec G2 150 hk (2020) med endast ca 130 gångtimmar och nyligen servad (2024). Nästa service ska ske 2029. Båten har bogpropeller, Garmin GPS/kartplotter med ekolod, landström 230V, däcksspolning samt vindrutetorkare med spolning. Ombord finns toalett med septiktank och däckstömning samt elektrisk tömning (för bruk på land), och helt oanvända dynor. För extra komfort och funktion finns även live bait-utrymme samt möjlighet att komplettera med utrustning för hummerfiske. Ny dieselvärmare från Nordkapp medföljer för installation. Brenderup-trailer ingår. En mycket välutrustad och lättkörd hyttbåt med hög standard, perfekt för dig som söker en modern och pålitlig båt med det mesta redan på plats. Brenderup 30-trailer ingår. Årsmodell: 2019 · Typ: Båt · Ort: Kungsbacka</description>
-      <url>https://frivio.se/auktion/542</url>
-      <g:link>https://frivio.se/auktion/542</g:link>
-      <image>
-        <url>https://backend.frivio.se/vehicle/542/a1779279993678.jpeg</url>
-        <tag>Exterior</tag>
-      </image>
-      <g:image_link>https://backend.frivio.se/vehicle/542/a1779279993678.jpeg</g:image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/542/b1779279993889.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/542/c1779279994021.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/542/d1779279994127.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/542/e1779279994271.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/542/f1779279994614.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/542/g1779279994384.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/542/h1779279994512.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/542/i1779279994744.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/542/j1779279994874.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/542/k1779279994995.jpeg</g:additional_image_link>
-      <make>Beneteau</make>
-      <model>Beneteau Barracuda 7</model>
-      <year>2019</year>
-      <mileage>
-        <value>0</value>
-        <unit>KM</unit>
-      </mileage>
-      <price>250000 SEK</price>
-      <g:price>250000 SEK</g:price>
-      <address>Kungsbacka</address>
-      <address format="simple">
-        <component name="addr1">Kungsbacka</component>
-        <component name="city">Kungsbacka</component>
-        <component name="region">Halland</component>
-        <component name="country">SE</component>
-      </address>
-      <condition>GOOD</condition>
-      <state_of_vehicle>USED</state_of_vehicle>
-      <frivio:listing_type>auction</frivio:listing_type>
-      <frivio:auction_end_date>2026-06-04T15:26:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>250000 SEK</frivio:current_bid>
-      <frivio:bid_count>4</frivio:bid_count>
-      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>3956 kr/mån</frivio:monthly_cost>
-      <body_style>OTHER</body_style>
-      <frivio:body_type_label>Båt</frivio:body_type_label>
-      <fuel_type>NONE</fuel_type>
-      <frivio:region>Halland</frivio:region>
-      <availability>AVAILABLE</availability>
-      <custom_label_0>Båt</custom_label_0>
-      <custom_label_1>Slutar 2026-06-04 15:26</custom_label_1>
-    </item>
-    <item>
-      <vehicle_id>541</vehicle_id>
-      <g:id>541</g:id>
-      <title>Bayliner 3055</title>
-      <description>Bayliner 3055 Ciera Sunbridge med en MerCruiser 7,4 MPI (454 V8) med cirka 300hk är en välutrustad 30-fots cruiser från början av 90-talet. Redo för nya äventyr! - Motorn MerCruiser är från 2003 - 9tums plotter/fishfinder Echomap UHD92SV - Sovplatser för 4–6 personer - Pentry med: kylskåp, spritoch gasolkök - Separat toalett med septiktank - Tryckvatten och dusch - Varmvattenberedare - Landström 230 V - Kapell/camperkapell - Trimplan - Badbrygga och badstege - VHF och äldre plotter/ekolod - Värmare på vissa båtar - Ankarspel Årsmodell: 1993 · Typ: Båt · Ort: Malmö</description>
-      <url>https://frivio.se/auktion/541</url>
-      <g:link>https://frivio.se/auktion/541</g:link>
-      <image>
-        <url>https://backend.frivio.se/vehicle/541/a1779276790705.jpeg</url>
-        <tag>Exterior</tag>
-      </image>
-      <g:image_link>https://backend.frivio.se/vehicle/541/a1779276790705.jpeg</g:image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/541/b1779276790897.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/541/c1779276791990.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/541/d1779276791402.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/541/e1779276791034.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/541/f1779276791158.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/541/g1779276791284.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/541/h1779276791634.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/541/i1779276791859.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/541/j1779276791530.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/541/k1779276791746.jpeg</g:additional_image_link>
-      <make>Bayliner</make>
-      <model>Bayliner 3055</model>
-      <year>1993</year>
-      <mileage>
-        <value>0</value>
-        <unit>KM</unit>
-      </mileage>
-      <price>250000 SEK</price>
-      <g:price>250000 SEK</g:price>
-      <address>Malmö</address>
-      <address format="simple">
-        <component name="addr1">Malmö</component>
-        <component name="city">Malmö</component>
-        <component name="region">Skåne</component>
-        <component name="country">SE</component>
-      </address>
-      <condition>GOOD</condition>
-      <state_of_vehicle>USED</state_of_vehicle>
-      <frivio:listing_type>auction</frivio:listing_type>
-      <frivio:auction_end_date>2026-06-04T15:28:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>250000 SEK</frivio:current_bid>
-      <frivio:bid_count>3</frivio:bid_count>
-      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>3956 kr/mån</frivio:monthly_cost>
-      <body_style>OTHER</body_style>
-      <frivio:body_type_label>Båt</frivio:body_type_label>
-      <fuel_type>NONE</fuel_type>
-      <frivio:region>Skåne</frivio:region>
-      <availability>AVAILABLE</availability>
-      <custom_label_0>Båt</custom_label_0>
-      <custom_label_1>Slutar 2026-06-04 15:28</custom_label_1>
-    </item>
+    <lastBuildDate>Thu, 04 Jun 2026 16:25:36 GMT</lastBuildDate>
     <item>
       <vehicle_id>538</vehicle_id>
       <g:id>538</g:id>
@@ -699,7 +589,7 @@
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-06-11T15:17:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
       <frivio:current_bid>350000 SEK</frivio:current_bid>
       <frivio:bid_count>0</frivio:bid_count>
       <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
@@ -751,7 +641,7 @@
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-06-11T15:21:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
       <frivio:current_bid>64500 SEK</frivio:current_bid>
       <frivio:bid_count>0</frivio:bid_count>
       <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
