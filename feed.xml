@@ -4,7 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Thu, 04 Jun 2026 04:53:35 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 08:56:13 GMT</lastBuildDate>
     <item>
       <vehicle_id>542</vehicle_id>
       <g:id>542</g:id>
@@ -1773,8 +1773,8 @@
         <value>99000</value>
         <unit>KM</unit>
       </mileage>
-      <price>130000 SEK</price>
-      <g:price>130000 SEK</g:price>
+      <price>131000 SEK</price>
+      <g:price>131000 SEK</g:price>
       <address>Stockholm</address>
       <address format="simple">
         <component name="addr1">Stockholm</component>
@@ -1788,10 +1788,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-06-17T16:34:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>130000 SEK</frivio:current_bid>
-      <frivio:bid_count>1</frivio:bid_count>
+      <frivio:current_bid>131000 SEK</frivio:current_bid>
+      <frivio:bid_count>2</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>2057 kr/mån</frivio:monthly_cost>
+      <frivio:monthly_cost>2073 kr/mån</frivio:monthly_cost>
       <body_style>VAN</body_style>
       <frivio:body_type_label>Husbil</frivio:body_type_label>
       <fuel_type>DIESEL</fuel_type>
@@ -1799,6 +1799,60 @@
       <availability>AVAILABLE</availability>
       <custom_label_0>Husbil</custom_label_0>
       <custom_label_1>Slutar 2026-06-17 16:34</custom_label_1>
+    </item>
+    <item>
+      <vehicle_id>575</vehicle_id>
+      <g:id>575</g:id>
+      <title>Joda Caribic 290</title>
+      <description>Joda Caribic 290 från 1995 med Volvo Penta 6.3L bensinmotor. En klassisk och rymlig familjecruiser som erbjuder gott om komfort för både dagsutflykter och längre turer på sjön. Den stora sittbrunnen med kapell ger generösa sociala ytor, medan den välplanerade kabinen erbjuder bekväma sovplatser, sittgrupp, pentry och goda förvaringsmöjligheter. Båten har en tidlös inredning i trä som skapar en varm och trivsam känsla ombord. Stabil, sjövärdig och väl lämpad för semesterlivet på vattnet. Levereras med trailer och är redo för nya äventyr. - Kad 42 / 290dp - Motortimmar 613h - Tank cirka 400l - Dieselmotor - Ny propeller 2023 - Nytt kylskåp 2019 - Ny turbo 2016 - Bog finns nyare - Dieselvärmare - Kapell i bruksskick - Trailer ingår ej Årsmodell: 1995 · Typ: Båt · Ort: Simrishamn</description>
+      <url>https://frivio.se/auktion/575</url>
+      <g:link>https://frivio.se/auktion/575</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/575/a1780391182660.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/575/a1780391182660.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/575/b1780391182823.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/575/c1780391183199.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/575/d1780391182974.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/575/e1780391183083.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/575/f1780391183682.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/575/g1780391183783.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/575/h1780391183324.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/575/i1780391183445.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/575/j1780391183562.jpeg</g:additional_image_link>
+      <make>Joda</make>
+      <model>Joda Caribic 290</model>
+      <year>1995</year>
+      <mileage>
+        <value>0</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>125000 SEK</price>
+      <g:price>125000 SEK</g:price>
+      <address>Simrishamn</address>
+      <address format="simple">
+        <component name="addr1">Simrishamn</component>
+        <component name="city">Simrishamn</component>
+        <component name="region">Skåne</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <frivio:listing_type>auction</frivio:listing_type>
+      <frivio:auction_end_date>2026-06-17T17:27:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>125000 SEK</frivio:current_bid>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
+      <frivio:monthly_cost>1978 kr/mån</frivio:monthly_cost>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Båt</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
+      <frivio:region>Skåne</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Båt</custom_label_0>
+      <custom_label_1>Slutar 2026-06-17 17:27</custom_label_1>
     </item>
     <item>
       <vehicle_id>557</vehicle_id>
@@ -1884,8 +1938,8 @@
         <value>0</value>
         <unit>KM</unit>
       </mileage>
-      <price>200000 SEK</price>
-      <g:price>200000 SEK</g:price>
+      <price>220000 SEK</price>
+      <g:price>220000 SEK</g:price>
       <address>Rättvik</address>
       <address format="simple">
         <component name="addr1">Rättvik</component>
@@ -1898,10 +1952,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-06-18T14:34:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>200000 SEK</frivio:current_bid>
-      <frivio:bid_count>2</frivio:bid_count>
+      <frivio:current_bid>220000 SEK</frivio:current_bid>
+      <frivio:bid_count>3</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>3164 kr/mån</frivio:monthly_cost>
+      <frivio:monthly_cost>3481 kr/mån</frivio:monthly_cost>
       <body_style>OTHER</body_style>
       <frivio:body_type_label>Husvagn</frivio:body_type_label>
       <fuel_type>NONE</fuel_type>
@@ -1991,8 +2045,8 @@
         <value>0</value>
         <unit>KM</unit>
       </mileage>
-      <price>350000 SEK</price>
-      <g:price>350000 SEK</g:price>
+      <price>500000 SEK</price>
+      <g:price>500000 SEK</g:price>
       <address>Malmö</address>
       <address format="simple">
         <component name="addr1">Malmö</component>
@@ -2005,10 +2059,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-06-18T15:35:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>350000 SEK</frivio:current_bid>
-      <frivio:bid_count>2</frivio:bid_count>
+      <frivio:current_bid>500000 SEK</frivio:current_bid>
+      <frivio:bid_count>5</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>5538 kr/mån</frivio:monthly_cost>
+      <frivio:monthly_cost>7911 kr/mån</frivio:monthly_cost>
       <body_style>OTHER</body_style>
       <frivio:body_type_label>Båt</frivio:body_type_label>
       <fuel_type>NONE</fuel_type>
