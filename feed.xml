@@ -4,7 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Sat, 06 Jun 2026 14:48:57 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 16:13:39 GMT</lastBuildDate>
     <item>
       <vehicle_id>540</vehicle_id>
       <g:id>540</g:id>
@@ -1880,8 +1880,8 @@
         <value>0</value>
         <unit>KM</unit>
       </mileage>
-      <price>520000 SEK</price>
-      <g:price>520000 SEK</g:price>
+      <price>525000 SEK</price>
+      <g:price>525000 SEK</g:price>
       <address>Malmö</address>
       <address format="simple">
         <component name="addr1">Malmö</component>
@@ -1894,10 +1894,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-06-18T15:35:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>520000 SEK</frivio:current_bid>
-      <frivio:bid_count>7</frivio:bid_count>
+      <frivio:current_bid>525000 SEK</frivio:current_bid>
+      <frivio:bid_count>8</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>8227 kr/mån</frivio:monthly_cost>
+      <frivio:monthly_cost>8307 kr/mån</frivio:monthly_cost>
       <body_style>OTHER</body_style>
       <frivio:body_type_label>Båt</frivio:body_type_label>
       <fuel_type>NONE</fuel_type>
