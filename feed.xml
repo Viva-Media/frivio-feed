@@ -4,63 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Sun, 07 Jun 2026 16:24:09 GMT</lastBuildDate>
-    <item>
-      <vehicle_id>543</vehicle_id>
-      <g:id>543</g:id>
-      <title>Knaus SKY I 700 LEG</title>
-      <description>Knaus SKY 700 LEG 2019 i mycket fint och välutrustat skick. En påkostad husbil där mycket uppgraderats genom åren för hög komfort och smidig camping. Utrustad med taksäng, AC, stora långbäddar, rymlig sittgrupp och välplanerat badrum. Dubbel gasolinstallation och modern, trivsam interiör med gott om förvaring. En bekväm och välskött helintegrerad husbil som passar perfekt för både kortare resor och längre äventyr året runt. - Luftstolar - DuoControl gasolflaskor - Kamrem bytt 2025 (Landrins Sundsvall) - Koppling bytt 2025 (Landrins Sundsvall) - Servad vartannat år sedan 2020 - Dämpare fram bytt 2026 (Gira Bil Ånge) - Dometic Converter bytt 2021/2022 - Gasoltestad varje år - Sommar och vinterdäck - bra skick - BSR optimerad - Ej import - Ej fukt testad sedan 2020 - Hissen är glapp till TV samt att kabel mellan alde panel och knaus panel är felande. - Kromlisten på höger sida där har kromen skrynklat till sig. Årsmodell: 2019 · Typ: Husbil · Drivmedel: Diesel · Växellåda: Automatisk · Mätarställning: 3 800 mil · Ort: Ånge</description>
-      <url>https://frivio.se/auktion/543</url>
-      <g:link>https://frivio.se/auktion/543</g:link>
-      <image>
-        <url>https://backend.frivio.se/vehicle/543/b1779717992502.jpeg</url>
-        <tag>Exterior</tag>
-      </image>
-      <g:image_link>https://backend.frivio.se/vehicle/543/b1779717992502.jpeg</g:image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/543/c1779717991631.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/543/d1779717990942.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/543/e1779717992362.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/543/f1779717992037.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/543/g1779717992167.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/543/h1779717991374.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/543/i1779717991495.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/543/j1779717991104.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/543/k1779717991247.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/543/l1779717991899.jpeg</g:additional_image_link>
-      <make>Knaus</make>
-      <model>SKY I 700 LEG</model>
-      <year>2019</year>
-      <mileage>
-        <value>38000</value>
-        <unit>KM</unit>
-      </mileage>
-      <price>660000 SEK</price>
-      <g:price>660000 SEK</g:price>
-      <address>Ånge</address>
-      <address format="simple">
-        <component name="addr1">Ånge</component>
-        <component name="city">Ånge</component>
-        <component name="region">Västernorrland</component>
-        <component name="country">SE</component>
-      </address>
-      <condition>GOOD</condition>
-      <state_of_vehicle>USED</state_of_vehicle>
-      <transmission>AUTOMATIC</transmission>
-      <frivio:listing_type>auction</frivio:listing_type>
-      <frivio:auction_end_date>2026-06-07T17:00:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>660000 SEK</frivio:current_bid>
-      <frivio:bid_count>22</frivio:bid_count>
-      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>10443 kr/mån</frivio:monthly_cost>
-      <body_style>VAN</body_style>
-      <frivio:body_type_label>Husbil</frivio:body_type_label>
-      <fuel_type>DIESEL</fuel_type>
-      <frivio:region>Västernorrland</frivio:region>
-      <availability>AVAILABLE</availability>
-      <custom_label_0>Husbil</custom_label_0>
-      <custom_label_1>Slutar 2026-06-07 17:00</custom_label_1>
-    </item>
+    <lastBuildDate>Sun, 07 Jun 2026 18:11:28 GMT</lastBuildDate>
     <item>
       <vehicle_id>536</vehicle_id>
       <g:id>536</g:id>
@@ -731,7 +675,7 @@
       <state_of_vehicle>NEW</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-06-14T16:45:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
       <frivio:current_bid>29500 SEK</frivio:current_bid>
       <frivio:bid_count>0</frivio:bid_count>
       <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
@@ -781,7 +725,7 @@
       <state_of_vehicle>NEW</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-06-14T17:53:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
       <frivio:current_bid>84500 SEK</frivio:current_bid>
       <frivio:bid_count>0</frivio:bid_count>
       <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
@@ -1446,8 +1390,8 @@
         <value>110000</value>
         <unit>KM</unit>
       </mileage>
-      <price>202000 SEK</price>
-      <g:price>202000 SEK</g:price>
+      <price>215000 SEK</price>
+      <g:price>215000 SEK</g:price>
       <address>Ronneby</address>
       <address format="simple">
         <component name="addr1">Ronneby</component>
@@ -1461,10 +1405,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-06-17T15:38:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>202000 SEK</frivio:current_bid>
-      <frivio:bid_count>2</frivio:bid_count>
+      <frivio:current_bid>215000 SEK</frivio:current_bid>
+      <frivio:bid_count>3</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>3196 kr/mån</frivio:monthly_cost>
+      <frivio:monthly_cost>3402 kr/mån</frivio:monthly_cost>
       <body_style>VAN</body_style>
       <frivio:body_type_label>Husbil</frivio:body_type_label>
       <fuel_type>DIESEL</fuel_type>
