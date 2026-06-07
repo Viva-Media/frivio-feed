@@ -4,62 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Sun, 07 Jun 2026 14:12:17 GMT</lastBuildDate>
-    <item>
-      <vehicle_id>540</vehicle_id>
-      <g:id>540</g:id>
-      <title>Hobby 540 UL DE LUXE</title>
-      <description>Hobby 540 UL Deluxe från 2014. Välplanerad planlösning med separata enkelsängar bak, rymlig sittgrupp fram och ett funktionellt kök med bra förvaring. Utrustad med stort kylskåp, gott om skåp och smarta detaljer som gör semestern bekväm. Perfekt för både kortare utflykter och längre resor - en trivsam husvagn med hög komfort och praktiska lösningar för ett smidigt campingliv. - Finns en repa på ena sidan (se bild) samt en mindre på andra sidan. - Endast 1 tidigare ägare sedan ny Årsmodell: 2014 · Typ: Husvagn · Ort: Kalmar</description>
-      <url>https://frivio.se/auktion/540</url>
-      <g:link>https://frivio.se/auktion/540</g:link>
-      <image>
-        <url>https://backend.frivio.se/vehicle/540/b1779261394803.jpeg</url>
-        <tag>Exterior</tag>
-      </image>
-      <g:image_link>https://backend.frivio.se/vehicle/540/b1779261394803.jpeg</g:image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/540/c1779261395000.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/540/d1779261395192.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/540/e1779261396309.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/540/f1779261396461.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/540/g1779261397585.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/540/h1779261395467.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/540/i1779261395973.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/540/j1779261396138.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/540/k1779261395806.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/540/l1779261395646.jpeg</g:additional_image_link>
-      <make>Hobby</make>
-      <model>540 UL DE LUXE</model>
-      <year>2014</year>
-      <mileage>
-        <value>0</value>
-        <unit>KM</unit>
-      </mileage>
-      <price>90000 SEK</price>
-      <g:price>90000 SEK</g:price>
-      <address>Kalmar</address>
-      <address format="simple">
-        <component name="addr1">Kalmar</component>
-        <component name="city">Kalmar</component>
-        <component name="region">Kalmar</component>
-        <component name="country">SE</component>
-      </address>
-      <condition>GOOD</condition>
-      <state_of_vehicle>USED</state_of_vehicle>
-      <frivio:listing_type>auction</frivio:listing_type>
-      <frivio:auction_end_date>2026-06-07T15:13:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>90000 SEK</frivio:current_bid>
-      <frivio:bid_count>6</frivio:bid_count>
-      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>1424 kr/mån</frivio:monthly_cost>
-      <body_style>OTHER</body_style>
-      <frivio:body_type_label>Husvagn</frivio:body_type_label>
-      <fuel_type>NONE</fuel_type>
-      <frivio:region>Kalmar</frivio:region>
-      <availability>AVAILABLE</availability>
-      <custom_label_0>Husvagn</custom_label_0>
-      <custom_label_1>Slutar 2026-06-07 15:13</custom_label_1>
-    </item>
+    <lastBuildDate>Sun, 07 Jun 2026 16:24:09 GMT</lastBuildDate>
     <item>
       <vehicle_id>543</vehicle_id>
       <g:id>543</g:id>
@@ -89,8 +34,8 @@
         <value>38000</value>
         <unit>KM</unit>
       </mileage>
-      <price>650000 SEK</price>
-      <g:price>650000 SEK</g:price>
+      <price>660000 SEK</price>
+      <g:price>660000 SEK</g:price>
       <address>Ånge</address>
       <address format="simple">
         <component name="addr1">Ånge</component>
@@ -104,10 +49,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-06-07T17:00:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>650000 SEK</frivio:current_bid>
-      <frivio:bid_count>20</frivio:bid_count>
+      <frivio:current_bid>660000 SEK</frivio:current_bid>
+      <frivio:bid_count>22</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>10284 kr/mån</frivio:monthly_cost>
+      <frivio:monthly_cost>10443 kr/mån</frivio:monthly_cost>
       <body_style>VAN</body_style>
       <frivio:body_type_label>Husbil</frivio:body_type_label>
       <fuel_type>DIESEL</fuel_type>
@@ -637,7 +582,7 @@
       <state_of_vehicle>NEW</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-06-14T14:43:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
       <frivio:current_bid>34500 SEK</frivio:current_bid>
       <frivio:bid_count>0</frivio:bid_count>
       <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
@@ -687,7 +632,7 @@
       <state_of_vehicle>NEW</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-06-14T14:47:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
       <frivio:current_bid>39500 SEK</frivio:current_bid>
       <frivio:bid_count>0</frivio:bid_count>
       <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
@@ -739,7 +684,7 @@
       <state_of_vehicle>NEW</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-06-14T15:49:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
       <frivio:current_bid>39500 SEK</frivio:current_bid>
       <frivio:bid_count>0</frivio:bid_count>
       <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
@@ -1554,8 +1499,8 @@
         <value>0</value>
         <unit>KM</unit>
       </mileage>
-      <price>145000 SEK</price>
-      <g:price>145000 SEK</g:price>
+      <price>150000 SEK</price>
+      <g:price>150000 SEK</g:price>
       <address>Lidingö</address>
       <address format="simple">
         <component name="addr1">Lidingö</component>
@@ -1568,10 +1513,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-06-17T16:08:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>145000 SEK</frivio:current_bid>
-      <frivio:bid_count>2</frivio:bid_count>
+      <frivio:current_bid>150000 SEK</frivio:current_bid>
+      <frivio:bid_count>3</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>2294 kr/mån</frivio:monthly_cost>
+      <frivio:monthly_cost>2373 kr/mån</frivio:monthly_cost>
       <body_style>OTHER</body_style>
       <frivio:body_type_label>Båt</frivio:body_type_label>
       <fuel_type>NONE</fuel_type>
@@ -1880,8 +1825,8 @@
         <value>0</value>
         <unit>KM</unit>
       </mileage>
-      <price>550000 SEK</price>
-      <g:price>550000 SEK</g:price>
+      <price>575000 SEK</price>
+      <g:price>575000 SEK</g:price>
       <address>Malmö</address>
       <address format="simple">
         <component name="addr1">Malmö</component>
@@ -1894,10 +1839,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-06-18T15:35:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>550000 SEK</frivio:current_bid>
-      <frivio:bid_count>9</frivio:bid_count>
+      <frivio:current_bid>575000 SEK</frivio:current_bid>
+      <frivio:bid_count>10</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>8702 kr/mån</frivio:monthly_cost>
+      <frivio:monthly_cost>9098 kr/mån</frivio:monthly_cost>
       <body_style>OTHER</body_style>
       <frivio:body_type_label>Båt</frivio:body_type_label>
       <fuel_type>NONE</fuel_type>
