@@ -4,116 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Mon, 08 Jun 2026 16:10:31 GMT</lastBuildDate>
-    <item>
-      <vehicle_id>547</vehicle_id>
-      <g:id>547</g:id>
-      <title>Kabe Diamant GLE KS</title>
-      <description>Kabe Diamant GLE KS från 2006. En klassisk vagn med smart planlösning och gedigen Kabe-kvalitet rakt igenom. Besiktad till 2027-04-30. Förtältsmatta, tvättvinda och induktionshäll medföljer - ett riktigt prisvärt val för dig som vill ha en komplett lösning från start. Årsmodell: 2006 · Typ: Husvagn · Ort: Vetlanda</description>
-      <url>https://frivio.se/auktion/547</url>
-      <g:link>https://frivio.se/auktion/547</g:link>
-      <image>
-        <url>https://backend.frivio.se/vehicle/547/a1779715836922.jpeg</url>
-        <tag>Exterior</tag>
-      </image>
-      <g:image_link>https://backend.frivio.se/vehicle/547/a1779715836922.jpeg</g:image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/547/b1779715837132.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/547/c1779715837972.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/547/d1779715838125.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/547/e1779715838267.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/547/f1779715837436.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/547/g1779715837301.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/547/h1779715837716.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/547/i1779715837586.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/547/j1779715837843.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/547/k1779715838430.jpeg</g:additional_image_link>
-      <make>Kabe</make>
-      <model>Diamant GLE KS</model>
-      <year>2006</year>
-      <mileage>
-        <value>0</value>
-        <unit>KM</unit>
-      </mileage>
-      <price>75000 SEK</price>
-      <g:price>75000 SEK</g:price>
-      <address>Vetlanda</address>
-      <address format="simple">
-        <component name="addr1">Vetlanda</component>
-        <component name="city">Vetlanda</component>
-        <component name="region">Jönköping</component>
-        <component name="country">SE</component>
-      </address>
-      <condition>GOOD</condition>
-      <state_of_vehicle>USED</state_of_vehicle>
-      <frivio:listing_type>auction</frivio:listing_type>
-      <frivio:auction_end_date>2026-06-08T16:28:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>75000 SEK</frivio:current_bid>
-      <frivio:bid_count>0</frivio:bid_count>
-      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
-      <frivio:monthly_cost>1187 kr/mån</frivio:monthly_cost>
-      <body_style>OTHER</body_style>
-      <frivio:body_type_label>Husvagn</frivio:body_type_label>
-      <fuel_type>NONE</fuel_type>
-      <frivio:region>Jönköping</frivio:region>
-      <availability>AVAILABLE</availability>
-      <custom_label_0>Husvagn</custom_label_0>
-      <custom_label_1>Slutar 2026-06-08 16:28</custom_label_1>
-    </item>
-    <item>
-      <vehicle_id>548</vehicle_id>
-      <g:id>548</g:id>
-      <title>Cabby 620+</title>
-      <description>Välskött Cabby 620+ från 2010 med genomtänkt planlösning och hög komfort. Här möts du av en rymlig sittgrupp, praktiskt kök och gott om förvaring. Vagnen erbjuder separata långbäddar bak samt en inbjudande matplats fram som enkelt bäddas om vid behov. Helt enkelt en kvalitetsvagn från Cabby! - Fukttest utfört 2022 utan anmärkning - Besiktad till 2028-03-31 Årsmodell: 2010 · Typ: Husvagn · Ort: Borås</description>
-      <url>https://frivio.se/auktion/548</url>
-      <g:link>https://frivio.se/auktion/548</g:link>
-      <image>
-        <url>https://backend.frivio.se/vehicle/548/a1779716178959.jpeg</url>
-        <tag>Exterior</tag>
-      </image>
-      <g:image_link>https://backend.frivio.se/vehicle/548/a1779716178959.jpeg</g:image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/548/b1779716179211.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/548/c1779716179429.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/548/d1779716178367.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/548/e1779716179999.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/548/f1779716180432.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/548/g1779716180196.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/548/h1779716179614.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/548/i1779716180642.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/548/j1779716179801.jpeg</g:additional_image_link>
-      <make>Cabby</make>
-      <model>620+</model>
-      <year>2010</year>
-      <mileage>
-        <value>0</value>
-        <unit>KM</unit>
-      </mileage>
-      <price>65000 SEK</price>
-      <g:price>65000 SEK</g:price>
-      <address>Borås</address>
-      <address format="simple">
-        <component name="addr1">Borås</component>
-        <component name="city">Borås</component>
-        <component name="region">Västra Götaland</component>
-        <component name="country">SE</component>
-      </address>
-      <condition>GOOD</condition>
-      <state_of_vehicle>USED</state_of_vehicle>
-      <frivio:listing_type>auction</frivio:listing_type>
-      <frivio:auction_end_date>2026-06-08T17:34:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>65000 SEK</frivio:current_bid>
-      <frivio:bid_count>0</frivio:bid_count>
-      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
-      <frivio:monthly_cost>1028 kr/mån</frivio:monthly_cost>
-      <body_style>OTHER</body_style>
-      <frivio:body_type_label>Husvagn</frivio:body_type_label>
-      <fuel_type>NONE</fuel_type>
-      <frivio:region>Västra Götaland</frivio:region>
-      <availability>AVAILABLE</availability>
-      <custom_label_0>Husvagn</custom_label_0>
-      <custom_label_1>Slutar 2026-06-08 17:34</custom_label_1>
-    </item>
+    <lastBuildDate>Mon, 08 Jun 2026 19:27:25 GMT</lastBuildDate>
     <item>
       <vehicle_id>552</vehicle_id>
       <g:id>552</g:id>
@@ -927,7 +818,7 @@
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-06-15T16:45:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
       <frivio:current_bid>95000 SEK</frivio:current_bid>
       <frivio:bid_count>0</frivio:bid_count>
       <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
@@ -983,7 +874,7 @@
       <transmission>AUTOMATIC</transmission>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-06-15T17:44:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
       <frivio:current_bid>550000 SEK</frivio:current_bid>
       <frivio:bid_count>2</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
@@ -1030,7 +921,7 @@
       <state_of_vehicle>NEW</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-06-15T17:56:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
       <frivio:current_bid>42500 SEK</frivio:current_bid>
       <frivio:bid_count>0</frivio:bid_count>
       <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
