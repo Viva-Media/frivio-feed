@@ -4,62 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Tue, 09 Jun 2026 12:11:56 GMT</lastBuildDate>
-    <item>
-      <vehicle_id>552</vehicle_id>
-      <g:id>552</g:id>
-      <title>Uttern 560 Exclusive</title>
-      <description>Uttern 560 Exclusive från 2003 med Mercury 115 hk Four Stroke från 2003. Båten är årligen servad och vinterförvarad inomhus, vilket bidragit till det fina skicket. En mycket trevlig och stabil fritidsbåt med gott om utrymme, fina sjöegenskaper och smart planlösning. Passar perfekt för både bad, dagsutflykter och vattensport. Utrustad med bland annat Garmin plotter, bekväma sittplatser och badstege. En välskött och pålitlig båt redo för sommarens äventyr. - Trailer medföljer och kommer att vara nybesiktad vid leverans - Diverse tillbehör medföljer - Lanternor fungerar ej - Glapp till Ekolod Årsmodell: 2003 · Typ: Båt · Ort: Leksand</description>
-      <url>https://frivio.se/auktion/552</url>
-      <g:link>https://frivio.se/auktion/552</g:link>
-      <image>
-        <url>https://backend.frivio.se/vehicle/552/a1779799462986.jpeg</url>
-        <tag>Exterior</tag>
-      </image>
-      <g:image_link>https://backend.frivio.se/vehicle/552/a1779799462986.jpeg</g:image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/552/b1779799463151.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/552/c1779799463285.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/552/d1779799463545.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/552/e1779799463424.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/552/f1779799463664.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/552/g1779799463785.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/552/h1779799463899.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/552/i1779799464008.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/552/j1779799464110.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/552/k1779799464234.jpeg</g:additional_image_link>
-      <make>Uttern</make>
-      <model>Uttern 560 Exclusive</model>
-      <year>2003</year>
-      <mileage>
-        <value>0</value>
-        <unit>KM</unit>
-      </mileage>
-      <price>77000 SEK</price>
-      <g:price>77000 SEK</g:price>
-      <address>Leksand</address>
-      <address format="simple">
-        <component name="addr1">Leksand</component>
-        <component name="city">Leksand</component>
-        <component name="region">Dalarna</component>
-        <component name="country">SE</component>
-      </address>
-      <condition>GOOD</condition>
-      <state_of_vehicle>USED</state_of_vehicle>
-      <frivio:listing_type>auction</frivio:listing_type>
-      <frivio:auction_end_date>2026-06-09T15:38:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>77000 SEK</frivio:current_bid>
-      <frivio:bid_count>4</frivio:bid_count>
-      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>1218 kr/mån</frivio:monthly_cost>
-      <body_style>OTHER</body_style>
-      <frivio:body_type_label>Båt</frivio:body_type_label>
-      <fuel_type>NONE</fuel_type>
-      <frivio:region>Dalarna</frivio:region>
-      <availability>AVAILABLE</availability>
-      <custom_label_0>Båt</custom_label_0>
-      <custom_label_1>Slutar 2026-06-09 15:38</custom_label_1>
-    </item>
+    <lastBuildDate>Tue, 09 Jun 2026 16:09:54 GMT</lastBuildDate>
     <item>
       <vehicle_id>554</vehicle_id>
       <g:id>554</g:id>
@@ -754,8 +699,8 @@
         <value>0</value>
         <unit>KM</unit>
       </mileage>
-      <price>95000 SEK</price>
-      <g:price>95000 SEK</g:price>
+      <price>111000 SEK</price>
+      <g:price>111000 SEK</g:price>
       <address>Sandviken</address>
       <address format="simple">
         <component name="addr1">Sandviken</component>
@@ -768,10 +713,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-06-15T16:45:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>95000 SEK</frivio:current_bid>
-      <frivio:bid_count>0</frivio:bid_count>
-      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
-      <frivio:monthly_cost>1503 kr/mån</frivio:monthly_cost>
+      <frivio:current_bid>111000 SEK</frivio:current_bid>
+      <frivio:bid_count>4</frivio:bid_count>
+      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
+      <frivio:monthly_cost>1756 kr/mån</frivio:monthly_cost>
       <body_style>OTHER</body_style>
       <frivio:body_type_label>Husvagn</frivio:body_type_label>
       <fuel_type>NONE</fuel_type>
@@ -908,8 +853,8 @@
         <value>48000</value>
         <unit>KM</unit>
       </mileage>
-      <price>13000 SEK</price>
-      <g:price>13000 SEK</g:price>
+      <price>13500 SEK</price>
+      <g:price>13500 SEK</g:price>
       <address>Mönsterås</address>
       <address format="simple">
         <component name="addr1">Mönsterås</component>
@@ -921,11 +866,11 @@
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-06-16T14:42:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>13000 SEK</frivio:current_bid>
-      <frivio:bid_count>2</frivio:bid_count>
+      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>13500 SEK</frivio:current_bid>
+      <frivio:bid_count>3</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>206 kr/mån</frivio:monthly_cost>
+      <frivio:monthly_cost>214 kr/mån</frivio:monthly_cost>
       <body_style>OTHER</body_style>
       <frivio:body_type_label>Motorcykel</frivio:body_type_label>
       <fuel_type>NONE</fuel_type>
@@ -1072,8 +1017,8 @@
         <value>0</value>
         <unit>KM</unit>
       </mileage>
-      <price>41000 SEK</price>
-      <g:price>41000 SEK</g:price>
+      <price>42000 SEK</price>
+      <g:price>42000 SEK</g:price>
       <address>Mönsterås</address>
       <address format="simple">
         <component name="addr1">Mönsterås</component>
@@ -1086,10 +1031,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-06-16T16:52:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>41000 SEK</frivio:current_bid>
-      <frivio:bid_count>1</frivio:bid_count>
+      <frivio:current_bid>42000 SEK</frivio:current_bid>
+      <frivio:bid_count>2</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>649 kr/mån</frivio:monthly_cost>
+      <frivio:monthly_cost>665 kr/mån</frivio:monthly_cost>
       <body_style>OTHER</body_style>
       <frivio:body_type_label>Husvagn</frivio:body_type_label>
       <fuel_type>NONE</fuel_type>
@@ -1684,6 +1629,61 @@
       <custom_label_1>Slutar 2026-06-22 16:22</custom_label_1>
     </item>
     <item>
+      <vehicle_id>588</vehicle_id>
+      <g:id>588</g:id>
+      <title>Hobby 650 KMFE Exclusive</title>
+      <description>Hobby 650 KMFE Exclusive är en rymlig och välplanerad familjevagn med plats för både stora och små äventyr. Den fasta dubbelsängen, separata barnavdelningen med våningssängar samt den generösa sittgruppen skapar ett bekvämt boende för hela familjen. Köket erbjuder gott om arbetsyta och förvaring, medan det praktiska badrummet bidrar till hög komfort under resan. Vagnen är dessutom utrustad med luftkonditionering för ett behagligt inomhusklimat även under varma sommardagar. - Besiktad till 2026-09-30 - Fukttest utfört 2023-04-16 - Isabella förtält ingår Årsmodell: 2004 · Typ: Husvagn · Ort: Högsby</description>
+      <url>https://frivio.se/auktion/588</url>
+      <g:link>https://frivio.se/auktion/588</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/588/a1781009785592.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/588/a1781009785592.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/588/b1781009785770.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/588/c1781009785926.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/588/d1781009786050.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/588/e1781009786187.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/588/f1781009786739.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/588/g1781009787037.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/588/h1781009786348.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/588/i1781009786612.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/588/j1781009786490.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/588/k1781009786900.jpeg</g:additional_image_link>
+      <make>Hobby</make>
+      <model>650 KMFE Exclusive</model>
+      <year>2004</year>
+      <mileage>
+        <value>0</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>60000 SEK</price>
+      <g:price>60000 SEK</g:price>
+      <address>Högsby</address>
+      <address format="simple">
+        <component name="addr1">Högsby</component>
+        <component name="city">Högsby</component>
+        <component name="region">Kalmar</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <frivio:listing_type>auction</frivio:listing_type>
+      <frivio:auction_end_date>2026-06-22T17:50:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>60000 SEK</frivio:current_bid>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
+      <frivio:monthly_cost>949 kr/mån</frivio:monthly_cost>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Husvagn</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
+      <frivio:region>Kalmar</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Husvagn</custom_label_0>
+      <custom_label_1>Slutar 2026-06-22 17:50</custom_label_1>
+    </item>
+    <item>
       <vehicle_id>583</vehicle_id>
       <g:id>583</g:id>
       <title>Adria Twin SPX</title>
@@ -1791,6 +1791,58 @@
       <availability>AVAILABLE</availability>
       <custom_label_0>Husvagn</custom_label_0>
       <custom_label_1>Slutar 2026-06-25 15:41</custom_label_1>
+    </item>
+    <item>
+      <vehicle_id>587</vehicle_id>
+      <g:id>587</g:id>
+      <title>Kabe Royal 560 LXL KS</title>
+      <description>Kabe Royal 560 LXL KS från 2013 erbjuder en välplanerad planlösning med franskbädd längst bak, toalett i anslutning till sovdelen samt ett centralt placerat kök med generösa arbetsytor och stor kyl. Längst fram finns en rymlig soffa som skapar gott om plats för umgänge och kan bäddas vid behov. Vagnen är utrustad med Kabes välkända komfort- och värmesystem och passar lika bra för semesterturer som längre vistelser. - Gasoltest utfört 2024-07-24 - Fukttest utfört 2018 Årsmodell: 2013 · Typ: Husvagn · Ort: Båstad</description>
+      <url>https://frivio.se/auktion/587</url>
+      <g:link>https://frivio.se/auktion/587</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/587/a1781004462829.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/587/a1781004462829.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/587/b1781004462424.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/587/c1781004463308.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/587/d1781004462659.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/587/e1781004462987.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/587/f1781004463596.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/587/g1781004463162.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/587/h1781004463469.jpeg</g:additional_image_link>
+      <make>Kabe</make>
+      <model>Royal 560 LXL KS</model>
+      <year>2013</year>
+      <mileage>
+        <value>0</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>117500 SEK</price>
+      <g:price>117500 SEK</g:price>
+      <address>Båstad</address>
+      <address format="simple">
+        <component name="addr1">Båstad</component>
+        <component name="city">Båstad</component>
+        <component name="region">Skåne</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <frivio:listing_type>auction</frivio:listing_type>
+      <frivio:auction_end_date>2026-06-25T17:22:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>117500 SEK</frivio:current_bid>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
+      <frivio:monthly_cost>1859 kr/mån</frivio:monthly_cost>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Husvagn</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
+      <frivio:region>Skåne</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Husvagn</custom_label_0>
+      <custom_label_1>Slutar 2026-06-25 17:22</custom_label_1>
     </item>
     <item>
       <vehicle_id>585</vehicle_id>
