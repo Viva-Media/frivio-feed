@@ -4,7 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Tue, 09 Jun 2026 04:14:41 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 08:36:50 GMT</lastBuildDate>
     <item>
       <vehicle_id>552</vehicle_id>
       <g:id>552</g:id>
@@ -604,8 +604,8 @@
         <value>0</value>
         <unit>KM</unit>
       </mileage>
-      <price>68500 SEK</price>
-      <g:price>68500 SEK</g:price>
+      <price>76000 SEK</price>
+      <g:price>76000 SEK</g:price>
       <address>Filipstad</address>
       <address format="simple">
         <component name="addr1">Filipstad</component>
@@ -618,10 +618,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-06-15T14:30:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>68500 SEK</frivio:current_bid>
-      <frivio:bid_count>2</frivio:bid_count>
+      <frivio:current_bid>76000 SEK</frivio:current_bid>
+      <frivio:bid_count>3</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>1084 kr/mån</frivio:monthly_cost>
+      <frivio:monthly_cost>1202 kr/mån</frivio:monthly_cost>
       <body_style>OTHER</body_style>
       <frivio:body_type_label>Husvagn</frivio:body_type_label>
       <fuel_type>NONE</fuel_type>
@@ -1280,8 +1280,8 @@
         <value>0</value>
         <unit>KM</unit>
       </mileage>
-      <price>155000 SEK</price>
-      <g:price>155000 SEK</g:price>
+      <price>157000 SEK</price>
+      <g:price>157000 SEK</g:price>
       <address>Lidingö</address>
       <address format="simple">
         <component name="addr1">Lidingö</component>
@@ -1294,10 +1294,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-06-17T16:08:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>155000 SEK</frivio:current_bid>
-      <frivio:bid_count>5</frivio:bid_count>
+      <frivio:current_bid>157000 SEK</frivio:current_bid>
+      <frivio:bid_count>6</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>2452 kr/mån</frivio:monthly_cost>
+      <frivio:monthly_cost>2484 kr/mån</frivio:monthly_cost>
       <body_style>OTHER</body_style>
       <frivio:body_type_label>Båt</frivio:body_type_label>
       <fuel_type>NONE</fuel_type>
@@ -1735,27 +1735,27 @@
       <custom_label_1>Slutar 2026-06-22 16:22</custom_label_1>
     </item>
     <item>
-      <vehicle_id>584</vehicle_id>
-      <g:id>584</g:id>
+      <vehicle_id>585</vehicle_id>
+      <g:id>585</g:id>
       <title>Knaus SKY I 700 LEG</title>
       <description>Knaus SKY 700 LEG 2019 i mycket fint och välutrustat skick. En påkostad husbil där mycket uppgraderats genom åren för hög komfort och smidig camping. Utrustad med taksäng, AC, stora långbäddar, rymlig sittgrupp och välplanerat badrum. Dubbel gasolinstallation och modern, trivsam interiör med gott om förvaring. En bekväm och välskött helintegrerad husbil som passar perfekt för både kortare resor och längre äventyr året runt. - Luftstolar - DuoControl gasolflaskor - Kamrem bytt 2025 (Landrins Sundsvall) - Koppling bytt 2025 (Landrins Sundsvall) - Servad vartannat år sedan 2020 - Dämpare fram bytt 2026 (Gira Bil Ånge) - Dometic Converter bytt 2021/2022 - Gasoltestad varje år - Sommar och vinterdäck - bra skick - BSR optimerad - Ej import - Fukttest gjort 2020 UA och nytt fukttest utförs innan leverans - Hissen är glapp till TV - Kabel mellan Alde panel och Knaus panel är felande - Kromen har skrynklat till sig på listen höger sida Årsmodell: 2019 · Typ: Husbil · Drivmedel: Diesel · Växellåda: Automatisk · Mätarställning: 3 800 mil · Ort: Ånge</description>
-      <url>https://frivio.se/auktion/584</url>
-      <g:link>https://frivio.se/auktion/584</g:link>
+      <url>https://frivio.se/auktion/585</url>
+      <g:link>https://frivio.se/auktion/585</g:link>
       <image>
-        <url>https://backend.frivio.se/vehicle/584/a1780929887106.jpeg</url>
+        <url>https://backend.frivio.se/vehicle/585/a1780988071559.jpeg</url>
         <tag>Exterior</tag>
       </image>
-      <g:image_link>https://backend.frivio.se/vehicle/584/a1780929887106.jpeg</g:image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/584/b1780929886186.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/584/c1780929885498.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/584/d1780929886797.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/584/e1780929886647.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/584/f1780929886486.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/584/g1780929885884.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/584/h1780929885613.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/584/i1780929885205.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/584/j1780929885024.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/584/k1780929886029.jpeg</g:additional_image_link>
+      <g:image_link>https://backend.frivio.se/vehicle/585/a1780988071559.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/585/b1780988070753.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/585/c1780988069718.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/585/d1780988071262.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/585/e1780988071131.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/585/f1780988071005.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/585/g1780988070452.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/585/h1780988070218.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/585/i1780988069866.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/585/j1780988069982.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/585/k1780988070601.jpeg</g:additional_image_link>
       <make>Knaus</make>
       <model>SKY I 700 LEG</model>
       <year>2019</year>
@@ -1763,8 +1763,8 @@
         <value>38000</value>
         <unit>KM</unit>
       </mileage>
-      <price>920000 SEK</price>
-      <g:price>920000 SEK</g:price>
+      <price>700000 SEK</price>
+      <g:price>700000 SEK</g:price>
       <address>Ånge</address>
       <address format="simple">
         <component name="addr1">Ånge</component>
@@ -1775,19 +1775,20 @@
       <condition>GOOD</condition>
       <state_of_vehicle>USED</state_of_vehicle>
       <transmission>AUTOMATIC</transmission>
-      <frivio:listing_type>fixed_price</frivio:listing_type>
-      <frivio:auction_end_date>2026-06-29T14:43:00.000Z</frivio:auction_end_date>
+      <frivio:listing_type>auction</frivio:listing_type>
+      <frivio:auction_end_date>2026-06-29T15:54:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>700000 SEK</frivio:current_bid>
       <frivio:bid_count>0</frivio:bid_count>
-      <frivio:reserve_price_status>Ej tillämpligt (fast pris)</frivio:reserve_price_status>
-      <frivio:monthly_cost>14556 kr/mån</frivio:monthly_cost>
+      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
+      <frivio:monthly_cost>11075 kr/mån</frivio:monthly_cost>
       <body_style>VAN</body_style>
       <frivio:body_type_label>Husbil</frivio:body_type_label>
       <fuel_type>DIESEL</fuel_type>
       <frivio:region>Västernorrland</frivio:region>
       <availability>AVAILABLE</availability>
       <custom_label_0>Husbil</custom_label_0>
-      <custom_label_1>Slutar 2026-06-29 14:43</custom_label_1>
+      <custom_label_1>Slutar 2026-06-29 15:54</custom_label_1>
     </item>
   </channel>
 </rss>
