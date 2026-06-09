@@ -4,7 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Tue, 09 Jun 2026 08:36:50 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 12:11:56 GMT</lastBuildDate>
     <item>
       <vehicle_id>552</vehicle_id>
       <g:id>552</g:id>
@@ -114,57 +114,6 @@
       <availability>AVAILABLE</availability>
       <custom_label_0>Husvagn</custom_label_0>
       <custom_label_1>Slutar 2026-06-09 16:56</custom_label_1>
-    </item>
-    <item>
-      <vehicle_id>555</vehicle_id>
-      <g:id>555</g:id>
-      <title>Knaus Sudwind 650 PEB</title>
-      <description>Knaus Südwind 650 PEB från 2021 är en mycket fin och välplanerad premiumvagn med modern design och hög komfort. Vagnen erbjuder rymlig sittgrupp, välutrustat kök med stort kylskåp, långbäddar samt badrum med separat dusch. Den ljusa interiören, generösa förvaringen och stora panoramafönstren skapar en härlig rymd. Dubbelaxel och bred kaross ger mycket stabila och trygga köregenskaper året om. Årsmodell: 2021 · Typ: Husvagn · Ort: Köping</description>
-      <url>https://frivio.se/auktion/555</url>
-      <g:link>https://frivio.se/auktion/555</g:link>
-      <image>
-        <url>https://backend.frivio.se/vehicle/555/a1779890255384.jpeg</url>
-        <tag>Exterior</tag>
-      </image>
-      <g:image_link>https://backend.frivio.se/vehicle/555/a1779890255384.jpeg</g:image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/555/b1779890254944.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/555/c1779890253790.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/555/d1779890254019.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/555/e1779890254248.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/555/f1779890254495.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/555/g1779890255169.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/555/h1779890254751.jpeg</g:additional_image_link>
-      <make>Knaus</make>
-      <model>Sudwind 650 PEB</model>
-      <year>2021</year>
-      <mileage>
-        <value>0</value>
-        <unit>KM</unit>
-      </mileage>
-      <price>280000 SEK</price>
-      <g:price>280000 SEK</g:price>
-      <address>Köping</address>
-      <address format="simple">
-        <component name="addr1">Köping</component>
-        <component name="city">Köping</component>
-        <component name="region">Västmanland</component>
-        <component name="country">SE</component>
-      </address>
-      <condition>GOOD</condition>
-      <state_of_vehicle>USED</state_of_vehicle>
-      <frivio:listing_type>fixed_price</frivio:listing_type>
-      <frivio:auction_end_date>2026-06-09T17:40:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:bid_count>0</frivio:bid_count>
-      <frivio:reserve_price_status>Ej tillämpligt (fast pris)</frivio:reserve_price_status>
-      <frivio:monthly_cost>4430 kr/mån</frivio:monthly_cost>
-      <body_style>OTHER</body_style>
-      <frivio:body_type_label>Husvagn</frivio:body_type_label>
-      <fuel_type>NONE</fuel_type>
-      <frivio:region>Västmanland</frivio:region>
-      <availability>AVAILABLE</availability>
-      <custom_label_0>Husvagn</custom_label_0>
-      <custom_label_1>Slutar 2026-06-09 17:40</custom_label_1>
     </item>
     <item>
       <vehicle_id>546</vehicle_id>
@@ -604,8 +553,8 @@
         <value>0</value>
         <unit>KM</unit>
       </mileage>
-      <price>76000 SEK</price>
-      <g:price>76000 SEK</g:price>
+      <price>76500 SEK</price>
+      <g:price>76500 SEK</g:price>
       <address>Filipstad</address>
       <address format="simple">
         <component name="addr1">Filipstad</component>
@@ -618,10 +567,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-06-15T14:30:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>76000 SEK</frivio:current_bid>
-      <frivio:bid_count>3</frivio:bid_count>
+      <frivio:current_bid>76500 SEK</frivio:current_bid>
+      <frivio:bid_count>4</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>1202 kr/mån</frivio:monthly_cost>
+      <frivio:monthly_cost>1210 kr/mån</frivio:monthly_cost>
       <body_style>OTHER</body_style>
       <frivio:body_type_label>Husvagn</frivio:body_type_label>
       <fuel_type>NONE</fuel_type>
@@ -1123,8 +1072,8 @@
         <value>0</value>
         <unit>KM</unit>
       </mileage>
-      <price>40000 SEK</price>
-      <g:price>40000 SEK</g:price>
+      <price>41000 SEK</price>
+      <g:price>41000 SEK</g:price>
       <address>Mönsterås</address>
       <address format="simple">
         <component name="addr1">Mönsterås</component>
@@ -1137,10 +1086,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-06-16T16:52:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>40000 SEK</frivio:current_bid>
-      <frivio:bid_count>0</frivio:bid_count>
-      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
-      <frivio:monthly_cost>633 kr/mån</frivio:monthly_cost>
+      <frivio:current_bid>41000 SEK</frivio:current_bid>
+      <frivio:bid_count>1</frivio:bid_count>
+      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
+      <frivio:monthly_cost>649 kr/mån</frivio:monthly_cost>
       <body_style>OTHER</body_style>
       <frivio:body_type_label>Husvagn</frivio:body_type_label>
       <fuel_type>NONE</fuel_type>
@@ -1280,8 +1229,8 @@
         <value>0</value>
         <unit>KM</unit>
       </mileage>
-      <price>157000 SEK</price>
-      <g:price>157000 SEK</g:price>
+      <price>163000 SEK</price>
+      <g:price>163000 SEK</g:price>
       <address>Lidingö</address>
       <address format="simple">
         <component name="addr1">Lidingö</component>
@@ -1294,10 +1243,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-06-17T16:08:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>157000 SEK</frivio:current_bid>
-      <frivio:bid_count>6</frivio:bid_count>
+      <frivio:current_bid>163000 SEK</frivio:current_bid>
+      <frivio:bid_count>8</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>2484 kr/mån</frivio:monthly_cost>
+      <frivio:monthly_cost>2579 kr/mån</frivio:monthly_cost>
       <body_style>OTHER</body_style>
       <frivio:body_type_label>Båt</frivio:body_type_label>
       <fuel_type>NONE</fuel_type>
@@ -1735,6 +1684,115 @@
       <custom_label_1>Slutar 2026-06-22 16:22</custom_label_1>
     </item>
     <item>
+      <vehicle_id>583</vehicle_id>
+      <g:id>583</g:id>
+      <title>Adria Twin SPX</title>
+      <description>Adria Twin SPX från 2012 med endast 8 400 mil på mätaren. Den smarta planlösningen erbjuder en rymlig sittgrupp med svängbara framstolar, kök med spis och kylskåp, badrum med toalett samt en tvärställd dubbelsäng längst bak. Förvaringsutrymmen finns väl fördelade i bodelen och den monterade markisen ger extra komfort vid uppställning. En välskött plåtis som kombinerar smidiga yttermått med praktiska boendeytor. - Besiktad till 2026-07-31 - Fukt och gasoltest utfört UA 2025 - Kamrem bytt 2023 vid 5000mil - Dragkrok Årsmodell: 2012 · Typ: Husbil · Drivmedel: Diesel · Växellåda: Manuell · Mätarställning: 8 400 mil · Ort: Karlsborg</description>
+      <url>https://frivio.se/auktion/583</url>
+      <g:link>https://frivio.se/auktion/583</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/583/a1780929479459.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/583/a1780929479459.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/583/b1780929479617.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/583/d1780929478429.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/583/e1780929478715.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/583/f1780929479021.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/583/g1780929478846.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/583/h1780929479156.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/583/i1780929478583.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/583/j1780929479311.jpeg</g:additional_image_link>
+      <make>Adria</make>
+      <model>Twin SPX</model>
+      <year>2012</year>
+      <mileage>
+        <value>84000</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>200000 SEK</price>
+      <g:price>200000 SEK</g:price>
+      <address>Karlsborg</address>
+      <address format="simple">
+        <component name="addr1">Karlsborg</component>
+        <component name="city">Karlsborg</component>
+        <component name="region">Västra Götaland</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <transmission>MANUAL</transmission>
+      <frivio:listing_type>auction</frivio:listing_type>
+      <frivio:auction_end_date>2026-06-23T16:47:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>200000 SEK</frivio:current_bid>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
+      <frivio:monthly_cost>3164 kr/mån</frivio:monthly_cost>
+      <body_style>VAN</body_style>
+      <frivio:body_type_label>Husbil</frivio:body_type_label>
+      <fuel_type>DIESEL</fuel_type>
+      <frivio:region>Västra Götaland</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Husbil</custom_label_0>
+      <custom_label_1>Slutar 2026-06-23 16:47</custom_label_1>
+    </item>
+    <item>
+      <vehicle_id>586</vehicle_id>
+      <g:id>586</g:id>
+      <title>Adria Classica 743UT</title>
+      <description>Adria Classica 743 UT av årsmodell 2008 erbjuder en planlösning som passar den större familjen med våningssängar, en rymlig dubbelsäng och en generös U-soffa längst fram som även kan bäddas vid behov. Köket är utrustat med stor kyl och gott om förvaringsutrymmen, medan den genomtänkta planlösningen skapar tydliga ytor för både umgänge och vila. En välutrustad husvagn med många sovplatser och gott om plats för längre semestrar. - Viss fukt har noterats höger bak, och vid mitten av husvagnen vid våningssäng - Levereras nybesiktad - OBS! Förtältet som syns på bilderna ingår ej Årsmodell: 2008 · Typ: Husvagn · Ort: Askersund</description>
+      <url>https://frivio.se/auktion/586</url>
+      <g:link>https://frivio.se/auktion/586</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/586/a1780998838692.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/586/a1780998838692.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/586/b1780998838878.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/586/c1780998839024.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/586/d1780998839373.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/586/e1780998839252.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/586/f1780998839143.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/586/g1780998839530.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/586/h1780998839780.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/586/i1780998839667.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/586/j1780998839906.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/586/k1780998840046.jpeg</g:additional_image_link>
+      <make>Adria</make>
+      <model>Classica 743UT</model>
+      <year>2008</year>
+      <mileage>
+        <value>0</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>60000 SEK</price>
+      <g:price>60000 SEK</g:price>
+      <address>Askersund</address>
+      <address format="simple">
+        <component name="addr1">Askersund</component>
+        <component name="city">Askersund</component>
+        <component name="region">Örebro</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <frivio:listing_type>auction</frivio:listing_type>
+      <frivio:auction_end_date>2026-06-25T15:41:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>60000 SEK</frivio:current_bid>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
+      <frivio:monthly_cost>949 kr/mån</frivio:monthly_cost>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Husvagn</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
+      <frivio:region>Örebro</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Husvagn</custom_label_0>
+      <custom_label_1>Slutar 2026-06-25 15:41</custom_label_1>
+    </item>
+    <item>
       <vehicle_id>585</vehicle_id>
       <g:id>585</g:id>
       <title>Knaus SKY I 700 LEG</title>
@@ -1789,6 +1847,57 @@
       <availability>AVAILABLE</availability>
       <custom_label_0>Husbil</custom_label_0>
       <custom_label_1>Slutar 2026-06-29 15:54</custom_label_1>
+    </item>
+    <item>
+      <vehicle_id>555</vehicle_id>
+      <g:id>555</g:id>
+      <title>Knaus Sudwind 650 PEB</title>
+      <description>Knaus Südwind 650 PEB från 2021 är en mycket fin och välplanerad premiumvagn med modern design och hög komfort. Vagnen erbjuder rymlig sittgrupp, välutrustat kök med stort kylskåp, långbäddar samt badrum med separat dusch. Den ljusa interiören, generösa förvaringen och stora panoramafönstren skapar en härlig rymd. Dubbelaxel och bred kaross ger mycket stabila och trygga köregenskaper året om. Årsmodell: 2021 · Typ: Husvagn · Ort: Köping</description>
+      <url>https://frivio.se/auktion/555</url>
+      <g:link>https://frivio.se/auktion/555</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/555/a1779890255384.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/555/a1779890255384.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/555/b1779890254944.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/555/c1779890253790.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/555/d1779890254019.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/555/e1779890254248.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/555/f1779890254495.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/555/g1779890255169.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/555/h1779890254751.jpeg</g:additional_image_link>
+      <make>Knaus</make>
+      <model>Sudwind 650 PEB</model>
+      <year>2021</year>
+      <mileage>
+        <value>0</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>280000 SEK</price>
+      <g:price>280000 SEK</g:price>
+      <address>Köping</address>
+      <address format="simple">
+        <component name="addr1">Köping</component>
+        <component name="city">Köping</component>
+        <component name="region">Västmanland</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <frivio:listing_type>fixed_price</frivio:listing_type>
+      <frivio:auction_end_date>2026-06-30T17:40:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Ej tillämpligt (fast pris)</frivio:reserve_price_status>
+      <frivio:monthly_cost>4430 kr/mån</frivio:monthly_cost>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Husvagn</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
+      <frivio:region>Västmanland</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Husvagn</custom_label_0>
+      <custom_label_1>Slutar 2026-06-30 17:40</custom_label_1>
     </item>
   </channel>
 </rss>
