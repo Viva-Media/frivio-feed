@@ -4,62 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Tue, 09 Jun 2026 16:09:54 GMT</lastBuildDate>
-    <item>
-      <vehicle_id>554</vehicle_id>
-      <g:id>554</g:id>
-      <title>Cabby 67 M</title>
-      <description>Cabby 67M från 2003 med AC är en rymlig och stabil vagn med klassisk Cabby-känsla. Här får du en praktisk planlösning med fast dubbelsäng, trevlig sittgrupp och ett funktionellt kök med bra arbetsytor. Interiören går i varm träton och ger ett ombonat intryck, samtidigt som förvaringsmöjligheterna är generösa. Badrummet är kompakt men välplanerat och vagnen står på dubbla axlar vilket ger trygg körning. En välhållen vagn med mycket potential. - Besiktad till 2027-08-31 - Kan hämtas tidigast 1/6 -2026 Årsmodell: 2003 · Typ: Husvagn · Ort: Stockholm</description>
-      <url>https://frivio.se/auktion/554</url>
-      <g:link>https://frivio.se/auktion/554</g:link>
-      <image>
-        <url>https://backend.frivio.se/vehicle/554/a1779890025536.jpeg</url>
-        <tag>Exterior</tag>
-      </image>
-      <g:image_link>https://backend.frivio.se/vehicle/554/a1779890025536.jpeg</g:image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/554/b1779890025667.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/554/c1779890025426.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/554/d1779890025201.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/554/e1779890025314.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/554/f1779890025836.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/554/g1779890025083.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/554/h1779890023829.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/554/i1779890024188.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/554/j1779890023573.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/554/k1779890024334.jpeg</g:additional_image_link>
-      <make>Cabby</make>
-      <model>67 M</model>
-      <year>2003</year>
-      <mileage>
-        <value>0</value>
-        <unit>KM</unit>
-      </mileage>
-      <price>55000 SEK</price>
-      <g:price>55000 SEK</g:price>
-      <address>Stockholm</address>
-      <address format="simple">
-        <component name="addr1">Stockholm</component>
-        <component name="city">Stockholm</component>
-        <component name="region">Stockholm</component>
-        <component name="country">SE</component>
-      </address>
-      <condition>GOOD</condition>
-      <state_of_vehicle>USED</state_of_vehicle>
-      <frivio:listing_type>auction</frivio:listing_type>
-      <frivio:auction_end_date>2026-06-09T16:56:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>55000 SEK</frivio:current_bid>
-      <frivio:bid_count>0</frivio:bid_count>
-      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
-      <frivio:monthly_cost>870 kr/mån</frivio:monthly_cost>
-      <body_style>OTHER</body_style>
-      <frivio:body_type_label>Husvagn</frivio:body_type_label>
-      <fuel_type>NONE</fuel_type>
-      <frivio:region>Stockholm</frivio:region>
-      <availability>AVAILABLE</availability>
-      <custom_label_0>Husvagn</custom_label_0>
-      <custom_label_1>Slutar 2026-06-09 16:56</custom_label_1>
-    </item>
+    <lastBuildDate>Tue, 09 Jun 2026 19:26:24 GMT</lastBuildDate>
     <item>
       <vehicle_id>546</vehicle_id>
       <g:id>546</g:id>
@@ -699,8 +644,8 @@
         <value>0</value>
         <unit>KM</unit>
       </mileage>
-      <price>111000 SEK</price>
-      <g:price>111000 SEK</g:price>
+      <price>126000 SEK</price>
+      <g:price>126000 SEK</g:price>
       <address>Sandviken</address>
       <address format="simple">
         <component name="addr1">Sandviken</component>
@@ -713,10 +658,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-06-15T16:45:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>111000 SEK</frivio:current_bid>
-      <frivio:bid_count>4</frivio:bid_count>
+      <frivio:current_bid>126000 SEK</frivio:current_bid>
+      <frivio:bid_count>8</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>1756 kr/mån</frivio:monthly_cost>
+      <frivio:monthly_cost>1994 kr/mån</frivio:monthly_cost>
       <body_style>OTHER</body_style>
       <frivio:body_type_label>Husvagn</frivio:body_type_label>
       <fuel_type>NONE</fuel_type>
@@ -921,7 +866,7 @@
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-06-16T16:21:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
       <frivio:current_bid>150000 SEK</frivio:current_bid>
       <frivio:bid_count>0</frivio:bid_count>
       <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
@@ -976,7 +921,7 @@
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>fixed_price</frivio:listing_type>
       <frivio:auction_end_date>2026-06-16T16:24:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
       <frivio:bid_count>0</frivio:bid_count>
       <frivio:reserve_price_status>Ej tillämpligt (fast pris)</frivio:reserve_price_status>
       <frivio:monthly_cost>2990 kr/mån</frivio:monthly_cost>
@@ -1030,7 +975,7 @@
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-06-16T16:52:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
       <frivio:current_bid>42000 SEK</frivio:current_bid>
       <frivio:bid_count>2</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
