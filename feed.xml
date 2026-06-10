@@ -4,7 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Wed, 10 Jun 2026 04:25:38 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 08:56:35 GMT</lastBuildDate>
     <item>
       <vehicle_id>546</vehicle_id>
       <g:id>546</g:id>
@@ -138,8 +138,8 @@
         <value>0</value>
         <unit>KM</unit>
       </mileage>
-      <price>64500 SEK</price>
-      <g:price>64500 SEK</g:price>
+      <price>65000 SEK</price>
+      <g:price>65000 SEK</g:price>
       <address>Kungsbacka</address>
       <address format="simple">
         <component name="addr1">Kungsbacka</component>
@@ -152,10 +152,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-06-11T15:21:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>64500 SEK</frivio:current_bid>
-      <frivio:bid_count>0</frivio:bid_count>
-      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
-      <frivio:monthly_cost>1021 kr/mån</frivio:monthly_cost>
+      <frivio:current_bid>65000 SEK</frivio:current_bid>
+      <frivio:bid_count>1</frivio:bid_count>
+      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
+      <frivio:monthly_cost>1028 kr/mån</frivio:monthly_cost>
       <body_style>OTHER</body_style>
       <frivio:body_type_label>Båt</frivio:body_type_label>
       <fuel_type>NONE</fuel_type>
@@ -1119,8 +1119,8 @@
         <value>0</value>
         <unit>KM</unit>
       </mileage>
-      <price>163000 SEK</price>
-      <g:price>163000 SEK</g:price>
+      <price>169000 SEK</price>
+      <g:price>169000 SEK</g:price>
       <address>Lidingö</address>
       <address format="simple">
         <component name="addr1">Lidingö</component>
@@ -1133,10 +1133,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-06-17T16:08:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>163000 SEK</frivio:current_bid>
-      <frivio:bid_count>8</frivio:bid_count>
+      <frivio:current_bid>169000 SEK</frivio:current_bid>
+      <frivio:bid_count>10</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>2579 kr/mån</frivio:monthly_cost>
+      <frivio:monthly_cost>2674 kr/mån</frivio:monthly_cost>
       <body_style>OTHER</body_style>
       <frivio:body_type_label>Båt</frivio:body_type_label>
       <fuel_type>NONE</fuel_type>
@@ -1681,6 +1681,60 @@
       <availability>AVAILABLE</availability>
       <custom_label_0>Husbil</custom_label_0>
       <custom_label_1>Slutar 2026-06-23 16:47</custom_label_1>
+    </item>
+    <item>
+      <vehicle_id>582</vehicle_id>
+      <g:id>582</g:id>
+      <title>Adria Adora 563 PT</title>
+      <description>Adria Adora 563 PT är en familjevagn av årsmodell 2013, uttagen i trafik första gången 2014. Planlösningen erbjuder en fransk bädd, våningssängar, sittgrupp som kan bäddas samt ett välutrustat kök med gott om arbetsyta och förvaring. Längst bak finns våningssängarna medan franskbädden ger en avskild sovdel för de vuxna. En rymlig husvagn med genomtänkt planlösning som passar såväl familjen som det resande paret. - Uttagen i trafik första gång 2014 - Året runt däck - Fukt och gasoltest utfört 2024 UA - Vagnen kommer att städas ur innan leverans Årsmodell: 2013 · Typ: Husvagn · Ort: Göteborg</description>
+      <url>https://frivio.se/auktion/582</url>
+      <g:link>https://frivio.se/auktion/582</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/582/b1780997300945.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/582/b1780997300945.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/582/c1780997301126.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/582/d1780997301318.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/582/e1780997300577.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/582/f1780997301945.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/582/g1780997302586.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/582/h1780997302362.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/582/i1780997301628.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/582/j1780997300714.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/582/k1780997300823.jpeg</g:additional_image_link>
+      <make>Adria</make>
+      <model>Adora 563 PT</model>
+      <year>2013</year>
+      <mileage>
+        <value>0</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>80000 SEK</price>
+      <g:price>80000 SEK</g:price>
+      <address>Göteborg</address>
+      <address format="simple">
+        <component name="addr1">Göteborg</component>
+        <component name="city">Göteborg</component>
+        <component name="region">Västra Götaland</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <frivio:listing_type>auction</frivio:listing_type>
+      <frivio:auction_end_date>2026-06-24T17:00:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>80000 SEK</frivio:current_bid>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
+      <frivio:monthly_cost>1266 kr/mån</frivio:monthly_cost>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Husvagn</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
+      <frivio:region>Västra Götaland</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Husvagn</custom_label_0>
+      <custom_label_1>Slutar 2026-06-24 17:00</custom_label_1>
     </item>
     <item>
       <vehicle_id>586</vehicle_id>
