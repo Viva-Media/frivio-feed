@@ -4,59 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Wed, 10 Jun 2026 12:32:50 GMT</lastBuildDate>
-    <item>
-      <vehicle_id>546</vehicle_id>
-      <g:id>546</g:id>
-      <title>Bolmen ALU 570</title>
-      <description>Bolmen ALU 570 från 2020 är en stabil och sjösäker aluminiumbåt som passar perfekt för familjeliv, fiske och fritid. Båten är tillverkad i Nederländerna och utrustad med styrpulpet, hydraulstyrning, elpanel, el-länspump, belysning, badstege samt flera praktiska detaljer. CE-märkt i kategori C och byggd i kraftigt aluminium på 3–4 mm för hög kvalitet och hållbarhet. Rekommenderad motorstyrka är 60–115 hk långrigg. Säljs utan motor och är i mycket fint skick. - Trailer ingår ej - Motor ingår ej Årsmodell: 2020 · Typ: Båt · Ort: Gislaved</description>
-      <url>https://frivio.se/auktion/546</url>
-      <g:link>https://frivio.se/auktion/546</g:link>
-      <image>
-        <url>https://backend.frivio.se/vehicle/546/b1779794992322.jpeg</url>
-        <tag>Exterior</tag>
-      </image>
-      <g:image_link>https://backend.frivio.se/vehicle/546/b1779794992322.jpeg</g:image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/546/c1779794992643.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/546/d1779794992827.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/546/e1779794993280.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/546/f1779794992993.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/546/g1779794993133.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/546/h1779794993465.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/546/i1779794993651.jpeg</g:additional_image_link>
-      <make>Bolmen</make>
-      <model>Bolmen ALU 570</model>
-      <year>2020</year>
-      <mileage>
-        <value>0</value>
-        <unit>KM</unit>
-      </mileage>
-      <price>40000 SEK</price>
-      <g:price>40000 SEK</g:price>
-      <address>Gislaved</address>
-      <address format="simple">
-        <component name="addr1">Gislaved</component>
-        <component name="city">Gislaved</component>
-        <component name="region">Jönköping</component>
-        <component name="country">SE</component>
-      </address>
-      <condition>GOOD</condition>
-      <state_of_vehicle>USED</state_of_vehicle>
-      <frivio:listing_type>auction</frivio:listing_type>
-      <frivio:auction_end_date>2026-06-10T16:34:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>40000 SEK</frivio:current_bid>
-      <frivio:bid_count>4</frivio:bid_count>
-      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>633 kr/mån</frivio:monthly_cost>
-      <body_style>OTHER</body_style>
-      <frivio:body_type_label>Båt</frivio:body_type_label>
-      <fuel_type>NONE</fuel_type>
-      <frivio:region>Jönköping</frivio:region>
-      <availability>AVAILABLE</availability>
-      <custom_label_0>Båt</custom_label_0>
-      <custom_label_1>Slutar 2026-06-10 16:34</custom_label_1>
-    </item>
+    <lastBuildDate>Wed, 10 Jun 2026 16:41:08 GMT</lastBuildDate>
     <item>
       <vehicle_id>549</vehicle_id>
       <g:id>549</g:id>
@@ -443,8 +391,8 @@
         <value>0</value>
         <unit>KM</unit>
       </mileage>
-      <price>76500 SEK</price>
-      <g:price>76500 SEK</g:price>
+      <price>80000 SEK</price>
+      <g:price>80000 SEK</g:price>
       <address>Filipstad</address>
       <address format="simple">
         <component name="addr1">Filipstad</component>
@@ -457,10 +405,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-06-15T14:30:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>76500 SEK</frivio:current_bid>
-      <frivio:bid_count>4</frivio:bid_count>
+      <frivio:current_bid>80000 SEK</frivio:current_bid>
+      <frivio:bid_count>5</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>1210 kr/mån</frivio:monthly_cost>
+      <frivio:monthly_cost>1266 kr/mån</frivio:monthly_cost>
       <body_style>OTHER</body_style>
       <frivio:body_type_label>Husvagn</frivio:body_type_label>
       <fuel_type>NONE</fuel_type>
@@ -1024,7 +972,7 @@
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-06-17T14:38:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
       <frivio:current_bid>49000 SEK</frivio:current_bid>
       <frivio:bid_count>0</frivio:bid_count>
       <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
@@ -1036,6 +984,60 @@
       <availability>AVAILABLE</availability>
       <custom_label_0>Båt</custom_label_0>
       <custom_label_1>Slutar 2026-06-17 14:38</custom_label_1>
+    </item>
+    <item>
+      <vehicle_id>593</vehicle_id>
+      <g:id>593</g:id>
+      <title>Hobby 560 KMFE Excellent</title>
+      <description>Hobby 560 KMFE Excellent från 2022. En fin barnkammarvagn som är uttagen hösten 2022 och endast använd ett fåtal nätter. Ljus och rymlig interiör med gott om plats samt 6st sovplatser. En resklar vagn i mycket gott skick. - Dometic AC (Kyla.-värme-avfuktning) - Formsydda golvmattor - El &amp; Tv-uttag på tältsidan - USB-laddningsuttag + 1st vid varje barnsäng - Bluetooth där du kan styra AC, värme, belysning m.m. direkt från telefonen - Fukt och gasoltest UA gjort 2025 Årsmodell: 2022 · Typ: Husvagn · Ort: Kalmar</description>
+      <url>https://frivio.se/auktion/593</url>
+      <g:link>https://frivio.se/auktion/593</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/593/a1781099828259.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/593/a1781099828259.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/593/b1781099828641.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/593/c1781099828388.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/593/d1781099828505.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/593/e1781099827579.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/593/f1781099827904.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/593/g1781099827768.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/593/h1781099828025.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/593/i1781099828144.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/593/j1781099828773.jpeg</g:additional_image_link>
+      <make>Hobby</make>
+      <model>560 KMFE Excellent</model>
+      <year>2022</year>
+      <mileage>
+        <value>0</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>170000 SEK</price>
+      <g:price>170000 SEK</g:price>
+      <address>Kalmar</address>
+      <address format="simple">
+        <component name="addr1">Kalmar</component>
+        <component name="city">Kalmar</component>
+        <component name="region">Kalmar</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <frivio:listing_type>auction</frivio:listing_type>
+      <frivio:auction_end_date>2026-06-17T14:44:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>170000 SEK</frivio:current_bid>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
+      <frivio:monthly_cost>2690 kr/mån</frivio:monthly_cost>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Husvagn</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
+      <frivio:region>Kalmar</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Husvagn</custom_label_0>
+      <custom_label_1>Slutar 2026-06-17 14:44</custom_label_1>
     </item>
     <item>
       <vehicle_id>561</vehicle_id>
@@ -1080,7 +1082,7 @@
       <transmission>MANUAL</transmission>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-06-17T15:38:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
       <frivio:current_bid>220000 SEK</frivio:current_bid>
       <frivio:bid_count>4</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
@@ -1119,8 +1121,8 @@
         <value>0</value>
         <unit>KM</unit>
       </mileage>
-      <price>169000 SEK</price>
-      <g:price>169000 SEK</g:price>
+      <price>179000 SEK</price>
+      <g:price>179000 SEK</g:price>
       <address>Lidingö</address>
       <address format="simple">
         <component name="addr1">Lidingö</component>
@@ -1132,11 +1134,11 @@
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-06-17T16:08:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>169000 SEK</frivio:current_bid>
-      <frivio:bid_count>10</frivio:bid_count>
+      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>179000 SEK</frivio:current_bid>
+      <frivio:bid_count>11</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>2674 kr/mån</frivio:monthly_cost>
+      <frivio:monthly_cost>2832 kr/mån</frivio:monthly_cost>
       <body_style>OTHER</body_style>
       <frivio:body_type_label>Båt</frivio:body_type_label>
       <fuel_type>NONE</fuel_type>
@@ -1187,7 +1189,7 @@
       <transmission>MANUAL</transmission>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-06-17T16:34:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
       <frivio:current_bid>140000 SEK</frivio:current_bid>
       <frivio:bid_count>3</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
@@ -1655,8 +1657,8 @@
         <value>84000</value>
         <unit>KM</unit>
       </mileage>
-      <price>200000 SEK</price>
-      <g:price>200000 SEK</g:price>
+      <price>201000 SEK</price>
+      <g:price>201000 SEK</g:price>
       <address>Karlsborg</address>
       <address format="simple">
         <component name="addr1">Karlsborg</component>
@@ -1670,10 +1672,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-06-23T16:47:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>200000 SEK</frivio:current_bid>
-      <frivio:bid_count>0</frivio:bid_count>
-      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
-      <frivio:monthly_cost>3164 kr/mån</frivio:monthly_cost>
+      <frivio:current_bid>201000 SEK</frivio:current_bid>
+      <frivio:bid_count>1</frivio:bid_count>
+      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
+      <frivio:monthly_cost>3180 kr/mån</frivio:monthly_cost>
       <body_style>VAN</body_style>
       <frivio:body_type_label>Husbil</frivio:body_type_label>
       <fuel_type>DIESEL</fuel_type>
@@ -1681,6 +1683,60 @@
       <availability>AVAILABLE</availability>
       <custom_label_0>Husbil</custom_label_0>
       <custom_label_1>Slutar 2026-06-23 16:47</custom_label_1>
+    </item>
+    <item>
+      <vehicle_id>594</vehicle_id>
+      <g:id>594</g:id>
+      <title>Cabby 620+</title>
+      <description>Välskött Cabby 620+ från 2010 med genomtänkt planlösning och hög komfort. Här möts du av en rymlig sittgrupp, praktiskt kök och gott om förvaring. Vagnen erbjuder separata långbäddar bak samt en inbjudande matplats fram som enkelt bäddas om vid behov. Helt enkelt en kvalitetsvagn från Cabby! - Fukttest utfört 2022 utan anmärkning - Besiktad till 2028-03-31 Årsmodell: 2010 · Typ: Husvagn · Ort: Borås</description>
+      <url>https://frivio.se/auktion/594</url>
+      <g:link>https://frivio.se/auktion/594</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/594/a1781100205840.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/594/a1781100205840.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/594/b1781100205226.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/594/c1781100205630.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/594/d1781100204335.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/594/e1781100205423.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/594/f1781100206256.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/594/g1781100205030.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/594/h1781100204822.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/594/i1781100206040.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/594/j1781100204548.jpeg</g:additional_image_link>
+      <make>Cabby</make>
+      <model>620+</model>
+      <year>2010</year>
+      <mileage>
+        <value>0</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>65000 SEK</price>
+      <g:price>65000 SEK</g:price>
+      <address>Borås</address>
+      <address format="simple">
+        <component name="addr1">Borås</component>
+        <component name="city">Borås</component>
+        <component name="region">Västra Götaland</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <frivio:listing_type>auction</frivio:listing_type>
+      <frivio:auction_end_date>2026-06-23T17:03:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>65000 SEK</frivio:current_bid>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
+      <frivio:monthly_cost>1028 kr/mån</frivio:monthly_cost>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Husvagn</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
+      <frivio:region>Västra Götaland</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Husvagn</custom_label_0>
+      <custom_label_1>Slutar 2026-06-23 17:03</custom_label_1>
     </item>
     <item>
       <vehicle_id>591</vehicle_id>
@@ -2009,6 +2065,61 @@
       <availability>AVAILABLE</availability>
       <custom_label_0>Husbil</custom_label_0>
       <custom_label_1>Slutar 2026-06-29 15:54</custom_label_1>
+    </item>
+    <item>
+      <vehicle_id>592</vehicle_id>
+      <g:id>592</g:id>
+      <title>Polar 680</title>
+      <description>Polar 680 från 2012 är en rymlig och välutrustad boogievagn med klassisk Polar-känsla. Den stora U-soffan skapar en trivsam samlingsplats, medan den fasta dubbelsängen ger hög sovkomfort. Köket erbjuder gott om förvaring, ugn och mikro, och i badrummet finns handdukstork för extra bekvämlighet. Alde vattenburen värme och robust konstruktion gör vagnen väl anpassad för nordiskt klimat året runt. - Nuvarande ägare har ej gjort något fukttest under deras 2-åriga ägo. Årsmodell: 2012 · Typ: Husvagn · Ort: Göteborg</description>
+      <url>https://frivio.se/auktion/592</url>
+      <g:link>https://frivio.se/auktion/592</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/592/a1781092761334.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/592/a1781092761334.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/592/b1781092761519.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/592/c1781092761665.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/592/d1781092761853.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/592/e1781092761997.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/592/f1781092762195.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/592/g1781092762506.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/592/h1781092762662.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/592/i1781092762347.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/592/j1781092762801.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/592/k1781092762971.jpeg</g:additional_image_link>
+      <make>Polar</make>
+      <model>680</model>
+      <year>2012</year>
+      <mileage>
+        <value>0</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>139500 SEK</price>
+      <g:price>139500 SEK</g:price>
+      <address>Göteborg</address>
+      <address format="simple">
+        <component name="addr1">Göteborg</component>
+        <component name="city">Göteborg</component>
+        <component name="region">Västra Götaland</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <frivio:listing_type>auction</frivio:listing_type>
+      <frivio:auction_end_date>2026-06-29T16:57:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>139500 SEK</frivio:current_bid>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
+      <frivio:monthly_cost>2207 kr/mån</frivio:monthly_cost>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Husvagn</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
+      <frivio:region>Västra Götaland</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Husvagn</custom_label_0>
+      <custom_label_1>Slutar 2026-06-29 16:57</custom_label_1>
     </item>
     <item>
       <vehicle_id>590</vehicle_id>
