@@ -4,7 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Thu, 11 Jun 2026 18:25:54 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 21:27:04 GMT</lastBuildDate>
     <item>
       <vehicle_id>563</vehicle_id>
       <g:id>563</g:id>
@@ -204,56 +204,6 @@
       <availability>AVAILABLE</availability>
       <custom_label_0>Båt</custom_label_0>
       <custom_label_1>Slutar 2026-06-14 16:45</custom_label_1>
-    </item>
-    <item>
-      <vehicle_id>567</vehicle_id>
-      <g:id>567</g:id>
-      <title>Cremo 550SC med motor</title>
-      <description>Helt ny Cremo 550SC från 2023. Detta är en stabil och lättkörd styrpulpet med fokus på trygg gång och enkel användning. Den centrala pulpeten ger bra sikt och smidig manövrering, samtidigt som den öppna layouten gör båten flexibel för både passagerare och last. Med en Yamaha 40 hk får du en bränslesnål och pålitlig motor som passar båtens karaktär. Ett praktiskt val för dig som söker en okomplicerad och användbar båt. - Yamaha 40hk Årsmodell: 2023 · Typ: Båt · Ort: Varberg</description>
-      <url>https://frivio.se/auktion/567</url>
-      <g:link>https://frivio.se/auktion/567</g:link>
-      <image>
-        <url>https://backend.frivio.se/vehicle/567/a1780314887253.jpeg</url>
-        <tag>Exterior</tag>
-      </image>
-      <g:image_link>https://backend.frivio.se/vehicle/567/a1780314887253.jpeg</g:image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/567/b1780314887547.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/567/c1780314887834.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/567/d1780314888119.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/567/e1780314888554.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/567/f1780314886666.jpeg</g:additional_image_link>
-      <make>Cremo</make>
-      <model>Cremo 550SC med motor</model>
-      <year>2023</year>
-      <mileage>
-        <value>0</value>
-        <unit>KM</unit>
-      </mileage>
-      <price>84500 SEK</price>
-      <g:price>84500 SEK</g:price>
-      <address>Varberg</address>
-      <address format="simple">
-        <component name="addr1">Varberg</component>
-        <component name="city">Varberg</component>
-        <component name="region">Halland</component>
-        <component name="country">SE</component>
-      </address>
-      <condition>EXCELLENT</condition>
-      <state_of_vehicle>NEW</state_of_vehicle>
-      <frivio:listing_type>auction</frivio:listing_type>
-      <frivio:auction_end_date>2026-06-14T17:53:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>84500 SEK</frivio:current_bid>
-      <frivio:bid_count>0</frivio:bid_count>
-      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
-      <frivio:monthly_cost>1337 kr/mån</frivio:monthly_cost>
-      <body_style>OTHER</body_style>
-      <frivio:body_type_label>Båt</frivio:body_type_label>
-      <fuel_type>NONE</fuel_type>
-      <frivio:region>Halland</frivio:region>
-      <availability>AVAILABLE</availability>
-      <custom_label_0>Båt</custom_label_0>
-      <custom_label_1>Slutar 2026-06-14 17:53</custom_label_1>
     </item>
     <item>
       <vehicle_id>556</vehicle_id>
@@ -961,8 +911,8 @@
         <value>110000</value>
         <unit>KM</unit>
       </mileage>
-      <price>222000 SEK</price>
-      <g:price>222000 SEK</g:price>
+      <price>250000 SEK</price>
+      <g:price>250000 SEK</g:price>
       <address>Ronneby</address>
       <address format="simple">
         <component name="addr1">Ronneby</component>
@@ -976,10 +926,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-06-17T15:38:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>222000 SEK</frivio:current_bid>
-      <frivio:bid_count>5</frivio:bid_count>
+      <frivio:current_bid>250000 SEK</frivio:current_bid>
+      <frivio:bid_count>6</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>3513 kr/mån</frivio:monthly_cost>
+      <frivio:monthly_cost>3956 kr/mån</frivio:monthly_cost>
       <body_style>VAN</body_style>
       <frivio:body_type_label>Husbil</frivio:body_type_label>
       <fuel_type>DIESEL</fuel_type>
@@ -1014,8 +964,8 @@
         <value>0</value>
         <unit>KM</unit>
       </mileage>
-      <price>180000 SEK</price>
-      <g:price>180000 SEK</g:price>
+      <price>183000 SEK</price>
+      <g:price>183000 SEK</g:price>
       <address>Lidingö</address>
       <address format="simple">
         <component name="addr1">Lidingö</component>
@@ -1028,10 +978,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-06-17T16:08:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>180000 SEK</frivio:current_bid>
-      <frivio:bid_count>12</frivio:bid_count>
+      <frivio:current_bid>183000 SEK</frivio:current_bid>
+      <frivio:bid_count>13</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>2848 kr/mån</frivio:monthly_cost>
+      <frivio:monthly_cost>2895 kr/mån</frivio:monthly_cost>
       <body_style>OTHER</body_style>
       <frivio:body_type_label>Båt</frivio:body_type_label>
       <fuel_type>NONE</fuel_type>
@@ -1099,7 +1049,7 @@
       <vehicle_id>575</vehicle_id>
       <g:id>575</g:id>
       <title>Joda Caribic 290</title>
-      <description>Joda Caribic 290 från 1995 med Volvo Penta 6.3L bensinmotor. En klassisk och rymlig familjecruiser som erbjuder gott om komfort för både dagsutflykter och längre turer på sjön. Den stora sittbrunnen med kapell ger generösa sociala ytor, medan den välplanerade kabinen erbjuder bekväma sovplatser, sittgrupp, pentry och goda förvaringsmöjligheter. Båten har en tidlös inredning i trä som skapar en varm och trivsam känsla ombord. Stabil, sjövärdig och väl lämpad för semesterlivet på vattnet. Levereras med trailer och är redo för nya äventyr. - Kad 42 / 290dp - Motortimmar 613h - Tank cirka 400l - Dieselmotor - Ny propeller 2023 - Nytt kylskåp 2019 - Ny turbo 2016 - Bog finns nyare - Dieselvärmare - Kapell i bruksskick - Trailer ingår ej Årsmodell: 1995 · Typ: Båt · Ort: Simrishamn</description>
+      <description>Joda Caribic 290 från 1995. En klassisk och rymlig familjecruiser som erbjuder gott om komfort för både dagsutflykter och längre turer på sjön. Den stora sittbrunnen med kapell ger generösa sociala ytor, medan den välplanerade kabinen erbjuder bekväma sovplatser, sittgrupp, pentry och goda förvaringsmöjligheter. Båten har en tidlös inredning i trä som skapar en varm och trivsam känsla ombord. Stabil, sjövärdig och väl lämpad för semesterlivet på vattnet. - Kad 42 / 290dp - Motortimmar 613h - Tank cirka 400l - Dieselmotor - Ny propeller 2023 - Nytt kylskåp 2019 - Ny turbo 2016 - Bog finns nyare - Dieselvärmare - Kapell i bruksskick - Trailer ingår ej Årsmodell: 1995 · Typ: Båt · Ort: Simrishamn</description>
       <url>https://frivio.se/auktion/575</url>
       <g:link>https://frivio.se/auktion/575</g:link>
       <image>
