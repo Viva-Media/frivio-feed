@@ -4,106 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Sun, 14 Jun 2026 15:11:06 GMT</lastBuildDate>
-    <item>
-      <vehicle_id>566</vehicle_id>
-      <g:id>566</g:id>
-      <title>Cremo 490SC</title>
-      <description>Ny Cremo 490SC från 2024 är en genomtänkt styrpulpet som sticker ut med sin bredd och ovanligt stora innervolym i klassen. Den smarta layouten gör det enkelt att röra sig ombord, samtidigt som den breda fören underlättar vid ombordstigning och lastning. Med plats för upp till sex personer och stabil gång i vattnet är det här en båt som kombinerar komfort, funktion och trygghet på ett väldigt balanserat sätt. - Dynor - Pre-rigg Mercury Årsmodell: 2024 · Typ: Båt · Ort: Ljusnarsberg</description>
-      <url>https://frivio.se/auktion/566</url>
-      <g:link>https://frivio.se/auktion/566</g:link>
-      <image>
-        <url>https://backend.frivio.se/vehicle/566/a1780314727692.jpeg</url>
-        <tag>Exterior</tag>
-      </image>
-      <g:image_link>https://backend.frivio.se/vehicle/566/a1780314727692.jpeg</g:image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/566/b1780314727975.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/566/c1780314728270.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/566/d1780314727369.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/566/e1780314726253.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/566/f1780314726642.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/566/g1780314726934.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/566/h1780314725462.jpeg</g:additional_image_link>
-      <make>Cremo</make>
-      <model>Cremo 490SC</model>
-      <year>2024</year>
-      <mileage>
-        <value>0</value>
-        <unit>KM</unit>
-      </mileage>
-      <price>40000 SEK</price>
-      <g:price>40000 SEK</g:price>
-      <address>Ljusnarsberg</address>
-      <address format="simple">
-        <component name="addr1">Ljusnarsberg</component>
-        <component name="city">Ljusnarsberg</component>
-        <component name="region">Örebro</component>
-        <component name="country">SE</component>
-      </address>
-      <condition>EXCELLENT</condition>
-      <state_of_vehicle>NEW</state_of_vehicle>
-      <frivio:listing_type>auction</frivio:listing_type>
-      <frivio:auction_end_date>2026-06-14T15:49:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>40000 SEK</frivio:current_bid>
-      <frivio:bid_count>1</frivio:bid_count>
-      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>633 kr/mån</frivio:monthly_cost>
-      <body_style>OTHER</body_style>
-      <frivio:body_type_label>Båt</frivio:body_type_label>
-      <fuel_type>NONE</fuel_type>
-      <frivio:region>Örebro</frivio:region>
-      <availability>AVAILABLE</availability>
-      <custom_label_0>Båt</custom_label_0>
-      <custom_label_1>Slutar 2026-06-14 15:49</custom_label_1>
-    </item>
-    <item>
-      <vehicle_id>564</vehicle_id>
-      <g:id>564</g:id>
-      <title>Cremo 465R</title>
-      <description>Helt ny Cremo 465R från 2024. 465R är en lättdriven och ovanligt stabil rorkultsbåt med fokus på enkelhet och funktion. Det breda skrovet och den kraftiga kölen ger trygg kursstabilitet, samtidigt som den öppna layouten ger maximalt med utrymme ombord. Den låga vikten gör den smidig att hantera både på trailer och i sjön - en praktisk och flexibel båt för dig som vill ha något okomplicerat och pålitligt. Årsmodell: 2024 · Typ: Båt · Ort: Varberg</description>
-      <url>https://frivio.se/auktion/564</url>
-      <g:link>https://frivio.se/auktion/564</g:link>
-      <image>
-        <url>https://backend.frivio.se/vehicle/564/a1780314335666.jpeg</url>
-        <tag>Exterior</tag>
-      </image>
-      <g:image_link>https://backend.frivio.se/vehicle/564/a1780314335666.jpeg</g:image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/564/b1780314335408.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/564/c1780314335816.jpeg</g:additional_image_link>
-      <make>Cremo</make>
-      <model>Cremo 465R</model>
-      <year>2024</year>
-      <mileage>
-        <value>0</value>
-        <unit>KM</unit>
-      </mileage>
-      <price>29500 SEK</price>
-      <g:price>29500 SEK</g:price>
-      <address>Varberg</address>
-      <address format="simple">
-        <component name="addr1">Varberg</component>
-        <component name="city">Varberg</component>
-        <component name="region">Halland</component>
-        <component name="country">SE</component>
-      </address>
-      <condition>EXCELLENT</condition>
-      <state_of_vehicle>NEW</state_of_vehicle>
-      <frivio:listing_type>auction</frivio:listing_type>
-      <frivio:auction_end_date>2026-06-14T16:45:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>29500 SEK</frivio:current_bid>
-      <frivio:bid_count>0</frivio:bid_count>
-      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
-      <frivio:monthly_cost>467 kr/mån</frivio:monthly_cost>
-      <body_style>OTHER</body_style>
-      <frivio:body_type_label>Båt</frivio:body_type_label>
-      <fuel_type>NONE</fuel_type>
-      <frivio:region>Halland</frivio:region>
-      <availability>AVAILABLE</availability>
-      <custom_label_0>Båt</custom_label_0>
-      <custom_label_1>Slutar 2026-06-14 16:45</custom_label_1>
-    </item>
+    <lastBuildDate>Sun, 14 Jun 2026 17:26:52 GMT</lastBuildDate>
     <item>
       <vehicle_id>556</vehicle_id>
       <g:id>556</g:id>
@@ -652,8 +553,8 @@
         <value>0</value>
         <unit>KM</unit>
       </mileage>
-      <price>43000 SEK</price>
-      <g:price>43000 SEK</g:price>
+      <price>50500 SEK</price>
+      <g:price>50500 SEK</g:price>
       <address>Mönsterås</address>
       <address format="simple">
         <component name="addr1">Mönsterås</component>
@@ -666,10 +567,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-06-16T16:52:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>43000 SEK</frivio:current_bid>
-      <frivio:bid_count>3</frivio:bid_count>
+      <frivio:current_bid>50500 SEK</frivio:current_bid>
+      <frivio:bid_count>7</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>680 kr/mån</frivio:monthly_cost>
+      <frivio:monthly_cost>799 kr/mån</frivio:monthly_cost>
       <body_style>OTHER</body_style>
       <frivio:body_type_label>Husvagn</frivio:body_type_label>
       <fuel_type>NONE</fuel_type>
