@@ -4,108 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Sun, 14 Jun 2026 12:04:49 GMT</lastBuildDate>
-    <item>
-      <vehicle_id>563</vehicle_id>
-      <g:id>563</g:id>
-      <title>Ryds 438F</title>
-      <description>Sportfiskebåt från Ryds. Höga fribord och bra utrymmen ombord. Båten har centralkonsol och centerbox där man kan förvara utrustning när man inte använder den. Regnläns, bad/räddningsstege. - Ny båt - Årsmodell 2018 - Teknisk specifikation - Längd: 4,35 m - Skrovlängd: 4,32 m - Bredd: 1,86 m - Båtens cirkavikt: 230 kg - Max antal personer: 5 personer - Max rekommenderad motorstorlek: upp till ca 25 hk - CE-kategori: C - Djupgående: Specificerat i originalmanualer som max djupgående ca 0,40 m Årsmodell: 2018 · Typ: Båt · Ort: Varberg</description>
-      <url>https://frivio.se/auktion/563</url>
-      <g:link>https://frivio.se/auktion/563</g:link>
-      <image>
-        <url>https://backend.frivio.se/vehicle/563/a1780314238289.jpeg</url>
-        <tag>Exterior</tag>
-      </image>
-      <g:image_link>https://backend.frivio.se/vehicle/563/a1780314238289.jpeg</g:image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/563/b1780314238586.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/563/c1780314236876.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/563/d1780314237190.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/563/e1780314237451.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/563/f1780314237942.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/563/g1780314236296.jpeg</g:additional_image_link>
-      <make>Ryds</make>
-      <model>Ryds 438F</model>
-      <year>2018</year>
-      <mileage>
-        <value>0</value>
-        <unit>KM</unit>
-      </mileage>
-      <price>35000 SEK</price>
-      <g:price>35000 SEK</g:price>
-      <address>Varberg</address>
-      <address format="simple">
-        <component name="addr1">Varberg</component>
-        <component name="city">Varberg</component>
-        <component name="region">Halland</component>
-        <component name="country">SE</component>
-      </address>
-      <condition>EXCELLENT</condition>
-      <state_of_vehicle>NEW</state_of_vehicle>
-      <frivio:listing_type>auction</frivio:listing_type>
-      <frivio:auction_end_date>2026-06-14T14:43:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>35000 SEK</frivio:current_bid>
-      <frivio:bid_count>1</frivio:bid_count>
-      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>554 kr/mån</frivio:monthly_cost>
-      <body_style>OTHER</body_style>
-      <frivio:body_type_label>Båt</frivio:body_type_label>
-      <fuel_type>NONE</fuel_type>
-      <frivio:region>Halland</frivio:region>
-      <availability>AVAILABLE</availability>
-      <custom_label_0>Båt</custom_label_0>
-      <custom_label_1>Slutar 2026-06-14 14:43</custom_label_1>
-    </item>
-    <item>
-      <vehicle_id>565</vehicle_id>
-      <g:id>565</g:id>
-      <title>Cremo 490SC</title>
-      <description>Ny Cremo 490SC från 2022 är en genomtänkt styrpulpet som sticker ut med sin bredd och ovanligt stora innervolym i klassen. Den smarta layouten gör det enkelt att röra sig ombord, samtidigt som den breda fören underlättar vid ombordstigning och lastning. Med plats för upp till sex personer och stabil gång i vattnet är det här en båt som kombinerar komfort, funktion och trygghet på ett väldigt balanserat sätt. - Dynor - Mjukt golv - GPS 7&quot; Årsmodell: 2022 · Typ: Båt · Ort: Varberg</description>
-      <url>https://frivio.se/auktion/565</url>
-      <g:link>https://frivio.se/auktion/565</g:link>
-      <image>
-        <url>https://backend.frivio.se/vehicle/565/a1780314508880.jpeg</url>
-        <tag>Exterior</tag>
-      </image>
-      <g:image_link>https://backend.frivio.se/vehicle/565/a1780314508880.jpeg</g:image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/565/b1780314508370.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/565/c1780314508752.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/565/d1780314509178.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/565/e1780314508587.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/565/f1780314509020.jpeg</g:additional_image_link>
-      <make>Cremo</make>
-      <model>Cremo 490SC</model>
-      <year>2022</year>
-      <mileage>
-        <value>0</value>
-        <unit>KM</unit>
-      </mileage>
-      <price>39500 SEK</price>
-      <g:price>39500 SEK</g:price>
-      <address>Varberg</address>
-      <address format="simple">
-        <component name="addr1">Varberg</component>
-        <component name="city">Varberg</component>
-        <component name="region">Halland</component>
-        <component name="country">SE</component>
-      </address>
-      <condition>EXCELLENT</condition>
-      <state_of_vehicle>NEW</state_of_vehicle>
-      <frivio:listing_type>auction</frivio:listing_type>
-      <frivio:auction_end_date>2026-06-14T14:47:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>39500 SEK</frivio:current_bid>
-      <frivio:bid_count>0</frivio:bid_count>
-      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
-      <frivio:monthly_cost>625 kr/mån</frivio:monthly_cost>
-      <body_style>OTHER</body_style>
-      <frivio:body_type_label>Båt</frivio:body_type_label>
-      <fuel_type>NONE</fuel_type>
-      <frivio:region>Halland</frivio:region>
-      <availability>AVAILABLE</availability>
-      <custom_label_0>Båt</custom_label_0>
-      <custom_label_1>Slutar 2026-06-14 14:47</custom_label_1>
-    </item>
+    <lastBuildDate>Sun, 14 Jun 2026 15:11:06 GMT</lastBuildDate>
     <item>
       <vehicle_id>566</vehicle_id>
       <g:id>566</g:id>
@@ -1354,7 +1253,7 @@
       <transmission>AUTOMATIC</transmission>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-06-21T15:05:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
       <frivio:current_bid>550000 SEK</frivio:current_bid>
       <frivio:bid_count>6</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
