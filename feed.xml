@@ -4,7 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Tue, 16 Jun 2026 05:20:22 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 11:27:35 GMT</lastBuildDate>
     <item>
       <vehicle_id>580</vehicle_id>
       <g:id>580</g:id>
@@ -459,8 +459,8 @@
         <value>99000</value>
         <unit>KM</unit>
       </mileage>
-      <price>142000 SEK</price>
-      <g:price>142000 SEK</g:price>
+      <price>143000 SEK</price>
+      <g:price>143000 SEK</g:price>
       <address>Stockholm</address>
       <address format="simple">
         <component name="addr1">Stockholm</component>
@@ -474,10 +474,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-06-17T16:34:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>142000 SEK</frivio:current_bid>
-      <frivio:bid_count>4</frivio:bid_count>
+      <frivio:current_bid>143000 SEK</frivio:current_bid>
+      <frivio:bid_count>5</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>2247 kr/mån</frivio:monthly_cost>
+      <frivio:monthly_cost>2263 kr/mån</frivio:monthly_cost>
       <body_style>VAN</body_style>
       <frivio:body_type_label>Husbil</frivio:body_type_label>
       <fuel_type>DIESEL</fuel_type>
@@ -996,8 +996,8 @@
         <value>84000</value>
         <unit>KM</unit>
       </mileage>
-      <price>230000 SEK</price>
-      <g:price>230000 SEK</g:price>
+      <price>270000 SEK</price>
+      <g:price>270000 SEK</g:price>
       <address>Karlsborg</address>
       <address format="simple">
         <component name="addr1">Karlsborg</component>
@@ -1011,10 +1011,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-06-23T16:47:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>230000 SEK</frivio:current_bid>
-      <frivio:bid_count>10</frivio:bid_count>
+      <frivio:current_bid>270000 SEK</frivio:current_bid>
+      <frivio:bid_count>17</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>3639 kr/mån</frivio:monthly_cost>
+      <frivio:monthly_cost>4272 kr/mån</frivio:monthly_cost>
       <body_style>VAN</body_style>
       <frivio:body_type_label>Husbil</frivio:body_type_label>
       <fuel_type>DIESEL</fuel_type>
@@ -1514,6 +1514,59 @@
       <custom_label_1>Slutar 2026-06-30 14:36</custom_label_1>
     </item>
     <item>
+      <vehicle_id>604</vehicle_id>
+      <g:id>604</g:id>
+      <title>Winga 25</title>
+      <description>Winga 25 från 1980 är en klassisk och välbyggd motorseglare som kombinerar trygg sjöduglighet med praktiska utrymmen för bekväma turer. Ombord finns en rymlig salong, pentry, sovplatser och toalett, vilket gör båten väl lämpad för både dagsturer och längre vistelser. Båten är utrustad med en motor från 2023 som går fint och ger en trygg drift. En omhändertagen båt i bruksskick där allt fungerar som det ska och redo för nya äventyr på sjön. - Ny motor köpt 2023 som går fint. - Gångtid 342 timmar - Dieselvärmare - Omformare 12V-230V - Gasolkök - Kyl med frysfack - Solpaneler 2st - Stereo - Nyare kapell - Plotter - Pottapotti - Segel - Båtvagn - Fendrar &amp; förtöjningslinor (begagnade och nya) - Plus lite andra tillbehör Årsmodell: 1980 · Typ: Båt · Ort: Kalmar</description>
+      <url>https://frivio.se/auktion/604</url>
+      <g:link>https://frivio.se/auktion/604</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/604/a1781597063851.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/604/a1781597063851.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/604/b1781597064197.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/604/c1781597064041.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/604/d1781597064455.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/604/e1781597064332.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/604/f1781597064574.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/604/g1781597064695.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/604/h1781597064950.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/604/i1781597064822.jpeg</g:additional_image_link>
+      <make>Winga</make>
+      <model>Winga 25</model>
+      <year>1980</year>
+      <mileage>
+        <value>0</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>20000 SEK</price>
+      <g:price>20000 SEK</g:price>
+      <address>Kalmar</address>
+      <address format="simple">
+        <component name="addr1">Kalmar</component>
+        <component name="city">Kalmar</component>
+        <component name="region">Kalmar</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <frivio:listing_type>auction</frivio:listing_type>
+      <frivio:auction_end_date>2026-06-30T14:59:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>20000 SEK</frivio:current_bid>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
+      <frivio:monthly_cost>316 kr/mån</frivio:monthly_cost>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Båt</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
+      <frivio:region>Kalmar</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Båt</custom_label_0>
+      <custom_label_1>Slutar 2026-06-30 14:59</custom_label_1>
+    </item>
+    <item>
       <vehicle_id>590</vehicle_id>
       <g:id>590</g:id>
       <title>Royal Regal 250XL</title>
@@ -1775,6 +1828,58 @@
       <availability>AVAILABLE</availability>
       <custom_label_0>Båt</custom_label_0>
       <custom_label_1>Slutar 2026-07-01 16:09</custom_label_1>
+    </item>
+    <item>
+      <vehicle_id>603</vehicle_id>
+      <g:id>603</g:id>
+      <title>Kabe Ametist GLE</title>
+      <description>Kabe Ametist GLE från 2000 är en välplanerad husvagn med klassisk Kabe-känsla och hög komfort året runt. Den rymliga sittgruppen framtill bjuder in till trevliga middagar och avkopplande kvällar, medan de separata långbäddarna i bak ger en bekväm och avskild sovdel. Det funktionella köket erbjuder generösa arbetsytor och gott om förvaring. En hemtrevlig och lättanvänd vagn som passar dig som uppskattar kvalitet och smarta lösningar. - Besiktad till 2028-05-31 - Förtält med carbonpinnar - Däck endast gått 150 mil Årsmodell: 2000 · Typ: Husvagn · Ort: Finspång</description>
+      <url>https://frivio.se/auktion/603</url>
+      <g:link>https://frivio.se/auktion/603</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/603/a1781595976560.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/603/a1781595976560.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/603/b1781595977129.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/603/c1781595977375.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/603/d1781595977258.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/603/e1781595977009.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/603/f1781595976891.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/603/g1781595976775.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/603/h1781595977491.jpeg</g:additional_image_link>
+      <make>Kabe</make>
+      <model>Ametist GLE</model>
+      <year>2000</year>
+      <mileage>
+        <value>0</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>35500 SEK</price>
+      <g:price>35500 SEK</g:price>
+      <address>Finspång</address>
+      <address format="simple">
+        <component name="addr1">Finspång</component>
+        <component name="city">Finspång</component>
+        <component name="region">Östergötland</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <frivio:listing_type>auction</frivio:listing_type>
+      <frivio:auction_end_date>2026-07-02T15:43:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>35500 SEK</frivio:current_bid>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
+      <frivio:monthly_cost>562 kr/mån</frivio:monthly_cost>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Husvagn</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
+      <frivio:region>Östergötland</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Husvagn</custom_label_0>
+      <custom_label_1>Slutar 2026-07-02 15:43</custom_label_1>
     </item>
     <item>
       <vehicle_id>597</vehicle_id>
