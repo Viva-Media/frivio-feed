@@ -4,273 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Wed, 17 Jun 2026 13:53:46 GMT</lastBuildDate>
-    <item>
-      <vehicle_id>581</vehicle_id>
-      <g:id>581</g:id>
-      <title>Windy 24 MC</title>
-      <description>Windy 24 MC är en klassisk norsk kvalitetsbåt från 1981, känd för sin robusta konstruktion, goda sjöegenskaper och välplanerade layout. Båten är utrustad med en Volvo Penta 260 AQ med AQ280-drev som ger pålitlig drift och fina prestanda på vattnet. För bästa grepp och drivkraft medföljer två uppsättningar duoprop-propellrar. Den rymliga midcabin-lösningen erbjuder bekväma övernattningsmöjligheter och gör båten väl lämpad för både dagsutflykter och längre turer. - V8 Chevablock på 275hk. - Sötvattenkylning - Ca 30 gångtimmar senaste 10 åren - Drev ompackat med nya bälgar 2024 - Nya begagnade avgaslimpor 2025 - 3st nya batterier 2026 - Ny toalett 2026 - El-ankarspel - Kapell 6 år - tvättat med nya sömmar och nytt fönster 2026 Årsmodell: 1981 · Typ: Båt · Ort: Stockholm</description>
-      <url>https://frivio.se/auktion/581</url>
-      <g:link>https://frivio.se/auktion/581</g:link>
-      <image>
-        <url>https://backend.frivio.se/vehicle/581/b1780486930532.jpeg</url>
-        <tag>Exterior</tag>
-      </image>
-      <g:image_link>https://backend.frivio.se/vehicle/581/b1780486930532.jpeg</g:image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/581/c1780486930679.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/581/d1780486930833.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/581/e1780486930985.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/581/f1780486931114.jpeg</g:additional_image_link>
-      <make>Windy</make>
-      <model>Windy 24 MC</model>
-      <year>1981</year>
-      <mileage>
-        <value>0</value>
-        <unit>KM</unit>
-      </mileage>
-      <price>49500 SEK</price>
-      <g:price>49500 SEK</g:price>
-      <address>Stockholm</address>
-      <address format="simple">
-        <component name="addr1">Stockholm</component>
-        <component name="city">Stockholm</component>
-        <component name="region">Stockholm</component>
-        <component name="country">SE</component>
-      </address>
-      <condition>GOOD</condition>
-      <state_of_vehicle>USED</state_of_vehicle>
-      <frivio:listing_type>auction</frivio:listing_type>
-      <frivio:auction_end_date>2026-06-17T14:38:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>49500 SEK</frivio:current_bid>
-      <frivio:bid_count>1</frivio:bid_count>
-      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>783 kr/mån</frivio:monthly_cost>
-      <body_style>OTHER</body_style>
-      <frivio:body_type_label>Båt</frivio:body_type_label>
-      <fuel_type>NONE</fuel_type>
-      <frivio:region>Stockholm</frivio:region>
-      <availability>AVAILABLE</availability>
-      <custom_label_0>Båt</custom_label_0>
-      <custom_label_1>Slutar 2026-06-17 14:38</custom_label_1>
-    </item>
-    <item>
-      <vehicle_id>593</vehicle_id>
-      <g:id>593</g:id>
-      <title>Hobby 560 KMFE Excellent</title>
-      <description>Hobby 560 KMFE Excellent från 2022. En fin barnkammarvagn som är uttagen hösten 2022 och endast använd ett fåtal nätter. Ljus och rymlig interiör med gott om plats samt 6st sovplatser. En resklar vagn i mycket gott skick. - Dometic AC (Kyla.-värme-avfuktning) - Formsydda golvmattor - El &amp; Tv-uttag på tältsidan - USB-laddningsuttag + 1st vid varje barnsäng - Bluetooth där du kan styra AC, värme, belysning m.m. direkt från telefonen - Fukt och gasoltest UA gjort 2025 Årsmodell: 2022 · Typ: Husvagn · Ort: Kalmar</description>
-      <url>https://frivio.se/auktion/593</url>
-      <g:link>https://frivio.se/auktion/593</g:link>
-      <image>
-        <url>https://backend.frivio.se/vehicle/593/a1781099828259.jpeg</url>
-        <tag>Exterior</tag>
-      </image>
-      <g:image_link>https://backend.frivio.se/vehicle/593/a1781099828259.jpeg</g:image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/593/b1781099828641.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/593/c1781099828388.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/593/d1781099828505.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/593/e1781099827579.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/593/f1781099827904.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/593/g1781099827768.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/593/h1781099828025.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/593/i1781099828144.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/593/j1781099828773.jpeg</g:additional_image_link>
-      <make>Hobby</make>
-      <model>560 KMFE Excellent</model>
-      <year>2022</year>
-      <mileage>
-        <value>0</value>
-        <unit>KM</unit>
-      </mileage>
-      <price>230000 SEK</price>
-      <g:price>230000 SEK</g:price>
-      <address>Kalmar</address>
-      <address format="simple">
-        <component name="addr1">Kalmar</component>
-        <component name="city">Kalmar</component>
-        <component name="region">Kalmar</component>
-        <component name="country">SE</component>
-      </address>
-      <condition>GOOD</condition>
-      <state_of_vehicle>USED</state_of_vehicle>
-      <frivio:listing_type>auction</frivio:listing_type>
-      <frivio:auction_end_date>2026-06-17T14:44:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>230000 SEK</frivio:current_bid>
-      <frivio:bid_count>4</frivio:bid_count>
-      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>3639 kr/mån</frivio:monthly_cost>
-      <body_style>OTHER</body_style>
-      <frivio:body_type_label>Husvagn</frivio:body_type_label>
-      <fuel_type>NONE</fuel_type>
-      <frivio:region>Kalmar</frivio:region>
-      <availability>AVAILABLE</availability>
-      <custom_label_0>Husvagn</custom_label_0>
-      <custom_label_1>Slutar 2026-06-17 14:44</custom_label_1>
-    </item>
-    <item>
-      <vehicle_id>561</vehicle_id>
-      <g:id>561</g:id>
-      <title>Dethleffs I7870</title>
-      <description>Rymlig och välutrustad Dethleffs I7870 från 2008 – en helintegrerad husbil med hög komfort och smart planlösning. Utrustad med 6-växlad manuell växellåda och godkänd för 6 personer (förare + 5 passagerare). Sovplatser för 4–6 med dubbelsäng bak, taksäng ovanför förarplatsen samt bäddbar dinette. Perfekt för både kortare resor och längre äventyr med familj eller vänner. Utrustning och komfort: - 2 bodelsbatterier - Plats för dubbla gasoltuber - Elhiss förarsida - Servostyrning - Farthållare - Stort garage - Markis Omnistor - Al-ko chassi - Fyra takluckor - Kamkjedja och 3L motor på 116kW/157hk - Mätarställning: ca 10 500 mil - Besiktad till 2026-08-31 Årsmodell: 2008 · Typ: Husbil · Drivmedel: Diesel · Växellåda: Manuell · Mätarställning: 11 000 mil · Ort: Ronneby</description>
-      <url>https://frivio.se/auktion/561</url>
-      <g:link>https://frivio.se/auktion/561</g:link>
-      <image>
-        <url>https://backend.frivio.se/vehicle/561/a1780303155545.jpeg</url>
-        <tag>Exterior</tag>
-      </image>
-      <g:image_link>https://backend.frivio.se/vehicle/561/a1780303155545.jpeg</g:image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/561/b1780303156889.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/561/c1780303157230.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/561/d1780303155726.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/561/e1780303156555.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/561/f1780303155352.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/561/g1780303157955.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/561/h1780303157630.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/561/i1780303157775.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/561/j1780303158254.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/561/k1780303158962.jpeg</g:additional_image_link>
-      <make>Dethleffs</make>
-      <model>I7870</model>
-      <year>2008</year>
-      <mileage>
-        <value>110000</value>
-        <unit>KM</unit>
-      </mileage>
-      <price>280000 SEK</price>
-      <g:price>280000 SEK</g:price>
-      <address>Ronneby</address>
-      <address format="simple">
-        <component name="addr1">Ronneby</component>
-        <component name="city">Ronneby</component>
-        <component name="region">Blekinge</component>
-        <component name="country">SE</component>
-      </address>
-      <condition>GOOD</condition>
-      <state_of_vehicle>USED</state_of_vehicle>
-      <transmission>MANUAL</transmission>
-      <frivio:listing_type>auction</frivio:listing_type>
-      <frivio:auction_end_date>2026-06-17T15:38:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>280000 SEK</frivio:current_bid>
-      <frivio:bid_count>11</frivio:bid_count>
-      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>4430 kr/mån</frivio:monthly_cost>
-      <body_style>VAN</body_style>
-      <frivio:body_type_label>Husbil</frivio:body_type_label>
-      <fuel_type>DIESEL</fuel_type>
-      <frivio:region>Blekinge</frivio:region>
-      <availability>AVAILABLE</availability>
-      <custom_label_0>Husbil</custom_label_0>
-      <custom_label_1>Slutar 2026-06-17 15:38</custom_label_1>
-    </item>
-    <item>
-      <vehicle_id>578</vehicle_id>
-      <g:id>578</g:id>
-      <title>Flipper 630 OC</title>
-      <description>Flipper 630 OC från 2011 är en välplanerad och lättkörd kabinbåt som passar perfekt för både dagsutflykter och längre turer i skärgården. Båten är utrustad med en stark och driftsäker Mercury 150 hk från 2021 som ger fina köregenskaper och god bränsleekonomi. Under vinterhalvåret har båten förvarats inomhus och samtidigt servats löpande. Den rymliga sittbrunnen, smarta planlösningen och det välvårdade skicket gör detta till en mycket attraktiv båt för nästa ägare. En mycket välskött båt. - All dokumentation finns - Alla manualer finns - Kapell tvättat och impregnerat 2025 - Nytt startbatteri 125AH lithium 2025 - 2st nya batterier 2025 - Ny ankarlina i ankarpelet 2025 - Ny plotter Garmin 9&quot; med sjökort 2024 - Spis med värmelock, kylbox samt dricksvattenkran - Bluetooth-stereo med högtalare - Landström - Badstege för och akter - Aktersoffan kan bli matplats med bord eller soldäck Årsmodell: 2011 · Typ: Båt · Ort: Lidingö</description>
-      <url>https://frivio.se/auktion/578</url>
-      <g:link>https://frivio.se/auktion/578</g:link>
-      <image>
-        <url>https://backend.frivio.se/vehicle/578/a1780470717229.jpeg</url>
-        <tag>Exterior</tag>
-      </image>
-      <g:image_link>https://backend.frivio.se/vehicle/578/a1780470717229.jpeg</g:image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/578/b1780470717450.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/578/c1780470717617.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/578/d1780470717760.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/578/e1780470717879.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/578/f1780470718029.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/578/g1780470718192.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/578/h1780470718353.jpeg</g:additional_image_link>
-      <make>Flipper</make>
-      <model>Flipper 630 OC</model>
-      <year>2011</year>
-      <mileage>
-        <value>0</value>
-        <unit>KM</unit>
-      </mileage>
-      <price>230000 SEK</price>
-      <g:price>230000 SEK</g:price>
-      <address>Lidingö</address>
-      <address format="simple">
-        <component name="addr1">Lidingö</component>
-        <component name="city">Lidingö</component>
-        <component name="region">Stockholm</component>
-        <component name="country">SE</component>
-      </address>
-      <condition>GOOD</condition>
-      <state_of_vehicle>USED</state_of_vehicle>
-      <frivio:listing_type>auction</frivio:listing_type>
-      <frivio:auction_end_date>2026-06-17T16:08:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>230000 SEK</frivio:current_bid>
-      <frivio:bid_count>17</frivio:bid_count>
-      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>3639 kr/mån</frivio:monthly_cost>
-      <body_style>OTHER</body_style>
-      <frivio:body_type_label>Båt</frivio:body_type_label>
-      <fuel_type>NONE</fuel_type>
-      <frivio:region>Stockholm</frivio:region>
-      <availability>AVAILABLE</availability>
-      <custom_label_0>Båt</custom_label_0>
-      <custom_label_1>Slutar 2026-06-17 16:08</custom_label_1>
-    </item>
-    <item>
-      <vehicle_id>572</vehicle_id>
-      <g:id>572</g:id>
-      <title>Dethleffs ST-6249</title>
-      <description>Fin Dethleffs ST-6249 från 2006. Utrustad med solcell och Victron-system vilket gör den till en ultimat husbil för fricampare. Rymlig planlösning med bekväm sittgrupp, praktiskt kök, toalett och franskbädd bak. Gott om förvaringsutrymmen och en trivsam interiör med välbevarat skick. Markis för sköna dagar utomhus. En pålitlig och lättkörd husbil som passar lika bra för weekendresor som längre semestrar. - Fukttest utförs innan leverans - Nyservad i maj 2026 - Kamrem bytt 2020 vid 7500mil - GPS Årsmodell: 2006 · Typ: Husbil · Drivmedel: Diesel · Växellåda: Manuell · Mätarställning: 9 900 mil · Ort: Stockholm</description>
-      <url>https://frivio.se/auktion/572</url>
-      <g:link>https://frivio.se/auktion/572</g:link>
-      <image>
-        <url>https://backend.frivio.se/vehicle/572/b1780390256802.jpeg</url>
-        <tag>Exterior</tag>
-      </image>
-      <g:image_link>https://backend.frivio.se/vehicle/572/b1780390256802.jpeg</g:image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/572/c1780390257035.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/572/d1780390257380.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/572/e1780390255987.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/572/f1780390256148.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/572/g1780390256283.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/572/h1780390256397.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/572/i1780390256522.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/572/j1780390256651.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/572/k1780390257238.jpeg</g:additional_image_link>
-      <make>Dethleffs</make>
-      <model>ST-6249</model>
-      <year>2006</year>
-      <mileage>
-        <value>99000</value>
-        <unit>KM</unit>
-      </mileage>
-      <price>143000 SEK</price>
-      <g:price>143000 SEK</g:price>
-      <address>Stockholm</address>
-      <address format="simple">
-        <component name="addr1">Stockholm</component>
-        <component name="city">Stockholm</component>
-        <component name="region">Stockholm</component>
-        <component name="country">SE</component>
-      </address>
-      <condition>GOOD</condition>
-      <state_of_vehicle>USED</state_of_vehicle>
-      <transmission>MANUAL</transmission>
-      <frivio:listing_type>auction</frivio:listing_type>
-      <frivio:auction_end_date>2026-06-17T16:34:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>143000 SEK</frivio:current_bid>
-      <frivio:bid_count>5</frivio:bid_count>
-      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>2263 kr/mån</frivio:monthly_cost>
-      <body_style>VAN</body_style>
-      <frivio:body_type_label>Husbil</frivio:body_type_label>
-      <fuel_type>DIESEL</fuel_type>
-      <frivio:region>Stockholm</frivio:region>
-      <availability>AVAILABLE</availability>
-      <custom_label_0>Husbil</custom_label_0>
-      <custom_label_1>Slutar 2026-06-17 16:34</custom_label_1>
-    </item>
+    <lastBuildDate>Wed, 17 Jun 2026 17:13:03 GMT</lastBuildDate>
     <item>
       <vehicle_id>575</vehicle_id>
       <g:id>575</g:id>
@@ -299,8 +33,8 @@
         <value>0</value>
         <unit>KM</unit>
       </mileage>
-      <price>125000 SEK</price>
-      <g:price>125000 SEK</g:price>
+      <price>126000 SEK</price>
+      <g:price>126000 SEK</g:price>
       <address>Simrishamn</address>
       <address format="simple">
         <component name="addr1">Simrishamn</component>
@@ -313,10 +47,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-06-17T17:27:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>125000 SEK</frivio:current_bid>
-      <frivio:bid_count>0</frivio:bid_count>
-      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
-      <frivio:monthly_cost>1978 kr/mån</frivio:monthly_cost>
+      <frivio:current_bid>126000 SEK</frivio:current_bid>
+      <frivio:bid_count>1</frivio:bid_count>
+      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
+      <frivio:monthly_cost>1994 kr/mån</frivio:monthly_cost>
       <body_style>OTHER</body_style>
       <frivio:body_type_label>Båt</frivio:body_type_label>
       <fuel_type>NONE</fuel_type>
@@ -904,7 +638,7 @@
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-06-24T15:11:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
       <frivio:current_bid>53000 SEK</frivio:current_bid>
       <frivio:bid_count>1</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
@@ -958,7 +692,7 @@
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-06-24T17:00:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
       <frivio:current_bid>85000 SEK</frivio:current_bid>
       <frivio:bid_count>3</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
@@ -1510,6 +1244,53 @@
       <custom_label_1>Slutar 2026-06-30 16:00</custom_label_1>
     </item>
     <item>
+      <vehicle_id>595</vehicle_id>
+      <g:id>595</g:id>
+      <title>Uttern 5001</title>
+      <description>Uttern 5001 är en lättkörd och praktisk styrpulpetbåt som passar lika bra för fiske som bad- och utflyktsdagar. Båten är utrustad med en modern Tohatsu 50 hk från 2025, vilket ger trygg drift och fin prestanda. Rejäla räcken, gott om yta ombord och smidig storlek gör den enkel att hantera både på sjön och vid transport. - Hydralstyrning - Tohatsu 4-takt 50hk motor från 2025 - Motor körd 1 timma - 80 km/h TIKI båttrailer ingår Årsmodell: 1995 · Typ: Båt · Ort: Luleå</description>
+      <url>https://frivio.se/auktion/595</url>
+      <g:link>https://frivio.se/auktion/595</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/595/a1781101529684.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/595/a1781101529684.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/595/b1781101529877.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/595/c1781101530010.jpeg</g:additional_image_link>
+      <make>Uttern</make>
+      <model>Uttern 5001</model>
+      <year>1995</year>
+      <mileage>
+        <value>0</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>67500 SEK</price>
+      <g:price>67500 SEK</g:price>
+      <address>Luleå</address>
+      <address format="simple">
+        <component name="addr1">Luleå</component>
+        <component name="city">Luleå</component>
+        <component name="region">Norrbotten</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <frivio:listing_type>auction</frivio:listing_type>
+      <frivio:auction_end_date>2026-06-30T17:21:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>67500 SEK</frivio:current_bid>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
+      <frivio:monthly_cost>1068 kr/mån</frivio:monthly_cost>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Båt</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
+      <frivio:region>Norrbotten</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Båt</custom_label_0>
+      <custom_label_1>Slutar 2026-06-30 17:21</custom_label_1>
+    </item>
+    <item>
       <vehicle_id>555</vehicle_id>
       <g:id>555</g:id>
       <title>Knaus Sudwind 650 PEB</title>
@@ -1933,6 +1714,61 @@
       <custom_label_1>Slutar 2026-07-05 17:53</custom_label_1>
     </item>
     <item>
+      <vehicle_id>615</vehicle_id>
+      <g:id>615</g:id>
+      <title>Knaus Scandinavian 590 UK</title>
+      <description>Knaus Scandinavian Selection 590 UK från 2023 är en exklusiv och obetydligt använd barnkammarvagn med smart planlösning för hela familjen. Här finns en rymlig sittgrupp fram, välutrustat kök, bekväm dubbelsäng och praktiska våningssängar i separat barnavdelning. Den moderna interiören, generösa förvaringen och höga utrustningsnivån skapar maximal komfort för både korta utflykter och långa semestrar året runt med förstklassig kvalitet och genomtänkta detaljer för bekymmersfria campingäventyr tillsammans under alla årets säsonger. - Besiktad till 2027-11-30 - Inaca Fjord 300W 1025XL förtält - Fukt och gasoltest utfört 2026-06-04 UA Årsmodell: 2023 · Typ: Husvagn · Ort: Umeå</description>
+      <url>https://frivio.se/auktion/615</url>
+      <g:link>https://frivio.se/auktion/615</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/615/a1781697955259.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/615/a1781697955259.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/615/b1781697955070.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/615/c1781697955389.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/615/d1781697955571.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/615/e1781697955807.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/615/f1781697955696.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/615/g1781697955925.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/615/h1781697956034.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/615/i1781697956166.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/615/j1781697956280.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/615/k1781697956395.jpeg</g:additional_image_link>
+      <make>Knaus</make>
+      <model>Scandinavian 590 UK</model>
+      <year>2023</year>
+      <mileage>
+        <value>0</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>200000 SEK</price>
+      <g:price>200000 SEK</g:price>
+      <address>Umeå</address>
+      <address format="simple">
+        <component name="addr1">Umeå</component>
+        <component name="city">Umeå</component>
+        <component name="region">Västerbotten</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <frivio:listing_type>auction</frivio:listing_type>
+      <frivio:auction_end_date>2026-07-06T15:02:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>200000 SEK</frivio:current_bid>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
+      <frivio:monthly_cost>3164 kr/mån</frivio:monthly_cost>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Husvagn</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
+      <frivio:region>Västerbotten</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Husvagn</custom_label_0>
+      <custom_label_1>Slutar 2026-07-06 15:02</custom_label_1>
+    </item>
+    <item>
       <vehicle_id>607</vehicle_id>
       <g:id>607</g:id>
       <title>Yamarin DC46</title>
@@ -2029,6 +1865,213 @@
       <availability>AVAILABLE</availability>
       <custom_label_0>Båt</custom_label_0>
       <custom_label_1>Slutar 2026-07-07 15:50</custom_label_1>
+    </item>
+    <item>
+      <vehicle_id>616</vehicle_id>
+      <g:id>616</g:id>
+      <title>Nimbus Nova 22 WA</title>
+      <description>Välvårdad Nimbus Nova 22 WA från 1996 - en klassisk walkaround med tidlös design och fina sjöegenskaper. Båten erbjuder generösa däcksytor, skyddande kapell, badplattform med badstege samt lättillgängliga gångbord runt hela båten. Perfekt för dagsutflykter, fiske och skärgårdsliv. Utrustad med driftsäker motor. En charmig och praktisk båt redo för nya äventyr på sjön med familj och vänner under både lugna helgturer och längre sommarutflykter längs kusten tillsammans. - VP 31-AD 150hk diesel - DP290 Drev - Ny turbo, avgasknä och impellerhus 2025 - Trailer på bild ingår Årsmodell: 1996 · Typ: Båt · Ort: Göteborg</description>
+      <url>https://frivio.se/auktion/616</url>
+      <g:link>https://frivio.se/auktion/616</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/616/a1781698811936.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/616/a1781698811936.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/616/b1781698812123.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/616/c1781698812290.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/616/d1781698812452.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/616/e1781698812599.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/616/f1781698812900.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/616/g1781698812739.jpeg</g:additional_image_link>
+      <make>Nimbus</make>
+      <model>Nimbus Nova 22 WA</model>
+      <year>1996</year>
+      <mileage>
+        <value>0</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>125000 SEK</price>
+      <g:price>125000 SEK</g:price>
+      <address>Göteborg</address>
+      <address format="simple">
+        <component name="addr1">Göteborg</component>
+        <component name="city">Göteborg</component>
+        <component name="region">Västra Götaland</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <frivio:listing_type>auction</frivio:listing_type>
+      <frivio:auction_end_date>2026-07-07T16:14:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>125000 SEK</frivio:current_bid>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
+      <frivio:monthly_cost>1978 kr/mån</frivio:monthly_cost>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Båt</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
+      <frivio:region>Västra Götaland</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Båt</custom_label_0>
+      <custom_label_1>Slutar 2026-07-07 16:14</custom_label_1>
+    </item>
+    <item>
+      <vehicle_id>606</vehicle_id>
+      <g:id>606</g:id>
+      <title>Tailwind 36</title>
+      <description>Tailwind 36 är en välseglande och rymlig cruiser med klassiska linjer, hög komfort och gediget hantverk. Denna båt sjösattes första gången 2005 och erbjuder en trivsam interiör i varm träinredning med generösa sociala ytor, välutrustat pentry och flera bekväma sovplatser. Ombord finns gott om förvaring, separat navigationsplats och en rymlig sittbrunn för långa dagar till sjöss. Båten är väl omhändertagen och har normalt bruksslitage utifrån ålder och användning. Ett utmärkt val för både familjesegling och längre semestrar. Båten är byggd för segling på alla hav, försedd med monitor, vindrofer och extra isolering. - Motorn är en BMW 35 hkr från 90-talet och få gångtimmar - Servad årligen och senast i år - Båten är sjösatt Årsmodell: 2005 · Typ: Båt · Ort: Stockholm</description>
+      <url>https://frivio.se/auktion/606</url>
+      <g:link>https://frivio.se/auktion/606</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/606/a1781609004851.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/606/a1781609004851.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/606/b1781609005313.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/606/c1781609005170.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/606/d1781609005040.jpeg</g:additional_image_link>
+      <make>Tailwind</make>
+      <model>Tailwind 36</model>
+      <year>2005</year>
+      <mileage>
+        <value>0</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>100000 SEK</price>
+      <g:price>100000 SEK</g:price>
+      <address>Stockholm</address>
+      <address format="simple">
+        <component name="addr1">Stockholm</component>
+        <component name="city">Stockholm</component>
+        <component name="region">Stockholm</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <frivio:listing_type>auction</frivio:listing_type>
+      <frivio:auction_end_date>2026-07-07T17:16:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>100000 SEK</frivio:current_bid>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
+      <frivio:monthly_cost>1582 kr/mån</frivio:monthly_cost>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Båt</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
+      <frivio:region>Stockholm</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Båt</custom_label_0>
+      <custom_label_1>Slutar 2026-07-07 17:16</custom_label_1>
+    </item>
+    <item>
+      <vehicle_id>620</vehicle_id>
+      <g:id>620</g:id>
+      <title>Crescent 455</title>
+      <description>Charmig segelbåt som de senaste åren förvarats på land. Båten säljs komplett med segel, åror och övrig utrustning samt en Johnson 6 hk tvåtaktsmotor med separat bränsletank. Upptagningskärra ingår för smidig transport och vinterförvaring. Varken båt eller motor har använts de senaste åtta åren, men vid senaste användningstillfället fungerade allt som det ska. Ett prisvärt projekt för nästa ägare med potential för många fina dagar på sjön framöver och semestrar. Årsmodell: 1980 · Typ: Båt · Ort: Nässjö</description>
+      <url>https://frivio.se/auktion/620</url>
+      <g:link>https://frivio.se/auktion/620</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/620/a1781706808938.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/620/a1781706808938.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/620/b1781706809083.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/620/c1781706809222.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/620/d1781706808498.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/620/e1781706808633.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/620/f1781706808837.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/620/g1781706808734.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/620/h1781706808324.jpeg</g:additional_image_link>
+      <make>Crescent</make>
+      <model>Crescent 455</model>
+      <year>1980</year>
+      <mileage>
+        <value>0</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>6000 SEK</price>
+      <g:price>6000 SEK</g:price>
+      <address>Nässjö</address>
+      <address format="simple">
+        <component name="addr1">Nässjö</component>
+        <component name="city">Nässjö</component>
+        <component name="region">Jönköping</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <frivio:listing_type>auction</frivio:listing_type>
+      <frivio:auction_end_date>2026-07-08T14:32:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>6000 SEK</frivio:current_bid>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
+      <frivio:monthly_cost>95 kr/mån</frivio:monthly_cost>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Båt</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
+      <frivio:region>Jönköping</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Båt</custom_label_0>
+      <custom_label_1>Slutar 2026-07-08 14:32</custom_label_1>
+    </item>
+    <item>
+      <vehicle_id>618</vehicle_id>
+      <g:id>618</g:id>
+      <title>Bürstner IXEO 728G</title>
+      <description>Välutrustad Bürstner Ixeo 728 G från 2018 som kombinerar smart planlösning med hög komfort för hela familjen. Husbilen erbjuder praktisk taksäng, bekväma långbäddar, trivsam sittgrupp och välutrustat kök med generösa förvaringsutrymmen. Den smidiga storleken tillsammans med genomtänkta detaljer skapar ett lättkört och bekvämt semesterboende. Perfekt för långa resor, spontana helger och minnesvärda äventyr året runt med modern design och flexibla sovplatser för upp till fem personer med hög trivselfaktor överallt. - Besiktad till 2026-09-30 - Kamrem bytt 2022-05-19 vid 4400mil Årsmodell: 2018 · Typ: Husbil · Drivmedel: Diesel · Växellåda: Automatisk · Mätarställning: 7 000 mil · Ort: Säter</description>
+      <url>https://frivio.se/auktion/618</url>
+      <g:link>https://frivio.se/auktion/618</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/618/b1781703071107.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/618/b1781703071107.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/618/c1781703071815.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/618/d1781703071435.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/618/e1781703071697.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/618/f1781703071565.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/618/g1781703071324.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/618/h1781703071934.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/618/i1781703072127.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/618/j1781703072577.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/618/k1781703072766.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/618/l1781703073375.jpeg</g:additional_image_link>
+      <make>Bürstner</make>
+      <model>IXEO 728G</model>
+      <year>2018</year>
+      <mileage>
+        <value>70000</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>400000 SEK</price>
+      <g:price>400000 SEK</g:price>
+      <address>Säter</address>
+      <address format="simple">
+        <component name="addr1">Säter</component>
+        <component name="city">Säter</component>
+        <component name="region">Dalarna</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <transmission>AUTOMATIC</transmission>
+      <frivio:listing_type>auction</frivio:listing_type>
+      <frivio:auction_end_date>2026-07-08T17:30:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>400000 SEK</frivio:current_bid>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
+      <frivio:monthly_cost>6329 kr/mån</frivio:monthly_cost>
+      <body_style>VAN</body_style>
+      <frivio:body_type_label>Husbil</frivio:body_type_label>
+      <fuel_type>DIESEL</fuel_type>
+      <frivio:region>Dalarna</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Husbil</custom_label_0>
+      <custom_label_1>Slutar 2026-07-08 17:30</custom_label_1>
     </item>
     <item>
       <vehicle_id>612</vehicle_id>
