@@ -4,7 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Wed, 17 Jun 2026 09:59:20 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 13:53:46 GMT</lastBuildDate>
     <item>
       <vehicle_id>581</vehicle_id>
       <g:id>581</g:id>
@@ -137,8 +137,8 @@
         <value>110000</value>
         <unit>KM</unit>
       </mileage>
-      <price>265000 SEK</price>
-      <g:price>265000 SEK</g:price>
+      <price>280000 SEK</price>
+      <g:price>280000 SEK</g:price>
       <address>Ronneby</address>
       <address format="simple">
         <component name="addr1">Ronneby</component>
@@ -152,10 +152,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-06-17T15:38:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>265000 SEK</frivio:current_bid>
-      <frivio:bid_count>8</frivio:bid_count>
+      <frivio:current_bid>280000 SEK</frivio:current_bid>
+      <frivio:bid_count>11</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>4193 kr/mån</frivio:monthly_cost>
+      <frivio:monthly_cost>4430 kr/mån</frivio:monthly_cost>
       <body_style>VAN</body_style>
       <frivio:body_type_label>Husbil</frivio:body_type_label>
       <fuel_type>DIESEL</fuel_type>
@@ -1380,8 +1380,8 @@
         <value>0</value>
         <unit>KM</unit>
       </mileage>
-      <price>80000 SEK</price>
-      <g:price>80000 SEK</g:price>
+      <price>60000 SEK</price>
+      <g:price>60000 SEK</g:price>
       <address>Södertälje</address>
       <address format="simple">
         <component name="addr1">Södertälje</component>
@@ -1394,10 +1394,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-06-30T15:39:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>80000 SEK</frivio:current_bid>
+      <frivio:current_bid>60000 SEK</frivio:current_bid>
       <frivio:bid_count>0</frivio:bid_count>
       <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
-      <frivio:monthly_cost>1266 kr/mån</frivio:monthly_cost>
+      <frivio:monthly_cost>949 kr/mån</frivio:monthly_cost>
       <body_style>OTHER</body_style>
       <frivio:body_type_label>Båt</frivio:body_type_label>
       <fuel_type>NONE</fuel_type>
@@ -2084,6 +2084,57 @@
       <availability>AVAILABLE</availability>
       <custom_label_0>Husvagn</custom_label_0>
       <custom_label_1>Slutar 2026-07-09 16:35</custom_label_1>
+    </item>
+    <item>
+      <vehicle_id>617</vehicle_id>
+      <g:id>617</g:id>
+      <title>Kabe Royal 560 GLE KS</title>
+      <description>Välskött Kabe Royal 560 GLE KS från 2016 med genomtänkt planlösning och hög komfort året runt. Vagnen erbjuder bekväma långbäddar, rymlig u-soffa, välutrustat kök med ugn och mikro samt generösa förvaringsutrymmen. Känd för sin vinteranpassning med Alde-värme och gedigen byggkvalitet. Perfekt för paret som söker ett trivsamt och påkostat semesterboende med känsla av premium på varje resa, oavsett om destinationen är fjällen, kusten eller den egna favoritcampingen under alla säsonger. - Levereras nybesiktad - Levereras fukttestad Årsmodell: 2016 · Typ: Husvagn · Ort: Nora</description>
+      <url>https://frivio.se/auktion/617</url>
+      <g:link>https://frivio.se/auktion/617</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/617/a1781699142583.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/617/a1781699142583.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/617/b1781699142762.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/617/c1781699142907.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/617/d1781699143031.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/617/e1781699143396.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/617/f1781699143153.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/617/g1781699143278.jpeg</g:additional_image_link>
+      <make>Kabe</make>
+      <model>Royal 560 GLE KS</model>
+      <year>2016</year>
+      <mileage>
+        <value>0</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>187500 SEK</price>
+      <g:price>187500 SEK</g:price>
+      <address>Nora</address>
+      <address format="simple">
+        <component name="addr1">Nora</component>
+        <component name="city">Nora</component>
+        <component name="region">Örebro</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <frivio:listing_type>auction</frivio:listing_type>
+      <frivio:auction_end_date>2026-07-09T17:24:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>187500 SEK</frivio:current_bid>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
+      <frivio:monthly_cost>2967 kr/mån</frivio:monthly_cost>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Husvagn</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
+      <frivio:region>Örebro</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Husvagn</custom_label_0>
+      <custom_label_1>Slutar 2026-07-09 17:24</custom_label_1>
     </item>
     <item>
       <vehicle_id>576</vehicle_id>
