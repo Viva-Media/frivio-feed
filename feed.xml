@@ -4,7 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Wed, 17 Jun 2026 04:59:38 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 09:59:20 GMT</lastBuildDate>
     <item>
       <vehicle_id>581</vehicle_id>
       <g:id>581</g:id>
@@ -1878,6 +1878,61 @@
       <custom_label_1>Slutar 2026-07-05 15:02</custom_label_1>
     </item>
     <item>
+      <vehicle_id>608</vehicle_id>
+      <g:id>608</g:id>
+      <title>Cabby 700+</title>
+      <description>Cabby 700+ Barnkammarvagn från 2010 är en rymlig och välplanerad husvagn som passar perfekt för den större familjen. Den smarta planlösningen erbjuder separat barnkammare med våningssängar och egen sittgrupp, bekväm dubbelsäng för föräldrarna samt en stor och inbjudande U-soffa. Det välutrustade köket har gott om arbetsyta, stor kyl med separat frys och spis med ugn. Badrummet är rymligt och praktiskt utformat. Vagnen är väl omhändertagen med normalt slitage utifrån ålder och användning. En bekväm året-runt-vagn med hög trivselfaktor och gott om förvaring. - Besiktad till 2027-04-30 - Gasoltest utfört 2025 UA - Fukttest utfört 2026-06-01 UA - Active Trailer Control (ATC) - Gaslarm - Markis ink. väggar och front - Förtält - Ny kyl med frys 2024 - Frostskyddad färskvattentank samt spillvattentank Årsmodell: 2010 · Typ: Husvagn · Ort: Östersund</description>
+      <url>https://frivio.se/auktion/608</url>
+      <g:link>https://frivio.se/auktion/608</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/608/a1781610484573.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/608/a1781610484573.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/608/b1781610484050.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/608/c1781610484231.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/608/d1781610485151.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/608/e1781610484883.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/608/f1781610485318.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/608/g1781610484411.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/608/h1781610484755.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/608/i1781610485023.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/608/j1781610485467.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/608/k1781610485594.jpeg</g:additional_image_link>
+      <make>Cabby</make>
+      <model>700+</model>
+      <year>2010</year>
+      <mileage>
+        <value>0</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>94500 SEK</price>
+      <g:price>94500 SEK</g:price>
+      <address>Östersund</address>
+      <address format="simple">
+        <component name="addr1">Östersund</component>
+        <component name="city">Östersund</component>
+        <component name="region">Jämtland</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <frivio:listing_type>auction</frivio:listing_type>
+      <frivio:auction_end_date>2026-07-05T17:53:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>94500 SEK</frivio:current_bid>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
+      <frivio:monthly_cost>1495 kr/mån</frivio:monthly_cost>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Husvagn</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
+      <frivio:region>Jämtland</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Husvagn</custom_label_0>
+      <custom_label_1>Slutar 2026-07-05 17:53</custom_label_1>
+    </item>
+    <item>
       <vehicle_id>607</vehicle_id>
       <g:id>607</g:id>
       <title>Yamarin DC46</title>
@@ -1974,6 +2029,61 @@
       <availability>AVAILABLE</availability>
       <custom_label_0>Båt</custom_label_0>
       <custom_label_1>Slutar 2026-07-07 15:50</custom_label_1>
+    </item>
+    <item>
+      <vehicle_id>612</vehicle_id>
+      <g:id>612</g:id>
+      <title>Hobby 650 KMFE DE LUXE</title>
+      <description>Hobby 650 KMFE De Luxe från 2015 är en genomtänkt barnkammarvagn som gör det enkelt att resa tillsammans. Med en avskild barnavdelning med våningssängar, stor dubbelsäng för de vuxna och generösa sociala ytor får hela familjen plats utan att kompromissa med komforten. Det stora förtältet skapar ett extra rum för långa semesterdagar, medan smarta förvaringslösningar och välplanerad interiör gör varje campingvecka smidig och trivsam. - Sommartält: Walker 300 - Vintertält: Svenska tält universal 320 med vintersäkring - Fukt och gasoltest utfört 2026-06-15 UA - Besiktad till 2027-05-31 - Lagat märke i skåpsdörr (se bild) - Lagade sömmar soffkuddar (se bild) Årsmodell: 2015 · Typ: Husvagn · Ort: Enköping</description>
+      <url>https://frivio.se/auktion/612</url>
+      <g:link>https://frivio.se/auktion/612</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/612/a1781617218179.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/612/a1781617218179.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/612/b1781617216899.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/612/c1781617217073.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/612/d1781617217218.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/612/e1781617217738.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/612/f1781617218391.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/612/g1781617217972.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/612/h1781617217367.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/612/i1781617217479.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/612/j1781617217611.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/612/k1781617218563.jpeg</g:additional_image_link>
+      <make>Hobby</make>
+      <model>650 KMFE DE LUXE</model>
+      <year>2015</year>
+      <mileage>
+        <value>0</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>105000 SEK</price>
+      <g:price>105000 SEK</g:price>
+      <address>Enköping</address>
+      <address format="simple">
+        <component name="addr1">Enköping</component>
+        <component name="city">Enköping</component>
+        <component name="region">Uppsala</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <frivio:listing_type>auction</frivio:listing_type>
+      <frivio:auction_end_date>2026-07-09T16:35:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>105000 SEK</frivio:current_bid>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
+      <frivio:monthly_cost>1661 kr/mån</frivio:monthly_cost>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Husvagn</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
+      <frivio:region>Uppsala</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Husvagn</custom_label_0>
+      <custom_label_1>Slutar 2026-07-09 16:35</custom_label_1>
     </item>
     <item>
       <vehicle_id>576</vehicle_id>
