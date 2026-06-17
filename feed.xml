@@ -4,116 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Wed, 17 Jun 2026 17:13:03 GMT</lastBuildDate>
-    <item>
-      <vehicle_id>575</vehicle_id>
-      <g:id>575</g:id>
-      <title>Joda Caribic 290</title>
-      <description>Joda Caribic 290 från 1995. En klassisk och rymlig familjecruiser som erbjuder gott om komfort för både dagsutflykter och längre turer på sjön. Den stora sittbrunnen med kapell ger generösa sociala ytor, medan den välplanerade kabinen erbjuder bekväma sovplatser, sittgrupp, pentry och goda förvaringsmöjligheter. Båten har en tidlös inredning i trä som skapar en varm och trivsam känsla ombord. Stabil, sjövärdig och väl lämpad för semesterlivet på vattnet. - Kad 42 / 290dp - Motortimmar 613h - Tank cirka 400l - Dieselmotor - Ny propeller 2023 - Nytt kylskåp 2019 - Ny turbo 2016 - Bog finns nyare - Dieselvärmare - Kapell i bruksskick - Trailer ingår ej Årsmodell: 1995 · Typ: Båt · Ort: Simrishamn</description>
-      <url>https://frivio.se/auktion/575</url>
-      <g:link>https://frivio.se/auktion/575</g:link>
-      <image>
-        <url>https://backend.frivio.se/vehicle/575/a1780391182660.jpeg</url>
-        <tag>Exterior</tag>
-      </image>
-      <g:image_link>https://backend.frivio.se/vehicle/575/a1780391182660.jpeg</g:image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/575/b1780391182823.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/575/c1780391183199.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/575/d1780391182974.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/575/e1780391183083.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/575/f1780391183682.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/575/g1780391183783.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/575/h1780391183324.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/575/i1780391183445.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/575/j1780391183562.jpeg</g:additional_image_link>
-      <make>Joda</make>
-      <model>Joda Caribic 290</model>
-      <year>1995</year>
-      <mileage>
-        <value>0</value>
-        <unit>KM</unit>
-      </mileage>
-      <price>126000 SEK</price>
-      <g:price>126000 SEK</g:price>
-      <address>Simrishamn</address>
-      <address format="simple">
-        <component name="addr1">Simrishamn</component>
-        <component name="city">Simrishamn</component>
-        <component name="region">Skåne</component>
-        <component name="country">SE</component>
-      </address>
-      <condition>GOOD</condition>
-      <state_of_vehicle>USED</state_of_vehicle>
-      <frivio:listing_type>auction</frivio:listing_type>
-      <frivio:auction_end_date>2026-06-17T17:27:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>126000 SEK</frivio:current_bid>
-      <frivio:bid_count>1</frivio:bid_count>
-      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>1994 kr/mån</frivio:monthly_cost>
-      <body_style>OTHER</body_style>
-      <frivio:body_type_label>Båt</frivio:body_type_label>
-      <fuel_type>NONE</fuel_type>
-      <frivio:region>Skåne</frivio:region>
-      <availability>AVAILABLE</availability>
-      <custom_label_0>Båt</custom_label_0>
-      <custom_label_1>Slutar 2026-06-17 17:27</custom_label_1>
-    </item>
-    <item>
-      <vehicle_id>557</vehicle_id>
-      <g:id>557</g:id>
-      <title>Wellcraft Gran Sport 34 DIESEL</title>
-      <description>Båten är 34 fot i vattenlinjen men ca 37 fot &quot;over all&quot;. Byggd 1987 men konverterad till diesel 2002 till 2 st kad 43 med 290 drev och duoprop från -02. Ca 1300 timmar på motorerna. Fräsch trots åldern då den också helrenoverades vid konverteringen -02. Teak på durken både inne och ute lades också då. 6 - 7 sovplatser inne. Dinett, stor nästan rund säng fram och midcabin med bäddbar soffa bak. Utrustning - 4-lågig gasspis - Kyl med frysfack - Wetbar med ismaskin (kan användas som frys) - Micro med grillfunktion - Integrerad kaffebryggare - Eltoa - Dusch med varmt och kallt vatten både inne och på badbrygga - VHF - Radio CD inne - Bluetoth ljudanläggning ute - TV - Varmvattenberedare - AC (ej använd av oss och inte testad) - Bogpropeller - Onan elverk - Kraftiga dävertar Årsmodell: 1987 · Typ: Båt · Ort: Tjörn</description>
-      <url>https://frivio.se/auktion/557</url>
-      <g:link>https://frivio.se/auktion/557</g:link>
-      <image>
-        <url>https://backend.frivio.se/vehicle/557/a1780239594288.jpeg</url>
-        <tag>Exterior</tag>
-      </image>
-      <g:image_link>https://backend.frivio.se/vehicle/557/a1780239594288.jpeg</g:image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/557/b1780239605036.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/557/c1780239614307.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/557/d1780239625582.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/557/e1780239634169.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/557/f1780239657111.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/557/g1780239666733.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/557/h1780239676701.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/557/i1780239686924.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/557/j1780239691406.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/557/k1780239701058.jpeg</g:additional_image_link>
-      <make>Wellcraft</make>
-      <model>Wellcraft Gran Sport 34 DIESEL</model>
-      <year>1987</year>
-      <mileage>
-        <value>0</value>
-        <unit>KM</unit>
-      </mileage>
-      <price>150000 SEK</price>
-      <g:price>150000 SEK</g:price>
-      <address>Tjörn</address>
-      <address format="simple">
-        <component name="addr1">Tjörn</component>
-        <component name="city">Tjörn</component>
-        <component name="region">Västra Götaland</component>
-        <component name="country">SE</component>
-      </address>
-      <condition>GOOD</condition>
-      <state_of_vehicle>USED</state_of_vehicle>
-      <frivio:listing_type>auction</frivio:listing_type>
-      <frivio:auction_end_date>2026-06-17T17:58:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>150000 SEK</frivio:current_bid>
-      <frivio:bid_count>7</frivio:bid_count>
-      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>2373 kr/mån</frivio:monthly_cost>
-      <body_style>OTHER</body_style>
-      <frivio:body_type_label>Båt</frivio:body_type_label>
-      <fuel_type>NONE</fuel_type>
-      <frivio:region>Västra Götaland</frivio:region>
-      <availability>AVAILABLE</availability>
-      <custom_label_0>Båt</custom_label_0>
-      <custom_label_1>Slutar 2026-06-17 17:58</custom_label_1>
-    </item>
+    <lastBuildDate>Wed, 17 Jun 2026 20:25:07 GMT</lastBuildDate>
     <item>
       <vehicle_id>556</vehicle_id>
       <g:id>556</g:id>
@@ -734,8 +625,8 @@
         <value>83000</value>
         <unit>KM</unit>
       </mileage>
-      <price>350000 SEK</price>
-      <g:price>350000 SEK</g:price>
+      <price>351000 SEK</price>
+      <g:price>351000 SEK</g:price>
       <address>Trosa</address>
       <address format="simple">
         <component name="addr1">Trosa</component>
@@ -749,10 +640,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-06-25T15:28:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>350000 SEK</frivio:current_bid>
-      <frivio:bid_count>0</frivio:bid_count>
-      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
-      <frivio:monthly_cost>5538 kr/mån</frivio:monthly_cost>
+      <frivio:current_bid>351000 SEK</frivio:current_bid>
+      <frivio:bid_count>1</frivio:bid_count>
+      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
+      <frivio:monthly_cost>5554 kr/mån</frivio:monthly_cost>
       <body_style>VAN</body_style>
       <frivio:body_type_label>Husbil</frivio:body_type_label>
       <fuel_type>DIESEL</fuel_type>
@@ -1921,7 +1812,7 @@
       <vehicle_id>606</vehicle_id>
       <g:id>606</g:id>
       <title>Tailwind 36</title>
-      <description>Tailwind 36 är en välseglande och rymlig cruiser med klassiska linjer, hög komfort och gediget hantverk. Denna båt sjösattes första gången 2005 och erbjuder en trivsam interiör i varm träinredning med generösa sociala ytor, välutrustat pentry och flera bekväma sovplatser. Ombord finns gott om förvaring, separat navigationsplats och en rymlig sittbrunn för långa dagar till sjöss. Båten är väl omhändertagen och har normalt bruksslitage utifrån ålder och användning. Ett utmärkt val för både familjesegling och längre semestrar. Båten är byggd för segling på alla hav, försedd med monitor, vindrofer och extra isolering. - Motorn är en BMW 35 hkr från 90-talet och få gångtimmar - Servad årligen och senast i år - Båten är sjösatt Årsmodell: 2005 · Typ: Båt · Ort: Stockholm</description>
+      <description>Tailwind 36 är en välseglande och rymlig cruiser med klassiska linjer, hög komfort och gediget hantverk. Denna båt sjösattes första gången 2005 och erbjuder en trivsam interiör i varm träinredning med generösa sociala ytor, välutrustat pentry och flera bekväma sovplatser. Ombord finns gott om förvaring, separat navigationsplats och en rymlig sittbrunn för långa dagar till sjöss. Båten är väl omhändertagen och har normalt bruksslitage utifrån ålder och användning. Ett utmärkt val för både familjesegling och längre semestrar. Båten är byggd för segling på alla hav, försedd med monitor, vindroder och extra isolering. - Motorn är en BMW 35 hkr från 90-talet och få gångtimmar - Servad årligen och senast i år - Båten är sjösatt Årsmodell: 2005 · Typ: Båt · Ort: Stockholm</description>
       <url>https://frivio.se/auktion/606</url>
       <g:link>https://frivio.se/auktion/606</g:link>
       <image>
@@ -2016,6 +1907,61 @@
       <availability>AVAILABLE</availability>
       <custom_label_0>Båt</custom_label_0>
       <custom_label_1>Slutar 2026-07-08 14:32</custom_label_1>
+    </item>
+    <item>
+      <vehicle_id>610</vehicle_id>
+      <g:id>610</g:id>
+      <title>Hobby 560 CFE Excellent</title>
+      <description>Hobby 560 CFE Excellent från 2017 är en modern och välplanerad husvagn som kombinerar hög komfort med stilren design. Den generösa U-soffan framtill skapar en trivsam sällskapsyta, medan den rymliga queensbeden baktill erbjuder hög sovkomfort. Det välutrustade köket har gott om arbetsyta och förvaring, och den stora kylskåpslösningen gör längre resor bekväma. Husvagnen har dessutom elegant LED-belysning och genomgående exklusiva materialval. En välvårdad vagn med normalt bruksslitage- perfekt för både weekendresor och längre semestrar. - Dometic Rally 390 resetält (använd 1 gång) - Vagnen är importerad och har således inget 12V system - Fukttestad 2025-06 UA - Besiktad till 2027-05-31 Årsmodell: 2017 · Typ: Husvagn · Ort: Kungälv</description>
+      <url>https://frivio.se/auktion/610</url>
+      <g:link>https://frivio.se/auktion/610</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/610/a1781612058261.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/610/a1781612058261.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/610/b1781612058440.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/610/c1781612058592.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/610/d1781612058718.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/610/e1781612058848.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/610/f1781612059026.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/610/g1781612059218.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/610/h1781612059365.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/610/i1781612059490.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/610/j1781612059624.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/610/k1781612059761.jpeg</g:additional_image_link>
+      <make>Hobby</make>
+      <model>560 CFE Excellent</model>
+      <year>2017</year>
+      <mileage>
+        <value>0</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>97500 SEK</price>
+      <g:price>97500 SEK</g:price>
+      <address>Kungälv</address>
+      <address format="simple">
+        <component name="addr1">Kungälv</component>
+        <component name="city">Kungälv</component>
+        <component name="region">Västra Götaland</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <frivio:listing_type>auction</frivio:listing_type>
+      <frivio:auction_end_date>2026-07-08T17:10:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>97500 SEK</frivio:current_bid>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
+      <frivio:monthly_cost>1543 kr/mån</frivio:monthly_cost>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Husvagn</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
+      <frivio:region>Västra Götaland</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Husvagn</custom_label_0>
+      <custom_label_1>Slutar 2026-07-08 17:10</custom_label_1>
     </item>
     <item>
       <vehicle_id>618</vehicle_id>
