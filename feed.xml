@@ -4,7 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Thu, 18 Jun 2026 06:02:45 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 11:12:57 GMT</lastBuildDate>
     <item>
       <vehicle_id>556</vehicle_id>
       <g:id>556</g:id>
@@ -34,8 +34,8 @@
         <value>0</value>
         <unit>KM</unit>
       </mileage>
-      <price>80000 SEK</price>
-      <g:price>80000 SEK</g:price>
+      <price>85000 SEK</price>
+      <g:price>85000 SEK</g:price>
       <address>Filipstad</address>
       <address format="simple">
         <component name="addr1">Filipstad</component>
@@ -48,10 +48,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-06-18T14:30:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>80000 SEK</frivio:current_bid>
-      <frivio:bid_count>5</frivio:bid_count>
+      <frivio:current_bid>85000 SEK</frivio:current_bid>
+      <frivio:bid_count>6</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>1266 kr/mån</frivio:monthly_cost>
+      <frivio:monthly_cost>1345 kr/mån</frivio:monthly_cost>
       <body_style>OTHER</body_style>
       <frivio:body_type_label>Husvagn</frivio:body_type_label>
       <fuel_type>NONE</fuel_type>
@@ -166,61 +166,6 @@
       <availability>AVAILABLE</availability>
       <custom_label_0>Husvagn</custom_label_0>
       <custom_label_1>Slutar 2026-06-18 14:41</custom_label_1>
-    </item>
-    <item>
-      <vehicle_id>574</vehicle_id>
-      <g:id>574</g:id>
-      <title>Finnmaster T7</title>
-      <description>Finnmaster T7 från 2022 med Yamaha 4,2L V6-motor från samma år. En välutrustad och sportig daycruiser som kombinerar prestanda, komfort och smarta lösningar för både dagsturer och övernattning. Den kraftfulla Yamaha-motorn ger härliga köregenskaper medan den rymliga sittbrunnen erbjuder gott om plats för familj och vänner. Ombord finns en ljus kabin med sovplatser, praktisk förvaring samt modern utrustning med Garmin plotter, ljudsystem från Fusion och kapell. Båten är i mycket fint skick och ger en premiumkänsla rakt igenom - perfekt för dig som söker en lättkörd och mångsidig båt med hög komfort. - Respo 30 trailer ingår - Motorn har gått 71 timmar Årsmodell: 2022 · Typ: Båt · Ort: Malmö</description>
-      <url>https://frivio.se/auktion/574</url>
-      <g:link>https://frivio.se/auktion/574</g:link>
-      <image>
-        <url>https://backend.frivio.se/vehicle/574/a1780390525289.jpeg</url>
-        <tag>Exterior</tag>
-      </image>
-      <g:image_link>https://backend.frivio.se/vehicle/574/a1780390525289.jpeg</g:image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/574/b1780390525509.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/574/c1780390525403.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/574/d1780390525857.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/574/e1780390525617.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/574/f1780390524849.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/574/g1780390524499.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/574/h1780390525724.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/574/i1780390525065.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/574/j1780390525177.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/574/k1780390524959.jpeg</g:additional_image_link>
-      <make>Finnmaster</make>
-      <model>Finnmaster T7</model>
-      <year>2022</year>
-      <mileage>
-        <value>0</value>
-        <unit>KM</unit>
-      </mileage>
-      <price>575000 SEK</price>
-      <g:price>575000 SEK</g:price>
-      <address>Malmö</address>
-      <address format="simple">
-        <component name="addr1">Malmö</component>
-        <component name="city">Malmö</component>
-        <component name="region">Skåne</component>
-        <component name="country">SE</component>
-      </address>
-      <condition>GOOD</condition>
-      <state_of_vehicle>USED</state_of_vehicle>
-      <frivio:listing_type>auction</frivio:listing_type>
-      <frivio:auction_end_date>2026-06-18T15:35:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>575000 SEK</frivio:current_bid>
-      <frivio:bid_count>10</frivio:bid_count>
-      <frivio:reserve_price_status>Reservationspris uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>9098 kr/mån</frivio:monthly_cost>
-      <body_style>OTHER</body_style>
-      <frivio:body_type_label>Båt</frivio:body_type_label>
-      <fuel_type>NONE</fuel_type>
-      <frivio:region>Skåne</frivio:region>
-      <availability>AVAILABLE</availability>
-      <custom_label_0>Båt</custom_label_0>
-      <custom_label_1>Slutar 2026-06-18 15:35</custom_label_1>
     </item>
     <item>
       <vehicle_id>579</vehicle_id>
@@ -406,8 +351,8 @@
         <value>84000</value>
         <unit>KM</unit>
       </mileage>
-      <price>310000 SEK</price>
-      <g:price>310000 SEK</g:price>
+      <price>315000 SEK</price>
+      <g:price>315000 SEK</g:price>
       <address>Karlsborg</address>
       <address format="simple">
         <component name="addr1">Karlsborg</component>
@@ -421,10 +366,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-06-23T16:47:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>310000 SEK</frivio:current_bid>
-      <frivio:bid_count>22</frivio:bid_count>
+      <frivio:current_bid>315000 SEK</frivio:current_bid>
+      <frivio:bid_count>23</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>4905 kr/mån</frivio:monthly_cost>
+      <frivio:monthly_cost>4984 kr/mån</frivio:monthly_cost>
       <body_style>VAN</body_style>
       <frivio:body_type_label>Husbil</frivio:body_type_label>
       <fuel_type>DIESEL</fuel_type>
@@ -1233,6 +1178,53 @@
       <custom_label_1>Slutar 2026-06-30 17:40</custom_label_1>
     </item>
     <item>
+      <vehicle_id>621</vehicle_id>
+      <g:id>621</g:id>
+      <title>Albin Wiggen</title>
+      <description>Albin Wiggen är svensk klassiker en trygg och säker familjeseglare. Passar även den som är helt nybörjare och att segla ensam. Båten är i fint skick och blivit väl omhändertagen. Fin inredning i mahogny med marinblå dynor plus dynor till sittbrunnen. - Bord till sittbrunnen - Marinblått sprayhood och marinblått bomkapell - 4kojplatser - Origo spritkök - Helt ny oanvänd kemtoa Porti Porti (ligger i kartong) - Liten portabel grill - Garmin GPS - Autohelm kombinationsinstrument - Solceller - Ett nytt batteri 2026 Segel : 4segel - ett är specialsytt rullfock från Gransegel för bättre kryssegenskaper. En lättviktsgenua och en Genua 2. Storsegel knappt använt från Boding. Bomstrut från BENNS som håller upp bommen, vilket är en extra finess på denna båt . Motor: Johnson 5HK, 2takt och nyservad med garanti. Övrigt; tampar, fendrar,ankare,livboj, två paddlar, skot och linor och båtshake. Årsmodell: 1976 · Typ: Båt · Ort: Tyresö</description>
+      <url>https://frivio.se/auktion/621</url>
+      <g:link>https://frivio.se/auktion/621</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/621/a1781712602702.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/621/a1781712602702.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/621/b1781712603022.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/621/c1781712602897.jpeg</g:additional_image_link>
+      <make>Albin</make>
+      <model>Albin Wiggen</model>
+      <year>1976</year>
+      <mileage>
+        <value>0</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>11500 SEK</price>
+      <g:price>11500 SEK</g:price>
+      <address>Tyresö</address>
+      <address format="simple">
+        <component name="addr1">Tyresö</component>
+        <component name="city">Tyresö</component>
+        <component name="region">Stockholm</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <frivio:listing_type>auction</frivio:listing_type>
+      <frivio:auction_end_date>2026-07-01T16:00:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>11500 SEK</frivio:current_bid>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
+      <frivio:monthly_cost>182 kr/mån</frivio:monthly_cost>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Båt</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
+      <frivio:region>Stockholm</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Båt</custom_label_0>
+      <custom_label_1>Slutar 2026-07-01 16:00</custom_label_1>
+    </item>
+    <item>
       <vehicle_id>601</vehicle_id>
       <g:id>601</g:id>
       <title>Ryds WA 23</title>
@@ -1285,6 +1277,60 @@
       <availability>AVAILABLE</availability>
       <custom_label_0>Båt</custom_label_0>
       <custom_label_1>Slutar 2026-07-01 16:09</custom_label_1>
+    </item>
+    <item>
+      <vehicle_id>602</vehicle_id>
+      <g:id>602</g:id>
+      <title>Home-Car 45 FHU Spirit</title>
+      <description>Home-Car 45 FHU Spirit från 2006 erbjuder en smart planlösning med fokus på komfort och funktion. Den fasta franskbädden skapar en avskild sovdel intill toalettutrymmet, medan den ljusa sittgruppen ger en trivsam plats för måltider och avkoppling. Köket är välutrustat med bra arbetsytor och praktisk förvaring. En lättmanövrerad och hemtrevlig husvagn som passar perfekt för dig som söker ett smidigt boende på hjul. - Spolknapp på toalett ur funktion - Vattenkran i köksdel vill ibland att kranen vid handfatet skall sättas igång lite för att själv kunna fungera - Besiktad till 2027-04-30 - Gasoltestad och godkänd - Reservdäck medföljer Årsmodell: 2006 · Typ: Husvagn · Ort: Ronneby</description>
+      <url>https://frivio.se/auktion/602</url>
+      <g:link>https://frivio.se/auktion/602</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/602/a1781592374590.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/602/a1781592374590.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/602/b1781592374808.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/602/c1781592375127.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/602/d1781592374990.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/602/e1781592375265.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/602/f1781592375390.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/602/g1781592375516.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/602/h1781592375655.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/602/i1781592375775.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/602/j1781592375891.jpeg</g:additional_image_link>
+      <make>Home-Car</make>
+      <model>45 FHU Spirit</model>
+      <year>2006</year>
+      <mileage>
+        <value>0</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>35000 SEK</price>
+      <g:price>35000 SEK</g:price>
+      <address>Ronneby</address>
+      <address format="simple">
+        <component name="addr1">Ronneby</component>
+        <component name="city">Ronneby</component>
+        <component name="region">Blekinge</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <frivio:listing_type>auction</frivio:listing_type>
+      <frivio:auction_end_date>2026-07-02T15:40:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>35000 SEK</frivio:current_bid>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
+      <frivio:monthly_cost>554 kr/mån</frivio:monthly_cost>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Husvagn</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
+      <frivio:region>Blekinge</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Husvagn</custom_label_0>
+      <custom_label_1>Slutar 2026-07-02 15:40</custom_label_1>
     </item>
     <item>
       <vehicle_id>603</vehicle_id>
