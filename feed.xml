@@ -4,7 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Sat, 20 Jun 2026 08:26:01 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 11:23:20 GMT</lastBuildDate>
     <item>
       <vehicle_id>579</vehicle_id>
       <g:id>579</g:id>
@@ -353,8 +353,8 @@
         <value>0</value>
         <unit>KM</unit>
       </mileage>
-      <price>90000 SEK</price>
-      <g:price>90000 SEK</g:price>
+      <price>93000 SEK</price>
+      <g:price>93000 SEK</g:price>
       <address>Göteborg</address>
       <address format="simple">
         <component name="addr1">Göteborg</component>
@@ -367,10 +367,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-06-24T17:00:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>90000 SEK</frivio:current_bid>
-      <frivio:bid_count>5</frivio:bid_count>
+      <frivio:current_bid>93000 SEK</frivio:current_bid>
+      <frivio:bid_count>6</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>1424 kr/mån</frivio:monthly_cost>
+      <frivio:monthly_cost>1471 kr/mån</frivio:monthly_cost>
       <body_style>OTHER</body_style>
       <frivio:body_type_label>Husvagn</frivio:body_type_label>
       <fuel_type>NONE</fuel_type>
