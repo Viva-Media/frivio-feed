@@ -4,7 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Mon, 22 Jun 2026 06:34:53 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 12:54:49 GMT</lastBuildDate>
     <item>
       <vehicle_id>562</vehicle_id>
       <g:id>562</g:id>
@@ -1039,8 +1039,8 @@
         <value>0</value>
         <unit>KM</unit>
       </mileage>
-      <price>105000 SEK</price>
-      <g:price>105000 SEK</g:price>
+      <price>120000 SEK</price>
+      <g:price>120000 SEK</g:price>
       <address>Orust</address>
       <address format="simple">
         <component name="addr1">Orust</component>
@@ -1053,10 +1053,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-07-01T16:09:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>105000 SEK</frivio:current_bid>
-      <frivio:bid_count>0</frivio:bid_count>
-      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
-      <frivio:monthly_cost>1661 kr/mån</frivio:monthly_cost>
+      <frivio:current_bid>120000 SEK</frivio:current_bid>
+      <frivio:bid_count>1</frivio:bid_count>
+      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
+      <frivio:monthly_cost>1899 kr/mån</frivio:monthly_cost>
       <body_style>OTHER</body_style>
       <frivio:body_type_label>Båt</frivio:body_type_label>
       <fuel_type>NONE</fuel_type>
@@ -1332,6 +1332,61 @@
       <custom_label_1>Slutar 2026-07-02 17:07</custom_label_1>
     </item>
     <item>
+      <vehicle_id>614</vehicle_id>
+      <g:id>614</g:id>
+      <title>Adria Alpina 663UK</title>
+      <description>Adria Alpina 663 UK från 2013 är en rymlig och vinteranpassad familjevagn med smart planlösning och hög komfort året runt. Här finns en stor soffa fram, praktisk mittplacerad köksdel, generös franskbädd samt våningssängar för barnen. Det välutrustade badrummet, gott om förvaring och den gedigna Adria-kvaliteten gör vagnen perfekt för både längre semestrar och spontana helgutflykter med hela familjen, oavsett säsong eller destination för nästa äventyr tillsammans på vägarna i Norden. - Vinteranpassad vagn - 2 våningssäng längst bak - Franskbädd på mitten - U-soffa fram - Hänger en påsmarkis på där påsen börjar bli dålig - Spricka i dekorplast bak - Besiktad till 2026-07-31 Årsmodell: 2013 · Typ: Husvagn · Ort: Heby</description>
+      <url>https://frivio.se/auktion/614</url>
+      <g:link>https://frivio.se/auktion/614</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/614/a1781697284320.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/614/a1781697284320.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/614/b1781697284143.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/614/c1781697284465.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/614/d1781697284691.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/614/e1781697284576.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/614/f1781697284817.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/614/g1781697284927.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/614/h1781697285060.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/614/i1781697285187.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/614/j1782131161486.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/614/k1782131161724.jpeg</g:additional_image_link>
+      <make>Adria</make>
+      <model>Alpina 663UK</model>
+      <year>2013</year>
+      <mileage>
+        <value>0</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>113000 SEK</price>
+      <g:price>113000 SEK</g:price>
+      <address>Heby</address>
+      <address format="simple">
+        <component name="addr1">Heby</component>
+        <component name="city">Heby</component>
+        <component name="region">Uppsala</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <frivio:listing_type>auction</frivio:listing_type>
+      <frivio:auction_end_date>2026-07-02T17:32:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>113000 SEK</frivio:current_bid>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
+      <frivio:monthly_cost>1788 kr/mån</frivio:monthly_cost>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Husvagn</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
+      <frivio:region>Uppsala</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Husvagn</custom_label_0>
+      <custom_label_1>Slutar 2026-07-02 17:32</custom_label_1>
+    </item>
+    <item>
       <vehicle_id>609</vehicle_id>
       <g:id>609</g:id>
       <title>Yamarin 56BR Special Edition</title>
@@ -1495,8 +1550,8 @@
     <item>
       <vehicle_id>607</vehicle_id>
       <g:id>607</g:id>
-      <title>Yamarin DC46</title>
-      <description>Yamarin 46 DC från 2010 är en smidig och välplanerad daycruiser som passar perfekt för både dagsutflykter och bekväma helgturer. Båten erbjuder en rymlig sittbrunn, praktisk kabin med sovplatser samt generösa förvaringsutrymmen. Utrustad med en Yamaha F150 fyrtaktsmotor som ger trygg och bränsleeffektiv gång. Skicket är överlag fint med normala bruksspår för sin ålder. En lättkörd och uppskattad familjebåt, redo för nya äventyr på sjön. - Plotter SW92 - Landström - Laddare - Tampar - Fendrar - Stabil 30kärra - Servad Årsmodell: 2010 · Typ: Båt · Ort: Sölvesborg</description>
+      <title>Yamarin DC64</title>
+      <description>Yamarin DC64 från 2010 är en smidig och välplanerad daycruiser som passar perfekt för både dagsutflykter och bekväma helgturer. Båten erbjuder en rymlig sittbrunn, praktisk kabin med sovplatser samt generösa förvaringsutrymmen. Utrustad med en Yamaha F150 fyrtaktsmotor som ger trygg och bränsleeffektiv gång. Skicket är överlag fint med normala bruksspår för sin ålder. En lättkörd och uppskattad familjebåt, redo för nya äventyr på sjön. - Plotter SW92 - Landström - Laddare - Tampar - Fendrar - Stabil 30kärra - Servad Årsmodell: 2010 · Typ: Båt · Ort: Sölvesborg</description>
       <url>https://frivio.se/auktion/607</url>
       <g:link>https://frivio.se/auktion/607</g:link>
       <image>
@@ -1510,7 +1565,7 @@
       <g:additional_image_link>https://backend.frivio.se/vehicle/607/e1781609763748.jpeg</g:additional_image_link>
       <g:additional_image_link>https://backend.frivio.se/vehicle/607/f1781609764261.jpeg</g:additional_image_link>
       <make>Yamarin</make>
-      <model>Yamarin DC46</model>
+      <model>Yamarin DC64</model>
       <year>2010</year>
       <mileage>
         <value>0</value>
