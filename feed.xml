@@ -4,58 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Mon, 22 Jun 2026 12:54:49 GMT</lastBuildDate>
-    <item>
-      <vehicle_id>562</vehicle_id>
-      <g:id>562</g:id>
-      <title>Adria Alpina 663 PT</title>
-      <description>Adria Alpina 663 PT från 2023. En rymlig och exklusiv barnkammarvagn med hög komfort. Smart planlösning med separat barnkammare, stor sittgrupp, välutrustat kök och bekväm dubbelsäng. Modern interiör, gott om förvaring och badrum med dusch gör den perfekt för familjer som vill resa bekvämt året runt. - Besiktad till 2028-07-31 - Fukt och gasoltest utfört 2025 UA Årsmodell: 2023 · Typ: Husvagn · Ort: Oskarshamn</description>
-      <url>https://frivio.se/auktion/562</url>
-      <g:link>https://frivio.se/auktion/562</g:link>
-      <image>
-        <url>https://backend.frivio.se/vehicle/562/a1780305762563.jpeg</url>
-        <tag>Exterior</tag>
-      </image>
-      <g:image_link>https://backend.frivio.se/vehicle/562/a1780305762563.jpeg</g:image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/562/b1780305762261.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/562/c1780305762033.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/562/d1780305762887.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/562/e1780305763210.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/562/f1780305763039.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/562/g1780305762723.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/562/h1780305762419.jpeg</g:additional_image_link>
-      <make>Adria</make>
-      <model>Alpina 663 PT</model>
-      <year>2023</year>
-      <mileage>
-        <value>0</value>
-        <unit>KM</unit>
-      </mileage>
-      <price>389000 SEK</price>
-      <g:price>389000 SEK</g:price>
-      <address>Oskarshamn</address>
-      <address format="simple">
-        <component name="addr1">Oskarshamn</component>
-        <component name="city">Oskarshamn</component>
-        <component name="region">Kalmar</component>
-        <component name="country">SE</component>
-      </address>
-      <condition>GOOD</condition>
-      <state_of_vehicle>USED</state_of_vehicle>
-      <frivio:listing_type>fixed_price</frivio:listing_type>
-      <frivio:auction_end_date>2026-06-22T16:22:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:bid_count>0</frivio:bid_count>
-      <frivio:reserve_price_status>Ej tillämpligt (fast pris)</frivio:reserve_price_status>
-      <frivio:monthly_cost>6155 kr/mån</frivio:monthly_cost>
-      <body_style>OTHER</body_style>
-      <frivio:body_type_label>Husvagn</frivio:body_type_label>
-      <fuel_type>NONE</fuel_type>
-      <frivio:region>Kalmar</frivio:region>
-      <availability>AVAILABLE</availability>
-      <custom_label_0>Husvagn</custom_label_0>
-      <custom_label_1>Slutar 2026-06-22 16:22</custom_label_1>
-    </item>
+    <lastBuildDate>Mon, 22 Jun 2026 17:44:56 GMT</lastBuildDate>
     <item>
       <vehicle_id>588</vehicle_id>
       <g:id>588</g:id>
@@ -248,8 +197,8 @@
         <value>0</value>
         <unit>KM</unit>
       </mileage>
-      <price>57000 SEK</price>
-      <g:price>57000 SEK</g:price>
+      <price>64000 SEK</price>
+      <g:price>64000 SEK</g:price>
       <address>Leksand</address>
       <address format="simple">
         <component name="addr1">Leksand</component>
@@ -262,10 +211,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-06-24T15:11:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>57000 SEK</frivio:current_bid>
-      <frivio:bid_count>4</frivio:bid_count>
+      <frivio:current_bid>64000 SEK</frivio:current_bid>
+      <frivio:bid_count>8</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>902 kr/mån</frivio:monthly_cost>
+      <frivio:monthly_cost>1013 kr/mån</frivio:monthly_cost>
       <body_style>OTHER</body_style>
       <frivio:body_type_label>Båt</frivio:body_type_label>
       <fuel_type>NONE</fuel_type>
@@ -443,7 +392,7 @@
       <vehicle_id>587</vehicle_id>
       <g:id>587</g:id>
       <title>Kabe Royal 560 LXL KS</title>
-      <description>Kabe Royal 560 LXL KS från 2013 erbjuder en välplanerad planlösning med franskbädd längst bak, toalett i anslutning till sovdelen samt ett centralt placerat kök med generösa arbetsytor och stor kyl. Längst fram finns en rymlig soffa som skapar gott om plats för umgänge och kan bäddas vid behov. Vagnen är utrustad med Kabes välkända komfort- och värmesystem och passar lika bra för semesterturer som längre vistelser. - Gasoltest utfört 2024-07-24 - Fukttest utfört 2018 Årsmodell: 2013 · Typ: Husvagn · Ort: Båstad</description>
+      <description>Kabe Royal 560 LXL KS från 2013 erbjuder en välplanerad planlösning med franskbädd längst bak, toalett i anslutning till sovdelen samt ett centralt placerat kök med generösa arbetsytor och stor kyl. Längst fram finns en rymlig soffa som skapar gott om plats för umgänge och kan bäddas vid behov. Vagnen är utrustad med Kabes välkända komfort- och värmesystem och passar lika bra för semesterturer som längre vistelser. - Gasoltest utfört 2024-07-24 - Fukttest utfört 2018 - Besiktad till 2027-04-30 Årsmodell: 2013 · Typ: Husvagn · Ort: Båstad</description>
       <url>https://frivio.se/auktion/587</url>
       <g:link>https://frivio.se/auktion/587</g:link>
       <image>
@@ -534,7 +483,7 @@
       <transmission>AUTOMATIC</transmission>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-06-29T15:54:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
       <frivio:current_bid>700000 SEK</frivio:current_bid>
       <frivio:bid_count>0</frivio:bid_count>
       <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
@@ -589,7 +538,7 @@
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-06-29T16:57:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
       <frivio:current_bid>185000 SEK</frivio:current_bid>
       <frivio:bid_count>2</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
@@ -601,6 +550,61 @@
       <availability>AVAILABLE</availability>
       <custom_label_0>Husvagn</custom_label_0>
       <custom_label_1>Slutar 2026-06-29 16:57</custom_label_1>
+    </item>
+    <item>
+      <vehicle_id>622</vehicle_id>
+      <g:id>622</g:id>
+      <title>Bayliner 3055 Avanti Sunbridge</title>
+      <description>Bayliner 3055 Avanti Sunbridge med en MerCruiser 7,4 MPI (454 V8) med cirka 300hk är en välutrustad 30-fots cruiser från början av 90-talet. Redo för nya äventyr! - Motorn MerCruiser är från 2003 - 9tums plotter/fishfinder Echomap UHD92SV - Sovplatser för 4–6 personer - Pentry med: kylskåp, spritoch gasolkök - Separat toalett med septiktank - Tryckvatten och dusch - Varmvattenberedare - Landström 230 V - Kapell/camperkapell - Trimplan - Badbrygga och badstege - VHF och äldre plotter/ekolod - Värmare på vissa båtar - Ankarspel Årsmodell: 1993 · Typ: Båt · Ort: Malmö</description>
+      <url>https://frivio.se/auktion/622</url>
+      <g:link>https://frivio.se/auktion/622</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/622/a1782143003966.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/622/a1782143003966.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/622/b1782143003795.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/622/c1782143005044.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/622/d1782143004595.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/622/e1782143004488.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/622/f1782143004108.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/622/g1782143004224.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/622/h1782143004816.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/622/i1782143004939.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/622/j1782143004367.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/622/k1782143004713.jpeg</g:additional_image_link>
+      <make>Bayliner</make>
+      <model>Bayliner 3055 Avanti Sunbridge</model>
+      <year>1993</year>
+      <mileage>
+        <value>0</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>143000 SEK</price>
+      <g:price>143000 SEK</g:price>
+      <address>Malmö</address>
+      <address format="simple">
+        <component name="addr1">Malmö</component>
+        <component name="city">Malmö</component>
+        <component name="region">Skåne</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <frivio:listing_type>auction</frivio:listing_type>
+      <frivio:auction_end_date>2026-06-29T17:40:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>143000 SEK</frivio:current_bid>
+      <frivio:bid_count>1</frivio:bid_count>
+      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
+      <frivio:monthly_cost>2263 kr/mån</frivio:monthly_cost>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Båt</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
+      <frivio:region>Skåne</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Båt</custom_label_0>
+      <custom_label_1>Slutar 2026-06-29 17:40</custom_label_1>
     </item>
     <item>
       <vehicle_id>596</vehicle_id>
