@@ -4,116 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Wed, 24 Jun 2026 14:48:14 GMT</lastBuildDate>
-    <item>
-      <vehicle_id>591</vehicle_id>
-      <g:id>591</g:id>
-      <title>Uttern 560 Exclusive</title>
-      <description>Uttern 560 Exclusive från 2003 med Mercury 115 hk Four Stroke från 2003. Båten är årligen servad och vinterförvarad inomhus, vilket bidragit till det fina skicket. En mycket trevlig och stabil fritidsbåt med gott om utrymme, fina sjöegenskaper och smart planlösning. Passar perfekt för både bad, dagsutflykter och vattensport. Utrustad med bland annat Garmin plotter, bekväma sittplatser och badstege. En välskött och pålitlig båt redo för sommarens äventyr. - Trailer medföljer och kommer att vara nybesiktad vid leverans - Diverse tillbehör medföljer - Lanternor fungerar ej - Glapp till Ekolod Årsmodell: 2003 · Typ: Båt · Ort: Leksand</description>
-      <url>https://frivio.se/auktion/591</url>
-      <g:link>https://frivio.se/auktion/591</g:link>
-      <image>
-        <url>https://backend.frivio.se/vehicle/591/a1781089811602.jpeg</url>
-        <tag>Exterior</tag>
-      </image>
-      <g:image_link>https://backend.frivio.se/vehicle/591/a1781089811602.jpeg</g:image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/591/b1781089813043.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/591/c1781089812785.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/591/d1781089813153.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/591/e1781089811977.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/591/f1781089811831.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/591/g1781089812319.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/591/h1781089812088.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/591/i1781089812207.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/591/j1781089812428.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/591/k1781089812550.jpeg</g:additional_image_link>
-      <make>Uttern</make>
-      <model>Uttern 560 Exclusive</model>
-      <year>2003</year>
-      <mileage>
-        <value>0</value>
-        <unit>KM</unit>
-      </mileage>
-      <price>72000 SEK</price>
-      <g:price>72000 SEK</g:price>
-      <address>Leksand</address>
-      <address format="simple">
-        <component name="addr1">Leksand</component>
-        <component name="city">Leksand</component>
-        <component name="region">Dalarna</component>
-        <component name="country">SE</component>
-      </address>
-      <condition>GOOD</condition>
-      <state_of_vehicle>USED</state_of_vehicle>
-      <frivio:listing_type>auction</frivio:listing_type>
-      <frivio:auction_end_date>2026-06-24T15:11:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>72000 SEK</frivio:current_bid>
-      <frivio:bid_count>11</frivio:bid_count>
-      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>1139 kr/mån</frivio:monthly_cost>
-      <body_style>OTHER</body_style>
-      <frivio:body_type_label>Båt</frivio:body_type_label>
-      <fuel_type>NONE</fuel_type>
-      <frivio:region>Dalarna</frivio:region>
-      <availability>AVAILABLE</availability>
-      <custom_label_0>Båt</custom_label_0>
-      <custom_label_1>Slutar 2026-06-24 15:11</custom_label_1>
-    </item>
-    <item>
-      <vehicle_id>582</vehicle_id>
-      <g:id>582</g:id>
-      <title>Adria Adora 563 PT</title>
-      <description>Adria Adora 563 PT är en familjevagn av årsmodell 2013, uttagen i trafik första gången 2014. Planlösningen erbjuder en fransk bädd, våningssängar, sittgrupp som kan bäddas samt ett välutrustat kök med gott om arbetsyta och förvaring. Längst bak finns våningssängarna medan franskbädden ger en avskild sovdel för de vuxna. En rymlig husvagn med genomtänkt planlösning som passar såväl familjen som det resande paret. - Uttagen i trafik första gång 2014 - Året runt däck - Fukt och gasoltest utfört 2024 UA - Vagnen kommer att städas ur innan leverans Årsmodell: 2013 · Typ: Husvagn · Ort: Göteborg</description>
-      <url>https://frivio.se/auktion/582</url>
-      <g:link>https://frivio.se/auktion/582</g:link>
-      <image>
-        <url>https://backend.frivio.se/vehicle/582/b1780997300945.jpeg</url>
-        <tag>Exterior</tag>
-      </image>
-      <g:image_link>https://backend.frivio.se/vehicle/582/b1780997300945.jpeg</g:image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/582/c1780997301126.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/582/d1780997301318.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/582/e1780997300577.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/582/f1780997301945.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/582/g1780997302586.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/582/h1780997302362.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/582/i1780997301628.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/582/j1780997300714.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/582/k1780997300823.jpeg</g:additional_image_link>
-      <make>Adria</make>
-      <model>Adora 563 PT</model>
-      <year>2013</year>
-      <mileage>
-        <value>0</value>
-        <unit>KM</unit>
-      </mileage>
-      <price>110000 SEK</price>
-      <g:price>110000 SEK</g:price>
-      <address>Göteborg</address>
-      <address format="simple">
-        <component name="addr1">Göteborg</component>
-        <component name="city">Göteborg</component>
-        <component name="region">Västra Götaland</component>
-        <component name="country">SE</component>
-      </address>
-      <condition>GOOD</condition>
-      <state_of_vehicle>USED</state_of_vehicle>
-      <frivio:listing_type>auction</frivio:listing_type>
-      <frivio:auction_end_date>2026-06-24T17:00:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>110000 SEK</frivio:current_bid>
-      <frivio:bid_count>8</frivio:bid_count>
-      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>1740 kr/mån</frivio:monthly_cost>
-      <body_style>OTHER</body_style>
-      <frivio:body_type_label>Husvagn</frivio:body_type_label>
-      <fuel_type>NONE</fuel_type>
-      <frivio:region>Västra Götaland</frivio:region>
-      <availability>AVAILABLE</availability>
-      <custom_label_0>Husvagn</custom_label_0>
-      <custom_label_1>Slutar 2026-06-24 17:00</custom_label_1>
-    </item>
+    <lastBuildDate>Wed, 24 Jun 2026 17:11:15 GMT</lastBuildDate>
     <item>
       <vehicle_id>589</vehicle_id>
       <g:id>589</g:id>
@@ -251,8 +142,8 @@
         <value>0</value>
         <unit>KM</unit>
       </mileage>
-      <price>120000 SEK</price>
-      <g:price>120000 SEK</g:price>
+      <price>120500 SEK</price>
+      <g:price>120500 SEK</g:price>
       <address>Båstad</address>
       <address format="simple">
         <component name="addr1">Båstad</component>
@@ -265,10 +156,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-06-25T17:22:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>120000 SEK</frivio:current_bid>
-      <frivio:bid_count>1</frivio:bid_count>
+      <frivio:current_bid>120500 SEK</frivio:current_bid>
+      <frivio:bid_count>2</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>1899 kr/mån</frivio:monthly_cost>
+      <frivio:monthly_cost>1907 kr/mån</frivio:monthly_cost>
       <body_style>OTHER</body_style>
       <frivio:body_type_label>Husvagn</frivio:body_type_label>
       <fuel_type>NONE</fuel_type>
@@ -839,7 +730,7 @@
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-07-01T16:00:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
       <frivio:current_bid>11500 SEK</frivio:current_bid>
       <frivio:bid_count>0</frivio:bid_count>
       <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
@@ -893,7 +784,7 @@
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-07-01T16:09:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
       <frivio:current_bid>120000 SEK</frivio:current_bid>
       <frivio:bid_count>1</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
@@ -942,7 +833,7 @@
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-07-01T16:33:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
       <frivio:current_bid>25000 SEK</frivio:current_bid>
       <frivio:bid_count>0</frivio:bid_count>
       <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
