@@ -4,7 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Wed, 24 Jun 2026 04:14:58 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 08:28:44 GMT</lastBuildDate>
     <item>
       <vehicle_id>591</vehicle_id>
       <g:id>591</g:id>
@@ -1957,6 +1957,60 @@
       <availability>AVAILABLE</availability>
       <custom_label_0>Båt</custom_label_0>
       <custom_label_1>Slutar 2026-07-12 17:00</custom_label_1>
+    </item>
+    <item>
+      <vehicle_id>626</vehicle_id>
+      <g:id>626</g:id>
+      <title>Windy 24 MC</title>
+      <description>Windy 24 MC är en klassisk norsk kvalitetsbåt från 1981, känd för sin robusta konstruktion, goda sjöegenskaper och välplanerade layout. Båten är utrustad med en Volvo Penta 260 AQ med AQ280-drev som ger pålitlig drift och fina prestanda på vattnet. För bästa grepp och drivkraft medföljer två uppsättningar duoprop-propellrar. Den rymliga midcabin-lösningen erbjuder bekväma övernattningsmöjligheter och gör båten väl lämpad för både dagsutflykter och längre turer. - V8 Chevablock på 275hk. - Sötvattenkylning - Ca 30 gångtimmar senaste 10 åren - Drev ompackat med nya bälgar 2024 - Nya begagnade avgaslimpor 2025 - 3st nya batterier 2026 - Ny toalett 2026 - El-ankarspel - Kapell 6 år - tvättat med nya sömmar och nytt fönster 2026 Årsmodell: 1981 · Typ: Båt · Ort: Stockholm</description>
+      <url>https://frivio.se/auktion/626</url>
+      <g:link>https://frivio.se/auktion/626</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/626/a1782289556591.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/626/a1782289556591.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/626/b1782289556766.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/626/c1782289556931.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/626/d1782289557057.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/626/e1782289557176.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/626/f1782289557303.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/626/g1782289557415.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/626/h1782289557537.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/626/i1782289557674.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/626/j1782289557797.jpeg</g:additional_image_link>
+      <make>Windy</make>
+      <model>Windy 24 MC</model>
+      <year>1981</year>
+      <mileage>
+        <value>0</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>45000 SEK</price>
+      <g:price>45000 SEK</g:price>
+      <address>Stockholm</address>
+      <address format="simple">
+        <component name="addr1">Stockholm</component>
+        <component name="city">Stockholm</component>
+        <component name="region">Stockholm</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <frivio:listing_type>auction</frivio:listing_type>
+      <frivio:auction_end_date>2026-07-15T17:25:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>45000 SEK</frivio:current_bid>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
+      <frivio:monthly_cost>712 kr/mån</frivio:monthly_cost>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Båt</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
+      <frivio:region>Stockholm</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Båt</custom_label_0>
+      <custom_label_1>Slutar 2026-07-15 17:25</custom_label_1>
     </item>
   </channel>
 </rss>
