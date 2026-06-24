@@ -4,7 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Wed, 24 Jun 2026 08:28:44 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 11:51:15 GMT</lastBuildDate>
     <item>
       <vehicle_id>591</vehicle_id>
       <g:id>591</g:id>
@@ -34,8 +34,8 @@
         <value>0</value>
         <unit>KM</unit>
       </mileage>
-      <price>68000 SEK</price>
-      <g:price>68000 SEK</g:price>
+      <price>70000 SEK</price>
+      <g:price>70000 SEK</g:price>
       <address>Leksand</address>
       <address format="simple">
         <component name="addr1">Leksand</component>
@@ -48,10 +48,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-06-24T15:11:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>68000 SEK</frivio:current_bid>
-      <frivio:bid_count>9</frivio:bid_count>
+      <frivio:current_bid>70000 SEK</frivio:current_bid>
+      <frivio:bid_count>10</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>1076 kr/mån</frivio:monthly_cost>
+      <frivio:monthly_cost>1108 kr/mån</frivio:monthly_cost>
       <body_style>OTHER</body_style>
       <frivio:body_type_label>Båt</frivio:body_type_label>
       <fuel_type>NONE</fuel_type>
@@ -1904,6 +1904,114 @@
       <custom_label_1>Slutar 2026-07-09 17:24</custom_label_1>
     </item>
     <item>
+      <vehicle_id>628</vehicle_id>
+      <g:id>628</g:id>
+      <title>Joda Caribic 290</title>
+      <description>Joda Caribic 290 från 1995. En klassisk och rymlig familjecruiser som erbjuder gott om komfort för både dagsutflykter och längre turer på sjön. Den stora sittbrunnen med kapell ger generösa sociala ytor, medan den välplanerade kabinen erbjuder bekväma sovplatser, sittgrupp, pentry och goda förvaringsmöjligheter. Båten har en tidlös inredning i trä som skapar en varm och trivsam känsla ombord. Stabil, sjövärdig och väl lämpad för semesterlivet på vattnet. - Kad 42 / 290dp - Motortimmar 613h - Tank cirka 400l - Dieselmotor - Ny propeller 2023 - Nytt kylskåp 2019 - Ny turbo 2016 - Bog finns nyare - Dieselvärmare - Kapell i bruksskick - Trailer ingår ej Årsmodell: 1995 · Typ: Båt · Ort: Simrishamn</description>
+      <url>https://frivio.se/auktion/628</url>
+      <g:link>https://frivio.se/auktion/628</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/628/a1782293257351.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/628/a1782293257351.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/628/b1782293257871.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/628/c1782293258213.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/628/d1782293257538.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/628/e1782293258005.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/628/f1782293257669.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/628/g1782293257772.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/628/h1782293258111.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/628/i1782293258455.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/628/j1782293258339.jpeg</g:additional_image_link>
+      <make>Joda</make>
+      <model>Joda Caribic 290</model>
+      <year>1995</year>
+      <mileage>
+        <value>0</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>125000 SEK</price>
+      <g:price>125000 SEK</g:price>
+      <address>Simrishamn</address>
+      <address format="simple">
+        <component name="addr1">Simrishamn</component>
+        <component name="city">Simrishamn</component>
+        <component name="region">Skåne</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <frivio:listing_type>auction</frivio:listing_type>
+      <frivio:auction_end_date>2026-07-09T17:27:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>125000 SEK</frivio:current_bid>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
+      <frivio:monthly_cost>1978 kr/mån</frivio:monthly_cost>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Båt</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
+      <frivio:region>Skåne</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Båt</custom_label_0>
+      <custom_label_1>Slutar 2026-07-09 17:27</custom_label_1>
+    </item>
+    <item>
+      <vehicle_id>623</vehicle_id>
+      <g:id>623</g:id>
+      <title>Bayliner 652</title>
+      <description>Mycket trevlig Bayliner 652 från 2006 med en pålitlig MerCruiser 4.3l innombordare. En rymlig daycruiser med sovplats för två, kapell, badplattform och rejäl aktersoffa som kan bli solbädd. Perfekt för dagsutflykter och övernattning. Stabil och lättkröd båt med gott om förvaring. Välskött och bra omhändertagen. - MerCruiser 4.3l 190hk - Nyservad av varv vid upptagning i höstas - Ny GPS Garmin 9&quot; från 2024 - Stereo med högtalare i ruffen och sittbrunnen (4st) - Hamnkapell - Aldrig bottenmålad - Boogietrailer 80km/h som är besiktad till 2026-06-30 ingår Årsmodell: 2006 · Typ: Båt · Ort: Norrköping</description>
+      <url>https://frivio.se/auktion/623</url>
+      <g:link>https://frivio.se/auktion/623</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/623/a1782286248909.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/623/a1782286248909.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/623/b1782286249094.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/623/c1782286249236.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/623/d1782286249362.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/623/e1782286249498.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/623/f1782286249633.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/623/g1782286249774.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/623/h1782286250172.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/623/i1782286249922.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/623/j1782286250039.jpeg</g:additional_image_link>
+      <make>Bayliner</make>
+      <model>Bayliner 652 </model>
+      <year>2006</year>
+      <mileage>
+        <value>0</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>74500 SEK</price>
+      <g:price>74500 SEK</g:price>
+      <address>Norrköping</address>
+      <address format="simple">
+        <component name="addr1">Norrköping</component>
+        <component name="city">Norrköping</component>
+        <component name="region">Östergötland</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <frivio:listing_type>auction</frivio:listing_type>
+      <frivio:auction_end_date>2026-07-09T17:30:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>74500 SEK</frivio:current_bid>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
+      <frivio:monthly_cost>1179 kr/mån</frivio:monthly_cost>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Båt</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
+      <frivio:region>Östergötland</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Båt</custom_label_0>
+      <custom_label_1>Slutar 2026-07-09 17:30</custom_label_1>
+    </item>
+    <item>
       <vehicle_id>576</vehicle_id>
       <g:id>576</g:id>
       <title>Marinbo</title>
@@ -1957,6 +2065,61 @@
       <availability>AVAILABLE</availability>
       <custom_label_0>Båt</custom_label_0>
       <custom_label_1>Slutar 2026-07-12 17:00</custom_label_1>
+    </item>
+    <item>
+      <vehicle_id>625</vehicle_id>
+      <g:id>625</g:id>
+      <title>Uttern D55 Exclusive</title>
+      <description>Mycket trevlig Uttern D55 Exclusive från 2006 - en välplanerad daycruiser som passar perfekt för både dagsutflykter och övernattningar. Rymlig kabin med sovplats för två, stort soldäck i fören och bekväm sittbrunn med plats för familj och vänner. Utrustad med kapell, badplattform och gott om förvaring. Sjösäker, lättkörd och välskött båt som erbjuder många härliga dagar på sjön. - Båtplats för 2026 kan ingå - Motorn servades i september 2025 - 4-takts MerCruiser 3.0 135hk - Plotter Garmin 720S - Nya plottar &amp; stöd för ekolod - Motor och drev är servat - Mycket tillbehör medföljer så som fendrar, båtshake, nya tampar, kil-kit et.c - Elektrisk ankarvinsch/spel med knapptryckning - 30km/h trailer ingår Årsmodell: 2006 · Typ: Båt · Ort: Kungsbacka</description>
+      <url>https://frivio.se/auktion/625</url>
+      <g:link>https://frivio.se/auktion/625</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/625/b1782291304736.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/625/b1782291304736.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/625/c1782291304895.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/625/d1782291305017.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/625/e1782291305148.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/625/f1782291305272.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/625/g1782291305416.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/625/h1782291305561.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/625/i1782291305700.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/625/j1782291305836.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/625/k1782291305980.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/625/l1782291306123.jpeg</g:additional_image_link>
+      <make>Uttern</make>
+      <model>Uttern D55 Exclusive </model>
+      <year>2006</year>
+      <mileage>
+        <value>0</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>75000 SEK</price>
+      <g:price>75000 SEK</g:price>
+      <address>Kungsbacka</address>
+      <address format="simple">
+        <component name="addr1">Kungsbacka</component>
+        <component name="city">Kungsbacka</component>
+        <component name="region">Halland</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <frivio:listing_type>auction</frivio:listing_type>
+      <frivio:auction_end_date>2026-07-14T16:14:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>75000 SEK</frivio:current_bid>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
+      <frivio:monthly_cost>1187 kr/mån</frivio:monthly_cost>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Båt</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
+      <frivio:region>Halland</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Båt</custom_label_0>
+      <custom_label_1>Slutar 2026-07-14 16:14</custom_label_1>
     </item>
     <item>
       <vehicle_id>626</vehicle_id>
