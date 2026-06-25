@@ -4,118 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Thu, 25 Jun 2026 14:48:02 GMT</lastBuildDate>
-    <item>
-      <vehicle_id>589</vehicle_id>
-      <g:id>589</g:id>
-      <title>Pilote G741J</title>
-      <description>Pilote G741J Emotion från 2014 är en helintegrerad husbil som erbjuder hög komfort och smart planlösning. Den rymliga sittgruppen med svängbara pilotstolar skapar en trivsam bodel, medan köket erbjuder goda arbetsytor och stor kyl med frysfack. Bak finns bekväma långbäddar samt separat dusch och toalett. Generösa förvaringsutrymmen, TV och markis gör den perfekt för både korta och långa resor. - Tillverkad 2014-12 - Kamkedja - Stor service gjord 2023 - Besiktad till 2027-04-30 - Fukttest ej utfört Årsmodell: 2014 · Typ: Husbil · Drivmedel: Diesel · Växellåda: Automatisk · Mätarställning: 8 300 mil · Ort: Trosa</description>
-      <url>https://frivio.se/auktion/589</url>
-      <g:link>https://frivio.se/auktion/589</g:link>
-      <image>
-        <url>https://backend.frivio.se/vehicle/589/a1781073186709.jpeg</url>
-        <tag>Exterior</tag>
-      </image>
-      <g:image_link>https://backend.frivio.se/vehicle/589/a1781073186709.jpeg</g:image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/589/b1781073187079.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/589/c1781073187214.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/589/d1781073186358.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/589/e1781073186545.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/589/f1781073187338.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/589/g1781073186962.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/589/h1781073186840.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/589/i1781073187478.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/589/j1781073187585.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/589/k1781073187707.jpeg</g:additional_image_link>
-      <make>Pilote</make>
-      <model>G741J</model>
-      <year>2014</year>
-      <mileage>
-        <value>83000</value>
-        <unit>KM</unit>
-      </mileage>
-      <price>405000 SEK</price>
-      <g:price>405000 SEK</g:price>
-      <address>Trosa</address>
-      <address format="simple">
-        <component name="addr1">Trosa</component>
-        <component name="city">Trosa</component>
-        <component name="region">Södermanland</component>
-        <component name="country">SE</component>
-      </address>
-      <condition>GOOD</condition>
-      <state_of_vehicle>USED</state_of_vehicle>
-      <transmission>AUTOMATIC</transmission>
-      <frivio:listing_type>auction</frivio:listing_type>
-      <frivio:auction_end_date>2026-06-25T15:28:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>405000 SEK</frivio:current_bid>
-      <frivio:bid_count>7</frivio:bid_count>
-      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>6408 kr/mån</frivio:monthly_cost>
-      <body_style>VAN</body_style>
-      <frivio:body_type_label>Husbil</frivio:body_type_label>
-      <fuel_type>DIESEL</fuel_type>
-      <frivio:region>Södermanland</frivio:region>
-      <availability>AVAILABLE</availability>
-      <custom_label_0>Husbil</custom_label_0>
-      <custom_label_1>Slutar 2026-06-25 15:28</custom_label_1>
-    </item>
-    <item>
-      <vehicle_id>586</vehicle_id>
-      <g:id>586</g:id>
-      <title>Adria Classica 743UT</title>
-      <description>Adria Classica 743 UT av årsmodell 2008 erbjuder en planlösning som passar den större familjen med våningssängar, en rymlig dubbelsäng och en generös U-soffa längst fram som även kan bäddas vid behov. Köket är utrustat med stor kyl och gott om förvaringsutrymmen, medan den genomtänkta planlösningen skapar tydliga ytor för både umgänge och vila. En välutrustad husvagn med många sovplatser och gott om plats för längre semestrar. - Viss fukt har noterats höger bak, och vid mitten av husvagnen vid våningssäng - Levereras nybesiktad - OBS! Förtältet som syns på bilderna ingår ej Årsmodell: 2008 · Typ: Husvagn · Ort: Askersund</description>
-      <url>https://frivio.se/auktion/586</url>
-      <g:link>https://frivio.se/auktion/586</g:link>
-      <image>
-        <url>https://backend.frivio.se/vehicle/586/a1780998838692.jpeg</url>
-        <tag>Exterior</tag>
-      </image>
-      <g:image_link>https://backend.frivio.se/vehicle/586/a1780998838692.jpeg</g:image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/586/b1780998838878.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/586/c1780998839024.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/586/d1780998839373.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/586/e1780998839252.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/586/f1780998839143.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/586/g1780998839530.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/586/h1780998839780.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/586/i1780998839667.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/586/j1780998839906.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/586/k1780998840046.jpeg</g:additional_image_link>
-      <make>Adria</make>
-      <model>Classica 743UT</model>
-      <year>2008</year>
-      <mileage>
-        <value>0</value>
-        <unit>KM</unit>
-      </mileage>
-      <price>68000 SEK</price>
-      <g:price>68000 SEK</g:price>
-      <address>Askersund</address>
-      <address format="simple">
-        <component name="addr1">Askersund</component>
-        <component name="city">Askersund</component>
-        <component name="region">Örebro</component>
-        <component name="country">SE</component>
-      </address>
-      <condition>GOOD</condition>
-      <state_of_vehicle>USED</state_of_vehicle>
-      <frivio:listing_type>auction</frivio:listing_type>
-      <frivio:auction_end_date>2026-06-25T15:41:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>68000 SEK</frivio:current_bid>
-      <frivio:bid_count>5</frivio:bid_count>
-      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>1076 kr/mån</frivio:monthly_cost>
-      <body_style>OTHER</body_style>
-      <frivio:body_type_label>Husvagn</frivio:body_type_label>
-      <fuel_type>NONE</fuel_type>
-      <frivio:region>Örebro</frivio:region>
-      <availability>AVAILABLE</availability>
-      <custom_label_0>Husvagn</custom_label_0>
-      <custom_label_1>Slutar 2026-06-25 15:41</custom_label_1>
-    </item>
+    <lastBuildDate>Thu, 25 Jun 2026 17:19:44 GMT</lastBuildDate>
     <item>
       <vehicle_id>587</vehicle_id>
       <g:id>587</g:id>
@@ -887,7 +776,7 @@
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-07-02T15:40:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
       <frivio:current_bid>36000 SEK</frivio:current_bid>
       <frivio:bid_count>1</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
@@ -939,7 +828,7 @@
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-07-02T15:43:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
       <frivio:current_bid>35500 SEK</frivio:current_bid>
       <frivio:bid_count>0</frivio:bid_count>
       <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
@@ -991,7 +880,7 @@
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-07-02T15:50:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
       <frivio:current_bid>132500 SEK</frivio:current_bid>
       <frivio:bid_count>0</frivio:bid_count>
       <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
@@ -1045,7 +934,7 @@
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-07-02T17:06:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
       <frivio:current_bid>137500 SEK</frivio:current_bid>
       <frivio:bid_count>0</frivio:bid_count>
       <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
@@ -1099,7 +988,7 @@
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-07-02T17:07:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
       <frivio:current_bid>150000 SEK</frivio:current_bid>
       <frivio:bid_count>0</frivio:bid_count>
       <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
