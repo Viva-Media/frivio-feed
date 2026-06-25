@@ -4,59 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Thu, 25 Jun 2026 17:19:44 GMT</lastBuildDate>
-    <item>
-      <vehicle_id>587</vehicle_id>
-      <g:id>587</g:id>
-      <title>Kabe Royal 560 LXL KS</title>
-      <description>Kabe Royal 560 LXL KS från 2013 erbjuder en välplanerad planlösning med franskbädd längst bak, toalett i anslutning till sovdelen samt ett centralt placerat kök med generösa arbetsytor och stor kyl. Längst fram finns en rymlig soffa som skapar gott om plats för umgänge och kan bäddas vid behov. Vagnen är utrustad med Kabes välkända komfort- och värmesystem och passar lika bra för semesterturer som längre vistelser. - Gasoltest utfört 2024-07-24 - Fukttest utfört 2018 - Besiktad till 2027-04-30 Årsmodell: 2013 · Typ: Husvagn · Ort: Båstad</description>
-      <url>https://frivio.se/auktion/587</url>
-      <g:link>https://frivio.se/auktion/587</g:link>
-      <image>
-        <url>https://backend.frivio.se/vehicle/587/a1781004462829.jpeg</url>
-        <tag>Exterior</tag>
-      </image>
-      <g:image_link>https://backend.frivio.se/vehicle/587/a1781004462829.jpeg</g:image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/587/b1781004462424.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/587/c1781004463308.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/587/d1781004462659.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/587/e1781004462987.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/587/f1781004463596.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/587/g1781004463162.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/587/h1781004463469.jpeg</g:additional_image_link>
-      <make>Kabe</make>
-      <model>Royal 560 LXL KS</model>
-      <year>2013</year>
-      <mileage>
-        <value>0</value>
-        <unit>KM</unit>
-      </mileage>
-      <price>121000 SEK</price>
-      <g:price>121000 SEK</g:price>
-      <address>Båstad</address>
-      <address format="simple">
-        <component name="addr1">Båstad</component>
-        <component name="city">Båstad</component>
-        <component name="region">Skåne</component>
-        <component name="country">SE</component>
-      </address>
-      <condition>GOOD</condition>
-      <state_of_vehicle>USED</state_of_vehicle>
-      <frivio:listing_type>auction</frivio:listing_type>
-      <frivio:auction_end_date>2026-06-25T17:22:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>121000 SEK</frivio:current_bid>
-      <frivio:bid_count>3</frivio:bid_count>
-      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>1914 kr/mån</frivio:monthly_cost>
-      <body_style>OTHER</body_style>
-      <frivio:body_type_label>Husvagn</frivio:body_type_label>
-      <fuel_type>NONE</fuel_type>
-      <frivio:region>Skåne</frivio:region>
-      <availability>AVAILABLE</availability>
-      <custom_label_0>Husvagn</custom_label_0>
-      <custom_label_1>Slutar 2026-06-25 17:22</custom_label_1>
-    </item>
+    <lastBuildDate>Thu, 25 Jun 2026 20:13:13 GMT</lastBuildDate>
     <item>
       <vehicle_id>585</vehicle_id>
       <g:id>585</g:id>
@@ -250,8 +198,8 @@
         <value>0</value>
         <unit>KM</unit>
       </mileage>
-      <price>110000 SEK</price>
-      <g:price>110000 SEK</g:price>
+      <price>115000 SEK</price>
+      <g:price>115000 SEK</g:price>
       <address>Karlshamn</address>
       <address format="simple">
         <component name="addr1">Karlshamn</component>
@@ -264,10 +212,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-06-30T14:36:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>110000 SEK</frivio:current_bid>
-      <frivio:bid_count>1</frivio:bid_count>
+      <frivio:current_bid>115000 SEK</frivio:current_bid>
+      <frivio:bid_count>2</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>1740 kr/mån</frivio:monthly_cost>
+      <frivio:monthly_cost>1820 kr/mån</frivio:monthly_cost>
       <body_style>OTHER</body_style>
       <frivio:body_type_label>Husvagn</frivio:body_type_label>
       <fuel_type>NONE</fuel_type>
@@ -1043,7 +991,7 @@
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-07-02T17:32:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
       <frivio:current_bid>113000 SEK</frivio:current_bid>
       <frivio:bid_count>0</frivio:bid_count>
       <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
