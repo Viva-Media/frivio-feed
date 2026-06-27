@@ -4,7 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Sat, 27 Jun 2026 10:19:24 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 12:12:38 GMT</lastBuildDate>
     <item>
       <vehicle_id>585</vehicle_id>
       <g:id>585</g:id>
@@ -815,8 +815,8 @@
         <value>0</value>
         <unit>KM</unit>
       </mileage>
-      <price>132500 SEK</price>
-      <g:price>132500 SEK</g:price>
+      <price>134000 SEK</price>
+      <g:price>134000 SEK</g:price>
       <address>Nybro</address>
       <address format="simple">
         <component name="addr1">Nybro</component>
@@ -829,10 +829,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-07-02T15:50:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>132500 SEK</frivio:current_bid>
-      <frivio:bid_count>0</frivio:bid_count>
-      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
-      <frivio:monthly_cost>2096 kr/mån</frivio:monthly_cost>
+      <frivio:current_bid>134000 SEK</frivio:current_bid>
+      <frivio:bid_count>1</frivio:bid_count>
+      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
+      <frivio:monthly_cost>2120 kr/mån</frivio:monthly_cost>
       <body_style>OTHER</body_style>
       <frivio:body_type_label>Husvagn</frivio:body_type_label>
       <fuel_type>NONE</fuel_type>
