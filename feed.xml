@@ -4,7 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Sat, 27 Jun 2026 18:11:29 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 20:14:50 GMT</lastBuildDate>
     <item>
       <vehicle_id>585</vehicle_id>
       <g:id>585</g:id>
@@ -357,8 +357,8 @@
         <value>0</value>
         <unit>KM</unit>
       </mileage>
-      <price>26000 SEK</price>
-      <g:price>26000 SEK</g:price>
+      <price>27000 SEK</price>
+      <g:price>27000 SEK</g:price>
       <address>Växjö</address>
       <address format="simple">
         <component name="addr1">Växjö</component>
@@ -371,10 +371,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-06-30T15:40:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>26000 SEK</frivio:current_bid>
-      <frivio:bid_count>1</frivio:bid_count>
+      <frivio:current_bid>27000 SEK</frivio:current_bid>
+      <frivio:bid_count>2</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>411 kr/mån</frivio:monthly_cost>
+      <frivio:monthly_cost>427 kr/mån</frivio:monthly_cost>
       <body_style>OTHER</body_style>
       <frivio:body_type_label>Båt</frivio:body_type_label>
       <fuel_type>NONE</fuel_type>
@@ -763,8 +763,8 @@
         <value>0</value>
         <unit>KM</unit>
       </mileage>
-      <price>35500 SEK</price>
-      <g:price>35500 SEK</g:price>
+      <price>36000 SEK</price>
+      <g:price>36000 SEK</g:price>
       <address>Finspång</address>
       <address format="simple">
         <component name="addr1">Finspång</component>
@@ -777,10 +777,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-07-02T15:43:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>35500 SEK</frivio:current_bid>
-      <frivio:bid_count>0</frivio:bid_count>
-      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
-      <frivio:monthly_cost>562 kr/mån</frivio:monthly_cost>
+      <frivio:current_bid>36000 SEK</frivio:current_bid>
+      <frivio:bid_count>1</frivio:bid_count>
+      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
+      <frivio:monthly_cost>570 kr/mån</frivio:monthly_cost>
       <body_style>OTHER</body_style>
       <frivio:body_type_label>Husvagn</frivio:body_type_label>
       <fuel_type>NONE</fuel_type>
