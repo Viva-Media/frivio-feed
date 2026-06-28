@@ -4,7 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Sun, 28 Jun 2026 14:05:55 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 16:19:25 GMT</lastBuildDate>
     <item>
       <vehicle_id>585</vehicle_id>
       <g:id>585</g:id>
@@ -657,8 +657,8 @@
         <value>0</value>
         <unit>KM</unit>
       </mileage>
-      <price>25000 SEK</price>
-      <g:price>25000 SEK</g:price>
+      <price>25500 SEK</price>
+      <g:price>25500 SEK</g:price>
       <address>Tibro</address>
       <address format="simple">
         <component name="addr1">Tibro</component>
@@ -671,10 +671,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-07-01T16:33:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>25000 SEK</frivio:current_bid>
-      <frivio:bid_count>0</frivio:bid_count>
-      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
-      <frivio:monthly_cost>396 kr/mån</frivio:monthly_cost>
+      <frivio:current_bid>25500 SEK</frivio:current_bid>
+      <frivio:bid_count>1</frivio:bid_count>
+      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
+      <frivio:monthly_cost>403 kr/mån</frivio:monthly_cost>
       <body_style>OTHER</body_style>
       <frivio:body_type_label>Båt</frivio:body_type_label>
       <fuel_type>NONE</fuel_type>
@@ -763,8 +763,8 @@
         <value>0</value>
         <unit>KM</unit>
       </mileage>
-      <price>40000 SEK</price>
-      <g:price>40000 SEK</g:price>
+      <price>45000 SEK</price>
+      <g:price>45000 SEK</g:price>
       <address>Finspång</address>
       <address format="simple">
         <component name="addr1">Finspång</component>
@@ -777,10 +777,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-07-02T15:43:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>40000 SEK</frivio:current_bid>
-      <frivio:bid_count>4</frivio:bid_count>
+      <frivio:current_bid>45000 SEK</frivio:current_bid>
+      <frivio:bid_count>6</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>633 kr/mån</frivio:monthly_cost>
+      <frivio:monthly_cost>712 kr/mån</frivio:monthly_cost>
       <body_style>OTHER</body_style>
       <frivio:body_type_label>Husvagn</frivio:body_type_label>
       <fuel_type>NONE</fuel_type>
@@ -978,8 +978,8 @@
         <value>0</value>
         <unit>KM</unit>
       </mileage>
-      <price>113000 SEK</price>
-      <g:price>113000 SEK</g:price>
+      <price>117000 SEK</price>
+      <g:price>117000 SEK</g:price>
       <address>Heby</address>
       <address format="simple">
         <component name="addr1">Heby</component>
@@ -992,10 +992,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-07-02T17:32:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>113000 SEK</frivio:current_bid>
-      <frivio:bid_count>0</frivio:bid_count>
-      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
-      <frivio:monthly_cost>1788 kr/mån</frivio:monthly_cost>
+      <frivio:current_bid>117000 SEK</frivio:current_bid>
+      <frivio:bid_count>1</frivio:bid_count>
+      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
+      <frivio:monthly_cost>1851 kr/mån</frivio:monthly_cost>
       <body_style>OTHER</body_style>
       <frivio:body_type_label>Husvagn</frivio:body_type_label>
       <fuel_type>NONE</fuel_type>
@@ -1042,7 +1042,7 @@
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-07-05T15:02:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
       <frivio:current_bid>180000 SEK</frivio:current_bid>
       <frivio:bid_count>0</frivio:bid_count>
       <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
@@ -1084,8 +1084,8 @@
         <value>0</value>
         <unit>KM</unit>
       </mileage>
-      <price>94500 SEK</price>
-      <g:price>94500 SEK</g:price>
+      <price>95500 SEK</price>
+      <g:price>95500 SEK</g:price>
       <address>Östersund</address>
       <address format="simple">
         <component name="addr1">Östersund</component>
@@ -1098,10 +1098,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-07-05T17:53:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>94500 SEK</frivio:current_bid>
-      <frivio:bid_count>0</frivio:bid_count>
-      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
-      <frivio:monthly_cost>1495 kr/mån</frivio:monthly_cost>
+      <frivio:current_bid>95500 SEK</frivio:current_bid>
+      <frivio:bid_count>1</frivio:bid_count>
+      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
+      <frivio:monthly_cost>1511 kr/mån</frivio:monthly_cost>
       <body_style>OTHER</body_style>
       <frivio:body_type_label>Husvagn</frivio:body_type_label>
       <fuel_type>NONE</fuel_type>
@@ -1498,8 +1498,8 @@
         <value>70000</value>
         <unit>KM</unit>
       </mileage>
-      <price>475000 SEK</price>
-      <g:price>475000 SEK</g:price>
+      <price>500000 SEK</price>
+      <g:price>500000 SEK</g:price>
       <address>Säter</address>
       <address format="simple">
         <component name="addr1">Säter</component>
@@ -1513,10 +1513,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-07-08T17:30:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>475000 SEK</frivio:current_bid>
-      <frivio:bid_count>5</frivio:bid_count>
+      <frivio:current_bid>500000 SEK</frivio:current_bid>
+      <frivio:bid_count>6</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>7515 kr/mån</frivio:monthly_cost>
+      <frivio:monthly_cost>7911 kr/mån</frivio:monthly_cost>
       <body_style>VAN</body_style>
       <frivio:body_type_label>Husbil</frivio:body_type_label>
       <fuel_type>DIESEL</fuel_type>
@@ -1605,8 +1605,8 @@
         <value>0</value>
         <unit>KM</unit>
       </mileage>
-      <price>187500 SEK</price>
-      <g:price>187500 SEK</g:price>
+      <price>210000 SEK</price>
+      <g:price>210000 SEK</g:price>
       <address>Nora</address>
       <address format="simple">
         <component name="addr1">Nora</component>
@@ -1619,10 +1619,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-07-09T17:24:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>187500 SEK</frivio:current_bid>
-      <frivio:bid_count>0</frivio:bid_count>
-      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
-      <frivio:monthly_cost>2967 kr/mån</frivio:monthly_cost>
+      <frivio:current_bid>210000 SEK</frivio:current_bid>
+      <frivio:bid_count>1</frivio:bid_count>
+      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
+      <frivio:monthly_cost>3323 kr/mån</frivio:monthly_cost>
       <body_style>OTHER</body_style>
       <frivio:body_type_label>Husvagn</frivio:body_type_label>
       <fuel_type>NONE</fuel_type>
