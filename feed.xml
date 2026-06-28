@@ -4,7 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Sun, 28 Jun 2026 16:19:25 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 18:11:20 GMT</lastBuildDate>
     <item>
       <vehicle_id>585</vehicle_id>
       <g:id>585</g:id>
@@ -1097,7 +1097,7 @@
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-07-05T17:53:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
       <frivio:current_bid>95500 SEK</frivio:current_bid>
       <frivio:bid_count>1</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
@@ -1189,8 +1189,8 @@
         <value>0</value>
         <unit>KM</unit>
       </mileage>
-      <price>155000 SEK</price>
-      <g:price>155000 SEK</g:price>
+      <price>160000 SEK</price>
+      <g:price>160000 SEK</g:price>
       <address>Sölvesborg</address>
       <address format="simple">
         <component name="addr1">Sölvesborg</component>
@@ -1203,10 +1203,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-07-07T15:31:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>155000 SEK</frivio:current_bid>
-      <frivio:bid_count>2</frivio:bid_count>
+      <frivio:current_bid>160000 SEK</frivio:current_bid>
+      <frivio:bid_count>3</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>2452 kr/mån</frivio:monthly_cost>
+      <frivio:monthly_cost>2532 kr/mån</frivio:monthly_cost>
       <body_style>OTHER</body_style>
       <frivio:body_type_label>Båt</frivio:body_type_label>
       <fuel_type>NONE</fuel_type>
