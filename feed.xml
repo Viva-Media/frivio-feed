@@ -4,7 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Mon, 29 Jun 2026 05:57:51 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 11:20:33 GMT</lastBuildDate>
     <item>
       <vehicle_id>585</vehicle_id>
       <g:id>585</g:id>
@@ -1795,6 +1795,59 @@
       <custom_label_1>Slutar 2026-07-12 17:00</custom_label_1>
     </item>
     <item>
+      <vehicle_id>624</vehicle_id>
+      <g:id>624</g:id>
+      <title>Silver Fox 485</title>
+      <description>Praktisk och lättkörd Silver Fox 485 med Mercury FourStroke EFI. Stabil aluminiumbåt som passar lika bra för fiske som transporter och dagsutflykter. Rymlig planlösning med goda stuvutrymmen och lättillgängliga ytor ombord. Smidig att traila och sjösätta. En robust och mångsidig båt för både nybörjare och erfarna båtägare. - Trailer obromsad ingår och besiktas innan leverans - Mercury FourStoke EFI 50hk inköpt samtidigt som båten - Servad enligt bok - Impeller bytt för 3 år sedan - Cirka 60-70 motortimmar - Kompletta dynor 5st - Garmin plotter 7 år gammal Årsmodell: 2006 · Typ: Båt · Ort: Lidköping</description>
+      <url>https://frivio.se/auktion/624</url>
+      <g:link>https://frivio.se/auktion/624</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/624/a1782288803746.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/624/a1782288803746.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/624/b1782288803916.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/624/c1782288804493.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/624/d1782288804634.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/624/e1782288804076.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/624/f1782288804353.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/624/g1782288804226.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/624/h1782288804791.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/624/i1782288804932.jpeg</g:additional_image_link>
+      <make>Silver</make>
+      <model>Silver Fox 485</model>
+      <year>2006</year>
+      <mileage>
+        <value>0</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>49000 SEK</price>
+      <g:price>49000 SEK</g:price>
+      <address>Lidköping</address>
+      <address format="simple">
+        <component name="addr1">Lidköping</component>
+        <component name="city">Lidköping</component>
+        <component name="region">Västra Götaland</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <frivio:listing_type>auction</frivio:listing_type>
+      <frivio:auction_end_date>2026-07-12T17:04:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>49000 SEK</frivio:current_bid>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
+      <frivio:monthly_cost>775 kr/mån</frivio:monthly_cost>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Båt</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
+      <frivio:region>Västra Götaland</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Båt</custom_label_0>
+      <custom_label_1>Slutar 2026-07-12 17:04</custom_label_1>
+    </item>
+    <item>
       <vehicle_id>625</vehicle_id>
       <g:id>625</g:id>
       <title>Uttern D55 Exclusive</title>
@@ -1848,6 +1901,57 @@
       <availability>AVAILABLE</availability>
       <custom_label_0>Båt</custom_label_0>
       <custom_label_1>Slutar 2026-07-14 16:14</custom_label_1>
+    </item>
+    <item>
+      <vehicle_id>629</vehicle_id>
+      <g:id>629</g:id>
+      <title>Kabe Royal 560 LXL KS</title>
+      <description>Kabe Royal 560 LXL KS från 2013 erbjuder en välplanerad planlösning med franskbädd längst bak, toalett i anslutning till sovdelen samt ett centralt placerat kök med generösa arbetsytor och stor kyl. Längst fram finns en rymlig soffa som skapar gott om plats för umgänge och kan bäddas vid behov. Vagnen är utrustad med Kabes välkända komfort- och värmesystem och passar lika bra för semesterturer som längre vistelser. - Gasoltest utfört 2024-07-24 - Fukttest utfört 2018 UA - Besiktad till 2027-04-30 Årsmodell: 2013 · Typ: Husvagn · Ort: Båstad</description>
+      <url>https://frivio.se/auktion/629</url>
+      <g:link>https://frivio.se/auktion/629</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/629/a1782726398039.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/629/a1782726398039.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/629/b1782726397885.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/629/c1782726398215.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/629/d1782726397499.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/629/e1782726397689.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/629/f1782726398375.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/629/g1782726397281.jpeg</g:additional_image_link>
+      <make>Kabe</make>
+      <model>Royal 560 LXL KS</model>
+      <year>2013</year>
+      <mileage>
+        <value>0</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>117500 SEK</price>
+      <g:price>117500 SEK</g:price>
+      <address>Båstad</address>
+      <address format="simple">
+        <component name="addr1">Båstad</component>
+        <component name="city">Båstad</component>
+        <component name="region">Skåne</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <frivio:listing_type>auction</frivio:listing_type>
+      <frivio:auction_end_date>2026-07-14T17:45:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>117500 SEK</frivio:current_bid>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
+      <frivio:monthly_cost>1859 kr/mån</frivio:monthly_cost>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Husvagn</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
+      <frivio:region>Skåne</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Husvagn</custom_label_0>
+      <custom_label_1>Slutar 2026-07-14 17:45</custom_label_1>
     </item>
     <item>
       <vehicle_id>626</vehicle_id>
