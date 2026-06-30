@@ -4,105 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Tue, 30 Jun 2026 17:09:29 GMT</lastBuildDate>
-    <item>
-      <vehicle_id>595</vehicle_id>
-      <g:id>595</g:id>
-      <title>Uttern 5001</title>
-      <description>Uttern 5001 är en lättkörd och praktisk styrpulpetbåt som passar lika bra för fiske som bad- och utflyktsdagar. Båten är utrustad med en modern Tohatsu 50 hk från 2025, vilket ger trygg drift och fin prestanda. Rejäla räcken, gott om yta ombord och smidig storlek gör den enkel att hantera både på sjön och vid transport. - Hydralstyrning - Tohatsu 4-takt 50hk motor från 2025 - Motor körd 1 timma - 80 km/h TIKI båttrailer ingår Årsmodell: 1995 · Typ: Båt · Ort: Luleå</description>
-      <url>https://frivio.se/auktion/595</url>
-      <g:link>https://frivio.se/auktion/595</g:link>
-      <image>
-        <url>https://backend.frivio.se/vehicle/595/a1781101529684.jpeg</url>
-        <tag>Exterior</tag>
-      </image>
-      <g:image_link>https://backend.frivio.se/vehicle/595/a1781101529684.jpeg</g:image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/595/b1781101529877.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/595/c1781101530010.jpeg</g:additional_image_link>
-      <make>Uttern</make>
-      <model>Uttern 5001</model>
-      <year>1995</year>
-      <mileage>
-        <value>0</value>
-        <unit>KM</unit>
-      </mileage>
-      <price>67500 SEK</price>
-      <g:price>67500 SEK</g:price>
-      <address>Luleå</address>
-      <address format="simple">
-        <component name="addr1">Luleå</component>
-        <component name="city">Luleå</component>
-        <component name="region">Norrbotten</component>
-        <component name="country">SE</component>
-      </address>
-      <condition>GOOD</condition>
-      <state_of_vehicle>USED</state_of_vehicle>
-      <frivio:listing_type>auction</frivio:listing_type>
-      <frivio:auction_end_date>2026-06-30T17:21:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>67500 SEK</frivio:current_bid>
-      <frivio:bid_count>0</frivio:bid_count>
-      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
-      <frivio:monthly_cost>1068 kr/mån</frivio:monthly_cost>
-      <body_style>OTHER</body_style>
-      <frivio:body_type_label>Båt</frivio:body_type_label>
-      <fuel_type>NONE</fuel_type>
-      <frivio:region>Norrbotten</frivio:region>
-      <availability>AVAILABLE</availability>
-      <custom_label_0>Båt</custom_label_0>
-      <custom_label_1>Slutar 2026-06-30 17:21</custom_label_1>
-    </item>
-    <item>
-      <vehicle_id>555</vehicle_id>
-      <g:id>555</g:id>
-      <title>Knaus Sudwind 650 PEB</title>
-      <description>Knaus Südwind 650 PEB från 2021 är en mycket fin och välplanerad premiumvagn med modern design och hög komfort. Vagnen erbjuder rymlig sittgrupp, välutrustat kök med stort kylskåp, långbäddar samt badrum med separat dusch. Den ljusa interiören, generösa förvaringen och stora panoramafönstren skapar en härlig rymd. Dubbelaxel och bred kaross ger mycket stabila och trygga köregenskaper året om. Årsmodell: 2021 · Typ: Husvagn · Ort: Köping</description>
-      <url>https://frivio.se/auktion/555</url>
-      <g:link>https://frivio.se/auktion/555</g:link>
-      <image>
-        <url>https://backend.frivio.se/vehicle/555/a1779890255384.jpeg</url>
-        <tag>Exterior</tag>
-      </image>
-      <g:image_link>https://backend.frivio.se/vehicle/555/a1779890255384.jpeg</g:image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/555/b1779890254944.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/555/c1779890253790.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/555/d1779890254019.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/555/e1779890254248.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/555/f1779890254495.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/555/g1779890255169.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/555/h1779890254751.jpeg</g:additional_image_link>
-      <make>Knaus</make>
-      <model>Sudwind 650 PEB</model>
-      <year>2021</year>
-      <mileage>
-        <value>0</value>
-        <unit>KM</unit>
-      </mileage>
-      <price>280000 SEK</price>
-      <g:price>280000 SEK</g:price>
-      <address>Köping</address>
-      <address format="simple">
-        <component name="addr1">Köping</component>
-        <component name="city">Köping</component>
-        <component name="region">Västmanland</component>
-        <component name="country">SE</component>
-      </address>
-      <condition>GOOD</condition>
-      <state_of_vehicle>USED</state_of_vehicle>
-      <frivio:listing_type>fixed_price</frivio:listing_type>
-      <frivio:auction_end_date>2026-06-30T17:40:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:bid_count>0</frivio:bid_count>
-      <frivio:reserve_price_status>Ej tillämpligt (fast pris)</frivio:reserve_price_status>
-      <frivio:monthly_cost>4430 kr/mån</frivio:monthly_cost>
-      <body_style>OTHER</body_style>
-      <frivio:body_type_label>Husvagn</frivio:body_type_label>
-      <fuel_type>NONE</fuel_type>
-      <frivio:region>Västmanland</frivio:region>
-      <availability>AVAILABLE</availability>
-      <custom_label_0>Husvagn</custom_label_0>
-      <custom_label_1>Slutar 2026-06-30 17:40</custom_label_1>
-    </item>
+    <lastBuildDate>Tue, 30 Jun 2026 20:08:13 GMT</lastBuildDate>
     <item>
       <vehicle_id>621</vehicle_id>
       <g:id>621</g:id>
@@ -919,7 +821,7 @@
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-07-07T17:16:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
       <frivio:current_bid>100000 SEK</frivio:current_bid>
       <frivio:bid_count>0</frivio:bid_count>
       <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
