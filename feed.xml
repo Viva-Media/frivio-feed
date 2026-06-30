@@ -4,7 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Tue, 30 Jun 2026 11:48:27 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 14:36:08 GMT</lastBuildDate>
     <item>
       <vehicle_id>596</vehicle_id>
       <g:id>596</g:id>
@@ -45,7 +45,7 @@
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-06-30T14:36:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
       <frivio:current_bid>136000 SEK</frivio:current_bid>
       <frivio:bid_count>4</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
@@ -243,8 +243,8 @@
         <value>0</value>
         <unit>KM</unit>
       </mileage>
-      <price>78000 SEK</price>
-      <g:price>78000 SEK</g:price>
+      <price>79000 SEK</price>
+      <g:price>79000 SEK</g:price>
       <address>Kungsbacka</address>
       <address format="simple">
         <component name="addr1">Kungsbacka</component>
@@ -257,10 +257,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-06-30T16:00:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>78000 SEK</frivio:current_bid>
-      <frivio:bid_count>1</frivio:bid_count>
+      <frivio:current_bid>79000 SEK</frivio:current_bid>
+      <frivio:bid_count>2</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>1234 kr/mån</frivio:monthly_cost>
+      <frivio:monthly_cost>1250 kr/mån</frivio:monthly_cost>
       <body_style>OTHER</body_style>
       <frivio:body_type_label>Båt</frivio:body_type_label>
       <fuel_type>NONE</fuel_type>
@@ -545,8 +545,8 @@
         <value>0</value>
         <unit>KM</unit>
       </mileage>
-      <price>38000 SEK</price>
-      <g:price>38000 SEK</g:price>
+      <price>40000 SEK</price>
+      <g:price>40000 SEK</g:price>
       <address>Ronneby</address>
       <address format="simple">
         <component name="addr1">Ronneby</component>
@@ -559,10 +559,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-07-02T15:40:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>38000 SEK</frivio:current_bid>
-      <frivio:bid_count>3</frivio:bid_count>
+      <frivio:current_bid>40000 SEK</frivio:current_bid>
+      <frivio:bid_count>4</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>601 kr/mån</frivio:monthly_cost>
+      <frivio:monthly_cost>633 kr/mån</frivio:monthly_cost>
       <body_style>OTHER</body_style>
       <frivio:body_type_label>Husvagn</frivio:body_type_label>
       <fuel_type>NONE</fuel_type>
@@ -1835,6 +1835,59 @@
       <availability>AVAILABLE</availability>
       <custom_label_0>Husvagn</custom_label_0>
       <custom_label_1>Slutar 2026-07-14 17:45</custom_label_1>
+    </item>
+    <item>
+      <vehicle_id>632</vehicle_id>
+      <g:id>632</g:id>
+      <title>Windy 9800</title>
+      <description>Klassisk Windy 9800 - en välbyggd kvalitetsbåt med tidlös design och generösa sällskapsytor. Den rymliga sittbrunnen erbjuder gott om plats för umgänge och avkoppling, medan ruffen har bekväma sovplatser och praktiska förvaringsutrymmen för övernattning. En stabil och sjövärdig motorbåt som passar lika bra för dagsutflykter som längre semestrar på sjön. - Motor från 1994 - 2st 220hk motorer - Servad senast 2024 och ej körd efter detta - Genomgång totalt inför vinterförvaring - 1783 gångtimmar, - Navigator - Ankarspel - Utedusch Årsmodell: 1986 · Typ: Båt · Ort: Norrtälje</description>
+      <url>https://frivio.se/auktion/632</url>
+      <g:link>https://frivio.se/auktion/632</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/632/a1782742026932.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/632/a1782742026932.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/632/b1782742026749.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/632/c1782742027081.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/632/d1782742027357.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/632/e1782742027235.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/632/f1782742027634.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/632/g1782742027498.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/632/h1782742027799.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/632/i1782742027965.jpeg</g:additional_image_link>
+      <make>Windy</make>
+      <model>Windy 9800</model>
+      <year>1986</year>
+      <mileage>
+        <value>0</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>140000 SEK</price>
+      <g:price>140000 SEK</g:price>
+      <address>Norrtälje</address>
+      <address format="simple">
+        <component name="addr1">Norrtälje</component>
+        <component name="city">Norrtälje</component>
+        <component name="region">Stockholm</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <frivio:listing_type>auction</frivio:listing_type>
+      <frivio:auction_end_date>2026-07-15T17:01:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>140000 SEK</frivio:current_bid>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
+      <frivio:monthly_cost>2215 kr/mån</frivio:monthly_cost>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Båt</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
+      <frivio:region>Stockholm</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Båt</custom_label_0>
+      <custom_label_1>Slutar 2026-07-15 17:01</custom_label_1>
     </item>
     <item>
       <vehicle_id>634</vehicle_id>
