@@ -4,7 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Tue, 30 Jun 2026 04:16:09 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 08:33:56 GMT</lastBuildDate>
     <item>
       <vehicle_id>596</vehicle_id>
       <g:id>596</g:id>
@@ -1071,8 +1071,8 @@
         <value>0</value>
         <unit>KM</unit>
       </mileage>
-      <price>56000 SEK</price>
-      <g:price>56000 SEK</g:price>
+      <price>65000 SEK</price>
+      <g:price>65000 SEK</g:price>
       <address>Enköping</address>
       <address format="simple">
         <component name="addr1">Enköping</component>
@@ -1085,10 +1085,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-07-07T15:50:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>56000 SEK</frivio:current_bid>
-      <frivio:bid_count>1</frivio:bid_count>
+      <frivio:current_bid>65000 SEK</frivio:current_bid>
+      <frivio:bid_count>4</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>886 kr/mån</frivio:monthly_cost>
+      <frivio:monthly_cost>1028 kr/mån</frivio:monthly_cost>
       <body_style>OTHER</body_style>
       <frivio:body_type_label>Båt</frivio:body_type_label>
       <fuel_type>NONE</fuel_type>
@@ -1307,7 +1307,7 @@
       <vehicle_id>618</vehicle_id>
       <g:id>618</g:id>
       <title>Bürstner IXEO 728G</title>
-      <description>Välutrustad Bürstner Ixeo 728 G från 2018 som kombinerar smart planlösning med hög komfort för hela familjen. Husbilen erbjuder praktisk taksäng, bekväma långbäddar, trivsam sittgrupp och välutrustat kök med generösa förvaringsutrymmen. Den smidiga storleken tillsammans med genomtänkta detaljer skapar ett lättkört och bekvämt semesterboende. Perfekt för långa resor, spontana helger och minnesvärda äventyr året runt med modern design och flexibla sovplatser för upp till fem personer med hög trivselfaktor överallt. - Besiktad till 2026-09-30 - Kamrem bytt 2022-05-19 vid 4400mil Årsmodell: 2018 · Typ: Husbil · Drivmedel: Diesel · Växellåda: Automatisk · Mätarställning: 7 000 mil · Ort: Säter</description>
+      <description>Välutrustad Bürstner Ixeo 728 G från 2018 som kombinerar smart planlösning med hög komfort för hela familjen. Husbilen erbjuder praktisk taksäng, bekväma långbäddar, trivsam sittgrupp och välutrustat kök med generösa förvaringsutrymmen. Den smidiga storleken tillsammans med genomtänkta detaljer skapar ett lättkört och bekvämt semesterboende. Perfekt för långa resor, spontana helger och minnesvärda äventyr året runt med modern design och flexibla sovplatser för upp till fem personer med hög trivselfaktor överallt. - Besiktad till 2026-09-30 - Kamrem bytt 2022-05-19 vid 4400mil - Fukttest utfört 2022 - Husbil ej använd efter 2024 pga sjukdom Årsmodell: 2018 · Typ: Husbil · Drivmedel: Diesel · Växellåda: Automatisk · Mätarställning: 7 000 mil · Ort: Säter</description>
       <url>https://frivio.se/auktion/618</url>
       <g:link>https://frivio.se/auktion/618</g:link>
       <image>
@@ -1676,6 +1676,61 @@
       <custom_label_1>Slutar 2026-07-13 17:30</custom_label_1>
     </item>
     <item>
+      <vehicle_id>635</vehicle_id>
+      <g:id>635</g:id>
+      <title>Knaus 590 UE Scandinavian Edition</title>
+      <description>Välutrustad Knaus Südwind 590 UE Scandinavian Selection från 2017 med modern och smakfull interiör. Husvagnen erbjuder två bekväma långbäddar, rymlig U-soffa, stort kök med kyl/frys och mikrovågsugn samt toalett med dusch. Utrustad med Thule-markis, cykelställ, TV och gott om förvaring. En ljus och trivsam kvalitetsvagn som passar perfekt för både kortare resor och längre semestrar. - Fukt och gasoltest utförs 2026-07-03 - Endast använd sommartid - Förvarad inomhus vintertid - Uttagen i trafik första gång 2020-10-02 - Besiktad till 2026-08-31 - Markis med vindskydd på sidor och framtill - Reservhjul - 2st bord runt och avlångt med 6st stolar - Mattor - Tallrikar, div glas, bestick, vattenkokare, kastruller, stekpanna samt annat husgeråd ingår. Årsmodell: 2017 · Typ: Husvagn · Ort: Sala</description>
+      <url>https://frivio.se/auktion/635</url>
+      <g:link>https://frivio.se/auktion/635</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/635/a1782744241148.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/635/a1782744241148.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/635/b1782744241303.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/635/c1782744241478.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/635/d1782744241619.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/635/e1782744241749.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/635/f1782744241997.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/635/g1782744241878.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/635/h1782744242129.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/635/i1782744242252.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/635/j1782744242377.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/635/k1782744242519.jpeg</g:additional_image_link>
+      <make>Knaus</make>
+      <model>590 UE Scandinavian Edition</model>
+      <year>2017</year>
+      <mileage>
+        <value>0</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>140000 SEK</price>
+      <g:price>140000 SEK</g:price>
+      <address>Sala</address>
+      <address format="simple">
+        <component name="addr1">Sala</component>
+        <component name="city">Sala</component>
+        <component name="region">Västmanland</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <frivio:listing_type>auction</frivio:listing_type>
+      <frivio:auction_end_date>2026-07-13T17:37:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>140000 SEK</frivio:current_bid>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
+      <frivio:monthly_cost>2215 kr/mån</frivio:monthly_cost>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Husvagn</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
+      <frivio:region>Västmanland</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Husvagn</custom_label_0>
+      <custom_label_1>Slutar 2026-07-13 17:37</custom_label_1>
+    </item>
+    <item>
       <vehicle_id>625</vehicle_id>
       <g:id>625</g:id>
       <title>Uttern D55 Exclusive</title>
@@ -1780,6 +1835,61 @@
       <availability>AVAILABLE</availability>
       <custom_label_0>Husvagn</custom_label_0>
       <custom_label_1>Slutar 2026-07-14 17:45</custom_label_1>
+    </item>
+    <item>
+      <vehicle_id>634</vehicle_id>
+      <g:id>634</g:id>
+      <title>Oxelö 27</title>
+      <description>Klassisk Oxelö 27 från 1982 - en rymlig och uppskattad motorbåt med goda boendeegenskaper för semesterturer och helgutflykter. Båten erbjuder bekväm ruff med sovplatser, pentry, kylskåp, toalett och stor sittbrunn under kapell. Stabil gång, gott om förvaring och en tidlös design gör detta till ett utmärkt val för dig som söker en prisvärd familjebåt med stor trivselfaktor. - Fulltutrustad - Drev &amp; Motor 1996 VP 280/Duopropp - Motor helservad 2023 - Nya bälgar - Ny fläns kylvatten - Olje byte ink filter - Ny impeller - Nya stift - Tilt - Bensinfilter - Ny servat/omsytt kapell. - Kyl med frysfack - Två-lågigt gasolkök - Vatten cirka 180l - Bensin 180l - Enkel dusch på badbrygga - Tre service-batterier och ett startbatteri - Solceller - Toa/Portapotti - Wallasvärmare - Bottenmålad 2026 - Dynor, fendrar, ankare, el-kopplingar/kablar, gasoltub, förtöjningstampar medföljer Årsmodell: 1982 · Typ: Båt · Ort: Karlskrona</description>
+      <url>https://frivio.se/auktion/634</url>
+      <g:link>https://frivio.se/auktion/634</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/634/a1782743245255.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/634/a1782743245255.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/634/b1782743245436.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/634/c1782743246219.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/634/d1782743245825.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/634/e1782743245969.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/634/f1782743245696.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/634/g1782743245572.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/634/h1782743246103.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/634/i1782743246473.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/634/j1782743246358.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/634/k1782743246595.jpeg</g:additional_image_link>
+      <make>Oxelö</make>
+      <model>Oxelö 27</model>
+      <year>1982</year>
+      <mileage>
+        <value>0</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>45000 SEK</price>
+      <g:price>45000 SEK</g:price>
+      <address>Karlskrona</address>
+      <address format="simple">
+        <component name="addr1">Karlskrona</component>
+        <component name="city">Karlskrona</component>
+        <component name="region">Blekinge</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <frivio:listing_type>auction</frivio:listing_type>
+      <frivio:auction_end_date>2026-07-15T17:15:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>45000 SEK</frivio:current_bid>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
+      <frivio:monthly_cost>712 kr/mån</frivio:monthly_cost>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Båt</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
+      <frivio:region>Blekinge</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Båt</custom_label_0>
+      <custom_label_1>Slutar 2026-07-15 17:15</custom_label_1>
     </item>
     <item>
       <vehicle_id>626</vehicle_id>
