@@ -4,56 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Wed, 01 Jul 2026 16:31:36 GMT</lastBuildDate>
-    <item>
-      <vehicle_id>619</vehicle_id>
-      <g:id>619</g:id>
-      <title>Cobia Spirit</title>
-      <description>Välskött Cobia Spirit från 1989 - en klassisk och lättmanövrerad motorbåt som passar perfekt för härliga dagsturer och avkopplande helger på sjön. Båten erbjuder rymlig sittbrunn med kapell, praktisk kabin med övernattningsmöjlighet samt gott om plats för familj och vänner. Den tidlösa designen kombineras med smarta lösningar och enkel hantering, vilket gör varje utflykt både bekväm och minnesvärd för såväl nybörjare som erfarna båtentusiaster under sommarens alla äventyr. - Mercruiser 3.0L med Alpha one drev gen 1 - Nytt komplett överhus med utväxling 1,94 - Nymålad - Plotter med inombordsgivare - Sjökarta i plotter finns - Auto trimplan - Nya trimpuckar för styrning trimtilt - Ny servad med olja och filter från Sierra - Nya stödlager - Nya packningar runt om drev - Nya o-ringar till vattenkylningen - Ny impeller - De äldre delarna på drevet är nymålat - Nya klistermärken - Nya bälgar - Nyslipat och oljat golv - Nylackerade lister - Ny länspump (auto-givare) går att köra manuellt från panelen - Stereo med Bluetooth - Mjuk fake-teakmatta - Ny bottenplugg - 2st lampor inkopplade vid golv - Ny ruta bak på kapell - Nytt batteri. Det finns 1 startbatteri, och 1st brukningsbatteri - Ny aliminumnod - 30-kärra medföljer Årsmodell: 1989 · Typ: Båt · Ort: Tibro</description>
-      <url>https://frivio.se/auktion/619</url>
-      <g:link>https://frivio.se/auktion/619</g:link>
-      <image>
-        <url>https://backend.frivio.se/vehicle/619/a1781703357771.jpeg</url>
-        <tag>Exterior</tag>
-      </image>
-      <g:image_link>https://backend.frivio.se/vehicle/619/a1781703357771.jpeg</g:image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/619/b1781703357368.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/619/c1781703357580.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/619/d1781703357920.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/619/e1781703358058.jpeg</g:additional_image_link>
-      <make>Cobia</make>
-      <model>Cobia Spirit</model>
-      <year>1989</year>
-      <mileage>
-        <value>0</value>
-        <unit>KM</unit>
-      </mileage>
-      <price>27500 SEK</price>
-      <g:price>27500 SEK</g:price>
-      <address>Tibro</address>
-      <address format="simple">
-        <component name="addr1">Tibro</component>
-        <component name="city">Tibro</component>
-        <component name="region">Västra Götaland</component>
-        <component name="country">SE</component>
-      </address>
-      <condition>GOOD</condition>
-      <state_of_vehicle>USED</state_of_vehicle>
-      <frivio:listing_type>auction</frivio:listing_type>
-      <frivio:auction_end_date>2026-07-01T16:33:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>27500 SEK</frivio:current_bid>
-      <frivio:bid_count>5</frivio:bid_count>
-      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>435 kr/mån</frivio:monthly_cost>
-      <body_style>OTHER</body_style>
-      <frivio:body_type_label>Båt</frivio:body_type_label>
-      <fuel_type>NONE</fuel_type>
-      <frivio:region>Västra Götaland</frivio:region>
-      <availability>AVAILABLE</availability>
-      <custom_label_0>Båt</custom_label_0>
-      <custom_label_1>Slutar 2026-07-01 16:33</custom_label_1>
-    </item>
+    <lastBuildDate>Wed, 01 Jul 2026 19:02:58 GMT</lastBuildDate>
     <item>
       <vehicle_id>602</vehicle_id>
       <g:id>602</g:id>
@@ -294,8 +245,8 @@
         <value>0</value>
         <unit>KM</unit>
       </mileage>
-      <price>151000 SEK</price>
-      <g:price>151000 SEK</g:price>
+      <price>160000 SEK</price>
+      <g:price>160000 SEK</g:price>
       <address>Nora</address>
       <address format="simple">
         <component name="addr1">Nora</component>
@@ -308,10 +259,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-07-02T17:07:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>151000 SEK</frivio:current_bid>
-      <frivio:bid_count>1</frivio:bid_count>
+      <frivio:current_bid>160000 SEK</frivio:current_bid>
+      <frivio:bid_count>2</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>2389 kr/mån</frivio:monthly_cost>
+      <frivio:monthly_cost>2532 kr/mån</frivio:monthly_cost>
       <body_style>OTHER</body_style>
       <frivio:body_type_label>Husvagn</frivio:body_type_label>
       <fuel_type>NONE</fuel_type>
@@ -349,8 +300,8 @@
         <value>0</value>
         <unit>KM</unit>
       </mileage>
-      <price>117000 SEK</price>
-      <g:price>117000 SEK</g:price>
+      <price>120000 SEK</price>
+      <g:price>120000 SEK</g:price>
       <address>Heby</address>
       <address format="simple">
         <component name="addr1">Heby</component>
@@ -363,10 +314,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-07-02T17:32:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>117000 SEK</frivio:current_bid>
-      <frivio:bid_count>1</frivio:bid_count>
+      <frivio:current_bid>120000 SEK</frivio:current_bid>
+      <frivio:bid_count>2</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>1851 kr/mån</frivio:monthly_cost>
+      <frivio:monthly_cost>1899 kr/mån</frivio:monthly_cost>
       <body_style>OTHER</body_style>
       <frivio:body_type_label>Husvagn</frivio:body_type_label>
       <fuel_type>NONE</fuel_type>
@@ -400,8 +351,8 @@
         <value>0</value>
         <unit>KM</unit>
       </mileage>
-      <price>180000 SEK</price>
-      <g:price>180000 SEK</g:price>
+      <price>185000 SEK</price>
+      <g:price>185000 SEK</g:price>
       <address>Norrtälje</address>
       <address format="simple">
         <component name="addr1">Norrtälje</component>
@@ -414,10 +365,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-07-05T15:02:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>180000 SEK</frivio:current_bid>
-      <frivio:bid_count>0</frivio:bid_count>
-      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
-      <frivio:monthly_cost>2848 kr/mån</frivio:monthly_cost>
+      <frivio:current_bid>185000 SEK</frivio:current_bid>
+      <frivio:bid_count>1</frivio:bid_count>
+      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
+      <frivio:monthly_cost>2927 kr/mån</frivio:monthly_cost>
       <body_style>OTHER</body_style>
       <frivio:body_type_label>Båt</frivio:body_type_label>
       <fuel_type>NONE</fuel_type>
@@ -827,7 +778,7 @@
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-07-08T17:10:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
       <frivio:current_bid>98000 SEK</frivio:current_bid>
       <frivio:bid_count>1</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
@@ -883,7 +834,7 @@
       <transmission>AUTOMATIC</transmission>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-07-08T17:30:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
       <frivio:current_bid>500000 SEK</frivio:current_bid>
       <frivio:bid_count>6</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
