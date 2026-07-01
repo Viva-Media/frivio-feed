@@ -4,7 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Wed, 01 Jul 2026 19:02:58 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 21:42:22 GMT</lastBuildDate>
     <item>
       <vehicle_id>602</vehicle_id>
       <g:id>602</g:id>
@@ -245,8 +245,8 @@
         <value>0</value>
         <unit>KM</unit>
       </mileage>
-      <price>160000 SEK</price>
-      <g:price>160000 SEK</g:price>
+      <price>200000 SEK</price>
+      <g:price>200000 SEK</g:price>
       <address>Nora</address>
       <address format="simple">
         <component name="addr1">Nora</component>
@@ -259,10 +259,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-07-02T17:07:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>160000 SEK</frivio:current_bid>
-      <frivio:bid_count>2</frivio:bid_count>
+      <frivio:current_bid>200000 SEK</frivio:current_bid>
+      <frivio:bid_count>3</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>2532 kr/mån</frivio:monthly_cost>
+      <frivio:monthly_cost>3164 kr/mån</frivio:monthly_cost>
       <body_style>OTHER</body_style>
       <frivio:body_type_label>Husvagn</frivio:body_type_label>
       <fuel_type>NONE</fuel_type>
