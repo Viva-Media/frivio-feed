@@ -4,108 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Wed, 01 Jul 2026 13:37:04 GMT</lastBuildDate>
-    <item>
-      <vehicle_id>621</vehicle_id>
-      <g:id>621</g:id>
-      <title>Albin Wiggen</title>
-      <description>Albin Wiggen är svensk klassiker en trygg och säker familjeseglare. Passar även den som är helt nybörjare och att segla ensam. Båten är i fint skick och blivit väl omhändertagen. Fin inredning i mahogny med marinblå dynor plus dynor till sittbrunnen. - Bord till sittbrunnen - Marinblått sprayhood och marinblått bomkapell - 4kojplatser - Origo spritkök - Helt ny oanvänd kemtoa Porti Porti (ligger i kartong) - Liten portabel grill - Garmin GPS - Autohelm kombinationsinstrument - Solceller - Ett nytt batteri 2026 Segel : 4segel - ett är specialsytt rullfock från Gransegel för bättre kryssegenskaper. En lättviktsgenua och en Genua 2. Storsegel knappt använt från Boding. Bomstrut från BENNS som håller upp bommen, vilket är en extra finess på denna båt . Motor: Johnson 5HK, 2takt och nyservad med garanti. Övrigt; tampar, fendrar,ankare,livboj, två paddlar, skot och linor och båtshake. Årsmodell: 1976 · Typ: Båt · Ort: Tyresö</description>
-      <url>https://frivio.se/auktion/621</url>
-      <g:link>https://frivio.se/auktion/621</g:link>
-      <image>
-        <url>https://backend.frivio.se/vehicle/621/a1781712602702.jpeg</url>
-        <tag>Exterior</tag>
-      </image>
-      <g:image_link>https://backend.frivio.se/vehicle/621/a1781712602702.jpeg</g:image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/621/b1781712603022.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/621/c1781712602897.jpeg</g:additional_image_link>
-      <make>Albin</make>
-      <model>Albin Wiggen</model>
-      <year>1976</year>
-      <mileage>
-        <value>0</value>
-        <unit>KM</unit>
-      </mileage>
-      <price>11500 SEK</price>
-      <g:price>11500 SEK</g:price>
-      <address>Tyresö</address>
-      <address format="simple">
-        <component name="addr1">Tyresö</component>
-        <component name="city">Tyresö</component>
-        <component name="region">Stockholm</component>
-        <component name="country">SE</component>
-      </address>
-      <condition>GOOD</condition>
-      <state_of_vehicle>USED</state_of_vehicle>
-      <frivio:listing_type>auction</frivio:listing_type>
-      <frivio:auction_end_date>2026-07-01T16:00:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>11500 SEK</frivio:current_bid>
-      <frivio:bid_count>0</frivio:bid_count>
-      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
-      <frivio:monthly_cost>182 kr/mån</frivio:monthly_cost>
-      <body_style>OTHER</body_style>
-      <frivio:body_type_label>Båt</frivio:body_type_label>
-      <fuel_type>NONE</fuel_type>
-      <frivio:region>Stockholm</frivio:region>
-      <availability>AVAILABLE</availability>
-      <custom_label_0>Båt</custom_label_0>
-      <custom_label_1>Slutar 2026-07-01 16:00</custom_label_1>
-    </item>
-    <item>
-      <vehicle_id>601</vehicle_id>
-      <g:id>601</g:id>
-      <title>Ryds WA 23</title>
-      <description>Ryds 23 WA från 2008 är en välplanerad walkaround-båt som passar perfekt för både dagsturer, fiske och bekväma övernattningar. Båten erbjuder generösa gångytor, rymlig sittbrunn med bord och solsängslösning samt kojplatser för två personer i den praktiska förpiken. Den drivs av en driftsäker Cummins MerCruiser och kombinerar goda sjöegenskaper med låg bränsleförbrukning. En mångsidig båt för härliga dagar i skärgården. - Senaste service gjord 2025 - Motorn är servad varje år med olja och filter - Drevet (alpha-one mercruiser gen 2) är servat 2024 med byte av bälgar, stödlager, impeller samt provtryckt. - Motorn har gått 570 timmar - Motorn är en Cumming QSD på 175hk - En obromsad 30km/h boogietrailer ingår - Ankarspel med fjärrkontroll - Garmin GPS och Ekolod. Årsmodell: 2008 · Typ: Båt · Ort: Orust</description>
-      <url>https://frivio.se/auktion/601</url>
-      <g:link>https://frivio.se/auktion/601</g:link>
-      <image>
-        <url>https://backend.frivio.se/vehicle/601/a1781514738872.jpeg</url>
-        <tag>Exterior</tag>
-      </image>
-      <g:image_link>https://backend.frivio.se/vehicle/601/a1781514738872.jpeg</g:image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/601/b1781514739158.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/601/c1781514740035.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/601/d1781514741699.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/601/e1781514740332.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/601/f1781514740601.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/601/g1781514741113.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/601/h1781514740866.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/601/i1781514741411.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/601/j1781514739692.jpeg</g:additional_image_link>
-      <make>Ryds</make>
-      <model>Ryds WA 23</model>
-      <year>2008</year>
-      <mileage>
-        <value>0</value>
-        <unit>KM</unit>
-      </mileage>
-      <price>120000 SEK</price>
-      <g:price>120000 SEK</g:price>
-      <address>Orust</address>
-      <address format="simple">
-        <component name="addr1">Orust</component>
-        <component name="city">Orust</component>
-        <component name="region">Västra Götaland</component>
-        <component name="country">SE</component>
-      </address>
-      <condition>GOOD</condition>
-      <state_of_vehicle>USED</state_of_vehicle>
-      <frivio:listing_type>auction</frivio:listing_type>
-      <frivio:auction_end_date>2026-07-01T16:09:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>120000 SEK</frivio:current_bid>
-      <frivio:bid_count>1</frivio:bid_count>
-      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>1899 kr/mån</frivio:monthly_cost>
-      <body_style>OTHER</body_style>
-      <frivio:body_type_label>Båt</frivio:body_type_label>
-      <fuel_type>NONE</fuel_type>
-      <frivio:region>Västra Götaland</frivio:region>
-      <availability>AVAILABLE</availability>
-      <custom_label_0>Båt</custom_label_0>
-      <custom_label_1>Slutar 2026-07-01 16:09</custom_label_1>
-    </item>
+    <lastBuildDate>Wed, 01 Jul 2026 16:31:36 GMT</lastBuildDate>
     <item>
       <vehicle_id>619</vehicle_id>
       <g:id>619</g:id>
@@ -873,7 +772,7 @@
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-07-08T14:32:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
       <frivio:current_bid>6000 SEK</frivio:current_bid>
       <frivio:bid_count>0</frivio:bid_count>
       <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
