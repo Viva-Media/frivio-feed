@@ -4,165 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Thu, 02 Jul 2026 14:21:47 GMT</lastBuildDate>
-    <item>
-      <vehicle_id>602</vehicle_id>
-      <g:id>602</g:id>
-      <title>Home-Car 45 FHU Spirit</title>
-      <description>Home-Car 45 FHU Spirit från 2006 erbjuder en smart planlösning med fokus på komfort och funktion. Den fasta franskbädden skapar en avskild sovdel intill toalettutrymmet, medan den ljusa sittgruppen ger en trivsam plats för måltider och avkoppling. Köket är välutrustat med bra arbetsytor och praktisk förvaring. En lättmanövrerad och hemtrevlig husvagn som passar perfekt för dig som söker ett smidigt boende på hjul. - Spolknapp på toalett ur funktion - Vattenkran i köksdel vill ibland att kranen vid handfatet skall sättas igång lite för att själv kunna fungera - Besiktad till 2027-04-30 - Gasoltestad och godkänd - Reservdäck medföljer Årsmodell: 2006 · Typ: Husvagn · Ort: Ronneby</description>
-      <url>https://frivio.se/auktion/602</url>
-      <g:link>https://frivio.se/auktion/602</g:link>
-      <image>
-        <url>https://backend.frivio.se/vehicle/602/a1781592374590.jpeg</url>
-        <tag>Exterior</tag>
-      </image>
-      <g:image_link>https://backend.frivio.se/vehicle/602/a1781592374590.jpeg</g:image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/602/b1781592374808.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/602/c1781592375127.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/602/d1781592374990.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/602/e1781592375265.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/602/f1781592375390.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/602/g1781592375516.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/602/h1781592375655.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/602/i1781592375775.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/602/j1781592375891.jpeg</g:additional_image_link>
-      <make>Home-Car</make>
-      <model>45 FHU Spirit</model>
-      <year>2006</year>
-      <mileage>
-        <value>0</value>
-        <unit>KM</unit>
-      </mileage>
-      <price>42000 SEK</price>
-      <g:price>42000 SEK</g:price>
-      <address>Ronneby</address>
-      <address format="simple">
-        <component name="addr1">Ronneby</component>
-        <component name="city">Ronneby</component>
-        <component name="region">Blekinge</component>
-        <component name="country">SE</component>
-      </address>
-      <condition>GOOD</condition>
-      <state_of_vehicle>USED</state_of_vehicle>
-      <frivio:listing_type>auction</frivio:listing_type>
-      <frivio:auction_end_date>2026-07-02T15:40:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>42000 SEK</frivio:current_bid>
-      <frivio:bid_count>6</frivio:bid_count>
-      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>665 kr/mån</frivio:monthly_cost>
-      <body_style>OTHER</body_style>
-      <frivio:body_type_label>Husvagn</frivio:body_type_label>
-      <fuel_type>NONE</fuel_type>
-      <frivio:region>Blekinge</frivio:region>
-      <availability>AVAILABLE</availability>
-      <custom_label_0>Husvagn</custom_label_0>
-      <custom_label_1>Slutar 2026-07-02 15:40</custom_label_1>
-    </item>
-    <item>
-      <vehicle_id>603</vehicle_id>
-      <g:id>603</g:id>
-      <title>Kabe Ametist GLE</title>
-      <description>Kabe Ametist GLE från 2000 är en välplanerad husvagn med klassisk Kabe-känsla och hög komfort året runt. Den rymliga sittgruppen framtill bjuder in till trevliga middagar och avkopplande kvällar, medan de separata långbäddarna i bak ger en bekväm och avskild sovdel. Det funktionella köket erbjuder generösa arbetsytor och gott om förvaring. En hemtrevlig och lättanvänd vagn som passar dig som uppskattar kvalitet och smarta lösningar. - Besiktad till 2028-05-31 - Förtält med carbonpinnar - Däck endast gått 150 mil Årsmodell: 2000 · Typ: Husvagn · Ort: Finspång</description>
-      <url>https://frivio.se/auktion/603</url>
-      <g:link>https://frivio.se/auktion/603</g:link>
-      <image>
-        <url>https://backend.frivio.se/vehicle/603/a1781595976560.jpeg</url>
-        <tag>Exterior</tag>
-      </image>
-      <g:image_link>https://backend.frivio.se/vehicle/603/a1781595976560.jpeg</g:image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/603/b1781595977129.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/603/c1781595977375.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/603/d1781595977258.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/603/e1781595977009.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/603/f1781595976891.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/603/g1781595976775.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/603/h1781595977491.jpeg</g:additional_image_link>
-      <make>Kabe</make>
-      <model>Ametist GLE</model>
-      <year>2000</year>
-      <mileage>
-        <value>0</value>
-        <unit>KM</unit>
-      </mileage>
-      <price>47000 SEK</price>
-      <g:price>47000 SEK</g:price>
-      <address>Finspång</address>
-      <address format="simple">
-        <component name="addr1">Finspång</component>
-        <component name="city">Finspång</component>
-        <component name="region">Östergötland</component>
-        <component name="country">SE</component>
-      </address>
-      <condition>GOOD</condition>
-      <state_of_vehicle>USED</state_of_vehicle>
-      <frivio:listing_type>auction</frivio:listing_type>
-      <frivio:auction_end_date>2026-07-02T15:43:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>47000 SEK</frivio:current_bid>
-      <frivio:bid_count>8</frivio:bid_count>
-      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>744 kr/mån</frivio:monthly_cost>
-      <body_style>OTHER</body_style>
-      <frivio:body_type_label>Husvagn</frivio:body_type_label>
-      <fuel_type>NONE</fuel_type>
-      <frivio:region>Östergötland</frivio:region>
-      <availability>AVAILABLE</availability>
-      <custom_label_0>Husvagn</custom_label_0>
-      <custom_label_1>Slutar 2026-07-02 15:43</custom_label_1>
-    </item>
-    <item>
-      <vehicle_id>597</vehicle_id>
-      <g:id>597</g:id>
-      <title>Kabe Classic 600 GDL</title>
-      <description>Kabe Classic 600 GDL från 2015 är en välutrustad och rymlig kvalitetsvagn med genomtänkt planlösning för bekväma resor året om. Vagnen erbjuder generös sittgrupp, praktiskt kök, rymligt badrum och bekväm tvärbädd som ger hög sovkomfort och barnkammare. Kabe är känt för sin höga byggkvalitet och sitt effektiva Alde-värmesystem, vilket gör vagnen lika trivsam under kalla höstkvällar som under sommarens semestrar. En perfekt husvagn för både kortare utflykter och längre äventyr. - Fukttest utfört 2024 UA - Gasoltest utfört 2025 UA - Besiktad till 2027-05-31 - Dåligt batteri Årsmodell: 2015 · Typ: Husvagn · Ort: Nybro</description>
-      <url>https://frivio.se/auktion/597</url>
-      <g:link>https://frivio.se/auktion/597</g:link>
-      <image>
-        <url>https://backend.frivio.se/vehicle/597/a1781268761156.jpeg</url>
-        <tag>Exterior</tag>
-      </image>
-      <g:image_link>https://backend.frivio.se/vehicle/597/a1781268761156.jpeg</g:image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/597/b1781268759451.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/597/c1781268760732.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/597/d1781268760407.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/597/e1781268760069.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/597/f1781268759789.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/597/g1781268759005.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/597/h1781268758788.jpeg</g:additional_image_link>
-      <make>Kabe</make>
-      <model>Classic 600 GDL</model>
-      <year>2015</year>
-      <mileage>
-        <value>0</value>
-        <unit>KM</unit>
-      </mileage>
-      <price>143000 SEK</price>
-      <g:price>143000 SEK</g:price>
-      <address>Nybro</address>
-      <address format="simple">
-        <component name="addr1">Nybro</component>
-        <component name="city">Nybro</component>
-        <component name="region">Kalmar</component>
-        <component name="country">SE</component>
-      </address>
-      <condition>GOOD</condition>
-      <state_of_vehicle>USED</state_of_vehicle>
-      <frivio:listing_type>auction</frivio:listing_type>
-      <frivio:auction_end_date>2026-07-02T15:50:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>143000 SEK</frivio:current_bid>
-      <frivio:bid_count>9</frivio:bid_count>
-      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>2263 kr/mån</frivio:monthly_cost>
-      <body_style>OTHER</body_style>
-      <frivio:body_type_label>Husvagn</frivio:body_type_label>
-      <fuel_type>NONE</fuel_type>
-      <frivio:region>Kalmar</frivio:region>
-      <availability>AVAILABLE</availability>
-      <custom_label_0>Husvagn</custom_label_0>
-      <custom_label_1>Slutar 2026-07-02 15:50</custom_label_1>
-    </item>
+    <lastBuildDate>Thu, 02 Jul 2026 16:56:34 GMT</lastBuildDate>
     <item>
       <vehicle_id>598</vehicle_id>
       <g:id>598</g:id>
@@ -300,8 +142,8 @@
         <value>0</value>
         <unit>KM</unit>
       </mileage>
-      <price>155000 SEK</price>
-      <g:price>155000 SEK</g:price>
+      <price>170000 SEK</price>
+      <g:price>170000 SEK</g:price>
       <address>Heby</address>
       <address format="simple">
         <component name="addr1">Heby</component>
@@ -314,10 +156,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-07-02T17:32:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>155000 SEK</frivio:current_bid>
-      <frivio:bid_count>6</frivio:bid_count>
+      <frivio:current_bid>170000 SEK</frivio:current_bid>
+      <frivio:bid_count>10</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>2452 kr/mån</frivio:monthly_cost>
+      <frivio:monthly_cost>2690 kr/mån</frivio:monthly_cost>
       <body_style>OTHER</body_style>
       <frivio:body_type_label>Husvagn</frivio:body_type_label>
       <fuel_type>NONE</fuel_type>
@@ -889,7 +731,7 @@
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-07-09T16:35:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
       <frivio:current_bid>125000 SEK</frivio:current_bid>
       <frivio:bid_count>3</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
@@ -1035,8 +877,8 @@
         <value>0</value>
         <unit>KM</unit>
       </mileage>
-      <price>75000 SEK</price>
-      <g:price>75000 SEK</g:price>
+      <price>78000 SEK</price>
+      <g:price>78000 SEK</g:price>
       <address>Norrköping</address>
       <address format="simple">
         <component name="addr1">Norrköping</component>
@@ -1049,10 +891,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-07-09T17:30:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>75000 SEK</frivio:current_bid>
-      <frivio:bid_count>1</frivio:bid_count>
+      <frivio:current_bid>78000 SEK</frivio:current_bid>
+      <frivio:bid_count>2</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>1187 kr/mån</frivio:monthly_cost>
+      <frivio:monthly_cost>1234 kr/mån</frivio:monthly_cost>
       <body_style>OTHER</body_style>
       <frivio:body_type_label>Båt</frivio:body_type_label>
       <fuel_type>NONE</fuel_type>
@@ -1827,8 +1669,8 @@
         <value>35000</value>
         <unit>KM</unit>
       </mileage>
-      <price>305000 SEK</price>
-      <g:price>305000 SEK</g:price>
+      <price>310000 SEK</price>
+      <g:price>310000 SEK</g:price>
       <address>Borås</address>
       <address format="simple">
         <component name="addr1">Borås</component>
@@ -1842,10 +1684,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-07-20T17:01:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>305000 SEK</frivio:current_bid>
-      <frivio:bid_count>0</frivio:bid_count>
-      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
-      <frivio:monthly_cost>4826 kr/mån</frivio:monthly_cost>
+      <frivio:current_bid>310000 SEK</frivio:current_bid>
+      <frivio:bid_count>1</frivio:bid_count>
+      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
+      <frivio:monthly_cost>4905 kr/mån</frivio:monthly_cost>
       <body_style>VAN</body_style>
       <frivio:body_type_label>Husbil</frivio:body_type_label>
       <fuel_type>DIESEL</fuel_type>
@@ -1961,6 +1803,55 @@
       <availability>AVAILABLE</availability>
       <custom_label_0>Husvagn</custom_label_0>
       <custom_label_1>Slutar 2026-07-20 17:51</custom_label_1>
+    </item>
+    <item>
+      <vehicle_id>644</vehicle_id>
+      <g:id>644</g:id>
+      <title>Ryds Camping 570</title>
+      <description>Letar du efter en rymlig och lättkörd klassiker? Denna Ryds Camping 570 från 1979 erbjuder en skyddad hytt, generöst sittutrymme och goda möjligheter till både dagsutflykter och övernattning. Utrustad med en Mercury 60 hk utombordare som ger bra prestanda och en trevlig körupplevelse. En uppskattad modell som passar lika bra för fiske som familjeturer på sjön. - Mercury 60hk EFI drifttid 141h - Service gjord varje höst i samband med upptagning - Kapell - 30km/h båtvagn ingår Årsmodell: 1979 · Typ: Båt · Ort: Västerås</description>
+      <url>https://frivio.se/auktion/644</url>
+      <g:link>https://frivio.se/auktion/644</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/644/a1782994294543.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/644/a1782994294543.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/644/b1782994294704.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/644/c1782994294828.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/644/d1782994294960.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/644/e1782994295073.jpeg</g:additional_image_link>
+      <make>Ryds</make>
+      <model>Ryds Camping 570</model>
+      <year>1979</year>
+      <mileage>
+        <value>0</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>25000 SEK</price>
+      <g:price>25000 SEK</g:price>
+      <address>Västerås</address>
+      <address format="simple">
+        <component name="addr1">Västerås</component>
+        <component name="city">Västerås</component>
+        <component name="region">Västmanland</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <frivio:listing_type>auction</frivio:listing_type>
+      <frivio:auction_end_date>2026-07-21T17:08:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>25000 SEK</frivio:current_bid>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
+      <frivio:monthly_cost>396 kr/mån</frivio:monthly_cost>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Båt</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
+      <frivio:region>Västmanland</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Båt</custom_label_0>
+      <custom_label_1>Slutar 2026-07-21 17:08</custom_label_1>
     </item>
   </channel>
 </rss>
