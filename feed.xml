@@ -4,170 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Thu, 02 Jul 2026 16:56:34 GMT</lastBuildDate>
-    <item>
-      <vehicle_id>598</vehicle_id>
-      <g:id>598</g:id>
-      <title>Kabe Royal 720 ETDL KS</title>
-      <description>Kabe Royal 720 ETDL KS från 2011 är en exklusiv och rymlig husvagn med hög komfort och genomtänkta lösningar för ett bekvämt fritidsliv året om. Den generösa planlösningen erbjuder en trivsam sittgrupp, välutrustat kök, rymligt badrum samt bekväma enkelsängar med gott om förvaring. Med Kabes välkända byggkvalitet, effektiva Alde-värmesystem och gedigna vinteregenskaper är detta en husvagn som passar lika bra på campingplatsen som under längre semestrar. - L-Soffa och tv bänk - Nya dynor från Svenska dynor &quot;Nya modellen&quot; - Fiamma Markis 4,10 med väggar - Långbäddar, en överbädd &quot; man fäller ut ena överskåpet&quot; - Takräcke - Vagnen levereras nybesiktad Årsmodell: 2011 · Typ: Husvagn · Ort: Norrtälje</description>
-      <url>https://frivio.se/auktion/598</url>
-      <g:link>https://frivio.se/auktion/598</g:link>
-      <image>
-        <url>https://backend.frivio.se/vehicle/598/b1781517212878.jpeg</url>
-        <tag>Exterior</tag>
-      </image>
-      <g:image_link>https://backend.frivio.se/vehicle/598/b1781517212878.jpeg</g:image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/598/c1781517213084.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/598/d1781517213235.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/598/e1781517213373.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/598/f1781517213506.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/598/g1781517213648.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/598/h1781517213792.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/598/i1781517213940.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/598/j1781517214230.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/598/k1781517214086.jpeg</g:additional_image_link>
-      <make>Kabe</make>
-      <model>Royal 720 ETDL KS</model>
-      <year>2011</year>
-      <mileage>
-        <value>0</value>
-        <unit>KM</unit>
-      </mileage>
-      <price>140000 SEK</price>
-      <g:price>140000 SEK</g:price>
-      <address>Norrtälje</address>
-      <address format="simple">
-        <component name="addr1">Norrtälje</component>
-        <component name="city">Norrtälje</component>
-        <component name="region">Stockholm</component>
-        <component name="country">SE</component>
-      </address>
-      <condition>GOOD</condition>
-      <state_of_vehicle>USED</state_of_vehicle>
-      <frivio:listing_type>auction</frivio:listing_type>
-      <frivio:auction_end_date>2026-07-02T17:06:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>140000 SEK</frivio:current_bid>
-      <frivio:bid_count>2</frivio:bid_count>
-      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>2215 kr/mån</frivio:monthly_cost>
-      <body_style>OTHER</body_style>
-      <frivio:body_type_label>Husvagn</frivio:body_type_label>
-      <fuel_type>NONE</fuel_type>
-      <frivio:region>Stockholm</frivio:region>
-      <availability>AVAILABLE</availability>
-      <custom_label_0>Husvagn</custom_label_0>
-      <custom_label_1>Slutar 2026-07-02 17:06</custom_label_1>
-    </item>
-    <item>
-      <vehicle_id>613</vehicle_id>
-      <g:id>613</g:id>
-      <title>Kabe Royal 600 ETDL KS</title>
-      <description>Kabe Royal 600 ETDL KS från 2016 erbjuder en smart planlösning med separata långbäddar, generös U-soffa och välutrustat kök med stor kyl och spis. Den ombonade interiören, gott om förvaring och KABEs välkända komfort gör vagnen lika trivsam på weekendresan som under längre turer. För dig som söker ett bekvämt och genomtänkt boende med hög kvalitetskänsla. - Stort Isabella förtält - Fukttestas innan leverans - Levereras nybesiktad Årsmodell: 2016 · Typ: Husvagn · Ort: Nora</description>
-      <url>https://frivio.se/auktion/613</url>
-      <g:link>https://frivio.se/auktion/613</g:link>
-      <image>
-        <url>https://backend.frivio.se/vehicle/613/a1781618940092.jpeg</url>
-        <tag>Exterior</tag>
-      </image>
-      <g:image_link>https://backend.frivio.se/vehicle/613/a1781618940092.jpeg</g:image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/613/b1781618940782.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/613/c1781618939944.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/613/d1781618939773.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/613/e1781618940225.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/613/f1781618940495.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/613/g1781618940637.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/613/h1781618940367.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/613/i1781618941036.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/613/j1781618940914.jpeg</g:additional_image_link>
-      <make>Kabe</make>
-      <model>Royal 600 ETDL KS</model>
-      <year>2016</year>
-      <mileage>
-        <value>0</value>
-        <unit>KM</unit>
-      </mileage>
-      <price>210000 SEK</price>
-      <g:price>210000 SEK</g:price>
-      <address>Nora</address>
-      <address format="simple">
-        <component name="addr1">Nora</component>
-        <component name="city">Nora</component>
-        <component name="region">Örebro</component>
-        <component name="country">SE</component>
-      </address>
-      <condition>GOOD</condition>
-      <state_of_vehicle>USED</state_of_vehicle>
-      <frivio:listing_type>auction</frivio:listing_type>
-      <frivio:auction_end_date>2026-07-02T17:07:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>210000 SEK</frivio:current_bid>
-      <frivio:bid_count>4</frivio:bid_count>
-      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>3323 kr/mån</frivio:monthly_cost>
-      <body_style>OTHER</body_style>
-      <frivio:body_type_label>Husvagn</frivio:body_type_label>
-      <fuel_type>NONE</fuel_type>
-      <frivio:region>Örebro</frivio:region>
-      <availability>AVAILABLE</availability>
-      <custom_label_0>Husvagn</custom_label_0>
-      <custom_label_1>Slutar 2026-07-02 17:07</custom_label_1>
-    </item>
-    <item>
-      <vehicle_id>614</vehicle_id>
-      <g:id>614</g:id>
-      <title>Adria Alpina 663UK</title>
-      <description>Adria Alpina 663 UK från 2013 är en rymlig och vinteranpassad familjevagn med smart planlösning och hög komfort året runt. Här finns en stor soffa fram, praktisk mittplacerad köksdel, generös franskbädd samt våningssängar för barnen. Det välutrustade badrummet, gott om förvaring och den gedigna Adria-kvaliteten gör vagnen perfekt för både längre semestrar och spontana helgutflykter med hela familjen, oavsett säsong eller destination för nästa äventyr tillsammans på vägarna i Norden. - Vinteranpassad vagn - 2 våningssäng längst bak - Franskbädd på mitten - U-soffa fram - Hänger en påsmarkis på där påsen börjar bli dålig - Spricka i dekorplast bak - Levereras nybesiktad - Levereras fukttestad Årsmodell: 2013 · Typ: Husvagn · Ort: Heby</description>
-      <url>https://frivio.se/auktion/614</url>
-      <g:link>https://frivio.se/auktion/614</g:link>
-      <image>
-        <url>https://backend.frivio.se/vehicle/614/a1781697284320.jpeg</url>
-        <tag>Exterior</tag>
-      </image>
-      <g:image_link>https://backend.frivio.se/vehicle/614/a1781697284320.jpeg</g:image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/614/b1781697284143.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/614/c1781697284465.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/614/d1781697284691.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/614/e1781697284576.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/614/f1781697284817.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/614/g1781697284927.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/614/h1781697285060.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/614/i1781697285187.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/614/j1782131161486.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/614/k1782131161724.jpeg</g:additional_image_link>
-      <make>Adria</make>
-      <model>Alpina 663UK</model>
-      <year>2013</year>
-      <mileage>
-        <value>0</value>
-        <unit>KM</unit>
-      </mileage>
-      <price>170000 SEK</price>
-      <g:price>170000 SEK</g:price>
-      <address>Heby</address>
-      <address format="simple">
-        <component name="addr1">Heby</component>
-        <component name="city">Heby</component>
-        <component name="region">Uppsala</component>
-        <component name="country">SE</component>
-      </address>
-      <condition>GOOD</condition>
-      <state_of_vehicle>USED</state_of_vehicle>
-      <frivio:listing_type>auction</frivio:listing_type>
-      <frivio:auction_end_date>2026-07-02T17:32:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>170000 SEK</frivio:current_bid>
-      <frivio:bid_count>10</frivio:bid_count>
-      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>2690 kr/mån</frivio:monthly_cost>
-      <body_style>OTHER</body_style>
-      <frivio:body_type_label>Husvagn</frivio:body_type_label>
-      <fuel_type>NONE</fuel_type>
-      <frivio:region>Uppsala</frivio:region>
-      <availability>AVAILABLE</availability>
-      <custom_label_0>Husvagn</custom_label_0>
-      <custom_label_1>Slutar 2026-07-02 17:32</custom_label_1>
-    </item>
+    <lastBuildDate>Thu, 02 Jul 2026 18:41:36 GMT</lastBuildDate>
     <item>
       <vehicle_id>609</vehicle_id>
       <g:id>609</g:id>
@@ -500,8 +337,8 @@
         <value>0</value>
         <unit>KM</unit>
       </mileage>
-      <price>100000 SEK</price>
-      <g:price>100000 SEK</g:price>
+      <price>150000 SEK</price>
+      <g:price>150000 SEK</g:price>
       <address>Stockholm</address>
       <address format="simple">
         <component name="addr1">Stockholm</component>
@@ -514,10 +351,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-07-07T17:16:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>100000 SEK</frivio:current_bid>
-      <frivio:bid_count>0</frivio:bid_count>
-      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
-      <frivio:monthly_cost>1582 kr/mån</frivio:monthly_cost>
+      <frivio:current_bid>150000 SEK</frivio:current_bid>
+      <frivio:bid_count>1</frivio:bid_count>
+      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
+      <frivio:monthly_cost>2373 kr/mån</frivio:monthly_cost>
       <body_style>OTHER</body_style>
       <frivio:body_type_label>Båt</frivio:body_type_label>
       <fuel_type>NONE</fuel_type>
@@ -782,7 +619,7 @@
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-07-09T17:24:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
       <frivio:current_bid>210000 SEK</frivio:current_bid>
       <frivio:bid_count>1</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
@@ -836,7 +673,7 @@
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-07-09T17:27:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
       <frivio:current_bid>125000 SEK</frivio:current_bid>
       <frivio:bid_count>0</frivio:bid_count>
       <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
@@ -890,7 +727,7 @@
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-07-09T17:30:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
       <frivio:current_bid>78000 SEK</frivio:current_bid>
       <frivio:bid_count>2</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
