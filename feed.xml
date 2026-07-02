@@ -4,7 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Thu, 02 Jul 2026 08:16:58 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 11:39:55 GMT</lastBuildDate>
     <item>
       <vehicle_id>602</vehicle_id>
       <g:id>602</g:id>
@@ -33,8 +33,8 @@
         <value>0</value>
         <unit>KM</unit>
       </mileage>
-      <price>40000 SEK</price>
-      <g:price>40000 SEK</g:price>
+      <price>41000 SEK</price>
+      <g:price>41000 SEK</g:price>
       <address>Ronneby</address>
       <address format="simple">
         <component name="addr1">Ronneby</component>
@@ -47,10 +47,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-07-02T15:40:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>40000 SEK</frivio:current_bid>
-      <frivio:bid_count>4</frivio:bid_count>
+      <frivio:current_bid>41000 SEK</frivio:current_bid>
+      <frivio:bid_count>5</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>633 kr/mån</frivio:monthly_cost>
+      <frivio:monthly_cost>649 kr/mån</frivio:monthly_cost>
       <body_style>OTHER</body_style>
       <frivio:body_type_label>Husvagn</frivio:body_type_label>
       <fuel_type>NONE</fuel_type>
@@ -137,8 +137,8 @@
         <value>0</value>
         <unit>KM</unit>
       </mileage>
-      <price>140000 SEK</price>
-      <g:price>140000 SEK</g:price>
+      <price>141000 SEK</price>
+      <g:price>141000 SEK</g:price>
       <address>Nybro</address>
       <address format="simple">
         <component name="addr1">Nybro</component>
@@ -151,10 +151,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-07-02T15:50:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>140000 SEK</frivio:current_bid>
-      <frivio:bid_count>6</frivio:bid_count>
+      <frivio:current_bid>141000 SEK</frivio:current_bid>
+      <frivio:bid_count>7</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>2215 kr/mån</frivio:monthly_cost>
+      <frivio:monthly_cost>2231 kr/mån</frivio:monthly_cost>
       <body_style>OTHER</body_style>
       <frivio:body_type_label>Husvagn</frivio:body_type_label>
       <fuel_type>NONE</fuel_type>
@@ -245,8 +245,8 @@
         <value>0</value>
         <unit>KM</unit>
       </mileage>
-      <price>200000 SEK</price>
-      <g:price>200000 SEK</g:price>
+      <price>210000 SEK</price>
+      <g:price>210000 SEK</g:price>
       <address>Nora</address>
       <address format="simple">
         <component name="addr1">Nora</component>
@@ -259,10 +259,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-07-02T17:07:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>200000 SEK</frivio:current_bid>
-      <frivio:bid_count>3</frivio:bid_count>
+      <frivio:current_bid>210000 SEK</frivio:current_bid>
+      <frivio:bid_count>4</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>3164 kr/mån</frivio:monthly_cost>
+      <frivio:monthly_cost>3323 kr/mån</frivio:monthly_cost>
       <body_style>OTHER</body_style>
       <frivio:body_type_label>Husvagn</frivio:body_type_label>
       <fuel_type>NONE</fuel_type>
@@ -1641,6 +1641,61 @@
       <availability>AVAILABLE</availability>
       <custom_label_0>Båt</custom_label_0>
       <custom_label_1>Slutar 2026-07-16 17:08</custom_label_1>
+    </item>
+    <item>
+      <vehicle_id>639</vehicle_id>
+      <g:id>639</g:id>
+      <title>Polar 680</title>
+      <description>Polar 680 från 2012 är en rymlig och välutrustad boogievagn med klassisk Polar-känsla. Den stora U-soffan skapar en trivsam samlingsplats, medan den fasta dubbelsängen ger hög sovkomfort. Köket erbjuder gott om förvaring, ugn och mikro, och i badrummet finns handdukstork för extra bekvämlighet. Alde vattenburen värme och robust konstruktion gör vagnen väl anpassad för nordiskt klimat året runt. - Nuvarande ägare har ej gjort något fukttest under deras 2-åriga ägo. Årsmodell: 2012 · Typ: Husvagn · Ort: Göteborg</description>
+      <url>https://frivio.se/auktion/639</url>
+      <g:link>https://frivio.se/auktion/639</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/639/a1782990150125.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/639/a1782990150125.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/639/b1782990150347.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/639/c1782990152072.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/639/d1782990152223.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/639/e1782990153387.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/639/f1782990153237.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/639/g1782990153679.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/639/h1782990153536.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/639/i1782990152730.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/639/j1782990151604.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/639/k1782990152348.jpeg</g:additional_image_link>
+      <make>Polar</make>
+      <model>680</model>
+      <year>2012</year>
+      <mileage>
+        <value>0</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>139500 SEK</price>
+      <g:price>139500 SEK</g:price>
+      <address>Göteborg</address>
+      <address format="simple">
+        <component name="addr1">Göteborg</component>
+        <component name="city">Göteborg</component>
+        <component name="region">Västra Götaland</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <frivio:listing_type>auction</frivio:listing_type>
+      <frivio:auction_end_date>2026-07-19T15:01:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>139500 SEK</frivio:current_bid>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
+      <frivio:monthly_cost>2207 kr/mån</frivio:monthly_cost>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Husvagn</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
+      <frivio:region>Västra Götaland</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Husvagn</custom_label_0>
+      <custom_label_1>Slutar 2026-07-19 15:01</custom_label_1>
     </item>
     <item>
       <vehicle_id>636</vehicle_id>
