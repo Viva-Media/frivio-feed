@@ -4,7 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Thu, 02 Jul 2026 04:11:31 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 08:16:58 GMT</lastBuildDate>
     <item>
       <vehicle_id>602</vehicle_id>
       <g:id>602</g:id>
@@ -275,7 +275,7 @@
       <vehicle_id>614</vehicle_id>
       <g:id>614</g:id>
       <title>Adria Alpina 663UK</title>
-      <description>Adria Alpina 663 UK från 2013 är en rymlig och vinteranpassad familjevagn med smart planlösning och hög komfort året runt. Här finns en stor soffa fram, praktisk mittplacerad köksdel, generös franskbädd samt våningssängar för barnen. Det välutrustade badrummet, gott om förvaring och den gedigna Adria-kvaliteten gör vagnen perfekt för både längre semestrar och spontana helgutflykter med hela familjen, oavsett säsong eller destination för nästa äventyr tillsammans på vägarna i Norden. - Vinteranpassad vagn - 2 våningssäng längst bak - Franskbädd på mitten - U-soffa fram - Hänger en påsmarkis på där påsen börjar bli dålig - Spricka i dekorplast bak - Besiktad till 2026-07-31 Årsmodell: 2013 · Typ: Husvagn · Ort: Heby</description>
+      <description>Adria Alpina 663 UK från 2013 är en rymlig och vinteranpassad familjevagn med smart planlösning och hög komfort året runt. Här finns en stor soffa fram, praktisk mittplacerad köksdel, generös franskbädd samt våningssängar för barnen. Det välutrustade badrummet, gott om förvaring och den gedigna Adria-kvaliteten gör vagnen perfekt för både längre semestrar och spontana helgutflykter med hela familjen, oavsett säsong eller destination för nästa äventyr tillsammans på vägarna i Norden. - Vinteranpassad vagn - 2 våningssäng längst bak - Franskbädd på mitten - U-soffa fram - Hänger en påsmarkis på där påsen börjar bli dålig - Spricka i dekorplast bak - Levereras nybesiktad - Levereras fukttestad Årsmodell: 2013 · Typ: Husvagn · Ort: Heby</description>
       <url>https://frivio.se/auktion/614</url>
       <g:link>https://frivio.se/auktion/614</g:link>
       <image>
@@ -1325,6 +1325,61 @@
       <custom_label_1>Slutar 2026-07-14 17:45</custom_label_1>
     </item>
     <item>
+      <vehicle_id>631</vehicle_id>
+      <g:id>631</g:id>
+      <title>Knaus Sudwind 550 Exclusive</title>
+      <description>Välskött och rymlig Knaus Südwind 550 Exclusive från 2011 - en populär barnkammarvagn med smart planlösning för hela familjen. Här finns våningssängar, stor dubbelsäng, rymlig sittgrupp, välutrustat kök samt toalett och dusch. Gott om förvaring, modern och trivsam interiör samt cykelställ bak gör den perfekt för både semester och längre campingvistelser. - Besiktad till 2027-05-31 - Fukt &amp; Gasoltest utfört 2026-06-17 UA Årsmodell: 2011 · Typ: Husvagn · Ort: Oskarshamn</description>
+      <url>https://frivio.se/auktion/631</url>
+      <g:link>https://frivio.se/auktion/631</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/631/a1782741010638.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/631/a1782741010638.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/631/b1782741010962.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/631/c1782741010812.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/631/d1782741011358.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/631/e1782741011233.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/631/f1782741011112.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/631/g1782741011888.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/631/h1782741011477.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/631/i1782741011758.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/631/j1782741011616.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/631/k1782741012011.jpeg</g:additional_image_link>
+      <make>Knaus</make>
+      <model>Sudwind 550 Exclusive</model>
+      <year>2011</year>
+      <mileage>
+        <value>0</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>82500 SEK</price>
+      <g:price>82500 SEK</g:price>
+      <address>Oskarshamn</address>
+      <address format="simple">
+        <component name="addr1">Oskarshamn</component>
+        <component name="city">Oskarshamn</component>
+        <component name="region">Kalmar</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <frivio:listing_type>auction</frivio:listing_type>
+      <frivio:auction_end_date>2026-07-14T17:47:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>82500 SEK</frivio:current_bid>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
+      <frivio:monthly_cost>1305 kr/mån</frivio:monthly_cost>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Husvagn</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
+      <frivio:region>Kalmar</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Husvagn</custom_label_0>
+      <custom_label_1>Slutar 2026-07-14 17:47</custom_label_1>
+    </item>
+    <item>
       <vehicle_id>632</vehicle_id>
       <g:id>632</g:id>
       <title>Windy 9800</title>
@@ -1485,6 +1540,107 @@
       <availability>AVAILABLE</availability>
       <custom_label_0>Båt</custom_label_0>
       <custom_label_1>Slutar 2026-07-15 17:25</custom_label_1>
+    </item>
+    <item>
+      <vehicle_id>637</vehicle_id>
+      <g:id>637</g:id>
+      <title>Flipper 850</title>
+      <description>Välskött Flipper 850 från 1980 - en rymlig och uppskattad familjebåt med gott om plats för både dagsutflykter och semestrar. Båten erbjuder sex bekväma bäddplatser fördelade på för- och akterruff samt ett trivsamt kabinutrymme. Den klassiska planlösningen, generösa förvaringsmöjligheterna och den tidlösa designen gör detta till en perfekt båt för familjen som vill njuta av livet på sjön. - Vattenburen värme med gasolkamin - Lowrance plotter - Ekolod - Toa med däcktömning - Landström och solceller - VP AQ200D (Bensin V8, Cheva 305) - VP200D 2025 - Service av motor och förgasare på varv. - Ny startmotor - Nytt startbatteri 2024 - Botten slipad och målad dubbla lager bottenfärg - Ny badbrygga i teak - Nya takluckan i plexiglas - Nytt peke med infälld stege 2023 - Ny generator - Ny kyl - Nya förbrukningsbatterier 3x85 Ah - Nytt svartkapell - Ny laddregulator 2022 - Nya drevgenomföringar - Ny färskvattenpump - Ny hydrofor för färskvatten samt kranar - Nytt fönster till badrum Årsmodell: 1980 · Typ: Båt · Ort: Östhammar</description>
+      <url>https://frivio.se/auktion/637</url>
+      <g:link>https://frivio.se/auktion/637</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/637/a1782828235150.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/637/a1782828235150.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/637/b1782828235347.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/637/c1782828235472.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/637/d1782828235934.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/637/e1782828236765.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/637/f1782828236594.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/637/g1782828235581.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/637/h1782828235704.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/637/i1782828235812.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/637/j1782828236073.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/637/k1782828236319.jpeg</g:additional_image_link>
+      <make>Flipper</make>
+      <model>Flipper 850</model>
+      <year>1980</year>
+      <mileage>
+        <value>0</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>60000 SEK</price>
+      <g:price>60000 SEK</g:price>
+      <address>Östhammar</address>
+      <address format="simple">
+        <component name="addr1">Östhammar</component>
+        <component name="city">Östhammar</component>
+        <component name="region">Uppsala</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <frivio:listing_type>auction</frivio:listing_type>
+      <frivio:auction_end_date>2026-07-16T17:01:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>60000 SEK</frivio:current_bid>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
+      <frivio:monthly_cost>949 kr/mån</frivio:monthly_cost>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Båt</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
+      <frivio:region>Uppsala</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Båt</custom_label_0>
+      <custom_label_1>Slutar 2026-07-16 17:01</custom_label_1>
+    </item>
+    <item>
+      <vehicle_id>633</vehicle_id>
+      <g:id>633</g:id>
+      <title>Sandström Classic 565</title>
+      <description>Sandström Classic 565 är en stabil och lättkörd styrpulpetbåt som passar perfekt för fiske, bad och familjeutflykter. Utrustad med en Parsun 60 hk som ger god prestanda och trygga köregenskaper. Rymliga stuvutrymmen, praktisk planlösning och plats för upp till sex personer gör detta till en mångsidig och lättskött fritidsbåt. - Motorn är från 2019 - 60hk motor - Cirka 18h drifttid - Senaste service gjord 2025 - Välutrustad med instrument - 30km/h Trailer ingår Årsmodell: 2019 · Typ: Båt · Ort: Gävle</description>
+      <url>https://frivio.se/auktion/633</url>
+      <g:link>https://frivio.se/auktion/633</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/633/a1782742459940.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/633/a1782742459940.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/633/b1782742459768.jpeg</g:additional_image_link>
+      <make>Sandström</make>
+      <model>Sandström Classic 565</model>
+      <year>2019</year>
+      <mileage>
+        <value>0</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>87500 SEK</price>
+      <g:price>87500 SEK</g:price>
+      <address>Gävle</address>
+      <address format="simple">
+        <component name="addr1">Gävle</component>
+        <component name="city">Gävle</component>
+        <component name="region">Gävleborg</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <frivio:listing_type>auction</frivio:listing_type>
+      <frivio:auction_end_date>2026-07-16T17:08:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>87500 SEK</frivio:current_bid>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
+      <frivio:monthly_cost>1384 kr/mån</frivio:monthly_cost>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Båt</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
+      <frivio:region>Gävleborg</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Båt</custom_label_0>
+      <custom_label_1>Slutar 2026-07-16 17:08</custom_label_1>
     </item>
     <item>
       <vehicle_id>636</vehicle_id>
