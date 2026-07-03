@@ -4,7 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Fri, 03 Jul 2026 04:49:52 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 08:15:32 GMT</lastBuildDate>
     <item>
       <vehicle_id>609</vehicle_id>
       <g:id>609</g:id>
@@ -1689,6 +1689,57 @@
       <availability>AVAILABLE</availability>
       <custom_label_0>Båt</custom_label_0>
       <custom_label_1>Slutar 2026-07-21 17:08</custom_label_1>
+    </item>
+    <item>
+      <vehicle_id>645</vehicle_id>
+      <g:id>645</g:id>
+      <title>Ryds 478 GTI</title>
+      <description>Ryds 478 GTI är en lättkörd och stabil styrpulpet som passar lika bra för badutflykter som fiske och transport. Den bränslesnåla Mercury 50 hk ger fin prestanda och båten erbjuder gott om sittplatser samt smarta stuvutrymmen. Säljs med båtkärra och två bränsletankar - ett komplett paket som är redo för många härliga dagar på sjön. - Mercury 50hk cirka 60 gångtimmar - Nyservad i år - Komplett dynsats i bra skick - Ankare, tampar, kätting med lås medföljer - 30km/h kärra ingår Årsmodell: 2010 · Typ: Båt · Ort: Eskilstuna</description>
+      <url>https://frivio.se/auktion/645</url>
+      <g:link>https://frivio.se/auktion/645</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/645/a1782995243652.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/645/a1782995243652.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/645/b1782995243982.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/645/c1782995243823.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/645/d1782995244128.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/645/e1782995244393.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/645/f1782995244260.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/645/g1782995244521.jpeg</g:additional_image_link>
+      <make>Ryds</make>
+      <model>Ryds 478 GTI</model>
+      <year>2010</year>
+      <mileage>
+        <value>0</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>44500 SEK</price>
+      <g:price>44500 SEK</g:price>
+      <address>Eskilstuna</address>
+      <address format="simple">
+        <component name="addr1">Eskilstuna</component>
+        <component name="city">Eskilstuna</component>
+        <component name="region">Södermanland</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <frivio:listing_type>auction</frivio:listing_type>
+      <frivio:auction_end_date>2026-07-21T17:24:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>44500 SEK</frivio:current_bid>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
+      <frivio:monthly_cost>704 kr/mån</frivio:monthly_cost>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Båt</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
+      <frivio:region>Södermanland</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Båt</custom_label_0>
+      <custom_label_1>Slutar 2026-07-21 17:24</custom_label_1>
     </item>
   </channel>
 </rss>
