@@ -4,58 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Sun, 05 Jul 2026 13:57:34 GMT</lastBuildDate>
-    <item>
-      <vehicle_id>609</vehicle_id>
-      <g:id>609</g:id>
-      <title>Yamarin 56BR Special Edition</title>
-      <description>Här har du möjligheten att förvärva en nästintill ny och knappt använd Yamarin 56 BR Special Edition från 2022. Detta är en modern och lättkörd bowrider som passar lika bra för familjeutflykter som för fartfyllda dagar på sjön. Tillsammans med den starka och driftsäkra Yamaha motorn så får du en båt med fina köregenskaper, låg bränsleförbrukning och gott om plats för både passagerare och packning. Den genomtänkta layouten, rejäla badplattformarna och den skyddande kapellösningen gör varje tur bekväm - oavsett om du söker avkoppling, vattensport eller skärgårdsliv. - Drifttid 53,2h Utrustning Special Edition - Garmin 922XS - Akterkapell - Vindrutetorkare höger - Ankarbox i för och akter - Kapellfack - Fast mellandörr - Fenderfästen - Brandsläckare - Hydraulisk styrning - Låsbart handsfack och förvaringsfack - Mugghållare - Navigationsljus - Offshoresäten med högt ryggstöd - Eluttag 12V - Fenderställningar - Sittdynor i sittbrunnen - Räcke och däcksbeslag i rostfritt stål - Yamaha LAN-multifunktionsinstrument - Stöldskyddsmärkning - Motorlås klass 3 - Låskätting och hänglås klass 3 - Fender och fenderlinor 4st - Tampar 4st - Ankare - Ankarlina Årsmodell: 2022 · Typ: Båt · Ort: Norrtälje</description>
-      <url>https://frivio.se/auktion/609</url>
-      <g:link>https://frivio.se/auktion/609</g:link>
-      <image>
-        <url>https://backend.frivio.se/vehicle/609/a1781611617189.jpeg</url>
-        <tag>Exterior</tag>
-      </image>
-      <g:image_link>https://backend.frivio.se/vehicle/609/a1781611617189.jpeg</g:image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/609/b1781611617578.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/609/c1781611617711.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/609/d1781611617320.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/609/e1781611616890.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/609/f1781611617063.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/609/g1781611617451.jpeg</g:additional_image_link>
-      <make>Yamarin</make>
-      <model>Yamarin 56BR Special Edition</model>
-      <year>2022</year>
-      <mileage>
-        <value>0</value>
-        <unit>KM</unit>
-      </mileage>
-      <price>185000 SEK</price>
-      <g:price>185000 SEK</g:price>
-      <address>Norrtälje</address>
-      <address format="simple">
-        <component name="addr1">Norrtälje</component>
-        <component name="city">Norrtälje</component>
-        <component name="region">Stockholm</component>
-        <component name="country">SE</component>
-      </address>
-      <condition>GOOD</condition>
-      <state_of_vehicle>USED</state_of_vehicle>
-      <frivio:listing_type>auction</frivio:listing_type>
-      <frivio:auction_end_date>2026-07-05T15:02:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>185000 SEK</frivio:current_bid>
-      <frivio:bid_count>1</frivio:bid_count>
-      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>2927 kr/mån</frivio:monthly_cost>
-      <body_style>OTHER</body_style>
-      <frivio:body_type_label>Båt</frivio:body_type_label>
-      <fuel_type>NONE</fuel_type>
-      <frivio:region>Stockholm</frivio:region>
-      <availability>AVAILABLE</availability>
-      <custom_label_0>Båt</custom_label_0>
-      <custom_label_1>Slutar 2026-07-05 15:02</custom_label_1>
-    </item>
+    <lastBuildDate>Sun, 05 Jul 2026 15:21:05 GMT</lastBuildDate>
     <item>
       <vehicle_id>608</vehicle_id>
       <g:id>608</g:id>
