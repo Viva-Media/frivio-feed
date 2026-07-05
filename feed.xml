@@ -4,62 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Sun, 05 Jul 2026 17:20:41 GMT</lastBuildDate>
-    <item>
-      <vehicle_id>608</vehicle_id>
-      <g:id>608</g:id>
-      <title>Cabby 700+</title>
-      <description>Cabby 700+ Barnkammarvagn från 2010 är en rymlig och välplanerad husvagn som passar perfekt för den större familjen. Den smarta planlösningen erbjuder separat barnkammare med våningssängar och egen sittgrupp, bekväm dubbelsäng för föräldrarna samt en stor och inbjudande U-soffa. Det välutrustade köket har gott om arbetsyta, stor kyl med separat frys och spis med ugn. Badrummet är rymligt och praktiskt utformat. Vagnen är väl omhändertagen med normalt slitage utifrån ålder och användning. En bekväm året-runt-vagn med hög trivselfaktor och gott om förvaring. - Besiktad till 2027-04-30 - Gasoltest utfört 2025 UA - Fukttest utfört 2026-06-01 UA - Active Trailer Control (ATC) - Gaslarm - Markis ink. väggar och front - Förtält - Ny kyl med frys 2024 - Frostskyddad färskvattentank samt spillvattentank Årsmodell: 2010 · Typ: Husvagn · Ort: Östersund</description>
-      <url>https://frivio.se/auktion/608</url>
-      <g:link>https://frivio.se/auktion/608</g:link>
-      <image>
-        <url>https://backend.frivio.se/vehicle/608/a1781610484573.jpeg</url>
-        <tag>Exterior</tag>
-      </image>
-      <g:image_link>https://backend.frivio.se/vehicle/608/a1781610484573.jpeg</g:image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/608/b1781610484050.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/608/c1781610484231.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/608/d1781610485151.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/608/e1781610484883.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/608/f1781610485318.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/608/g1781610484411.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/608/h1781610484755.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/608/i1781610485023.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/608/j1781610485467.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/608/k1781610485594.jpeg</g:additional_image_link>
-      <make>Cabby</make>
-      <model>700+</model>
-      <year>2010</year>
-      <mileage>
-        <value>0</value>
-        <unit>KM</unit>
-      </mileage>
-      <price>100000 SEK</price>
-      <g:price>100000 SEK</g:price>
-      <address>Östersund</address>
-      <address format="simple">
-        <component name="addr1">Östersund</component>
-        <component name="city">Östersund</component>
-        <component name="region">Jämtland</component>
-        <component name="country">SE</component>
-      </address>
-      <condition>GOOD</condition>
-      <state_of_vehicle>USED</state_of_vehicle>
-      <frivio:listing_type>auction</frivio:listing_type>
-      <frivio:auction_end_date>2026-07-05T17:53:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>100000 SEK</frivio:current_bid>
-      <frivio:bid_count>6</frivio:bid_count>
-      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>1582 kr/mån</frivio:monthly_cost>
-      <body_style>OTHER</body_style>
-      <frivio:body_type_label>Husvagn</frivio:body_type_label>
-      <fuel_type>NONE</fuel_type>
-      <frivio:region>Jämtland</frivio:region>
-      <availability>AVAILABLE</availability>
-      <custom_label_0>Husvagn</custom_label_0>
-      <custom_label_1>Slutar 2026-07-05 17:53</custom_label_1>
-    </item>
+    <lastBuildDate>Sun, 05 Jul 2026 19:36:01 GMT</lastBuildDate>
     <item>
       <vehicle_id>615</vehicle_id>
       <g:id>615</g:id>
