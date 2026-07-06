@@ -4,62 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Mon, 06 Jul 2026 13:54:00 GMT</lastBuildDate>
-    <item>
-      <vehicle_id>615</vehicle_id>
-      <g:id>615</g:id>
-      <title>Knaus Scandinavian 590 UK</title>
-      <description>Knaus Scandinavian Selection 590 UK från 2023 är en exklusiv och obetydligt använd barnkammarvagn med smart planlösning för hela familjen. Här finns en rymlig sittgrupp fram, välutrustat kök, bekväm dubbelsäng och praktiska våningssängar i separat barnavdelning. Den moderna interiören, generösa förvaringen och höga utrustningsnivån skapar maximal komfort för både korta utflykter och långa semestrar året runt med förstklassig kvalitet och genomtänkta detaljer för bekymmersfria campingäventyr tillsammans under alla årets säsonger. - Besiktad till 2027-11-30 - Inaca Fjord 300W 1025XL förtält - Fukt och gasoltest utfört 2026-06-04 UA Årsmodell: 2023 · Typ: Husvagn · Ort: Umeå</description>
-      <url>https://frivio.se/auktion/615</url>
-      <g:link>https://frivio.se/auktion/615</g:link>
-      <image>
-        <url>https://backend.frivio.se/vehicle/615/a1781697955259.jpeg</url>
-        <tag>Exterior</tag>
-      </image>
-      <g:image_link>https://backend.frivio.se/vehicle/615/a1781697955259.jpeg</g:image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/615/b1781697955070.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/615/c1781697955389.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/615/d1781697955571.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/615/e1781697955807.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/615/f1781697955696.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/615/g1781697955925.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/615/h1781697956034.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/615/i1781697956166.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/615/j1781697956280.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/615/k1781697956395.jpeg</g:additional_image_link>
-      <make>Knaus</make>
-      <model>Scandinavian 590 UK</model>
-      <year>2023</year>
-      <mileage>
-        <value>0</value>
-        <unit>KM</unit>
-      </mileage>
-      <price>240000 SEK</price>
-      <g:price>240000 SEK</g:price>
-      <address>Umeå</address>
-      <address format="simple">
-        <component name="addr1">Umeå</component>
-        <component name="city">Umeå</component>
-        <component name="region">Västerbotten</component>
-        <component name="country">SE</component>
-      </address>
-      <condition>GOOD</condition>
-      <state_of_vehicle>USED</state_of_vehicle>
-      <frivio:listing_type>auction</frivio:listing_type>
-      <frivio:auction_end_date>2026-07-06T15:02:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>240000 SEK</frivio:current_bid>
-      <frivio:bid_count>3</frivio:bid_count>
-      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>3797 kr/mån</frivio:monthly_cost>
-      <body_style>OTHER</body_style>
-      <frivio:body_type_label>Husvagn</frivio:body_type_label>
-      <fuel_type>NONE</fuel_type>
-      <frivio:region>Västerbotten</frivio:region>
-      <availability>AVAILABLE</availability>
-      <custom_label_0>Husvagn</custom_label_0>
-      <custom_label_1>Slutar 2026-07-06 15:02</custom_label_1>
-    </item>
+    <lastBuildDate>Mon, 06 Jul 2026 16:56:24 GMT</lastBuildDate>
     <item>
       <vehicle_id>607</vehicle_id>
       <g:id>607</g:id>
