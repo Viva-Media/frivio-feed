@@ -4,7 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Mon, 06 Jul 2026 04:17:45 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 09:06:03 GMT</lastBuildDate>
     <item>
       <vehicle_id>615</vehicle_id>
       <g:id>615</g:id>
@@ -1061,60 +1061,6 @@
       <custom_label_1>Slutar 2026-07-15 17:15</custom_label_1>
     </item>
     <item>
-      <vehicle_id>626</vehicle_id>
-      <g:id>626</g:id>
-      <title>Windy 24 MC</title>
-      <description>Windy 24 MC är en klassisk norsk kvalitetsbåt från 1981, känd för sin robusta konstruktion, goda sjöegenskaper och välplanerade layout. Båten är utrustad med en Volvo Penta 260 AQ med AQ280-drev som ger pålitlig drift och fina prestanda på vattnet. För bästa grepp och drivkraft medföljer två uppsättningar duoprop-propellrar. Den rymliga midcabin-lösningen erbjuder bekväma övernattningsmöjligheter och gör båten väl lämpad för både dagsutflykter och längre turer. - V8 Chevablock på 275hk. - Sötvattenkylning - Ca 30 gångtimmar senaste 10 åren - Drev ompackat med nya bälgar 2024 - Nya begagnade avgaslimpor 2025 - 3st nya batterier 2026 - Ny toalett 2026 - El-ankarspel - Kapell 6 år - tvättat med nya sömmar och nytt fönster 2026 Årsmodell: 1981 · Typ: Båt · Ort: Stockholm</description>
-      <url>https://frivio.se/auktion/626</url>
-      <g:link>https://frivio.se/auktion/626</g:link>
-      <image>
-        <url>https://backend.frivio.se/vehicle/626/a1782289556591.jpeg</url>
-        <tag>Exterior</tag>
-      </image>
-      <g:image_link>https://backend.frivio.se/vehicle/626/a1782289556591.jpeg</g:image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/626/b1782289556766.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/626/c1782289556931.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/626/d1782289557057.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/626/e1782289557176.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/626/f1782289557303.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/626/g1782289557415.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/626/h1782289557537.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/626/i1782289557674.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/626/j1782289557797.jpeg</g:additional_image_link>
-      <make>Windy</make>
-      <model>Windy 24 MC</model>
-      <year>1981</year>
-      <mileage>
-        <value>0</value>
-        <unit>KM</unit>
-      </mileage>
-      <price>45000 SEK</price>
-      <g:price>45000 SEK</g:price>
-      <address>Stockholm</address>
-      <address format="simple">
-        <component name="addr1">Stockholm</component>
-        <component name="city">Stockholm</component>
-        <component name="region">Stockholm</component>
-        <component name="country">SE</component>
-      </address>
-      <condition>GOOD</condition>
-      <state_of_vehicle>USED</state_of_vehicle>
-      <frivio:listing_type>auction</frivio:listing_type>
-      <frivio:auction_end_date>2026-07-15T17:25:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>45000 SEK</frivio:current_bid>
-      <frivio:bid_count>0</frivio:bid_count>
-      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
-      <frivio:monthly_cost>712 kr/mån</frivio:monthly_cost>
-      <body_style>OTHER</body_style>
-      <frivio:body_type_label>Båt</frivio:body_type_label>
-      <fuel_type>NONE</fuel_type>
-      <frivio:region>Stockholm</frivio:region>
-      <availability>AVAILABLE</availability>
-      <custom_label_0>Båt</custom_label_0>
-      <custom_label_1>Slutar 2026-07-15 17:25</custom_label_1>
-    </item>
-    <item>
       <vehicle_id>637</vehicle_id>
       <g:id>637</g:id>
       <title>Flipper 850</title>
@@ -1634,6 +1580,163 @@
       <availability>AVAILABLE</availability>
       <custom_label_0>Båt</custom_label_0>
       <custom_label_1>Slutar 2026-07-21 17:24</custom_label_1>
+    </item>
+    <item>
+      <vehicle_id>650</vehicle_id>
+      <g:id>650</g:id>
+      <title>Forbina 650F</title>
+      <description>Forbina 650F från 1999. En Välskött walkaround med fina uppdateringar. Stabil och lättkörd walkaround-båt som passar lika bra för fisketurer som för bekväma utflykter till sjöss. Båten är utrustad med en Volvo Penta TAMD22P (1999), sötvattenkyld, där impeller och olja är bytta 2025. Drev av modell Volvo Penta SX-MTD med nyligen bytt kona och styrgaffel, ny drevolja samt stålpropeller. Den gör cirka 25 knop i toppfart och marschar bekvämt runt 20 knop. Invändigt finns uppdaterad komfort med nya flipstolar och dynor i ruffen, som erbjuder 2-3 sovplatser. Kapellet är i gott skick. Utrustningsmässigt är båten välförsedd med Garmin 721 plotter, hydraulstyrning, dubbla batterier med avskiljare samt teak i både däck och sittbrunn. Båtkärra (30 km/h) i fint skick ingår. En mycket trevlig båt i sjön med smart walkaround-layout som ger gott om ytor på däck - perfekt för både fiske och fritid. Årsmodell: 1999 · Typ: Båt · Ort: Kungsbacka</description>
+      <url>https://frivio.se/auktion/650</url>
+      <g:link>https://frivio.se/auktion/650</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/650/a1783320911605.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/650/a1783320911605.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/650/b1783320910782.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/650/c1783320910970.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/650/d1783320909952.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/650/e1783320909784.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/650/f1783320909012.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/650/g1783320909170.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/650/h1783320911304.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/650/i1783320910118.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/650/j1783320909470.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/650/k1783320909326.jpeg</g:additional_image_link>
+      <make>Forbina</make>
+      <model>Forbina 650F</model>
+      <year>1999</year>
+      <mileage>
+        <value>0</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>80000 SEK</price>
+      <g:price>80000 SEK</g:price>
+      <address>Kungsbacka</address>
+      <address format="simple">
+        <component name="addr1">Kungsbacka</component>
+        <component name="city">Kungsbacka</component>
+        <component name="region">Halland</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <frivio:listing_type>auction</frivio:listing_type>
+      <frivio:auction_end_date>2026-07-21T17:54:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>80000 SEK</frivio:current_bid>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
+      <frivio:monthly_cost>1266 kr/mån</frivio:monthly_cost>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Båt</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
+      <frivio:region>Halland</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Båt</custom_label_0>
+      <custom_label_1>Slutar 2026-07-21 17:54</custom_label_1>
+    </item>
+    <item>
+      <vehicle_id>648</vehicle_id>
+      <g:id>648</g:id>
+      <title>Hobby 560 LU Exellent</title>
+      <description>Hobby 560 LU Excellent 2019 erbjuder en exklusiv känsla med modern design, hög komfort och genomtänkta detaljer. Invändigt möts du av ljusa högblanka luckor, rymlig sittgrupp och bekväma långbäddar som enkelt kan bäddas samman. Den stilrena inredningen kombineras med generösa förvaringsutrymmen och en trivsam boendemiljö som passar perfekt för semesterns alla äventyr. En välutrustad och mycket välhållen vagn med premiumkänsla. - Matta till golvet inne i husvagnen medföljer (aldrig använd) - Besiktad till 2027-06-30 - Fukt och gasoltest utfört i april 2026 UA - Ventura förtält och matta Årsmodell: 2019 · Typ: Husvagn · Ort: Karlshamn</description>
+      <url>https://frivio.se/auktion/648</url>
+      <g:link>https://frivio.se/auktion/648</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/648/a1783320207944.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/648/a1783320207944.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/648/b1783320208282.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/648/c1783320208695.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/648/d1783320207756.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/648/e1783320208418.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/648/f1783320208141.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/648/g1783320208548.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/648/h1783320208846.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/648/i1783320209031.jpeg</g:additional_image_link>
+      <make>Hobby</make>
+      <model>560 LU Exellent</model>
+      <year>2019</year>
+      <mileage>
+        <value>0</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>200000 SEK</price>
+      <g:price>200000 SEK</g:price>
+      <address>Karlshamn</address>
+      <address format="simple">
+        <component name="addr1">Karlshamn</component>
+        <component name="city">Karlshamn</component>
+        <component name="region">Blekinge</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <frivio:listing_type>fixed_price</frivio:listing_type>
+      <frivio:auction_end_date>2026-08-06T17:43:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Ej tillämpligt (fast pris)</frivio:reserve_price_status>
+      <frivio:monthly_cost>3164 kr/mån</frivio:monthly_cost>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Husvagn</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
+      <frivio:region>Blekinge</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Husvagn</custom_label_0>
+      <custom_label_1>Slutar 2026-08-06 17:43</custom_label_1>
+    </item>
+    <item>
+      <vehicle_id>649</vehicle_id>
+      <g:id>649</g:id>
+      <title>Bella 512 Excel</title>
+      <description>Bella 512 Excel från 2008 tillsammans med en Mercury 75 hk Optimax från 2009 är en mycket trevlig och välgående fritidsbåt med fina sjöegenskaper. Båten är i mycket gott skick för sin ålder och passar lika bra för nybörjaren som den erfarna båtägaren. Med den starka Optimax-motorn fungerar båten även utmärkt för vattenskidor och andra fartfyllda aktiviteter. En smidig, pålitlig och rolig båt för sommarens alla turer. - Motorn har gått 79h - Motorn servad inför säsongen - 30km/h upptagningsvagn medföljer - Kapell medföljer - Dynsats medföljer Årsmodell: 2008 · Typ: Båt · Ort: Kungsbacka</description>
+      <url>https://frivio.se/auktion/649</url>
+      <g:link>https://frivio.se/auktion/649</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/649/a1783320524823.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/649/a1783320524823.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/649/b1783320524231.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/649/c1783320524063.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/649/d1783320524679.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/649/e1783320524380.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/649/f1783320524520.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/649/g1783320523859.jpeg</g:additional_image_link>
+      <make>Bella</make>
+      <model>Bella 512 Excel</model>
+      <year>2008</year>
+      <mileage>
+        <value>0</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>95000 SEK</price>
+      <g:price>95000 SEK</g:price>
+      <address>Kungsbacka</address>
+      <address format="simple">
+        <component name="addr1">Kungsbacka</component>
+        <component name="city">Kungsbacka</component>
+        <component name="region">Halland</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <frivio:listing_type>fixed_price</frivio:listing_type>
+      <frivio:auction_end_date>2026-08-06T17:48:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Ej tillämpligt (fast pris)</frivio:reserve_price_status>
+      <frivio:monthly_cost>1503 kr/mån</frivio:monthly_cost>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Båt</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
+      <frivio:region>Halland</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Båt</custom_label_0>
+      <custom_label_1>Slutar 2026-08-06 17:48</custom_label_1>
     </item>
   </channel>
 </rss>
