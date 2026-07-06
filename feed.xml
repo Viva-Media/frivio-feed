@@ -4,7 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Mon, 06 Jul 2026 09:06:03 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 13:54:00 GMT</lastBuildDate>
     <item>
       <vehicle_id>615</vehicle_id>
       <g:id>615</g:id>
@@ -34,8 +34,8 @@
         <value>0</value>
         <unit>KM</unit>
       </mileage>
-      <price>235000 SEK</price>
-      <g:price>235000 SEK</g:price>
+      <price>240000 SEK</price>
+      <g:price>240000 SEK</g:price>
       <address>Umeå</address>
       <address format="simple">
         <component name="addr1">Umeå</component>
@@ -48,10 +48,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-07-06T15:02:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>235000 SEK</frivio:current_bid>
-      <frivio:bid_count>2</frivio:bid_count>
+      <frivio:current_bid>240000 SEK</frivio:current_bid>
+      <frivio:bid_count>3</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>3718 kr/mån</frivio:monthly_cost>
+      <frivio:monthly_cost>3797 kr/mån</frivio:monthly_cost>
       <body_style>OTHER</body_style>
       <frivio:body_type_label>Husvagn</frivio:body_type_label>
       <fuel_type>NONE</fuel_type>
@@ -926,8 +926,8 @@
         <value>0</value>
         <unit>KM</unit>
       </mileage>
-      <price>82500 SEK</price>
-      <g:price>82500 SEK</g:price>
+      <price>85000 SEK</price>
+      <g:price>85000 SEK</g:price>
       <address>Oskarshamn</address>
       <address format="simple">
         <component name="addr1">Oskarshamn</component>
@@ -940,10 +940,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-07-14T17:47:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>82500 SEK</frivio:current_bid>
-      <frivio:bid_count>0</frivio:bid_count>
-      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
-      <frivio:monthly_cost>1305 kr/mån</frivio:monthly_cost>
+      <frivio:current_bid>85000 SEK</frivio:current_bid>
+      <frivio:bid_count>1</frivio:bid_count>
+      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
+      <frivio:monthly_cost>1345 kr/mån</frivio:monthly_cost>
       <body_style>OTHER</body_style>
       <frivio:body_type_label>Husvagn</frivio:body_type_label>
       <fuel_type>NONE</fuel_type>
@@ -1162,6 +1162,54 @@
       <custom_label_1>Slutar 2026-07-16 17:08</custom_label_1>
     </item>
     <item>
+      <vehicle_id>640</vehicle_id>
+      <g:id>640</g:id>
+      <title>Jofa Wint 435</title>
+      <description>Praktisk och lättkörd kabinbåt som passar utmärkt för både fiske och dagsutflykter. Båten är utrustad med en Mercury 60 hk utombordare och kapell som ger gott skydd vid sämre väder. Den skyddade styrplatsen gör båten bekväm att använda under större delen av säsongen. En trevlig och lättskött båt som passar både nybörjare och erfarna båtägare. - Mercury 60hk motor - Körd cirka 15h per år sedan 2009 - Servad av auktoriserad firma för cirka 5år sedan - men olja och filter byttes för två år sedan. - Kapell endast 2-år gammalt - Eltilt - 30km/h kärra ingår Årsmodell: 1979 · Typ: Båt · Ort: Säter</description>
+      <url>https://frivio.se/auktion/640</url>
+      <g:link>https://frivio.se/auktion/640</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/640/b1782991619631.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/640/b1782991619631.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/640/c1782991619312.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/640/d1782991619475.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/640/d1782991685292.jpeg</g:additional_image_link>
+      <make>Jofa</make>
+      <model>Jofa Wint 435</model>
+      <year>1979</year>
+      <mileage>
+        <value>0</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>12500 SEK</price>
+      <g:price>12500 SEK</g:price>
+      <address>Säter</address>
+      <address format="simple">
+        <component name="addr1">Säter</component>
+        <component name="city">Säter</component>
+        <component name="region">Dalarna</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <frivio:listing_type>auction</frivio:listing_type>
+      <frivio:auction_end_date>2026-07-16T17:23:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>12500 SEK</frivio:current_bid>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
+      <frivio:monthly_cost>198 kr/mån</frivio:monthly_cost>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Båt</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
+      <frivio:region>Dalarna</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Båt</custom_label_0>
+      <custom_label_1>Slutar 2026-07-16 17:23</custom_label_1>
+    </item>
+    <item>
       <vehicle_id>642</vehicle_id>
       <g:id>642</g:id>
       <title>Albin Wiggen</title>
@@ -1346,8 +1394,8 @@
         <value>35000</value>
         <unit>KM</unit>
       </mileage>
-      <price>385000 SEK</price>
-      <g:price>385000 SEK</g:price>
+      <price>395000 SEK</price>
+      <g:price>395000 SEK</g:price>
       <address>Borås</address>
       <address format="simple">
         <component name="addr1">Borås</component>
@@ -1361,10 +1409,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-07-20T17:01:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>385000 SEK</frivio:current_bid>
-      <frivio:bid_count>5</frivio:bid_count>
+      <frivio:current_bid>395000 SEK</frivio:current_bid>
+      <frivio:bid_count>6</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>6092 kr/mån</frivio:monthly_cost>
+      <frivio:monthly_cost>6250 kr/mån</frivio:monthly_cost>
       <body_style>VAN</body_style>
       <frivio:body_type_label>Husbil</frivio:body_type_label>
       <fuel_type>DIESEL</fuel_type>
@@ -1372,6 +1420,58 @@
       <availability>AVAILABLE</availability>
       <custom_label_0>Husbil</custom_label_0>
       <custom_label_1>Slutar 2026-07-20 17:01</custom_label_1>
+    </item>
+    <item>
+      <vehicle_id>651</vehicle_id>
+      <g:id>651</g:id>
+      <title>Kabe Classic 600 GDL</title>
+      <description>Kabe Classic 600 GDL från 2015 är en välutrustad och rymlig kvalitetsvagn med genomtänkt planlösning för bekväma resor året om. Vagnen erbjuder generös sittgrupp, praktiskt kök, rymligt badrum och bekväm tvärbädd som ger hög sovkomfort och barnkammare. Kabe är känt för sin höga byggkvalitet och sitt effektiva Alde-värmesystem, vilket gör vagnen lika trivsam under kalla höstkvällar som under sommarens semestrar. En perfekt husvagn för både kortare utflykter och längre äventyr. - Fukttest utfört 2024 UA - Gasoltest utfört 2025 UA - Besiktad till 2027-05-31 - Dåligt batteri Årsmodell: 2015 · Typ: Husvagn · Ort: Nybro</description>
+      <url>https://frivio.se/auktion/651</url>
+      <g:link>https://frivio.se/auktion/651</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/651/a1783329560471.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/651/a1783329560471.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/651/b1783329559727.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/651/c1783329559877.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/651/d1783329560175.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/651/e1783329560315.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/651/f1783329560018.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/651/g1783329559347.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/651/h1783329559559.jpeg</g:additional_image_link>
+      <make>Kabe</make>
+      <model>Classic 600 GDL</model>
+      <year>2015</year>
+      <mileage>
+        <value>0</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>230000 SEK</price>
+      <g:price>230000 SEK</g:price>
+      <address>Nybro</address>
+      <address format="simple">
+        <component name="addr1">Nybro</component>
+        <component name="city">Nybro</component>
+        <component name="region">Kalmar</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <frivio:listing_type>auction</frivio:listing_type>
+      <frivio:auction_end_date>2026-07-20T17:18:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>230000 SEK</frivio:current_bid>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
+      <frivio:monthly_cost>3639 kr/mån</frivio:monthly_cost>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Husvagn</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
+      <frivio:region>Kalmar</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Husvagn</custom_label_0>
+      <custom_label_1>Slutar 2026-07-20 17:18</custom_label_1>
     </item>
     <item>
       <vehicle_id>646</vehicle_id>
@@ -1582,6 +1682,60 @@
       <custom_label_1>Slutar 2026-07-21 17:24</custom_label_1>
     </item>
     <item>
+      <vehicle_id>652</vehicle_id>
+      <g:id>652</g:id>
+      <title>Kabe Royal 600 ETDL KS</title>
+      <description>Kabe Royal 600 ETDL KS från 2016 erbjuder en smart planlösning med separata långbäddar, generös U-soffa och välutrustat kök med stor kyl och spis. Den ombonade interiören, gott om förvaring och KABEs välkända komfort gör vagnen lika trivsam på weekendresan som under längre turer. För dig som söker ett bekvämt och genomtänkt boende med hög kvalitetskänsla. - Stort Isabella förtält - Fukttestas innan leverans - Levereras nybesiktad Årsmodell: 2016 · Typ: Husvagn · Ort: Nora</description>
+      <url>https://frivio.se/auktion/652</url>
+      <g:link>https://frivio.se/auktion/652</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/652/a1783330209556.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/652/a1783330209556.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/652/b1783330209680.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/652/c1783330208917.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/652/d1783330208450.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/652/e1783330209307.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/652/f1783330209041.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/652/g1783330209174.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/652/h1783330208655.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/652/i1783330209427.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/652/j1783330208791.jpeg</g:additional_image_link>
+      <make>Kabe</make>
+      <model>Royal 600 ETDL KS</model>
+      <year>2016</year>
+      <mileage>
+        <value>0</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>150000 SEK</price>
+      <g:price>150000 SEK</g:price>
+      <address>Nora</address>
+      <address format="simple">
+        <component name="addr1">Nora</component>
+        <component name="city">Nora</component>
+        <component name="region">Örebro</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <frivio:listing_type>auction</frivio:listing_type>
+      <frivio:auction_end_date>2026-07-21T17:29:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>150000 SEK</frivio:current_bid>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
+      <frivio:monthly_cost>2373 kr/mån</frivio:monthly_cost>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Husvagn</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
+      <frivio:region>Örebro</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Husvagn</custom_label_0>
+      <custom_label_1>Slutar 2026-07-21 17:29</custom_label_1>
+    </item>
+    <item>
       <vehicle_id>650</vehicle_id>
       <g:id>650</g:id>
       <title>Forbina 650F</title>
@@ -1635,6 +1789,57 @@
       <availability>AVAILABLE</availability>
       <custom_label_0>Båt</custom_label_0>
       <custom_label_1>Slutar 2026-07-21 17:54</custom_label_1>
+    </item>
+    <item>
+      <vehicle_id>653</vehicle_id>
+      <g:id>653</g:id>
+      <title>Kabe Ametist GLE</title>
+      <description>Kabe Ametist GLE från 2000 är en välplanerad husvagn med klassisk Kabe-känsla och hög komfort året runt. Den rymliga sittgruppen framtill bjuder in till trevliga middagar och avkopplande kvällar, medan de separata långbäddarna i bak ger en bekväm och avskild sovdel. Det funktionella köket erbjuder generösa arbetsytor och gott om förvaring. En hemtrevlig och lättanvänd vagn som passar dig som uppskattar kvalitet och smarta lösningar. - Besiktad till 2028-05-31 - Förtält med carbonpinnar - Däck endast gått 150 mil Årsmodell: 2000 · Typ: Husvagn · Ort: Finspång</description>
+      <url>https://frivio.se/auktion/653</url>
+      <g:link>https://frivio.se/auktion/653</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/653/a1783330854971.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/653/a1783330854971.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/653/b1783330855270.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/653/c1783330855409.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/653/d1783330855103.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/653/e1783330854731.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/653/f1783330854605.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/653/g1783330854441.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/653/h1783330854850.jpeg</g:additional_image_link>
+      <make>Kabe</make>
+      <model>Ametist GLE</model>
+      <year>2000</year>
+      <mileage>
+        <value>0</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>69000 SEK</price>
+      <g:price>69000 SEK</g:price>
+      <address>Finspång</address>
+      <address format="simple">
+        <component name="addr1">Finspång</component>
+        <component name="city">Finspång</component>
+        <component name="region">Östergötland</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <frivio:listing_type>fixed_price</frivio:listing_type>
+      <frivio:auction_end_date>2026-08-06T17:40:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Ej tillämpligt (fast pris)</frivio:reserve_price_status>
+      <frivio:monthly_cost>1092 kr/mån</frivio:monthly_cost>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Husvagn</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
+      <frivio:region>Östergötland</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Husvagn</custom_label_0>
+      <custom_label_1>Slutar 2026-08-06 17:40</custom_label_1>
     </item>
     <item>
       <vehicle_id>648</vehicle_id>
