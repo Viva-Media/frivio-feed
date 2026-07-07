@@ -4,57 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Tue, 07 Jul 2026 12:02:25 GMT</lastBuildDate>
-    <item>
-      <vehicle_id>607</vehicle_id>
-      <g:id>607</g:id>
-      <title>Yamarin DC64</title>
-      <description>Yamarin DC64 från 2010 är en smidig och välplanerad daycruiser som passar perfekt för både dagsutflykter och bekväma helgturer. Båten erbjuder en rymlig sittbrunn, praktisk kabin med sovplatser samt generösa förvaringsutrymmen. Utrustad med en Yamaha F150 fyrtaktsmotor som ger trygg och bränsleeffektiv gång. Skicket är överlag fint med normala bruksspår för sin ålder. En lättkörd och uppskattad familjebåt, redo för nya äventyr på sjön. - Plotter SW92 - Landström - Laddare - Tampar - Fendrar - Stabil 30kärra - Servad Årsmodell: 2010 · Typ: Båt · Ort: Sölvesborg</description>
-      <url>https://frivio.se/auktion/607</url>
-      <g:link>https://frivio.se/auktion/607</g:link>
-      <image>
-        <url>https://backend.frivio.se/vehicle/607/a1781609764103.jpeg</url>
-        <tag>Exterior</tag>
-      </image>
-      <g:image_link>https://backend.frivio.se/vehicle/607/a1781609764103.jpeg</g:image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/607/b1781609764551.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/607/c1781609763931.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/607/d1781609764404.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/607/e1781609763748.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/607/f1781609764261.jpeg</g:additional_image_link>
-      <make>Yamarin</make>
-      <model>Yamarin DC64</model>
-      <year>2010</year>
-      <mileage>
-        <value>0</value>
-        <unit>KM</unit>
-      </mileage>
-      <price>175000 SEK</price>
-      <g:price>175000 SEK</g:price>
-      <address>Sölvesborg</address>
-      <address format="simple">
-        <component name="addr1">Sölvesborg</component>
-        <component name="city">Sölvesborg</component>
-        <component name="region">Blekinge</component>
-        <component name="country">SE</component>
-      </address>
-      <condition>GOOD</condition>
-      <state_of_vehicle>USED</state_of_vehicle>
-      <frivio:listing_type>auction</frivio:listing_type>
-      <frivio:auction_end_date>2026-07-07T15:31:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>175000 SEK</frivio:current_bid>
-      <frivio:bid_count>4</frivio:bid_count>
-      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>2769 kr/mån</frivio:monthly_cost>
-      <body_style>OTHER</body_style>
-      <frivio:body_type_label>Båt</frivio:body_type_label>
-      <fuel_type>NONE</fuel_type>
-      <frivio:region>Blekinge</frivio:region>
-      <availability>AVAILABLE</availability>
-      <custom_label_0>Båt</custom_label_0>
-      <custom_label_1>Slutar 2026-07-07 15:31</custom_label_1>
-    </item>
+    <lastBuildDate>Tue, 07 Jul 2026 15:46:23 GMT</lastBuildDate>
     <item>
       <vehicle_id>611</vehicle_id>
       <g:id>611</g:id>
@@ -77,8 +27,8 @@
         <value>0</value>
         <unit>KM</unit>
       </mileage>
-      <price>70000 SEK</price>
-      <g:price>70000 SEK</g:price>
+      <price>72000 SEK</price>
+      <g:price>72000 SEK</g:price>
       <address>Enköping</address>
       <address format="simple">
         <component name="addr1">Enköping</component>
@@ -91,10 +41,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-07-07T15:50:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>70000 SEK</frivio:current_bid>
-      <frivio:bid_count>6</frivio:bid_count>
+      <frivio:current_bid>72000 SEK</frivio:current_bid>
+      <frivio:bid_count>7</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>1108 kr/mån</frivio:monthly_cost>
+      <frivio:monthly_cost>1139 kr/mån</frivio:monthly_cost>
       <body_style>OTHER</body_style>
       <frivio:body_type_label>Båt</frivio:body_type_label>
       <fuel_type>NONE</fuel_type>
@@ -394,8 +344,8 @@
         <value>0</value>
         <unit>KM</unit>
       </mileage>
-      <price>130000 SEK</price>
-      <g:price>130000 SEK</g:price>
+      <price>150000 SEK</price>
+      <g:price>150000 SEK</g:price>
       <address>Enköping</address>
       <address format="simple">
         <component name="addr1">Enköping</component>
@@ -408,10 +358,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-07-09T16:35:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>130000 SEK</frivio:current_bid>
-      <frivio:bid_count>4</frivio:bid_count>
+      <frivio:current_bid>150000 SEK</frivio:current_bid>
+      <frivio:bid_count>6</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>2057 kr/mån</frivio:monthly_cost>
+      <frivio:monthly_cost>2373 kr/mån</frivio:monthly_cost>
       <body_style>OTHER</body_style>
       <frivio:body_type_label>Husvagn</frivio:body_type_label>
       <fuel_type>NONE</fuel_type>
@@ -1789,6 +1739,115 @@
       <availability>AVAILABLE</availability>
       <custom_label_0>Båt</custom_label_0>
       <custom_label_1>Slutar 2026-07-21 17:54</custom_label_1>
+    </item>
+    <item>
+      <vehicle_id>647</vehicle_id>
+      <g:id>647</g:id>
+      <title>Kabe Royal 520XL KS</title>
+      <description>Välvårdad Kabe Royal 520XL KS från 2011. Denna välutrustade året-runt-vagn i exklusivt Royal-utförande erbjuder högsta komfort med vattenburen ALDE-värme och skön golvvärme. Den rymliga King Size-bredden ger en öppen känsla och rymmer en mycket praktisk franskbädd längst bak bredvid det fräscha badrummet. Ett perfekt, komplett premiumboende på hjul för bekväma semestrar oavsett säsong. - Besiktad till 2027-03-31 - Ny kyl och frys - Ny påsmarkis - Komplett Ventura förtält från 2014 - Isabella annex (lite trixxigt att få ihop) - Samma ägare sedan 2014 Årsmodell: 2011 · Typ: Husvagn · Ort: Hultsfred</description>
+      <url>https://frivio.se/auktion/647</url>
+      <g:link>https://frivio.se/auktion/647</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/647/b1783415724114.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/647/b1783415724114.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/647/c1783415724270.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/647/d1783415724405.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/647/e1783415724525.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/647/f1783415724646.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/647/g1783415724780.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/647/h1783415725018.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/647/i1783415725327.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/647/j1783415724899.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/647/k1783415725177.jpeg</g:additional_image_link>
+      <make>Kabe</make>
+      <model>Royal 520XL KS</model>
+      <year>2011</year>
+      <mileage>
+        <value>0</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>115000 SEK</price>
+      <g:price>115000 SEK</g:price>
+      <address>Hultsfred</address>
+      <address format="simple">
+        <component name="addr1">Hultsfred</component>
+        <component name="city">Hultsfred</component>
+        <component name="region">Kalmar</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <frivio:listing_type>auction</frivio:listing_type>
+      <frivio:auction_end_date>2026-07-23T17:14:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>115000 SEK</frivio:current_bid>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
+      <frivio:monthly_cost>1820 kr/mån</frivio:monthly_cost>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Husvagn</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
+      <frivio:region>Kalmar</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Husvagn</custom_label_0>
+      <custom_label_1>Slutar 2026-07-23 17:14</custom_label_1>
+    </item>
+    <item>
+      <vehicle_id>665</vehicle_id>
+      <g:id>665</g:id>
+      <title>Cabby 700+</title>
+      <description>Cabby 700+ Barnkammarvagn från 2010 är en rymlig och välplanerad husvagn som passar perfekt för den större familjen. Den smarta planlösningen erbjuder separat barnkammare med våningssängar och egen sittgrupp, bekväm dubbelsäng för föräldrarna samt en stor och inbjudande U-soffa. Det välutrustade köket har gott om arbetsyta, stor kyl med separat frys och spis med ugn. Badrummet är rymligt och praktiskt utformat. Vagnen är väl omhändertagen med normalt slitage utifrån ålder och användning. En bekväm året-runt-vagn med hög trivselfaktor och gott om förvaring. - Besiktad till 2027-04-30 - Gasoltest utfört 2025 UA - Fukttest utfört 2026-06-01 UA - Active Trailer Control (ATC) - Gaslarm - Markis ink. väggar och front - Förtält - Ny kyl med frys 2024 - Frostskyddad färskvattentank samt spillvattentank Årsmodell: 2010 · Typ: Husvagn · Ort: Östersund</description>
+      <url>https://frivio.se/auktion/665</url>
+      <g:link>https://frivio.se/auktion/665</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/665/a1783432395739.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/665/a1783432395739.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/665/b1783432394784.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/665/c1783432394919.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/665/d1783432395885.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/665/e1783432395601.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/665/f1783432396061.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/665/g1783432394631.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/665/h1783432393494.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/665/i1783432393979.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/665/j1783432393690.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/665/k1783432393859.jpeg</g:additional_image_link>
+      <make>Cabby</make>
+      <model>700+</model>
+      <year>2010</year>
+      <mileage>
+        <value>0</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>90000 SEK</price>
+      <g:price>90000 SEK</g:price>
+      <address>Östersund</address>
+      <address format="simple">
+        <component name="addr1">Östersund</component>
+        <component name="city">Östersund</component>
+        <component name="region">Jämtland</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <frivio:listing_type>auction</frivio:listing_type>
+      <frivio:auction_end_date>2026-07-23T17:52:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>90000 SEK</frivio:current_bid>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
+      <frivio:monthly_cost>1424 kr/mån</frivio:monthly_cost>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Husvagn</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
+      <frivio:region>Jämtland</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Husvagn</custom_label_0>
+      <custom_label_1>Slutar 2026-07-23 17:52</custom_label_1>
     </item>
     <item>
       <vehicle_id>653</vehicle_id>
