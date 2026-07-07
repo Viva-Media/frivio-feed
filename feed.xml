@@ -4,7 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Tue, 07 Jul 2026 04:07:08 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 08:29:19 GMT</lastBuildDate>
     <item>
       <vehicle_id>607</vehicle_id>
       <g:id>607</g:id>
@@ -1417,6 +1417,61 @@
       <availability>AVAILABLE</availability>
       <custom_label_0>Husvagn</custom_label_0>
       <custom_label_1>Slutar 2026-07-20 17:18</custom_label_1>
+    </item>
+    <item>
+      <vehicle_id>654</vehicle_id>
+      <g:id>654</g:id>
+      <title>Royal Regal 250XL</title>
+      <description>Royal Regal 250 XL från 1989 - en rymlig och trygg båt i mycket gott skick. Perfekt för både familj och vänner som vill njuta av många dagar på sjön. Båten är välskött och har fått löpande omsorg. Ett riktigt bra val för dig som vill ha en stabil och motorstark båt utan stora överraskningar. - Dubbla Volvo Penta-motorer ,helt genomgångna - Ny servad &amp; vinterkonserverad - Startklar för säsongen - Driftsäker och pigg på vattnet - Båtsläp medföljer (30-kärra) - Nytt kapell 2023 – mycket fint skick - Nya sportstolar fram – bekväma och snygga - Nylackad träinteriör – fräsch och välvårdad look i hela båten - Gott om sittplatser och bra planlösning - Badplattform med stege - Flera stuvutrymmen Årsmodell: 1989 · Typ: Båt · Ort: Södertälje</description>
+      <url>https://frivio.se/auktion/654</url>
+      <g:link>https://frivio.se/auktion/654</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/654/a1783344667000.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/654/a1783344667000.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/654/b1783344667200.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/654/c1783344667362.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/654/d1783344667489.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/654/e1783344667612.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/654/f1783344667774.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/654/g1783344667877.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/654/h1783344667995.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/654/i1783344668104.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/654/j1783344668228.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/654/k1783344668343.jpeg</g:additional_image_link>
+      <make>Royal</make>
+      <model>Royal Regal 250XL</model>
+      <year>1989</year>
+      <mileage>
+        <value>0</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>40000 SEK</price>
+      <g:price>40000 SEK</g:price>
+      <address>Södertälje</address>
+      <address format="simple">
+        <component name="addr1">Södertälje</component>
+        <component name="city">Södertälje</component>
+        <component name="region">Stockholm</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <frivio:listing_type>auction</frivio:listing_type>
+      <frivio:auction_end_date>2026-07-20T17:30:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>40000 SEK</frivio:current_bid>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
+      <frivio:monthly_cost>633 kr/mån</frivio:monthly_cost>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Båt</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
+      <frivio:region>Stockholm</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Båt</custom_label_0>
+      <custom_label_1>Slutar 2026-07-20 17:30</custom_label_1>
     </item>
     <item>
       <vehicle_id>646</vehicle_id>
