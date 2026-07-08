@@ -4,7 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Wed, 08 Jul 2026 17:46:09 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 19:45:49 GMT</lastBuildDate>
     <item>
       <vehicle_id>612</vehicle_id>
       <g:id>612</g:id>
@@ -139,8 +139,8 @@
         <value>0</value>
         <unit>KM</unit>
       </mileage>
-      <price>125000 SEK</price>
-      <g:price>125000 SEK</g:price>
+      <price>126000 SEK</price>
+      <g:price>126000 SEK</g:price>
       <address>Simrishamn</address>
       <address format="simple">
         <component name="addr1">Simrishamn</component>
@@ -153,10 +153,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-07-09T17:27:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>125000 SEK</frivio:current_bid>
-      <frivio:bid_count>0</frivio:bid_count>
-      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
-      <frivio:monthly_cost>1978 kr/mån</frivio:monthly_cost>
+      <frivio:current_bid>126000 SEK</frivio:current_bid>
+      <frivio:bid_count>1</frivio:bid_count>
+      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
+      <frivio:monthly_cost>1994 kr/mån</frivio:monthly_cost>
       <body_style>OTHER</body_style>
       <frivio:body_type_label>Båt</frivio:body_type_label>
       <fuel_type>NONE</fuel_type>
@@ -687,7 +687,7 @@
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-07-15T17:48:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
       <frivio:current_bid>120500 SEK</frivio:current_bid>
       <frivio:bid_count>1</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
@@ -1222,59 +1222,6 @@
       <availability>AVAILABLE</availability>
       <custom_label_0>Husbil</custom_label_0>
       <custom_label_1>Slutar 2026-07-20 17:41</custom_label_1>
-    </item>
-    <item>
-      <vehicle_id>636</vehicle_id>
-      <g:id>636</g:id>
-      <title>Cabby 620+</title>
-      <description>Välskött Cabby 620+ från 2010 med genomtänkt planlösning och hög komfort. Här möts du av en rymlig sittgrupp, praktiskt kök och gott om förvaring. Vagnen erbjuder separata långbäddar bak samt en inbjudande matplats fram som enkelt bäddas om vid behov. Helt enkelt en kvalitetsvagn från Cabby! - Fukttest utfört 2022 utan anmärkning - Besiktad till 2028-03-31 Årsmodell: 2010 · Typ: Husvagn · Ort: Borås</description>
-      <url>https://frivio.se/auktion/636</url>
-      <g:link>https://frivio.se/auktion/636</g:link>
-      <image>
-        <url>https://backend.frivio.se/vehicle/636/a1782820309789.jpeg</url>
-        <tag>Exterior</tag>
-      </image>
-      <g:image_link>https://backend.frivio.se/vehicle/636/a1782820309789.jpeg</g:image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/636/b1782820310011.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/636/c1782820310707.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/636/d1782820310243.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/636/e1782820310933.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/636/f1782820311173.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/636/g1782820311394.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/636/h1782820311611.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/636/i1782820311811.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/636/j1782820312021.jpeg</g:additional_image_link>
-      <make>Cabby</make>
-      <model>620+</model>
-      <year>2010</year>
-      <mileage>
-        <value>0</value>
-        <unit>KM</unit>
-      </mileage>
-      <price>100000 SEK</price>
-      <g:price>100000 SEK</g:price>
-      <address>Borås</address>
-      <address format="simple">
-        <component name="addr1">Borås</component>
-        <component name="city">Borås</component>
-        <component name="region">Västra Götaland</component>
-        <component name="country">SE</component>
-      </address>
-      <condition>GOOD</condition>
-      <state_of_vehicle>USED</state_of_vehicle>
-      <frivio:listing_type>fixed_price</frivio:listing_type>
-      <frivio:auction_end_date>2026-07-20T17:51:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
-      <frivio:bid_count>0</frivio:bid_count>
-      <frivio:reserve_price_status>Ej tillämpligt (fast pris)</frivio:reserve_price_status>
-      <frivio:monthly_cost>1582 kr/mån</frivio:monthly_cost>
-      <body_style>OTHER</body_style>
-      <frivio:body_type_label>Husvagn</frivio:body_type_label>
-      <fuel_type>NONE</fuel_type>
-      <frivio:region>Västra Götaland</frivio:region>
-      <availability>AVAILABLE</availability>
-      <custom_label_0>Husvagn</custom_label_0>
-      <custom_label_1>Slutar 2026-07-20 17:51</custom_label_1>
     </item>
     <item>
       <vehicle_id>644</vehicle_id>
