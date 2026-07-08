@@ -4,59 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Wed, 08 Jul 2026 12:27:07 GMT</lastBuildDate>
-    <item>
-      <vehicle_id>620</vehicle_id>
-      <g:id>620</g:id>
-      <title>Crescent 455</title>
-      <description>Charmig segelbåt som de senaste åren förvarats på land. Båten säljs komplett med segel, åror och övrig utrustning samt en Johnson 6 hk tvåtaktsmotor med separat bränsletank. Upptagningskärra ingår för smidig transport och vinterförvaring. Varken båt eller motor har använts de senaste åtta åren, men vid senaste användningstillfället fungerade allt som det ska. Ett prisvärt projekt för nästa ägare med potential för många fina dagar på sjön framöver och semestrar. Årsmodell: 1980 · Typ: Båt · Ort: Nässjö</description>
-      <url>https://frivio.se/auktion/620</url>
-      <g:link>https://frivio.se/auktion/620</g:link>
-      <image>
-        <url>https://backend.frivio.se/vehicle/620/a1781706808938.jpeg</url>
-        <tag>Exterior</tag>
-      </image>
-      <g:image_link>https://backend.frivio.se/vehicle/620/a1781706808938.jpeg</g:image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/620/b1781706809083.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/620/c1781706809222.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/620/d1781706808498.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/620/e1781706808633.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/620/f1781706808837.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/620/g1781706808734.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/620/h1781706808324.jpeg</g:additional_image_link>
-      <make>Crescent</make>
-      <model>Crescent 455</model>
-      <year>1980</year>
-      <mileage>
-        <value>0</value>
-        <unit>KM</unit>
-      </mileage>
-      <price>6000 SEK</price>
-      <g:price>6000 SEK</g:price>
-      <address>Nässjö</address>
-      <address format="simple">
-        <component name="addr1">Nässjö</component>
-        <component name="city">Nässjö</component>
-        <component name="region">Jönköping</component>
-        <component name="country">SE</component>
-      </address>
-      <condition>GOOD</condition>
-      <state_of_vehicle>USED</state_of_vehicle>
-      <frivio:listing_type>auction</frivio:listing_type>
-      <frivio:auction_end_date>2026-07-08T14:32:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>6000 SEK</frivio:current_bid>
-      <frivio:bid_count>0</frivio:bid_count>
-      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
-      <frivio:monthly_cost>95 kr/mån</frivio:monthly_cost>
-      <body_style>OTHER</body_style>
-      <frivio:body_type_label>Båt</frivio:body_type_label>
-      <fuel_type>NONE</fuel_type>
-      <frivio:region>Jönköping</frivio:region>
-      <availability>AVAILABLE</availability>
-      <custom_label_0>Båt</custom_label_0>
-      <custom_label_1>Slutar 2026-07-08 14:32</custom_label_1>
-    </item>
+    <lastBuildDate>Wed, 08 Jul 2026 15:28:06 GMT</lastBuildDate>
     <item>
       <vehicle_id>610</vehicle_id>
       <g:id>610</g:id>
@@ -86,8 +34,8 @@
         <value>0</value>
         <unit>KM</unit>
       </mileage>
-      <price>99000 SEK</price>
-      <g:price>99000 SEK</g:price>
+      <price>99500 SEK</price>
+      <g:price>99500 SEK</g:price>
       <address>Kungälv</address>
       <address format="simple">
         <component name="addr1">Kungälv</component>
@@ -100,10 +48,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-07-08T17:10:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>99000 SEK</frivio:current_bid>
-      <frivio:bid_count>3</frivio:bid_count>
+      <frivio:current_bid>99500 SEK</frivio:current_bid>
+      <frivio:bid_count>4</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>1566 kr/mån</frivio:monthly_cost>
+      <frivio:monthly_cost>1574 kr/mån</frivio:monthly_cost>
       <body_style>OTHER</body_style>
       <frivio:body_type_label>Husvagn</frivio:body_type_label>
       <fuel_type>NONE</fuel_type>
@@ -197,8 +145,8 @@
         <value>0</value>
         <unit>KM</unit>
       </mileage>
-      <price>150500 SEK</price>
-      <g:price>150500 SEK</g:price>
+      <price>160000 SEK</price>
+      <g:price>160000 SEK</g:price>
       <address>Enköping</address>
       <address format="simple">
         <component name="addr1">Enköping</component>
@@ -211,10 +159,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-07-09T16:35:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>150500 SEK</frivio:current_bid>
-      <frivio:bid_count>7</frivio:bid_count>
+      <frivio:current_bid>160000 SEK</frivio:current_bid>
+      <frivio:bid_count>9</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>2381 kr/mån</frivio:monthly_cost>
+      <frivio:monthly_cost>2532 kr/mån</frivio:monthly_cost>
       <body_style>OTHER</body_style>
       <frivio:body_type_label>Husvagn</frivio:body_type_label>
       <fuel_type>NONE</fuel_type>
@@ -248,8 +196,8 @@
         <value>0</value>
         <unit>KM</unit>
       </mileage>
-      <price>210000 SEK</price>
-      <g:price>210000 SEK</g:price>
+      <price>211000 SEK</price>
+      <g:price>211000 SEK</g:price>
       <address>Nora</address>
       <address format="simple">
         <component name="addr1">Nora</component>
@@ -262,10 +210,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-07-09T17:24:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>210000 SEK</frivio:current_bid>
-      <frivio:bid_count>1</frivio:bid_count>
+      <frivio:current_bid>211000 SEK</frivio:current_bid>
+      <frivio:bid_count>2</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>3323 kr/mån</frivio:monthly_cost>
+      <frivio:monthly_cost>3338 kr/mån</frivio:monthly_cost>
       <body_style>OTHER</body_style>
       <frivio:body_type_label>Husvagn</frivio:body_type_label>
       <fuel_type>NONE</fuel_type>
@@ -409,8 +357,8 @@
         <value>0</value>
         <unit>KM</unit>
       </mileage>
-      <price>54000 SEK</price>
-      <g:price>54000 SEK</g:price>
+      <price>56000 SEK</price>
+      <g:price>56000 SEK</g:price>
       <address>Lidköping</address>
       <address format="simple">
         <component name="addr1">Lidköping</component>
@@ -423,10 +371,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-07-12T17:04:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>54000 SEK</frivio:current_bid>
-      <frivio:bid_count>2</frivio:bid_count>
+      <frivio:current_bid>56000 SEK</frivio:current_bid>
+      <frivio:bid_count>3</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>854 kr/mån</frivio:monthly_cost>
+      <frivio:monthly_cost>886 kr/mån</frivio:monthly_cost>
       <body_style>OTHER</body_style>
       <frivio:body_type_label>Båt</frivio:body_type_label>
       <fuel_type>NONE</fuel_type>
@@ -568,8 +516,8 @@
         <value>0</value>
         <unit>KM</unit>
       </mileage>
-      <price>76000 SEK</price>
-      <g:price>76000 SEK</g:price>
+      <price>79000 SEK</price>
+      <g:price>79000 SEK</g:price>
       <address>Kungsbacka</address>
       <address format="simple">
         <component name="addr1">Kungsbacka</component>
@@ -582,10 +530,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-07-14T16:14:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>76000 SEK</frivio:current_bid>
-      <frivio:bid_count>1</frivio:bid_count>
+      <frivio:current_bid>79000 SEK</frivio:current_bid>
+      <frivio:bid_count>4</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>1202 kr/mån</frivio:monthly_cost>
+      <frivio:monthly_cost>1250 kr/mån</frivio:monthly_cost>
       <body_style>OTHER</body_style>
       <frivio:body_type_label>Båt</frivio:body_type_label>
       <fuel_type>NONE</fuel_type>
@@ -1171,7 +1119,7 @@
     <item>
       <vehicle_id>643</vehicle_id>
       <g:id>643</g:id>
-      <title>Sunlight T 69 L</title>
+      <title>Sunlight T69L</title>
       <description>Välutrustad Sunlight T69 L från 2017 med rymlig planlösning och hög komfort för både korta och långa resor. Husbilen erbjuder queenbed, stort garage, komplett kök, separat dusch och toalett samt en trivsam sittgrupp med vridbara framstolar. Byggd på Fiat med dragkrok och markis - en lättkörd och praktisk husbil som passar perfekt för hela familjens campingäventyr. - Senaste service gjord 2025 vid 2800mil - Dragkrok - Vinteförvarad inomhus - Besiktad till 2026-08-31 - Fukttest gjort 2022 - men levereras fukttestad Årsmodell: 2017 · Typ: Husbil · Drivmedel: Diesel · Växellåda: Automatisk · Mätarställning: 3 500 mil · Ort: Borås</description>
       <url>https://frivio.se/auktion/643</url>
       <g:link>https://frivio.se/auktion/643</g:link>
@@ -1191,7 +1139,7 @@
       <g:additional_image_link>https://backend.frivio.se/vehicle/643/j1782993754594.jpeg</g:additional_image_link>
       <g:additional_image_link>https://backend.frivio.se/vehicle/643/k1782993754712.jpeg</g:additional_image_link>
       <make>Sunlight</make>
-      <model>T 69 L</model>
+      <model>T69L</model>
       <year>2017</year>
       <mileage>
         <value>35000</value>
@@ -2257,7 +2205,7 @@
     <item>
       <vehicle_id>647</vehicle_id>
       <g:id>647</g:id>
-      <title>Kabe Royal 520XL KS</title>
+      <title>Kabe Royal 520 XL KS</title>
       <description>Välvårdad Kabe Royal 520XL KS från 2011. Denna välutrustade året-runt-vagn i exklusivt Royal-utförande erbjuder högsta komfort med vattenburen ALDE-värme och skön golvvärme. Den rymliga King Size-bredden ger en öppen känsla och rymmer en mycket praktisk franskbädd längst bak bredvid det fräscha badrummet. Ett perfekt, komplett premiumboende på hjul för bekväma semestrar oavsett säsong. - Besiktad till 2027-03-31 - Ny kyl och frys - Ny påsmarkis - Komplett Ventura förtält från 2014 - Isabella annex (lite trixxigt att få ihop) - Samma ägare sedan 2014 Årsmodell: 2011 · Typ: Husvagn · Ort: Hultsfred</description>
       <url>https://frivio.se/auktion/647</url>
       <g:link>https://frivio.se/auktion/647</g:link>
@@ -2276,7 +2224,7 @@
       <g:additional_image_link>https://backend.frivio.se/vehicle/647/j1783415724899.jpeg</g:additional_image_link>
       <g:additional_image_link>https://backend.frivio.se/vehicle/647/k1783415725177.jpeg</g:additional_image_link>
       <make>Kabe</make>
-      <model>Royal 520XL KS</model>
+      <model>Royal 520 XL KS</model>
       <year>2011</year>
       <mileage>
         <value>0</value>
@@ -2418,6 +2366,61 @@
       <availability>AVAILABLE</availability>
       <custom_label_0>Husbil</custom_label_0>
       <custom_label_1>Slutar 2026-07-27 17:14</custom_label_1>
+    </item>
+    <item>
+      <vehicle_id>673</vehicle_id>
+      <g:id>673</g:id>
+      <title>Tailwind 36</title>
+      <description>Tailwind 36 är en välseglande och rymlig cruiser med klassiska linjer, hög komfort och gediget hantverk. Denna båt sjösattes första gången 2005 och erbjuder en trivsam interiör i varm träinredning med generösa sociala ytor, välutrustat pentry och flera bekväma sovplatser. Ombord finns gott om förvaring, separat navigationsplats och en rymlig sittbrunn för långa dagar till sjöss. Båten är väl omhändertagen och har normalt bruksslitage utifrån ålder och användning. Ett utmärkt val för både familjesegling och längre semestrar. Båten är byggd för segling på alla hav, försedd med monitor, vindroder och extra isolering. - Motorn är en BMW 35 hkr från 90-talet och få gångtimmar - Servad årligen och senast i år - Båten är sjösatt Årsmodell: 2005 · Typ: Båt · Ort: Stockholm</description>
+      <url>https://frivio.se/auktion/673</url>
+      <g:link>https://frivio.se/auktion/673</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/673/a1783516374514.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/673/a1783516374514.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/673/b1783516374717.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/673/c1783516374869.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/673/d1783516375018.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/673/e1783516378416.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/673/f1783516375559.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/673/g1783516376761.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/673/h1783516377180.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/673/i1783516375956.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/673/j1783516376324.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/673/k1783516378019.jpeg</g:additional_image_link>
+      <make>Tailwind</make>
+      <model>Tailwind 36</model>
+      <year>2005</year>
+      <mileage>
+        <value>0</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>100000 SEK</price>
+      <g:price>100000 SEK</g:price>
+      <address>Stockholm</address>
+      <address format="simple">
+        <component name="addr1">Stockholm</component>
+        <component name="city">Stockholm</component>
+        <component name="region">Stockholm</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <frivio:listing_type>auction</frivio:listing_type>
+      <frivio:auction_end_date>2026-07-29T17:12:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>100000 SEK</frivio:current_bid>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
+      <frivio:monthly_cost>1582 kr/mån</frivio:monthly_cost>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Båt</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
+      <frivio:region>Stockholm</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Båt</custom_label_0>
+      <custom_label_1>Slutar 2026-07-29 17:12</custom_label_1>
     </item>
     <item>
       <vehicle_id>653</vehicle_id>
