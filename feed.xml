@@ -4,7 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Fri, 10 Jul 2026 08:32:27 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 12:05:24 GMT</lastBuildDate>
     <item>
       <vehicle_id>624</vehicle_id>
       <g:id>624</g:id>
@@ -32,8 +32,8 @@
         <value>0</value>
         <unit>KM</unit>
       </mileage>
-      <price>62000 SEK</price>
-      <g:price>62000 SEK</g:price>
+      <price>62500 SEK</price>
+      <g:price>62500 SEK</g:price>
       <address>Lidköping</address>
       <address format="simple">
         <component name="addr1">Lidköping</component>
@@ -46,10 +46,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-07-12T17:04:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>62000 SEK</frivio:current_bid>
-      <frivio:bid_count>10</frivio:bid_count>
+      <frivio:current_bid>62500 SEK</frivio:current_bid>
+      <frivio:bid_count>11</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>981 kr/mån</frivio:monthly_cost>
+      <frivio:monthly_cost>989 kr/mån</frivio:monthly_cost>
       <body_style>OTHER</body_style>
       <frivio:body_type_label>Båt</frivio:body_type_label>
       <fuel_type>NONE</fuel_type>
