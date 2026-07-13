@@ -4,7 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Mon, 13 Jul 2026 04:35:39 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 08:22:10 GMT</lastBuildDate>
     <item>
       <vehicle_id>630</vehicle_id>
       <g:id>630</g:id>
@@ -244,8 +244,8 @@
         <value>0</value>
         <unit>KM</unit>
       </mileage>
-      <price>100000 SEK</price>
-      <g:price>100000 SEK</g:price>
+      <price>105000 SEK</price>
+      <g:price>105000 SEK</g:price>
       <address>Oskarshamn</address>
       <address format="simple">
         <component name="addr1">Oskarshamn</component>
@@ -258,10 +258,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-07-14T17:47:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>100000 SEK</frivio:current_bid>
-      <frivio:bid_count>5</frivio:bid_count>
+      <frivio:current_bid>105000 SEK</frivio:current_bid>
+      <frivio:bid_count>6</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>1582 kr/mån</frivio:monthly_cost>
+      <frivio:monthly_cost>1661 kr/mån</frivio:monthly_cost>
       <body_style>OTHER</body_style>
       <frivio:body_type_label>Husvagn</frivio:body_type_label>
       <fuel_type>NONE</fuel_type>
@@ -1934,6 +1934,58 @@
       <custom_label_1>Slutar 2026-07-23 17:52</custom_label_1>
     </item>
     <item>
+      <vehicle_id>676</vehicle_id>
+      <g:id>676</g:id>
+      <title>Crescent 455</title>
+      <description>Charmig segelbåt som de senaste åren förvarats på land. Båten säljs komplett med segel, åror och övrig utrustning samt en Johnson 6 hk tvåtaktsmotor med separat bränsletank. Upptagningskärra ingår för smidig transport och vinterförvaring. Varken båt eller motor har använts de senaste åtta åren, men vid senaste användningstillfället fungerade allt som det ska. Ett prisvärt projekt för nästa ägare med potential för många fina dagar på sjön framöver och semestrar. Årsmodell: 1980 · Typ: Båt · Ort: Nässjö</description>
+      <url>https://frivio.se/auktion/676</url>
+      <g:link>https://frivio.se/auktion/676</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/676/a1783926291005.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/676/a1783926291005.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/676/b1783926291118.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/676/c1783926291254.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/676/d1783926290442.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/676/e1783926290637.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/676/f1783926290764.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/676/g1783926290879.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/676/h1783926290244.jpeg</g:additional_image_link>
+      <make>Crescent</make>
+      <model>Crescent 455</model>
+      <year>1980</year>
+      <mileage>
+        <value>0</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>3500 SEK</price>
+      <g:price>3500 SEK</g:price>
+      <address>Nässjö</address>
+      <address format="simple">
+        <component name="addr1">Nässjö</component>
+        <component name="city">Nässjö</component>
+        <component name="region">Jönköping</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <frivio:listing_type>auction</frivio:listing_type>
+      <frivio:auction_end_date>2026-07-27T17:11:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>3500 SEK</frivio:current_bid>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
+      <frivio:monthly_cost>55 kr/mån</frivio:monthly_cost>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Båt</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
+      <frivio:region>Jönköping</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Båt</custom_label_0>
+      <custom_label_1>Slutar 2026-07-27 17:11</custom_label_1>
+    </item>
+    <item>
       <vehicle_id>666</vehicle_id>
       <g:id>666</g:id>
       <title>Hymer 534</title>
@@ -1988,6 +2040,57 @@
       <availability>AVAILABLE</availability>
       <custom_label_0>Husbil</custom_label_0>
       <custom_label_1>Slutar 2026-07-27 17:14</custom_label_1>
+    </item>
+    <item>
+      <vehicle_id>677</vehicle_id>
+      <g:id>677</g:id>
+      <title>Nimbus Nova 22 WA</title>
+      <description>Välvårdad Nimbus Nova 22 WA från 1996 - en klassisk walkaround med tidlös design och fina sjöegenskaper. Båten erbjuder generösa däcksytor, skyddande kapell, badplattform med badstege samt lättillgängliga gångbord runt hela båten. Perfekt för dagsutflykter, fiske och skärgårdsliv. Utrustad med driftsäker motor. En charmig och praktisk båt redo för nya äventyr på sjön med familj och vänner under både lugna helgturer och längre sommarutflykter längs kusten tillsammans. - VP 31-AD 150hk diesel - DP290 Drev - Ny turbo, avgasknä och impellerhus 2025 - Trailer på bild ingår Årsmodell: 1996 · Typ: Båt · Ort: Göteborg</description>
+      <url>https://frivio.se/auktion/677</url>
+      <g:link>https://frivio.se/auktion/677</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/677/a1783926456011.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/677/a1783926456011.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/677/b1783926455809.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/677/c1783926456170.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/677/d1783926456468.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/677/e1783926456304.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/677/f1783926456759.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/677/g1783926456606.jpeg</g:additional_image_link>
+      <make>Nimbus</make>
+      <model>Nimbus Nova 22 WA</model>
+      <year>1996</year>
+      <mileage>
+        <value>0</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>125000 SEK</price>
+      <g:price>125000 SEK</g:price>
+      <address>Göteborg</address>
+      <address format="simple">
+        <component name="addr1">Göteborg</component>
+        <component name="city">Göteborg</component>
+        <component name="region">Västra Götaland</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <frivio:listing_type>auction</frivio:listing_type>
+      <frivio:auction_end_date>2026-07-27T17:22:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>125000 SEK</frivio:current_bid>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
+      <frivio:monthly_cost>1978 kr/mån</frivio:monthly_cost>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Båt</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
+      <frivio:region>Västra Götaland</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Båt</custom_label_0>
+      <custom_label_1>Slutar 2026-07-27 17:22</custom_label_1>
     </item>
     <item>
       <vehicle_id>673</vehicle_id>
