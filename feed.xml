@@ -4,7 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Mon, 13 Jul 2026 12:13:57 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 15:46:01 GMT</lastBuildDate>
     <item>
       <vehicle_id>630</vehicle_id>
       <g:id>630</g:id>
@@ -2249,6 +2249,61 @@
       <availability>AVAILABLE</availability>
       <custom_label_0>Båt</custom_label_0>
       <custom_label_1>Slutar 2026-07-29 17:51</custom_label_1>
+    </item>
+    <item>
+      <vehicle_id>682</vehicle_id>
+      <g:id>682</g:id>
+      <title>Hobby 560 CFE Excellent</title>
+      <description>Hobby 560 CFE Excellent från 2017 är en modern och välplanerad husvagn som kombinerar hög komfort med stilren design. Den generösa U-soffan framtill skapar en trivsam sällskapsyta, medan den rymliga queensbeden baktill erbjuder hög sovkomfort. Det välutrustade köket har gott om arbetsyta och förvaring, och den stora kylskåpslösningen gör längre resor bekväma. Husvagnen har dessutom elegant LED-belysning och genomgående exklusiva materialval. En välvårdad vagn med normalt bruksslitage- perfekt för både weekendresor och längre semestrar. - Dometic Rally 390 resetält (använd 1 gång) - Vagnen är importerad och har således inget 12V system - Fukttestad 2025-06 UA - Besiktad till 2027-05-31 Årsmodell: 2017 · Typ: Husvagn · Ort: Kungälv</description>
+      <url>https://frivio.se/auktion/682</url>
+      <g:link>https://frivio.se/auktion/682</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/682/a1783945445904.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/682/a1783945445904.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/682/b1783945446248.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/682/c1783945446088.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/682/d1783945446370.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/682/e1783945446485.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/682/f1783945446613.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/682/g1783945446724.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/682/h1783945446858.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/682/i1783945446988.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/682/j1783945447109.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/682/k1783945447233.jpeg</g:additional_image_link>
+      <make>Hobby</make>
+      <model>560 CFE Excellent</model>
+      <year>2017</year>
+      <mileage>
+        <value>0</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>100000 SEK</price>
+      <g:price>100000 SEK</g:price>
+      <address>Kungälv</address>
+      <address format="simple">
+        <component name="addr1">Kungälv</component>
+        <component name="city">Kungälv</component>
+        <component name="region">Västra Götaland</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <frivio:listing_type>auction</frivio:listing_type>
+      <frivio:auction_end_date>2026-07-30T17:23:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>100000 SEK</frivio:current_bid>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
+      <frivio:monthly_cost>1582 kr/mån</frivio:monthly_cost>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Husvagn</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
+      <frivio:region>Västra Götaland</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Husvagn</custom_label_0>
+      <custom_label_1>Slutar 2026-07-30 17:23</custom_label_1>
     </item>
     <item>
       <vehicle_id>653</vehicle_id>
