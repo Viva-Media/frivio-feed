@@ -4,111 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Mon, 13 Jul 2026 15:46:01 GMT</lastBuildDate>
-    <item>
-      <vehicle_id>630</vehicle_id>
-      <g:id>630</g:id>
-      <title>Admiral 560 Premium</title>
-      <description>Admiral 560 Premium är en snipa i modern utformning med utrustning för att göra det trevligt att vara på sjön. I tillägg till utrustningslistan är alla vertikala ytor klädd med teakribbor. Runt om finns avbärarerep men också 2 st fenderfesten på varje sida. Båten är utrustad med spray hood och hamnkapell samt dynor på alla sittytor. Motor, styrning och drivlina är levererad av Vetus i Holland. Uppskattad gångtid totalt ca 30 timmar. - 2 st ankare medföljar samt 30 m blyad ankarlina. - Garmin 7” navigator/ekolod med givare. - Brenderup upptagningsvagn - NOA 6 m ställning + riktig presenning. Årsmodell: 2015 · Typ: Båt · Ort: Uppsala</description>
-      <url>https://frivio.se/auktion/630</url>
-      <g:link>https://frivio.se/auktion/630</g:link>
-      <image>
-        <url>https://backend.frivio.se/vehicle/630/a1782732661424.jpeg</url>
-        <tag>Exterior</tag>
-      </image>
-      <g:image_link>https://backend.frivio.se/vehicle/630/a1782732661424.jpeg</g:image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/630/b1782732661226.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/630/c1782732661005.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/630/d1782732662278.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/630/e1782732661802.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/630/f1782732662039.jpeg</g:additional_image_link>
-      <make>Admiral</make>
-      <model>Admiral 560 Premium</model>
-      <year>2015</year>
-      <mileage>
-        <value>0</value>
-        <unit>KM</unit>
-      </mileage>
-      <price>200000 SEK</price>
-      <g:price>200000 SEK</g:price>
-      <address>Uppsala</address>
-      <address format="simple">
-        <component name="addr1">Uppsala</component>
-        <component name="city">Uppsala</component>
-        <component name="region">Uppsala</component>
-        <component name="country">SE</component>
-      </address>
-      <condition>GOOD</condition>
-      <state_of_vehicle>USED</state_of_vehicle>
-      <frivio:listing_type>fixed_price</frivio:listing_type>
-      <frivio:auction_end_date>2026-07-13T17:30:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:bid_count>0</frivio:bid_count>
-      <frivio:reserve_price_status>Ej tillämpligt (fast pris)</frivio:reserve_price_status>
-      <frivio:monthly_cost>3164 kr/mån</frivio:monthly_cost>
-      <body_style>OTHER</body_style>
-      <frivio:body_type_label>Båt</frivio:body_type_label>
-      <fuel_type>NONE</fuel_type>
-      <frivio:region>Uppsala</frivio:region>
-      <availability>AVAILABLE</availability>
-      <custom_label_0>Båt</custom_label_0>
-      <custom_label_1>Slutar 2026-07-13 17:30</custom_label_1>
-    </item>
-    <item>
-      <vehicle_id>635</vehicle_id>
-      <g:id>635</g:id>
-      <title>Knaus 590 UE Scandinavian Edition</title>
-      <description>Välutrustad Knaus Südwind 590 UE Scandinavian Selection från 2017 med modern och smakfull interiör. Husvagnen erbjuder två bekväma långbäddar, rymlig U-soffa, stort kök med kyl/frys och mikrovågsugn samt toalett med dusch. Utrustad med Thule-markis, cykelställ, TV och gott om förvaring. En ljus och trivsam kvalitetsvagn som passar perfekt för både kortare resor och längre semestrar. - Fukt och gasoltest utfört utan anmärkning 2026-07-03 - Endast använd sommartid - Förvarad inomhus vintertid - Uttagen i trafik första gång 2020-10-02 - Besiktad till 2026-08-31 - Markis med vindskydd på sidor och framtill - Reservhjul - 2st bord runt och avlångt med 6st stolar - Mattor - Tallrikar, div glas, bestick, vattenkokare, kastruller, stekpanna samt annat husgeråd ingår. Årsmodell: 2017 · Typ: Husvagn · Ort: Sala</description>
-      <url>https://frivio.se/auktion/635</url>
-      <g:link>https://frivio.se/auktion/635</g:link>
-      <image>
-        <url>https://backend.frivio.se/vehicle/635/a1782744241148.jpeg</url>
-        <tag>Exterior</tag>
-      </image>
-      <g:image_link>https://backend.frivio.se/vehicle/635/a1782744241148.jpeg</g:image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/635/b1782744241303.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/635/c1782744241478.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/635/d1782744241619.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/635/e1782744241749.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/635/f1782744241997.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/635/g1782744241878.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/635/h1782744242129.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/635/i1782744242252.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/635/j1782744242377.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/635/k1782744242519.jpeg</g:additional_image_link>
-      <make>Knaus</make>
-      <model>590 UE Scandinavian Edition</model>
-      <year>2017</year>
-      <mileage>
-        <value>0</value>
-        <unit>KM</unit>
-      </mileage>
-      <price>140000 SEK</price>
-      <g:price>140000 SEK</g:price>
-      <address>Sala</address>
-      <address format="simple">
-        <component name="addr1">Sala</component>
-        <component name="city">Sala</component>
-        <component name="region">Västmanland</component>
-        <component name="country">SE</component>
-      </address>
-      <condition>GOOD</condition>
-      <state_of_vehicle>USED</state_of_vehicle>
-      <frivio:listing_type>auction</frivio:listing_type>
-      <frivio:auction_end_date>2026-07-13T17:37:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>140000 SEK</frivio:current_bid>
-      <frivio:bid_count>0</frivio:bid_count>
-      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
-      <frivio:monthly_cost>2215 kr/mån</frivio:monthly_cost>
-      <body_style>OTHER</body_style>
-      <frivio:body_type_label>Husvagn</frivio:body_type_label>
-      <fuel_type>NONE</fuel_type>
-      <frivio:region>Västmanland</frivio:region>
-      <availability>AVAILABLE</availability>
-      <custom_label_0>Husvagn</custom_label_0>
-      <custom_label_1>Slutar 2026-07-13 17:37</custom_label_1>
-    </item>
+    <lastBuildDate>Mon, 13 Jul 2026 18:01:00 GMT</lastBuildDate>
     <item>
       <vehicle_id>625</vehicle_id>
       <g:id>625</g:id>
@@ -781,7 +677,7 @@
       <transmission>AUTOMATIC</transmission>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-07-20T17:01:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
       <frivio:current_bid>410000 SEK</frivio:current_bid>
       <frivio:bid_count>7</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
@@ -833,7 +729,7 @@
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-07-20T17:18:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
       <frivio:current_bid>230000 SEK</frivio:current_bid>
       <frivio:bid_count>0</frivio:bid_count>
       <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
@@ -888,7 +784,7 @@
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-07-20T17:30:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
       <frivio:current_bid>41500 SEK</frivio:current_bid>
       <frivio:bid_count>2</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
@@ -943,7 +839,7 @@
       <transmission>AUTOMATIC</transmission>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-07-20T17:41:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
       <frivio:current_bid>699000 SEK</frivio:current_bid>
       <frivio:bid_count>0</frivio:bid_count>
       <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
@@ -997,7 +893,7 @@
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>fixed_price</frivio:listing_type>
       <frivio:auction_end_date>2026-07-20T17:51:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
       <frivio:bid_count>0</frivio:bid_count>
       <frivio:reserve_price_status>Ej tillämpligt (fast pris)</frivio:reserve_price_status>
       <frivio:monthly_cost>1582 kr/mån</frivio:monthly_cost>
