@@ -4,168 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Tue, 14 Jul 2026 16:20:57 GMT</lastBuildDate>
-    <item>
-      <vehicle_id>625</vehicle_id>
-      <g:id>625</g:id>
-      <title>Uttern D55 Exclusive</title>
-      <description>Mycket trevlig Uttern D55 Exclusive från 2006 - en välplanerad daycruiser som passar perfekt för både dagsutflykter och övernattningar. Rymlig kabin med sovplats för två, stort soldäck i fören och bekväm sittbrunn med plats för familj och vänner. Utrustad med kapell, badplattform och gott om förvaring. Sjösäker, lättkörd och välskött båt som erbjuder många härliga dagar på sjön. - Båtplats för 2026 kan ingå - Motorn servades i september 2025 - 4-takts MerCruiser 3.0 135hk - Plotter Garmin 720S - Nya plottar &amp; stöd för ekolod - Motor och drev är servat - Mycket tillbehör medföljer så som fendrar, båtshake, nya tampar, kil-kit et.c - Elektrisk ankarvinsch/spel med knapptryckning - 30km/h trailer ingår Årsmodell: 2006 · Typ: Båt · Ort: Kungsbacka</description>
-      <url>https://frivio.se/auktion/625</url>
-      <g:link>https://frivio.se/auktion/625</g:link>
-      <image>
-        <url>https://backend.frivio.se/vehicle/625/b1782291304736.jpeg</url>
-        <tag>Exterior</tag>
-      </image>
-      <g:image_link>https://backend.frivio.se/vehicle/625/b1782291304736.jpeg</g:image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/625/c1782291304895.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/625/d1782291305017.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/625/e1782291305148.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/625/f1782291305272.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/625/g1782291305416.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/625/h1782291305561.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/625/i1782291305700.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/625/j1782291305836.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/625/k1782291305980.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/625/l1782291306123.jpeg</g:additional_image_link>
-      <make>Uttern</make>
-      <model>Uttern D55 Exclusive </model>
-      <year>2006</year>
-      <mileage>
-        <value>0</value>
-        <unit>KM</unit>
-      </mileage>
-      <price>96000 SEK</price>
-      <g:price>96000 SEK</g:price>
-      <address>Kungsbacka</address>
-      <address format="simple">
-        <component name="addr1">Kungsbacka</component>
-        <component name="city">Kungsbacka</component>
-        <component name="region">Halland</component>
-        <component name="country">SE</component>
-      </address>
-      <condition>GOOD</condition>
-      <state_of_vehicle>USED</state_of_vehicle>
-      <frivio:listing_type>auction</frivio:listing_type>
-      <frivio:auction_end_date>2026-07-14T16:23:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>96000 SEK</frivio:current_bid>
-      <frivio:bid_count>12</frivio:bid_count>
-      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>1519 kr/mån</frivio:monthly_cost>
-      <body_style>OTHER</body_style>
-      <frivio:body_type_label>Båt</frivio:body_type_label>
-      <fuel_type>NONE</fuel_type>
-      <frivio:region>Halland</frivio:region>
-      <availability>AVAILABLE</availability>
-      <custom_label_0>Båt</custom_label_0>
-      <custom_label_1>Slutar 2026-07-14 16:23</custom_label_1>
-    </item>
-    <item>
-      <vehicle_id>629</vehicle_id>
-      <g:id>629</g:id>
-      <title>Kabe Royal 560 LXL KS</title>
-      <description>Kabe Royal 560 LXL KS från 2013 erbjuder en välplanerad planlösning med franskbädd längst bak, toalett i anslutning till sovdelen samt ett centralt placerat kök med generösa arbetsytor och stor kyl. Längst fram finns en rymlig soffa som skapar gott om plats för umgänge och kan bäddas vid behov. Vagnen är utrustad med Kabes välkända komfort- och värmesystem och passar lika bra för semesterturer som längre vistelser. - Gasoltest utfört 2024-07-24 - Fukttest utfört 2018 UA - Besiktad till 2027-04-30 Årsmodell: 2013 · Typ: Husvagn · Ort: Båstad</description>
-      <url>https://frivio.se/auktion/629</url>
-      <g:link>https://frivio.se/auktion/629</g:link>
-      <image>
-        <url>https://backend.frivio.se/vehicle/629/a1782726398039.jpeg</url>
-        <tag>Exterior</tag>
-      </image>
-      <g:image_link>https://backend.frivio.se/vehicle/629/a1782726398039.jpeg</g:image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/629/b1782726397885.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/629/c1782726398215.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/629/d1782726397499.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/629/e1782726397689.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/629/f1782726398375.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/629/g1782726397281.jpeg</g:additional_image_link>
-      <make>Kabe</make>
-      <model>Royal 560 LXL KS</model>
-      <year>2013</year>
-      <mileage>
-        <value>0</value>
-        <unit>KM</unit>
-      </mileage>
-      <price>118000 SEK</price>
-      <g:price>118000 SEK</g:price>
-      <address>Båstad</address>
-      <address format="simple">
-        <component name="addr1">Båstad</component>
-        <component name="city">Båstad</component>
-        <component name="region">Skåne</component>
-        <component name="country">SE</component>
-      </address>
-      <condition>GOOD</condition>
-      <state_of_vehicle>USED</state_of_vehicle>
-      <frivio:listing_type>auction</frivio:listing_type>
-      <frivio:auction_end_date>2026-07-14T17:45:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>118000 SEK</frivio:current_bid>
-      <frivio:bid_count>1</frivio:bid_count>
-      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>1867 kr/mån</frivio:monthly_cost>
-      <body_style>OTHER</body_style>
-      <frivio:body_type_label>Husvagn</frivio:body_type_label>
-      <fuel_type>NONE</fuel_type>
-      <frivio:region>Skåne</frivio:region>
-      <availability>AVAILABLE</availability>
-      <custom_label_0>Husvagn</custom_label_0>
-      <custom_label_1>Slutar 2026-07-14 17:45</custom_label_1>
-    </item>
-    <item>
-      <vehicle_id>631</vehicle_id>
-      <g:id>631</g:id>
-      <title>Knaus Sudwind 550 Exclusive</title>
-      <description>Välskött och rymlig Knaus Südwind 550 Exclusive från 2011 - en populär barnkammarvagn med smart planlösning för hela familjen. Här finns våningssängar, stor dubbelsäng, rymlig sittgrupp, välutrustat kök samt toalett och dusch. Gott om förvaring, modern och trivsam interiör samt cykelställ bak gör den perfekt för både semester och längre campingvistelser. - Besiktad till 2027-05-31 - Fukt &amp; Gasoltest utfört 2026-06-17 UA Årsmodell: 2011 · Typ: Husvagn · Ort: Oskarshamn</description>
-      <url>https://frivio.se/auktion/631</url>
-      <g:link>https://frivio.se/auktion/631</g:link>
-      <image>
-        <url>https://backend.frivio.se/vehicle/631/a1782741010638.jpeg</url>
-        <tag>Exterior</tag>
-      </image>
-      <g:image_link>https://backend.frivio.se/vehicle/631/a1782741010638.jpeg</g:image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/631/b1782741010962.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/631/c1782741010812.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/631/d1782741011358.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/631/e1782741011233.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/631/f1782741011112.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/631/g1782741011888.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/631/h1782741011477.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/631/i1782741011758.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/631/j1782741011616.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/631/k1782741012011.jpeg</g:additional_image_link>
-      <make>Knaus</make>
-      <model>Sudwind 550 Exclusive</model>
-      <year>2011</year>
-      <mileage>
-        <value>0</value>
-        <unit>KM</unit>
-      </mileage>
-      <price>111000 SEK</price>
-      <g:price>111000 SEK</g:price>
-      <address>Oskarshamn</address>
-      <address format="simple">
-        <component name="addr1">Oskarshamn</component>
-        <component name="city">Oskarshamn</component>
-        <component name="region">Kalmar</component>
-        <component name="country">SE</component>
-      </address>
-      <condition>GOOD</condition>
-      <state_of_vehicle>USED</state_of_vehicle>
-      <frivio:listing_type>auction</frivio:listing_type>
-      <frivio:auction_end_date>2026-07-14T17:47:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>111000 SEK</frivio:current_bid>
-      <frivio:bid_count>9</frivio:bid_count>
-      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>1756 kr/mån</frivio:monthly_cost>
-      <body_style>OTHER</body_style>
-      <frivio:body_type_label>Husvagn</frivio:body_type_label>
-      <fuel_type>NONE</fuel_type>
-      <frivio:region>Kalmar</frivio:region>
-      <availability>AVAILABLE</availability>
-      <custom_label_0>Husvagn</custom_label_0>
-      <custom_label_1>Slutar 2026-07-14 17:47</custom_label_1>
-    </item>
+    <lastBuildDate>Tue, 14 Jul 2026 18:10:05 GMT</lastBuildDate>
     <item>
       <vehicle_id>632</vehicle_id>
       <g:id>632</g:id>
@@ -941,7 +780,7 @@
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-07-21T17:08:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
       <frivio:current_bid>25000 SEK</frivio:current_bid>
       <frivio:bid_count>0</frivio:bid_count>
       <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
@@ -992,7 +831,7 @@
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-07-21T17:24:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
       <frivio:current_bid>45000 SEK</frivio:current_bid>
       <frivio:bid_count>1</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
@@ -1046,7 +885,7 @@
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-07-21T17:29:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
       <frivio:current_bid>170000 SEK</frivio:current_bid>
       <frivio:bid_count>1</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
@@ -1094,7 +933,7 @@
       <state_of_vehicle>NEW</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-07-21T17:37:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
       <frivio:current_bid>20000 SEK</frivio:current_bid>
       <frivio:bid_count>0</frivio:bid_count>
       <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
@@ -1141,7 +980,7 @@
       <state_of_vehicle>NEW</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-07-21T17:43:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
       <frivio:current_bid>30000 SEK</frivio:current_bid>
       <frivio:bid_count>0</frivio:bid_count>
       <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
@@ -1192,7 +1031,7 @@
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-07-21T17:50:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
       <frivio:current_bid>60000 SEK</frivio:current_bid>
       <frivio:bid_count>0</frivio:bid_count>
       <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
@@ -1241,7 +1080,7 @@
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-07-21T17:51:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
       <frivio:current_bid>35000 SEK</frivio:current_bid>
       <frivio:bid_count>0</frivio:bid_count>
       <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
@@ -1288,7 +1127,7 @@
       <state_of_vehicle>NEW</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-07-21T17:54:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
       <frivio:current_bid>30000 SEK</frivio:current_bid>
       <frivio:bid_count>0</frivio:bid_count>
       <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
@@ -1343,7 +1182,7 @@
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-07-21T17:54:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
       <frivio:current_bid>80000 SEK</frivio:current_bid>
       <frivio:bid_count>0</frivio:bid_count>
       <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
@@ -1394,7 +1233,7 @@
       <state_of_vehicle>NEW</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-07-21T17:59:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
       <frivio:current_bid>90000 SEK</frivio:current_bid>
       <frivio:bid_count>0</frivio:bid_count>
       <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
