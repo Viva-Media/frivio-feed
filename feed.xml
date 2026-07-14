@@ -4,7 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Tue, 14 Jul 2026 09:10:35 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 11:37:29 GMT</lastBuildDate>
     <item>
       <vehicle_id>625</vehicle_id>
       <g:id>625</g:id>
@@ -85,8 +85,8 @@
         <value>0</value>
         <unit>KM</unit>
       </mileage>
-      <price>117500 SEK</price>
-      <g:price>117500 SEK</g:price>
+      <price>118000 SEK</price>
+      <g:price>118000 SEK</g:price>
       <address>Båstad</address>
       <address format="simple">
         <component name="addr1">Båstad</component>
@@ -99,10 +99,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-07-14T17:45:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>117500 SEK</frivio:current_bid>
-      <frivio:bid_count>0</frivio:bid_count>
-      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
-      <frivio:monthly_cost>1859 kr/mån</frivio:monthly_cost>
+      <frivio:current_bid>118000 SEK</frivio:current_bid>
+      <frivio:bid_count>1</frivio:bid_count>
+      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
+      <frivio:monthly_cost>1867 kr/mån</frivio:monthly_cost>
       <body_style>OTHER</body_style>
       <frivio:body_type_label>Husvagn</frivio:body_type_label>
       <fuel_type>NONE</fuel_type>
@@ -140,8 +140,8 @@
         <value>0</value>
         <unit>KM</unit>
       </mileage>
-      <price>107000 SEK</price>
-      <g:price>107000 SEK</g:price>
+      <price>108000 SEK</price>
+      <g:price>108000 SEK</g:price>
       <address>Oskarshamn</address>
       <address format="simple">
         <component name="addr1">Oskarshamn</component>
@@ -154,10 +154,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-07-14T17:47:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>107000 SEK</frivio:current_bid>
-      <frivio:bid_count>7</frivio:bid_count>
+      <frivio:current_bid>108000 SEK</frivio:current_bid>
+      <frivio:bid_count>8</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>1693 kr/mån</frivio:monthly_cost>
+      <frivio:monthly_cost>1709 kr/mån</frivio:monthly_cost>
       <body_style>OTHER</body_style>
       <frivio:body_type_label>Husvagn</frivio:body_type_label>
       <fuel_type>NONE</fuel_type>
@@ -2155,6 +2155,59 @@
       <custom_label_1>Slutar 2026-07-29 17:12</custom_label_1>
     </item>
     <item>
+      <vehicle_id>685</vehicle_id>
+      <g:id>685</g:id>
+      <title>LMC Innovan 590</title>
+      <description>Välutrustad och modern LMC Innovan 590 från 2023. Byggd på Ford Transit med automatlåda och en smart planlösning som passar både kortare utflykter och längre resor. Husbilen erbjuder en trivsam och ljus interiör med bekväm tvärbädd, sittgrupp, kök med kylskåp samt toalett. Utrustad med markis, insteg, dragkrok och flera praktiska förvaringslösningar - en smidig plåtis med hög komfort och stilren design. - Dragkrok - Truma Combi gasvärmare - Dometic kompressor kyl/frys - Vattentank 100L - Avloppstank 90L - Ford Assistans mobilitetsgaranti till 2029 - Uttagen i trafik första gången 2023-08-21 - Importerad till Sverige 2026-06-17 - Besiktad till 2028-06-30 - Täthetskontroll och Fukttest utfört mars 2025 - Servad enligt Fords intervaller - Senaste service utförd vid 5800mil Årsmodell: 2023 · Typ: Husbil · Drivmedel: Diesel · Växellåda: Automatisk · Mätarställning: 7 000 mil · Ort: Trollhättan</description>
+      <url>https://frivio.se/auktion/685</url>
+      <g:link>https://frivio.se/auktion/685</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/685/a1784021600392.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/685/a1784021600392.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/685/b1784021600659.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/685/c1784021600145.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/685/e1784021599081.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/685/f1784021599531.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/685/g1784021599813.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/685/h1784021599683.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/685/i1784021599251.jpeg</g:additional_image_link>
+      <make>LMC</make>
+      <model>Innovan 590</model>
+      <year>2023</year>
+      <mileage>
+        <value>70000</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>300000 SEK</price>
+      <g:price>300000 SEK</g:price>
+      <address>Trollhättan</address>
+      <address format="simple">
+        <component name="addr1">Trollhättan</component>
+        <component name="city">Trollhättan</component>
+        <component name="region">Västra Götaland</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <transmission>AUTOMATIC</transmission>
+      <frivio:listing_type>auction</frivio:listing_type>
+      <frivio:auction_end_date>2026-07-29T17:30:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>300000 SEK</frivio:current_bid>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
+      <frivio:monthly_cost>4747 kr/mån</frivio:monthly_cost>
+      <body_style>VAN</body_style>
+      <frivio:body_type_label>Husbil</frivio:body_type_label>
+      <fuel_type>DIESEL</fuel_type>
+      <frivio:region>Västra Götaland</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Husbil</custom_label_0>
+      <custom_label_1>Slutar 2026-07-29 17:30</custom_label_1>
+    </item>
+    <item>
       <vehicle_id>667</vehicle_id>
       <g:id>667</g:id>
       <title>Yamarin 5200</title>
@@ -2416,6 +2469,57 @@
       <availability>AVAILABLE</availability>
       <custom_label_0>Båt</custom_label_0>
       <custom_label_1>Slutar 2026-07-30 17:38</custom_label_1>
+    </item>
+    <item>
+      <vehicle_id>686</vehicle_id>
+      <g:id>686</g:id>
+      <title>Kabe Royal 560 GLE KS</title>
+      <description>Välskött Kabe Royal 560 GLE KS från 2016 med genomtänkt planlösning och hög komfort året runt. Vagnen erbjuder bekväma långbäddar, rymlig u-soffa, välutrustat kök med ugn och mikro samt generösa förvaringsutrymmen. Känd för sin vinteranpassning med Alde-värme och gedigen byggkvalitet. Perfekt för paret som söker ett trivsamt och påkostat semesterboende med känsla av premium på varje resa, oavsett om destinationen är fjällen, kusten eller den egna favoritcampingen under alla säsonger. - Levereras nybesiktad - Levereras fukttestad Årsmodell: 2016 · Typ: Husvagn · Ort: Nora</description>
+      <url>https://frivio.se/auktion/686</url>
+      <g:link>https://frivio.se/auktion/686</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/686/a1784023261784.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/686/a1784023261784.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/686/b1784023261959.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/686/c1784023261575.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/686/d1784023262145.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/686/e1784023262555.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/686/f1784023262285.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/686/g1784023262417.jpeg</g:additional_image_link>
+      <make>Kabe</make>
+      <model>Royal 560 GLE KS</model>
+      <year>2016</year>
+      <mileage>
+        <value>0</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>200000 SEK</price>
+      <g:price>200000 SEK</g:price>
+      <address>Nora</address>
+      <address format="simple">
+        <component name="addr1">Nora</component>
+        <component name="city">Nora</component>
+        <component name="region">Örebro</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <frivio:listing_type>auction</frivio:listing_type>
+      <frivio:auction_end_date>2026-08-03T17:00:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>200000 SEK</frivio:current_bid>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
+      <frivio:monthly_cost>3164 kr/mån</frivio:monthly_cost>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Husvagn</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
+      <frivio:region>Örebro</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Husvagn</custom_label_0>
+      <custom_label_1>Slutar 2026-08-03 17:00</custom_label_1>
     </item>
     <item>
       <vehicle_id>653</vehicle_id>
