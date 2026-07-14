@@ -4,7 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Tue, 14 Jul 2026 20:18:21 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 22:05:06 GMT</lastBuildDate>
     <item>
       <vehicle_id>632</vehicle_id>
       <g:id>632</g:id>
@@ -142,8 +142,8 @@
         <value>0</value>
         <unit>KM</unit>
       </mileage>
-      <price>126000 SEK</price>
-      <g:price>126000 SEK</g:price>
+      <price>130000 SEK</price>
+      <g:price>130000 SEK</g:price>
       <address>Heby</address>
       <address format="simple">
         <component name="addr1">Heby</component>
@@ -156,10 +156,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-07-15T17:48:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>126000 SEK</frivio:current_bid>
-      <frivio:bid_count>7</frivio:bid_count>
+      <frivio:current_bid>130000 SEK</frivio:current_bid>
+      <frivio:bid_count>8</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>1994 kr/mån</frivio:monthly_cost>
+      <frivio:monthly_cost>2057 kr/mån</frivio:monthly_cost>
       <body_style>OTHER</body_style>
       <frivio:body_type_label>Husvagn</frivio:body_type_label>
       <fuel_type>NONE</fuel_type>
@@ -2462,56 +2462,6 @@
       <availability>AVAILABLE</availability>
       <custom_label_0>Husvagn</custom_label_0>
       <custom_label_1>Slutar 2026-08-06 17:43</custom_label_1>
-    </item>
-    <item>
-      <vehicle_id>649</vehicle_id>
-      <g:id>649</g:id>
-      <title>Bella 512 Excel</title>
-      <description>Bella 512 Excel från 2008 tillsammans med en Mercury 75 hk Optimax från 2009 är en mycket trevlig och välgående fritidsbåt med fina sjöegenskaper. Båten är i mycket gott skick för sin ålder och passar lika bra för nybörjaren som den erfarna båtägaren. Med den starka Optimax-motorn fungerar båten även utmärkt för vattenskidor och andra fartfyllda aktiviteter. En smidig, pålitlig och rolig båt för sommarens alla turer. - Motorn har gått 79h - Motorn servad inför säsongen - 30km/h upptagningsvagn medföljer - Kapell medföljer - Dynsats medföljer Årsmodell: 2008 · Typ: Båt · Ort: Kungsbacka</description>
-      <url>https://frivio.se/auktion/649</url>
-      <g:link>https://frivio.se/auktion/649</g:link>
-      <image>
-        <url>https://backend.frivio.se/vehicle/649/a1783320524823.jpeg</url>
-        <tag>Exterior</tag>
-      </image>
-      <g:image_link>https://backend.frivio.se/vehicle/649/a1783320524823.jpeg</g:image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/649/b1783320524231.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/649/c1783320524063.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/649/d1783320524679.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/649/e1783320524380.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/649/f1783320524520.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/649/g1783320523859.jpeg</g:additional_image_link>
-      <make>Bella</make>
-      <model>Bella 512 Excel</model>
-      <year>2008</year>
-      <mileage>
-        <value>0</value>
-        <unit>KM</unit>
-      </mileage>
-      <price>95000 SEK</price>
-      <g:price>95000 SEK</g:price>
-      <address>Kungsbacka</address>
-      <address format="simple">
-        <component name="addr1">Kungsbacka</component>
-        <component name="city">Kungsbacka</component>
-        <component name="region">Halland</component>
-        <component name="country">SE</component>
-      </address>
-      <condition>GOOD</condition>
-      <state_of_vehicle>USED</state_of_vehicle>
-      <frivio:listing_type>fixed_price</frivio:listing_type>
-      <frivio:auction_end_date>2026-08-06T17:48:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
-      <frivio:bid_count>0</frivio:bid_count>
-      <frivio:reserve_price_status>Ej tillämpligt (fast pris)</frivio:reserve_price_status>
-      <frivio:monthly_cost>1503 kr/mån</frivio:monthly_cost>
-      <body_style>OTHER</body_style>
-      <frivio:body_type_label>Båt</frivio:body_type_label>
-      <fuel_type>NONE</fuel_type>
-      <frivio:region>Halland</frivio:region>
-      <availability>AVAILABLE</availability>
-      <custom_label_0>Båt</custom_label_0>
-      <custom_label_1>Slutar 2026-08-06 17:48</custom_label_1>
     </item>
   </channel>
 </rss>
