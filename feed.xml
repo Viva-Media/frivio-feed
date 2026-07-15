@@ -4,62 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Wed, 15 Jul 2026 17:24:49 GMT</lastBuildDate>
-    <item>
-      <vehicle_id>671</vehicle_id>
-      <g:id>671</g:id>
-      <title>Adria Alpina 663UK</title>
-      <description>Adria Alpina 663 UK från 2013 är en rymlig och vinteranpassad familjevagn med smart planlösning och hög komfort året runt. Här finns en stor soffa fram, praktisk mittplacerad köksdel, generös franskbädd samt våningssängar för barnen. Det välutrustade badrummet, gott om förvaring och den gedigna Adria-kvaliteten gör vagnen perfekt för både längre semestrar och spontana helgutflykter med hela familjen, oavsett säsong eller destination för nästa äventyr tillsammans på vägarna i Norden. - Vinteranpassad vagn - 2 våningssäng längst bak - Franskbädd på mitten - U-soffa fram - Hänger en påsmarkis på där påsen börjar bli dålig - Spricka i dekorplast bak - Nybesiktad 2026-07-07 UA - Fukttestad 2026-07-07 UA - Gasoltestad 2026-07-07 UA Årsmodell: 2013 · Typ: Husvagn · Ort: Heby</description>
-      <url>https://frivio.se/auktion/671</url>
-      <g:link>https://frivio.se/auktion/671</g:link>
-      <image>
-        <url>https://backend.frivio.se/vehicle/671/a1783500592859.jpeg</url>
-        <tag>Exterior</tag>
-      </image>
-      <g:image_link>https://backend.frivio.se/vehicle/671/a1783500592859.jpeg</g:image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/671/b1783500592384.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/671/c1783500594034.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/671/d1783500593798.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/671/e1783500592565.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/671/f1783500593476.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/671/g1783500592697.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/671/h1783500593033.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/671/i1783500593156.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/671/j1783500593302.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/671/k1783500593639.jpeg</g:additional_image_link>
-      <make>Adria</make>
-      <model>Alpina 663UK</model>
-      <year>2013</year>
-      <mileage>
-        <value>0</value>
-        <unit>KM</unit>
-      </mileage>
-      <price>135000 SEK</price>
-      <g:price>135000 SEK</g:price>
-      <address>Heby</address>
-      <address format="simple">
-        <component name="addr1">Heby</component>
-        <component name="city">Heby</component>
-        <component name="region">Uppsala</component>
-        <component name="country">SE</component>
-      </address>
-      <condition>GOOD</condition>
-      <state_of_vehicle>USED</state_of_vehicle>
-      <frivio:listing_type>auction</frivio:listing_type>
-      <frivio:auction_end_date>2026-07-15T17:48:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>135000 SEK</frivio:current_bid>
-      <frivio:bid_count>13</frivio:bid_count>
-      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>2136 kr/mån</frivio:monthly_cost>
-      <body_style>OTHER</body_style>
-      <frivio:body_type_label>Husvagn</frivio:body_type_label>
-      <fuel_type>NONE</fuel_type>
-      <frivio:region>Uppsala</frivio:region>
-      <availability>AVAILABLE</availability>
-      <custom_label_0>Husvagn</custom_label_0>
-      <custom_label_1>Slutar 2026-07-15 17:48</custom_label_1>
-    </item>
+    <lastBuildDate>Wed, 15 Jul 2026 19:23:28 GMT</lastBuildDate>
     <item>
       <vehicle_id>637</vehicle_id>
       <g:id>637</g:id>
@@ -1385,7 +1330,7 @@
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-07-22T17:45:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
       <frivio:current_bid>40500 SEK</frivio:current_bid>
       <frivio:bid_count>1</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
@@ -1438,7 +1383,7 @@
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-07-22T17:55:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
       <frivio:current_bid>125000 SEK</frivio:current_bid>
       <frivio:bid_count>0</frivio:bid_count>
       <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
@@ -2180,8 +2125,8 @@
         <value>0</value>
         <unit>KM</unit>
       </mileage>
-      <price>230000 SEK</price>
-      <g:price>230000 SEK</g:price>
+      <price>250000 SEK</price>
+      <g:price>250000 SEK</g:price>
       <address>Mönsterås</address>
       <address format="simple">
         <component name="addr1">Mönsterås</component>
@@ -2194,10 +2139,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-07-29T17:57:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>230000 SEK</frivio:current_bid>
-      <frivio:bid_count>0</frivio:bid_count>
-      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
-      <frivio:monthly_cost>3639 kr/mån</frivio:monthly_cost>
+      <frivio:current_bid>250000 SEK</frivio:current_bid>
+      <frivio:bid_count>1</frivio:bid_count>
+      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
+      <frivio:monthly_cost>3956 kr/mån</frivio:monthly_cost>
       <body_style>OTHER</body_style>
       <frivio:body_type_label>Husvagn</frivio:body_type_label>
       <fuel_type>NONE</fuel_type>
