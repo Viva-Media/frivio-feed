@@ -4,12 +4,12 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Wed, 15 Jul 2026 11:40:56 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 13:59:16 GMT</lastBuildDate>
     <item>
       <vehicle_id>632</vehicle_id>
       <g:id>632</g:id>
       <title>Windy 9800</title>
-      <description>Klassisk Windy 9800 - en välbyggd kvalitetsbåt med tidlös design och generösa sällskapsytor. Den rymliga sittbrunnen erbjuder gott om plats för umgänge och avkoppling, medan ruffen har bekväma sovplatser och praktiska förvaringsutrymmen för övernattning. En stabil och sjövärdig motorbåt som passar lika bra för dagsutflykter som längre semestrar på sjön. - Motor från 1994 - 2st 220hk motorer - Servad senast 2024 och ej körd efter detta - Genomgång totalt inför vinterförvaring - 1783 gångtimmar, - Navigator - Ankarspel - Utedusch Årsmodell: 1986 · Typ: Båt · Ort: Norrtälje</description>
+      <description>Klassisk Windy 9800 - en välbyggd kvalitetsbåt med tidlös design och generösa sällskapsytor. Den rymliga sittbrunnen erbjuder gott om plats för umgänge och avkoppling, medan ruffen har bekväma sovplatser och praktiska förvaringsutrymmen för övernattning. En stabil och sjövärdig motorbåt som passar lika bra för dagsutflykter som längre semestrar på sjön. - Motor från 1994 - 2st Yamaha 220hk dieselmotorer - Servad senast 2024 och ej körd efter detta - Genomgång totalt inför vinterförvaring - 1783 gångtimmar, - Navigator - Ankarspel - Utedusch - Nytvättat beige kapell - Bottenfärg Trilux Årsmodell: 1986 · Typ: Båt · Ort: Norrtälje</description>
       <url>https://frivio.se/auktion/632</url>
       <g:link>https://frivio.se/auktion/632</g:link>
       <image>
@@ -1881,6 +1881,61 @@
       <availability>AVAILABLE</availability>
       <custom_label_0>Båt</custom_label_0>
       <custom_label_1>Slutar 2026-07-28 17:36</custom_label_1>
+    </item>
+    <item>
+      <vehicle_id>679</vehicle_id>
+      <g:id>679</g:id>
+      <title>Flipper 450 HT</title>
+      <description>Klassisk Flipper 450 HT från 1975. Stabil, säker och charmig familjebåt. Denna välvårdade båt är perfekt för dagsutflykter och badresor. Lättkörd, rymlig för sin storlek och bjuder på gott vindskydd tack vare HT-taket. Båten är välhållen, redo för nya äventyr på sjön. - Ny impeller - Ny drevolja - Ny hydralolja - Nytt kapell - Fina dynor - Garmin 276C Plotter - Stereo - Förtöjning - Fendrar - Dragg - Paddel - 30km/h båtvagn Årsmodell: 1975 · Typ: Båt · Ort: Västervik</description>
+      <url>https://frivio.se/auktion/679</url>
+      <g:link>https://frivio.se/auktion/679</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/679/a1783928880745.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/679/a1783928880745.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/679/b1783928880984.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/679/c1783928881142.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/679/d1783928881900.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/679/e1783928881298.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/679/f1783928881464.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/679/g1783928881745.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/679/h1783928881609.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/679/i1783928882076.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/679/j1783928882357.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/679/k1783928882226.jpeg</g:additional_image_link>
+      <make>Flipper</make>
+      <model>Flipper 450 HT</model>
+      <year>1975</year>
+      <mileage>
+        <value>0</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>22500 SEK</price>
+      <g:price>22500 SEK</g:price>
+      <address>Västervik</address>
+      <address format="simple">
+        <component name="addr1">Västervik</component>
+        <component name="city">Västervik</component>
+        <component name="region">Kalmar</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <frivio:listing_type>auction</frivio:listing_type>
+      <frivio:auction_end_date>2026-07-28T17:44:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>22500 SEK</frivio:current_bid>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
+      <frivio:monthly_cost>356 kr/mån</frivio:monthly_cost>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Båt</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
+      <frivio:region>Kalmar</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Båt</custom_label_0>
+      <custom_label_1>Slutar 2026-07-28 17:44</custom_label_1>
     </item>
     <item>
       <vehicle_id>680</vehicle_id>
