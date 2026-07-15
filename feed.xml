@@ -4,7 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Wed, 15 Jul 2026 13:59:16 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 15:42:54 GMT</lastBuildDate>
     <item>
       <vehicle_id>632</vehicle_id>
       <g:id>632</g:id>
@@ -1828,6 +1828,62 @@
       <custom_label_1>Slutar 2026-07-27 17:22</custom_label_1>
     </item>
     <item>
+      <vehicle_id>678</vehicle_id>
+      <g:id>678</g:id>
+      <title>Dethleffs Magic Edition White</title>
+      <description>Välhållen Dethleffs Magic Edition White från 2012 med endast 5 510 mil. Rymlig planlösning med bekväm sittgrupp, stor dubbelsäng, kök med 3-lågig gasspis och stor kyl med separat frysfack. Badrum med separat duschkabin och kassetttoalett. Utrustad med markis, dragkrok och cykelställ - en trivsam husbil för både kortare och längre resor. - Ny ljus klädsel - Parabol - Dragkrok - Farthållare - Manuella stödben bak - Markis med sidor och front - Kamrem bytt 2021 - Senast servad vid 4060mil 2022 - Fukttest utfört 2024 UA - Gasoltest utfört 2024 UA - Besiktad till 2027-07-31 Årsmodell: 2012 · Typ: Husbil · Drivmedel: Diesel · Växellåda: Manuell · Mätarställning: 5 510 mil · Ort: Öckerö</description>
+      <url>https://frivio.se/auktion/678</url>
+      <g:link>https://frivio.se/auktion/678</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/678/b1784123205407.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/678/b1784123205407.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/678/c1784123205676.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/678/d1784123205922.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/678/e1784123206384.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/678/f1784123206160.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/678/g1784123206634.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/678/h1784123206854.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/678/i1784123207106.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/678/j1784123207332.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/678/k1784123207554.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/678/l1784123207795.jpeg</g:additional_image_link>
+      <make>Dethleffs</make>
+      <model>Magic Edition White</model>
+      <year>2012</year>
+      <mileage>
+        <value>55100</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>300000 SEK</price>
+      <g:price>300000 SEK</g:price>
+      <address>Öckerö</address>
+      <address format="simple">
+        <component name="addr1">Öckerö</component>
+        <component name="city">Öckerö</component>
+        <component name="region">Västra Götaland</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <transmission>MANUAL</transmission>
+      <frivio:listing_type>auction</frivio:listing_type>
+      <frivio:auction_end_date>2026-07-28T17:31:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>300000 SEK</frivio:current_bid>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
+      <frivio:monthly_cost>4747 kr/mån</frivio:monthly_cost>
+      <body_style>VAN</body_style>
+      <frivio:body_type_label>Husbil</frivio:body_type_label>
+      <fuel_type>DIESEL</fuel_type>
+      <frivio:region>Västra Götaland</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Husbil</custom_label_0>
+      <custom_label_1>Slutar 2026-07-28 17:31</custom_label_1>
+    </item>
+    <item>
       <vehicle_id>669</vehicle_id>
       <g:id>669</g:id>
       <title>Bayliner 265 Ciera</title>
@@ -2144,6 +2200,61 @@
       <frivio:body_type_label>Båt</frivio:body_type_label>
       <fuel_type>NONE</fuel_type>
       <frivio:region>Västra Götaland</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Båt</custom_label_0>
+      <custom_label_1>Slutar 2026-07-29 17:51</custom_label_1>
+    </item>
+    <item>
+      <vehicle_id>605</vehicle_id>
+      <g:id>605</g:id>
+      <title>Bayliner Ciera Sunbridge 245</title>
+      <description>Bayliner Ciera Sunbridge 245 från 2005 är en rymlig och välplanerad kabinbåt som passar lika bra för dagsutflykter som för längre turer med övernattning. Ombord finns en praktisk planlösning med sovplatser, pentry, toalett och en trivsam sittbrunn som bjuder in till sociala stunder på sjön. Båt och motor är från samma årsmodell och fungerar som de ska. Skicket är överlag fint, men det finns naturligtvis normala bruksspår och tecken på att båten har använts genom åren. En bekväm och uppskattad familjebåt som är redo för nya äventyr på vattnet. - Medföljer 2 madrasser att lägga uppe på däck att sola på framme i fören - Kallvatten inkopplat - Varmvattenberedaren är monterad men ej inkopplat. - Landström är urkopplat pga att det är en amerikans båt och de har 110v-system - Batteriladdare inkopplad på batterier - Det är föregående ägare som kopplat ur allting så funktionen är ej testad - Årlig 100h service är utfört med olja, filter, bränslefilter och drevolja 2025-11-22 - Tändstift, fördelarlock samt rotor är också bytt - 30km/h float on trailer medföljer - Hamnkapell ingår. Det är ett lägre kapell som man kan ha monterat t.ex vid vinterförvaring inomhus. Årsmodell: 2005 · Typ: Båt · Ort: Lomma</description>
+      <url>https://frivio.se/auktion/605</url>
+      <g:link>https://frivio.se/auktion/605</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/605/b1784117792844.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/605/b1784117792844.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/605/c1784117793133.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/605/d1784117792996.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/605/e1784117794249.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/605/f1784117793269.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/605/g1784117792583.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/605/h1784117792734.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/605/i1784117793646.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/605/j1784117793460.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/605/k1784117793803.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/605/l1784117793942.jpeg</g:additional_image_link>
+      <make>Bayliner</make>
+      <model>Bayliner Ciera Sunbridge 245</model>
+      <year>2005</year>
+      <mileage>
+        <value>0</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>95000 SEK</price>
+      <g:price>95000 SEK</g:price>
+      <address>Lomma</address>
+      <address format="simple">
+        <component name="addr1">Lomma</component>
+        <component name="city">Lomma</component>
+        <component name="region">Skåne</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <frivio:listing_type>auction</frivio:listing_type>
+      <frivio:auction_end_date>2026-07-29T17:51:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>95000 SEK</frivio:current_bid>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
+      <frivio:monthly_cost>1503 kr/mån</frivio:monthly_cost>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Båt</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
+      <frivio:region>Skåne</frivio:region>
       <availability>AVAILABLE</availability>
       <custom_label_0>Båt</custom_label_0>
       <custom_label_1>Slutar 2026-07-29 17:51</custom_label_1>
