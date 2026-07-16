@@ -4,7 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Thu, 16 Jul 2026 11:46:19 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 14:11:02 GMT</lastBuildDate>
     <item>
       <vehicle_id>637</vehicle_id>
       <g:id>637</g:id>
@@ -1586,8 +1586,8 @@
         <value>171000</value>
         <unit>KM</unit>
       </mileage>
-      <price>78000 SEK</price>
-      <g:price>78000 SEK</g:price>
+      <price>79000 SEK</price>
+      <g:price>79000 SEK</g:price>
       <address>Håbo</address>
       <address format="simple">
         <component name="addr1">Håbo</component>
@@ -1601,10 +1601,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-07-27T17:14:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>78000 SEK</frivio:current_bid>
-      <frivio:bid_count>1</frivio:bid_count>
+      <frivio:current_bid>79000 SEK</frivio:current_bid>
+      <frivio:bid_count>2</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>1234 kr/mån</frivio:monthly_cost>
+      <frivio:monthly_cost>1250 kr/mån</frivio:monthly_cost>
       <body_style>VAN</body_style>
       <frivio:body_type_label>Husbil</frivio:body_type_label>
       <fuel_type>DIESEL</fuel_type>
