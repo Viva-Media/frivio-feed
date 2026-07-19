@@ -4,61 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Sun, 19 Jul 2026 15:03:43 GMT</lastBuildDate>
-    <item>
-      <vehicle_id>638</vehicle_id>
-      <g:id>638</g:id>
-      <title>Bürstner Nordic 580 TS</title>
-      <description>Fin Bürstner Nordic 580 TS från 2017 med modern och trivsam planlösning. Husvagnen erbjuder en rymlig rundsoffa, bekväm fransk säng, fullt utrustat kök samt toalett. Perfekt för både kortare utflykter och längre semestrar. En välutrustad och lätttrivd husvagn med gott om förvaring, TV och hög komfort för ett bekvämt campingliv. - Gasoltestad 2026 - Besiktad till 2028-06-30 - Fukttest gjort 2026 Brister - Bakre myggnät fäste - Bordet till bädd fram, gasdämparen trasig (Ett fast bord finns) Årsmodell: 2017 · Typ: Husvagn · Ort: Upplands-Bro</description>
-      <url>https://frivio.se/auktion/638</url>
-      <g:link>https://frivio.se/auktion/638</g:link>
-      <image>
-        <url>https://backend.frivio.se/vehicle/638/b1782990751106.jpeg</url>
-        <tag>Exterior</tag>
-      </image>
-      <g:image_link>https://backend.frivio.se/vehicle/638/b1782990751106.jpeg</g:image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/638/c1782990752416.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/638/d1782990751387.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/638/e1782990751256.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/638/f1782990751810.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/638/g1782990752113.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/638/h1782990751523.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/638/i1782990751659.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/638/j1782990752268.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/638/k1782990751955.jpeg</g:additional_image_link>
-      <make>Bürstner</make>
-      <model>Nordic 580 TS</model>
-      <year>2017</year>
-      <mileage>
-        <value>0</value>
-        <unit>KM</unit>
-      </mileage>
-      <price>105000 SEK</price>
-      <g:price>105000 SEK</g:price>
-      <address>Upplands-Bro</address>
-      <address format="simple">
-        <component name="addr1">Upplands-Bro</component>
-        <component name="city">Upplands-Bro</component>
-        <component name="region">Stockholm</component>
-        <component name="country">SE</component>
-      </address>
-      <condition>GOOD</condition>
-      <state_of_vehicle>USED</state_of_vehicle>
-      <frivio:listing_type>auction</frivio:listing_type>
-      <frivio:auction_end_date>2026-07-19T16:11:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>105000 SEK</frivio:current_bid>
-      <frivio:bid_count>4</frivio:bid_count>
-      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>1661 kr/mån</frivio:monthly_cost>
-      <body_style>OTHER</body_style>
-      <frivio:body_type_label>Husvagn</frivio:body_type_label>
-      <fuel_type>NONE</fuel_type>
-      <frivio:region>Stockholm</frivio:region>
-      <availability>AVAILABLE</availability>
-      <custom_label_0>Husvagn</custom_label_0>
-      <custom_label_1>Slutar 2026-07-19 16:11</custom_label_1>
-    </item>
+    <lastBuildDate>Sun, 19 Jul 2026 17:06:37 GMT</lastBuildDate>
     <item>
       <vehicle_id>643</vehicle_id>
       <g:id>643</g:id>
@@ -404,8 +350,8 @@
         <value>0</value>
         <unit>KM</unit>
       </mileage>
-      <price>60000 SEK</price>
-      <g:price>60000 SEK</g:price>
+      <price>62000 SEK</price>
+      <g:price>62000 SEK</g:price>
       <address>Eskilstuna</address>
       <address format="simple">
         <component name="addr1">Eskilstuna</component>
@@ -418,10 +364,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-07-21T17:24:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>60000 SEK</frivio:current_bid>
-      <frivio:bid_count>5</frivio:bid_count>
+      <frivio:current_bid>62000 SEK</frivio:current_bid>
+      <frivio:bid_count>7</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>949 kr/mån</frivio:monthly_cost>
+      <frivio:monthly_cost>981 kr/mån</frivio:monthly_cost>
       <body_style>OTHER</body_style>
       <frivio:body_type_label>Båt</frivio:body_type_label>
       <fuel_type>NONE</fuel_type>
