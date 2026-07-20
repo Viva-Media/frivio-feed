@@ -4,7 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Mon, 20 Jul 2026 08:12:22 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 11:52:36 GMT</lastBuildDate>
     <item>
       <vehicle_id>643</vehicle_id>
       <g:id>643</g:id>
@@ -1174,8 +1174,8 @@
         <value>0</value>
         <unit>KM</unit>
       </mileage>
-      <price>91000 SEK</price>
-      <g:price>91000 SEK</g:price>
+      <price>91500 SEK</price>
+      <g:price>91500 SEK</g:price>
       <address>Östersund</address>
       <address format="simple">
         <component name="addr1">Östersund</component>
@@ -1188,10 +1188,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-07-23T17:52:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>91000 SEK</frivio:current_bid>
-      <frivio:bid_count>1</frivio:bid_count>
+      <frivio:current_bid>91500 SEK</frivio:current_bid>
+      <frivio:bid_count>2</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>1440 kr/mån</frivio:monthly_cost>
+      <frivio:monthly_cost>1448 kr/mån</frivio:monthly_cost>
       <body_style>OTHER</body_style>
       <frivio:body_type_label>Husvagn</frivio:body_type_label>
       <fuel_type>NONE</fuel_type>
@@ -2059,6 +2059,101 @@
       <custom_label_1>Slutar 2026-08-03 17:00</custom_label_1>
     </item>
     <item>
+      <vehicle_id>687</vehicle_id>
+      <g:id>687</g:id>
+      <title>Albin Wiggen</title>
+      <description>Albin Wiggen är svensk klassiker en trygg och säker familjeseglare. Passar även den som är helt nybörjare och att segla ensam. Båten är i fint skick och blivit väl omhändertagen. Fin inredning i mahogny med marinblå dynor plus dynor till sittbrunnen. - Bord till sittbrunnen - Marinblått sprayhood och marinblått bomkapell - 4kojplatser - Origo spritkök - Helt ny oanvänd kemtoa Porti Porti (ligger i kartong) - Liten portabel grill - Garmin GPS - Autohelm kombinationsinstrument - Solceller - Ett nytt batteri 2026 - Bomstruten är såld Segel : 4segel - ett är specialsytt rullfock från Gransegel för bättre kryssegenskaper. En lättviktsgenua och en Genua 2. Storsegel knappt använt från Boding. Bomstrut från BENNS som håller upp bommen, vilket är en extra finess på denna båt . Motor: Johnson 5HK, 2takt och nyservad med garanti. Övrigt; tampar, fendrar,ankare,livboj, två paddlar, skot och linor och båtshake. Årsmodell: 1976 · Typ: Båt · Ort: Tyresö</description>
+      <url>https://frivio.se/auktion/687</url>
+      <g:link>https://frivio.se/auktion/687</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/687/a1784546908409.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/687/a1784546908409.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/687/b1784546908528.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/687/c1784546908231.jpeg</g:additional_image_link>
+      <make>Albin</make>
+      <model>Albin Wiggen</model>
+      <year>1976</year>
+      <mileage>
+        <value>0</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>11500 SEK</price>
+      <g:price>11500 SEK</g:price>
+      <address>Tyresö</address>
+      <address format="simple">
+        <component name="addr1">Tyresö</component>
+        <component name="city">Tyresö</component>
+        <component name="region">Stockholm</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <frivio:listing_type>auction</frivio:listing_type>
+      <frivio:auction_end_date>2026-08-05T17:30:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>11500 SEK</frivio:current_bid>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
+      <frivio:monthly_cost>182 kr/mån</frivio:monthly_cost>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Båt</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
+      <frivio:region>Stockholm</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Båt</custom_label_0>
+      <custom_label_1>Slutar 2026-08-05 17:30</custom_label_1>
+    </item>
+    <item>
+      <vehicle_id>688</vehicle_id>
+      <g:id>688</g:id>
+      <title>Jofa Wint 435</title>
+      <description>Praktisk och lättkörd kabinbåt som passar utmärkt för både fiske och dagsutflykter. Båten är utrustad med en Mercury 60 hk utombordare och kapell som ger gott skydd vid sämre väder. Den skyddade styrplatsen gör båten bekväm att använda under större delen av säsongen. En trevlig och lättskött båt som passar både nybörjare och erfarna båtägare. - Mercury 60hk motor - Körd cirka 15h per år sedan 2009 - Servad av auktoriserad firma för cirka 5år sedan - men olja och filter byttes för två år sedan. - Kapell endast 2-år gammalt - Eltilt - 30km/h kärra ingår Årsmodell: 1979 · Typ: Båt · Ort: Säter</description>
+      <url>https://frivio.se/auktion/688</url>
+      <g:link>https://frivio.se/auktion/688</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/688/a1784547131900.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/688/a1784547131900.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/688/b1784547132406.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/688/c1784547132088.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/688/d1784547132242.jpeg</g:additional_image_link>
+      <make>Jofa</make>
+      <model>Jofa Wint 435</model>
+      <year>1979</year>
+      <mileage>
+        <value>0</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>12500 SEK</price>
+      <g:price>12500 SEK</g:price>
+      <address>Säter</address>
+      <address format="simple">
+        <component name="addr1">Säter</component>
+        <component name="city">Säter</component>
+        <component name="region">Dalarna</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <frivio:listing_type>auction</frivio:listing_type>
+      <frivio:auction_end_date>2026-08-06T17:31:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>12500 SEK</frivio:current_bid>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
+      <frivio:monthly_cost>198 kr/mån</frivio:monthly_cost>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Båt</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
+      <frivio:region>Dalarna</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Båt</custom_label_0>
+      <custom_label_1>Slutar 2026-08-06 17:31</custom_label_1>
+    </item>
+    <item>
       <vehicle_id>653</vehicle_id>
       <g:id>653</g:id>
       <title>Kabe Ametist GLE</title>
@@ -2160,6 +2255,52 @@
       <availability>AVAILABLE</availability>
       <custom_label_0>Husvagn</custom_label_0>
       <custom_label_1>Slutar 2026-08-06 17:43</custom_label_1>
+    </item>
+    <item>
+      <vehicle_id>689</vehicle_id>
+      <g:id>689</g:id>
+      <title>Sandström Classic 565</title>
+      <description>Sandström Classic 565 är en stabil och lättkörd styrpulpetbåt som passar perfekt för fiske, bad och familjeutflykter. Utrustad med en Parsun 60 hk som ger god prestanda och trygga köregenskaper. Rymliga stuvutrymmen, praktisk planlösning och plats för upp till sex personer gör detta till en mångsidig och lättskött fritidsbåt. - Motorn är från 2019 - 60hk motor - Cirka 18h drifttid - Senaste service gjord 2025 - Välutrustad med instrument - 30km/h Trailer ingår Årsmodell: 2019 · Typ: Båt · Ort: Gävle</description>
+      <url>https://frivio.se/auktion/689</url>
+      <g:link>https://frivio.se/auktion/689</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/689/a1784547330205.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/689/a1784547330205.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/689/b1784547330042.jpeg</g:additional_image_link>
+      <make>Sandström</make>
+      <model>Sandström Classic 565</model>
+      <year>2019</year>
+      <mileage>
+        <value>0</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>85000 SEK</price>
+      <g:price>85000 SEK</g:price>
+      <address>Gävle</address>
+      <address format="simple">
+        <component name="addr1">Gävle</component>
+        <component name="city">Gävle</component>
+        <component name="region">Gävleborg</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <frivio:listing_type>auction</frivio:listing_type>
+      <frivio:auction_end_date>2026-08-10T17:35:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>85000 SEK</frivio:current_bid>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
+      <frivio:monthly_cost>1345 kr/mån</frivio:monthly_cost>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Båt</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
+      <frivio:region>Gävleborg</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Båt</custom_label_0>
+      <custom_label_1>Slutar 2026-08-10 17:35</custom_label_1>
     </item>
   </channel>
 </rss>
