@@ -4,7 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Mon, 20 Jul 2026 04:41:30 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 08:12:22 GMT</lastBuildDate>
     <item>
       <vehicle_id>643</vehicle_id>
       <g:id>643</g:id>
@@ -452,8 +452,8 @@
         <value>0</value>
         <unit>KM</unit>
       </mileage>
-      <price>20000 SEK</price>
-      <g:price>20000 SEK</g:price>
+      <price>21000 SEK</price>
+      <g:price>21000 SEK</g:price>
       <address>Varberg</address>
       <address format="simple">
         <component name="addr1">Varberg</component>
@@ -466,10 +466,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-07-21T17:37:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>20000 SEK</frivio:current_bid>
-      <frivio:bid_count>0</frivio:bid_count>
-      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
-      <frivio:monthly_cost>316 kr/mån</frivio:monthly_cost>
+      <frivio:current_bid>21000 SEK</frivio:current_bid>
+      <frivio:bid_count>1</frivio:bid_count>
+      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
+      <frivio:monthly_cost>332 kr/mån</frivio:monthly_cost>
       <body_style>OTHER</body_style>
       <frivio:body_type_label>Båt</frivio:body_type_label>
       <fuel_type>NONE</fuel_type>
@@ -1740,7 +1740,7 @@
       <vehicle_id>605</vehicle_id>
       <g:id>605</g:id>
       <title>Bayliner Ciera Sunbridge 245</title>
-      <description>Bayliner Ciera Sunbridge 245 från 2005 är en rymlig och välplanerad kabinbåt som passar lika bra för dagsutflykter som för längre turer med övernattning. Ombord finns en praktisk planlösning med sovplatser, pentry, toalett och en trivsam sittbrunn som bjuder in till sociala stunder på sjön. Båt och motor är från samma årsmodell och fungerar som de ska. Skicket är överlag fint, men det finns naturligtvis normala bruksspår och tecken på att båten har använts genom åren. En bekväm och uppskattad familjebåt som är redo för nya äventyr på vattnet. - Medföljer 2 madrasser att lägga uppe på däck att sola på framme i fören - Kallvatten inkopplat - Varmvattenberedaren är monterad men ej inkopplat. - Landström är urkopplat pga att det är en amerikans båt och de har 110v-system - Batteriladdare inkopplad på batterier - Det är föregående ägare som kopplat ur allting så funktionen är ej testad - Årlig 100h service är utfört med olja, filter, bränslefilter och drevolja 2025-11-22 - Tändstift, fördelarlock samt rotor är också bytt - 30km/h float on trailer medföljer - Hamnkapell ingår. Det är ett lägre kapell som man kan ha monterat t.ex vid vinterförvaring inomhus. Årsmodell: 2005 · Typ: Båt · Ort: Lomma</description>
+      <description>Bayliner Ciera Sunbridge 245 från 2005 är en rymlig och välplanerad kabinbåt som passar lika bra för dagsutflykter som för längre turer med övernattning. Ombord finns en praktisk planlösning med sovplatser, pentry, toalett och en trivsam sittbrunn som bjuder in till sociala stunder på sjön. Båt och motor är från samma årsmodell och fungerar som de ska. Skicket är överlag fint, men det finns naturligtvis normala bruksspår och tecken på att båten har använts genom åren. En bekväm och uppskattad familjebåt som är redo för nya äventyr på vattnet. Alla funktioner på 12-voltssystemet fungerar som de ska, exempelvis kylskåp, belysning och övrig utrustning. Båten är av amerikanskt ursprung och har därför originalsystem för 110 V landström. Eftersom det inte är kompatibelt med det svenska 230 V-systemet används inte originalanslutningen. I stället är en batteriladdare ansluten direkt till batteriet, vilket förser båtens 12-voltssystem med ström när båten är ansluten till landström. - Medföljer 2 madrasser att lägga uppe på däck att sola på framme i fören - Kallvatten inkopplat - Varmvattenberedaren är monterad men ej inkopplat. - Batteriladdare inkopplad på batterier - Årlig 100h service är utfört med olja, filter, bränslefilter och drevolja 2025-11-22 - Tändstift, fördelarlock samt rotor är också bytt - 30km/h float on trailer medföljer - Hamnkapell ingår. Det är ett lägre kapell som man kan ha monterat t.ex vid vinterförvaring inomhus. Årsmodell: 2005 · Typ: Båt · Ort: Lomma</description>
       <url>https://frivio.se/auktion/605</url>
       <g:link>https://frivio.se/auktion/605</g:link>
       <image>
