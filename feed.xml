@@ -4,7 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Tue, 21 Jul 2026 10:31:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 12:40:50 GMT</lastBuildDate>
     <item>
       <vehicle_id>644</vehicle_id>
       <g:id>644</g:id>
@@ -1835,6 +1835,56 @@
       <custom_label_1>Slutar 2026-08-05 17:30</custom_label_1>
     </item>
     <item>
+      <vehicle_id>692</vehicle_id>
+      <g:id>692</g:id>
+      <title>Yamarin DC64</title>
+      <description>Yamarin DC64 från 2010 är en smidig och välplanerad daycruiser som passar perfekt för både dagsutflykter och bekväma helgturer. Båten erbjuder en rymlig sittbrunn, praktisk kabin med sovplatser samt generösa förvaringsutrymmen. Utrustad med en Yamaha F150 fyrtaktsmotor som ger trygg och bränsleeffektiv gång. Skicket är överlag fint med normala bruksspår för sin ålder. En lättkörd och uppskattad familjebåt, redo för nya äventyr på sjön. - Plotter SW92 - Landström - Laddare - Tampar - Fendrar - Stabil 30kärra - Servad Årsmodell: 2010 · Typ: Båt · Ort: Sölvesborg</description>
+      <url>https://frivio.se/auktion/692</url>
+      <g:link>https://frivio.se/auktion/692</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/692/a1784635947311.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/692/a1784635947311.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/692/b1784635947615.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/692/c1784635946987.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/692/d1784635947455.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/692/e1784635946722.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/692/f1784635947150.jpeg</g:additional_image_link>
+      <make>Yamarin</make>
+      <model>Yamarin DC64</model>
+      <year>2010</year>
+      <mileage>
+        <value>0</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>150000 SEK</price>
+      <g:price>150000 SEK</g:price>
+      <address>Sölvesborg</address>
+      <address format="simple">
+        <component name="addr1">Sölvesborg</component>
+        <component name="city">Sölvesborg</component>
+        <component name="region">Blekinge</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <frivio:listing_type>auction</frivio:listing_type>
+      <frivio:auction_end_date>2026-08-06T17:11:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>150000 SEK</frivio:current_bid>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
+      <frivio:monthly_cost>2373 kr/mån</frivio:monthly_cost>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Båt</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
+      <frivio:region>Blekinge</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Båt</custom_label_0>
+      <custom_label_1>Slutar 2026-08-06 17:11</custom_label_1>
+    </item>
+    <item>
       <vehicle_id>688</vehicle_id>
       <g:id>688</g:id>
       <title>Jofa Wint 435</title>
@@ -2032,6 +2082,61 @@
       <custom_label_1>Slutar 2026-08-10 17:35</custom_label_1>
     </item>
     <item>
+      <vehicle_id>691</vehicle_id>
+      <g:id>691</g:id>
+      <title>Polar 680</title>
+      <description>Polar 680 från 2012 är en rymlig och välutrustad boogievagn med klassisk Polar-känsla. Den stora U-soffan skapar en trivsam samlingsplats, medan den fasta dubbelsängen ger hög sovkomfort. Köket erbjuder gott om förvaring, ugn och mikro, och i badrummet finns handdukstork för extra bekvämlighet. Alde vattenburen värme och robust konstruktion gör vagnen väl anpassad för nordiskt klimat året runt. - Nuvarande ägare har ej gjort något fukttest under deras 2-åriga ägo. - Totalt 3 ägare Årsmodell: 2012 · Typ: Husvagn · Ort: Göteborg</description>
+      <url>https://frivio.se/auktion/691</url>
+      <g:link>https://frivio.se/auktion/691</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/691/a1784632876274.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/691/a1784632876274.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/691/b1784632876554.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/691/c1784632878436.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/691/d1784632878599.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/691/e1784632879572.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/691/f1784632879435.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/691/g1784632879730.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/691/h1784632879865.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/691/i1784632878936.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/691/j1784632877012.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/691/k1784632877943.jpeg</g:additional_image_link>
+      <make>Polar</make>
+      <model>680</model>
+      <year>2012</year>
+      <mileage>
+        <value>0</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>150000 SEK</price>
+      <g:price>150000 SEK</g:price>
+      <address>Göteborg</address>
+      <address format="simple">
+        <component name="addr1">Göteborg</component>
+        <component name="city">Göteborg</component>
+        <component name="region">Västra Götaland</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <frivio:listing_type>auction</frivio:listing_type>
+      <frivio:auction_end_date>2026-08-11T17:20:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>150000 SEK</frivio:current_bid>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
+      <frivio:monthly_cost>2373 kr/mån</frivio:monthly_cost>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Husvagn</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
+      <frivio:region>Västra Götaland</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Husvagn</custom_label_0>
+      <custom_label_1>Slutar 2026-08-11 17:20</custom_label_1>
+    </item>
+    <item>
       <vehicle_id>690</vehicle_id>
       <g:id>690</g:id>
       <title>Uttern D55 Exclusive</title>
@@ -2085,6 +2190,59 @@
       <availability>AVAILABLE</availability>
       <custom_label_0>Båt</custom_label_0>
       <custom_label_1>Slutar 2026-08-11 17:45</custom_label_1>
+    </item>
+    <item>
+      <vehicle_id>636</vehicle_id>
+      <g:id>636</g:id>
+      <title>Cabby 620+</title>
+      <description>Välskött Cabby 620+ från 2010 med genomtänkt planlösning och hög komfort. Här möts du av en rymlig sittgrupp, praktiskt kök och gott om förvaring. Vagnen erbjuder separata långbäddar bak samt en inbjudande matplats fram som enkelt bäddas om vid behov. Helt enkelt en kvalitetsvagn från Cabby! - Fukttest utfört 2022 utan anmärkning - Besiktad till 2028-03-31 Årsmodell: 2010 · Typ: Husvagn · Ort: Borås</description>
+      <url>https://frivio.se/auktion/636</url>
+      <g:link>https://frivio.se/auktion/636</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/636/a1782820309789.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/636/a1782820309789.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/636/b1782820310011.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/636/c1782820310707.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/636/d1782820310243.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/636/e1782820310933.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/636/f1782820311173.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/636/g1782820311394.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/636/h1782820311611.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/636/i1782820311811.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/636/j1782820312021.jpeg</g:additional_image_link>
+      <make>Cabby</make>
+      <model>620+</model>
+      <year>2010</year>
+      <mileage>
+        <value>0</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>100000 SEK</price>
+      <g:price>100000 SEK</g:price>
+      <address>Borås</address>
+      <address format="simple">
+        <component name="addr1">Borås</component>
+        <component name="city">Borås</component>
+        <component name="region">Västra Götaland</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <frivio:listing_type>fixed_price</frivio:listing_type>
+      <frivio:auction_end_date>2026-08-11T17:51:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Ej tillämpligt (fast pris)</frivio:reserve_price_status>
+      <frivio:monthly_cost>1582 kr/mån</frivio:monthly_cost>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Husvagn</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
+      <frivio:region>Västra Götaland</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Husvagn</custom_label_0>
+      <custom_label_1>Slutar 2026-08-11 17:51</custom_label_1>
     </item>
   </channel>
 </rss>
