@@ -4,7 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Tue, 21 Jul 2026 12:40:50 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 15:09:15 GMT</lastBuildDate>
     <item>
       <vehicle_id>644</vehicle_id>
       <g:id>644</g:id>
@@ -2034,6 +2034,117 @@
       <availability>AVAILABLE</availability>
       <custom_label_0>Husvagn</custom_label_0>
       <custom_label_1>Slutar 2026-08-06 17:43</custom_label_1>
+    </item>
+    <item>
+      <vehicle_id>693</vehicle_id>
+      <g:id>693</g:id>
+      <title>Kabe TM Classic 740 LGB</title>
+      <description>Välvårdad KABE TravelMaster Classic 740 LGB från 2016 med endast 2 800 mil. En rymlig och komfortabel husbil med populär planlösning, långbäddar, stor sittgrupp med vridbara pilotstolar och välutrustat kök. KABE:s höga kvalitet och fina året-runt-egenskaper gör den perfekt för både kortare utflykter och längre resor. Husbilen är i mycket fint skick och redo för nya äventyr. - Besiktad till 2027-07-31 - Stor service ink kamremsbyte gjort 2025 - Nya sommardäck 2025 - Nya batterier 2025 - Cykehållare i bagage - 2st fulla PA11 - Levereras fulltankad - Fukt &amp; Gasoltestas innan leverans Årsmodell: 2016 · Typ: Husbil · Drivmedel: Diesel · Växellåda: Manuell · Mätarställning: 2 800 mil · Ort: Örnsköldsvik</description>
+      <url>https://frivio.se/auktion/693</url>
+      <g:link>https://frivio.se/auktion/693</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/693/b1784642072518.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/693/b1784642072518.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/693/c1784642072665.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/693/d1784642072217.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/693/e1784642073071.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/693/f1784642073196.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/693/g1784642072412.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/693/h1784642072815.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/693/i1784642072951.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/693/i1784643817806.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/693/j1784643818215.jpeg</g:additional_image_link>
+      <make>Kabe</make>
+      <model>TM Classic 740 LGB</model>
+      <year>2016</year>
+      <mileage>
+        <value>28000</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>350000 SEK</price>
+      <g:price>350000 SEK</g:price>
+      <address>Örnsköldsvik</address>
+      <address format="simple">
+        <component name="addr1">Örnsköldsvik</component>
+        <component name="city">Örnsköldsvik</component>
+        <component name="region">Västernorrland</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <transmission>MANUAL</transmission>
+      <frivio:listing_type>auction</frivio:listing_type>
+      <frivio:auction_end_date>2026-08-09T17:44:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>350000 SEK</frivio:current_bid>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
+      <frivio:monthly_cost>5538 kr/mån</frivio:monthly_cost>
+      <body_style>VAN</body_style>
+      <frivio:body_type_label>Husbil</frivio:body_type_label>
+      <fuel_type>DIESEL</fuel_type>
+      <frivio:region>Västernorrland</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Husbil</custom_label_0>
+      <custom_label_1>Slutar 2026-08-09 17:44</custom_label_1>
+    </item>
+    <item>
+      <vehicle_id>694</vehicle_id>
+      <g:id>694</g:id>
+      <title>Pilote P600</title>
+      <description>Trevlig Pilote P600 från 2006 med cirka 6 500 mil på mätaren. En lättkörd och praktisk halvintegrerad husbil med genomtänkt planlösning, rymlig franskbädd bak, välutrustat kök samt toalett med separat dusch. Perfekt för både weekendresor och längre semestrar. Ett fint exemplar som erbjuder hög komfort och är redo för nya äventyr. - Besiktad till 2027-02-28 - Kamrem bytt 2025 - Nyservad Årsmodell: 2006 · Typ: Husbil · Drivmedel: Diesel · Växellåda: Manuell · Mätarställning: 6 500 mil · Ort: Varberg</description>
+      <url>https://frivio.se/auktion/694</url>
+      <g:link>https://frivio.se/auktion/694</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/694/a1784642971733.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/694/a1784642971733.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/694/b1784642971909.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/694/c1784642972051.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/694/d1784642972197.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/694/e1784642972321.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/694/f1784642972963.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/694/g1784642973974.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/694/h1784642974236.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/694/i1784642973097.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/694/j1784642973360.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/694/k1784642974103.jpeg</g:additional_image_link>
+      <make>Pilote</make>
+      <model>P600</model>
+      <year>2006</year>
+      <mileage>
+        <value>65000</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>125000 SEK</price>
+      <g:price>125000 SEK</g:price>
+      <address>Varberg</address>
+      <address format="simple">
+        <component name="addr1">Varberg</component>
+        <component name="city">Varberg</component>
+        <component name="region">Halland</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <transmission>MANUAL</transmission>
+      <frivio:listing_type>auction</frivio:listing_type>
+      <frivio:auction_end_date>2026-08-10T17:07:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>125000 SEK</frivio:current_bid>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
+      <frivio:monthly_cost>1978 kr/mån</frivio:monthly_cost>
+      <body_style>VAN</body_style>
+      <frivio:body_type_label>Husbil</frivio:body_type_label>
+      <fuel_type>DIESEL</fuel_type>
+      <frivio:region>Halland</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Husbil</custom_label_0>
+      <custom_label_1>Slutar 2026-08-10 17:07</custom_label_1>
     </item>
     <item>
       <vehicle_id>689</vehicle_id>
