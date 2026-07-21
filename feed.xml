@@ -4,7 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Tue, 21 Jul 2026 07:37:16 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 10:31:00 GMT</lastBuildDate>
     <item>
       <vehicle_id>644</vehicle_id>
       <g:id>644</g:id>
@@ -903,8 +903,8 @@
         <value>0</value>
         <unit>KM</unit>
       </mileage>
-      <price>99000 SEK</price>
-      <g:price>99000 SEK</g:price>
+      <price>100000 SEK</price>
+      <g:price>100000 SEK</g:price>
       <address>Östersund</address>
       <address format="simple">
         <component name="addr1">Östersund</component>
@@ -917,10 +917,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-07-23T17:52:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>99000 SEK</frivio:current_bid>
-      <frivio:bid_count>7</frivio:bid_count>
+      <frivio:current_bid>100000 SEK</frivio:current_bid>
+      <frivio:bid_count>8</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>1566 kr/mån</frivio:monthly_cost>
+      <frivio:monthly_cost>1582 kr/mån</frivio:monthly_cost>
       <body_style>OTHER</body_style>
       <frivio:body_type_label>Husvagn</frivio:body_type_label>
       <fuel_type>NONE</fuel_type>
@@ -2030,6 +2030,61 @@
       <availability>AVAILABLE</availability>
       <custom_label_0>Båt</custom_label_0>
       <custom_label_1>Slutar 2026-08-10 17:35</custom_label_1>
+    </item>
+    <item>
+      <vehicle_id>690</vehicle_id>
+      <g:id>690</g:id>
+      <title>Uttern D55 Exclusive</title>
+      <description>Mycket trevlig Uttern D55 Exclusive från 2006 - en välplanerad daycruiser som passar perfekt för både dagsutflykter och övernattningar. Rymlig kabin med sovplats för två, stort soldäck i fören och bekväm sittbrunn med plats för familj och vänner. Utrustad med kapell, badplattform och gott om förvaring. Sjösäker, lättkörd och välskött båt som erbjuder många härliga dagar på sjön. - Båtplats för 2026 kan ingå - Motorn servades i september 2025 - 4-takts MerCruiser 3.0 135hk - Plotter Garmin 720S - Nya plottar &amp; stöd för ekolod - Motor och drev är servat - Mycket tillbehör medföljer så som fendrar, båtshake, nya tampar, kil-kit et.c - Elektrisk ankarvinsch/spel med knapptryckning - 30km/h trailer ingår Årsmodell: 2006 · Typ: Båt · Ort: Kungsbacka</description>
+      <url>https://frivio.se/auktion/690</url>
+      <g:link>https://frivio.se/auktion/690</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/690/a1784627169948.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/690/a1784627169948.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/690/b1784627169222.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/690/c1784627169503.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/690/d1784627169662.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/690/e1784627169801.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/690/f1784627171233.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/690/g1784627171064.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/690/h1784627170220.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/690/i1784627170909.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/690/j1784627171659.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/690/k1784627171801.jpeg</g:additional_image_link>
+      <make>Uttern</make>
+      <model>Uttern D55 Exclusive </model>
+      <year>2006</year>
+      <mileage>
+        <value>0</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>67500 SEK</price>
+      <g:price>67500 SEK</g:price>
+      <address>Kungsbacka</address>
+      <address format="simple">
+        <component name="addr1">Kungsbacka</component>
+        <component name="city">Kungsbacka</component>
+        <component name="region">Halland</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <frivio:listing_type>auction</frivio:listing_type>
+      <frivio:auction_end_date>2026-08-11T17:45:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>67500 SEK</frivio:current_bid>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
+      <frivio:monthly_cost>1068 kr/mån</frivio:monthly_cost>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Båt</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
+      <frivio:region>Halland</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Båt</custom_label_0>
+      <custom_label_1>Slutar 2026-08-11 17:45</custom_label_1>
     </item>
   </channel>
 </rss>
