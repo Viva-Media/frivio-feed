@@ -4,161 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Tue, 21 Jul 2026 15:09:15 GMT</lastBuildDate>
-    <item>
-      <vehicle_id>644</vehicle_id>
-      <g:id>644</g:id>
-      <title>Ryds Camping 570</title>
-      <description>Letar du efter en rymlig och lättkörd klassiker? Denna Ryds Camping 570 från 1979 erbjuder en skyddad hytt, generöst sittutrymme och goda möjligheter till både dagsutflykter och övernattning. Utrustad med en Mercury 60 hk utombordare som ger bra prestanda och en trevlig körupplevelse. En uppskattad modell som passar lika bra för fiske som familjeturer på sjön. - Mercury 60hk EFI drifttid 141h - Service gjord varje höst i samband med upptagning - Kapell - 30km/h båtvagn ingår Årsmodell: 1979 · Typ: Båt · Ort: Västerås</description>
-      <url>https://frivio.se/auktion/644</url>
-      <g:link>https://frivio.se/auktion/644</g:link>
-      <image>
-        <url>https://backend.frivio.se/vehicle/644/a1782994294543.jpeg</url>
-        <tag>Exterior</tag>
-      </image>
-      <g:image_link>https://backend.frivio.se/vehicle/644/a1782994294543.jpeg</g:image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/644/b1782994294704.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/644/c1782994294828.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/644/d1782994294960.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/644/e1782994295073.jpeg</g:additional_image_link>
-      <make>Ryds</make>
-      <model>Ryds Camping 570</model>
-      <year>1979</year>
-      <mileage>
-        <value>0</value>
-        <unit>KM</unit>
-      </mileage>
-      <price>25000 SEK</price>
-      <g:price>25000 SEK</g:price>
-      <address>Västerås</address>
-      <address format="simple">
-        <component name="addr1">Västerås</component>
-        <component name="city">Västerås</component>
-        <component name="region">Västmanland</component>
-        <component name="country">SE</component>
-      </address>
-      <condition>GOOD</condition>
-      <state_of_vehicle>USED</state_of_vehicle>
-      <frivio:listing_type>auction</frivio:listing_type>
-      <frivio:auction_end_date>2026-07-21T17:08:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>25000 SEK</frivio:current_bid>
-      <frivio:bid_count>0</frivio:bid_count>
-      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
-      <frivio:monthly_cost>396 kr/mån</frivio:monthly_cost>
-      <body_style>OTHER</body_style>
-      <frivio:body_type_label>Båt</frivio:body_type_label>
-      <fuel_type>NONE</fuel_type>
-      <frivio:region>Västmanland</frivio:region>
-      <availability>AVAILABLE</availability>
-      <custom_label_0>Båt</custom_label_0>
-      <custom_label_1>Slutar 2026-07-21 17:08</custom_label_1>
-    </item>
-    <item>
-      <vehicle_id>645</vehicle_id>
-      <g:id>645</g:id>
-      <title>Ryds 478 GTI</title>
-      <description>Ryds 478 GTI är en lättkörd och stabil styrpulpet som passar lika bra för badutflykter som fiske och transport. Den bränslesnåla Mercury 50 hk ger fin prestanda och båten erbjuder gott om sittplatser samt smarta stuvutrymmen. Säljs med båtkärra och två bränsletankar - ett komplett paket som är redo för många härliga dagar på sjön. - Mercury 50hk 4-takt med cirka 60 gångtimmar - Nyservad i år - Komplett dynsats i bra skick - Ankare, tampar, kätting med lås medföljer - 30km/h kärra ingår Årsmodell: 2010 · Typ: Båt · Ort: Eskilstuna</description>
-      <url>https://frivio.se/auktion/645</url>
-      <g:link>https://frivio.se/auktion/645</g:link>
-      <image>
-        <url>https://backend.frivio.se/vehicle/645/a1782995243652.jpeg</url>
-        <tag>Exterior</tag>
-      </image>
-      <g:image_link>https://backend.frivio.se/vehicle/645/a1782995243652.jpeg</g:image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/645/b1782995243982.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/645/c1782995243823.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/645/d1782995244128.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/645/e1782995244393.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/645/f1782995244260.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/645/g1782995244521.jpeg</g:additional_image_link>
-      <make>Ryds</make>
-      <model>Ryds 478 GTI</model>
-      <year>2010</year>
-      <mileage>
-        <value>0</value>
-        <unit>KM</unit>
-      </mileage>
-      <price>67000 SEK</price>
-      <g:price>67000 SEK</g:price>
-      <address>Eskilstuna</address>
-      <address format="simple">
-        <component name="addr1">Eskilstuna</component>
-        <component name="city">Eskilstuna</component>
-        <component name="region">Södermanland</component>
-        <component name="country">SE</component>
-      </address>
-      <condition>GOOD</condition>
-      <state_of_vehicle>USED</state_of_vehicle>
-      <frivio:listing_type>auction</frivio:listing_type>
-      <frivio:auction_end_date>2026-07-21T17:24:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>67000 SEK</frivio:current_bid>
-      <frivio:bid_count>9</frivio:bid_count>
-      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>1060 kr/mån</frivio:monthly_cost>
-      <body_style>OTHER</body_style>
-      <frivio:body_type_label>Båt</frivio:body_type_label>
-      <fuel_type>NONE</fuel_type>
-      <frivio:region>Södermanland</frivio:region>
-      <availability>AVAILABLE</availability>
-      <custom_label_0>Båt</custom_label_0>
-      <custom_label_1>Slutar 2026-07-21 17:24</custom_label_1>
-    </item>
-    <item>
-      <vehicle_id>652</vehicle_id>
-      <g:id>652</g:id>
-      <title>Kabe Royal 600 ETDL KS</title>
-      <description>Kabe Royal 600 ETDL KS från 2016 erbjuder en smart planlösning med separata långbäddar, generös U-soffa och välutrustat kök med stor kyl och spis. Den ombonade interiören, gott om förvaring och KABEs välkända komfort gör vagnen lika trivsam på weekendresan som under längre turer. För dig som söker ett bekvämt och genomtänkt boende med hög kvalitetskänsla. - Stort Isabella förtält - Fukttestas innan leverans - Levereras nybesiktad Årsmodell: 2016 · Typ: Husvagn · Ort: Nora</description>
-      <url>https://frivio.se/auktion/652</url>
-      <g:link>https://frivio.se/auktion/652</g:link>
-      <image>
-        <url>https://backend.frivio.se/vehicle/652/a1783330209556.jpeg</url>
-        <tag>Exterior</tag>
-      </image>
-      <g:image_link>https://backend.frivio.se/vehicle/652/a1783330209556.jpeg</g:image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/652/b1783330209680.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/652/c1783330208917.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/652/d1783330208450.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/652/e1783330209307.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/652/f1783330209041.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/652/g1783330209174.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/652/h1783330208655.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/652/i1783330209427.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/652/j1783330208791.jpeg</g:additional_image_link>
-      <make>Kabe</make>
-      <model>Royal 600 ETDL KS</model>
-      <year>2016</year>
-      <mileage>
-        <value>0</value>
-        <unit>KM</unit>
-      </mileage>
-      <price>180000 SEK</price>
-      <g:price>180000 SEK</g:price>
-      <address>Nora</address>
-      <address format="simple">
-        <component name="addr1">Nora</component>
-        <component name="city">Nora</component>
-        <component name="region">Örebro</component>
-        <component name="country">SE</component>
-      </address>
-      <condition>GOOD</condition>
-      <state_of_vehicle>USED</state_of_vehicle>
-      <frivio:listing_type>auction</frivio:listing_type>
-      <frivio:auction_end_date>2026-07-21T17:29:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>180000 SEK</frivio:current_bid>
-      <frivio:bid_count>2</frivio:bid_count>
-      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>2848 kr/mån</frivio:monthly_cost>
-      <body_style>OTHER</body_style>
-      <frivio:body_type_label>Husvagn</frivio:body_type_label>
-      <fuel_type>NONE</fuel_type>
-      <frivio:region>Örebro</frivio:region>
-      <availability>AVAILABLE</availability>
-      <custom_label_0>Husvagn</custom_label_0>
-      <custom_label_1>Slutar 2026-07-21 17:29</custom_label_1>
-    </item>
+    <lastBuildDate>Tue, 21 Jul 2026 17:37:04 GMT</lastBuildDate>
     <item>
       <vehicle_id>656</vehicle_id>
       <g:id>656</g:id>
@@ -181,8 +27,8 @@
         <value>0</value>
         <unit>KM</unit>
       </mileage>
-      <price>21000 SEK</price>
-      <g:price>21000 SEK</g:price>
+      <price>21500 SEK</price>
+      <g:price>21500 SEK</g:price>
       <address>Varberg</address>
       <address format="simple">
         <component name="addr1">Varberg</component>
@@ -194,11 +40,11 @@
       <state_of_vehicle>NEW</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-07-21T17:37:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>21000 SEK</frivio:current_bid>
-      <frivio:bid_count>1</frivio:bid_count>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>21500 SEK</frivio:current_bid>
+      <frivio:bid_count>2</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>332 kr/mån</frivio:monthly_cost>
+      <frivio:monthly_cost>340 kr/mån</frivio:monthly_cost>
       <body_style>OTHER</body_style>
       <frivio:body_type_label>Båt</frivio:body_type_label>
       <fuel_type>NONE</fuel_type>
@@ -903,8 +749,8 @@
         <value>0</value>
         <unit>KM</unit>
       </mileage>
-      <price>100000 SEK</price>
-      <g:price>100000 SEK</g:price>
+      <price>110000 SEK</price>
+      <g:price>110000 SEK</g:price>
       <address>Östersund</address>
       <address format="simple">
         <component name="addr1">Östersund</component>
@@ -917,10 +763,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-07-23T17:52:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>100000 SEK</frivio:current_bid>
-      <frivio:bid_count>8</frivio:bid_count>
+      <frivio:current_bid>110000 SEK</frivio:current_bid>
+      <frivio:bid_count>10</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>1582 kr/mån</frivio:monthly_cost>
+      <frivio:monthly_cost>1740 kr/mån</frivio:monthly_cost>
       <body_style>OTHER</body_style>
       <frivio:body_type_label>Husvagn</frivio:body_type_label>
       <fuel_type>NONE</fuel_type>
@@ -1131,7 +977,7 @@
       <transmission>MANUAL</transmission>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-07-28T17:31:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
       <frivio:current_bid>330000 SEK</frivio:current_bid>
       <frivio:bid_count>1</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
@@ -1186,7 +1032,7 @@
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-07-28T17:36:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
       <frivio:current_bid>100000 SEK</frivio:current_bid>
       <frivio:bid_count>0</frivio:bid_count>
       <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
@@ -2119,8 +1965,8 @@
         <value>65000</value>
         <unit>KM</unit>
       </mileage>
-      <price>125000 SEK</price>
-      <g:price>125000 SEK</g:price>
+      <price>130000 SEK</price>
+      <g:price>130000 SEK</g:price>
       <address>Varberg</address>
       <address format="simple">
         <component name="addr1">Varberg</component>
@@ -2134,10 +1980,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-08-10T17:07:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>125000 SEK</frivio:current_bid>
-      <frivio:bid_count>0</frivio:bid_count>
-      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
-      <frivio:monthly_cost>1978 kr/mån</frivio:monthly_cost>
+      <frivio:current_bid>130000 SEK</frivio:current_bid>
+      <frivio:bid_count>1</frivio:bid_count>
+      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
+      <frivio:monthly_cost>2057 kr/mån</frivio:monthly_cost>
       <body_style>VAN</body_style>
       <frivio:body_type_label>Husbil</frivio:body_type_label>
       <fuel_type>DIESEL</fuel_type>
