@@ -4,355 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Tue, 21 Jul 2026 17:37:04 GMT</lastBuildDate>
-    <item>
-      <vehicle_id>656</vehicle_id>
-      <g:id>656</g:id>
-      <title>Cremo 410SC</title>
-      <description>Ny och oanvänd Cremo 410 SC från 2023. Styrpulpet-båt typ 2. Denna smidiga, stabila styrpulpetsbåt säljs utan motor, vilket ger dig chansen att montera valfritt märke efter egna behov. Perfekt och lättskött båt för familjens badutflykter eller sköna fisketurer. Passa på att förvärva en svenskdesignad kvalitetsbåt, redo att färdigställas för sommarens alla härliga äventyr på sjön. Årsmodell: 2023 · Typ: Båt · Ort: Varberg</description>
-      <url>https://frivio.se/auktion/656</url>
-      <g:link>https://frivio.se/auktion/656</g:link>
-      <image>
-        <url>https://backend.frivio.se/vehicle/656/a1783413736518.jpeg</url>
-        <tag>Exterior</tag>
-      </image>
-      <g:image_link>https://backend.frivio.se/vehicle/656/a1783413736518.jpeg</g:image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/656/b1783413736760.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/656/c1783413737177.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/656/d1783413737577.jpeg</g:additional_image_link>
-      <make>Cremo</make>
-      <model>Cremo 410SC</model>
-      <year>2023</year>
-      <mileage>
-        <value>0</value>
-        <unit>KM</unit>
-      </mileage>
-      <price>21500 SEK</price>
-      <g:price>21500 SEK</g:price>
-      <address>Varberg</address>
-      <address format="simple">
-        <component name="addr1">Varberg</component>
-        <component name="city">Varberg</component>
-        <component name="region">Halland</component>
-        <component name="country">SE</component>
-      </address>
-      <condition>EXCELLENT</condition>
-      <state_of_vehicle>NEW</state_of_vehicle>
-      <frivio:listing_type>auction</frivio:listing_type>
-      <frivio:auction_end_date>2026-07-21T17:37:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>21500 SEK</frivio:current_bid>
-      <frivio:bid_count>2</frivio:bid_count>
-      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>340 kr/mån</frivio:monthly_cost>
-      <body_style>OTHER</body_style>
-      <frivio:body_type_label>Båt</frivio:body_type_label>
-      <fuel_type>NONE</fuel_type>
-      <frivio:region>Halland</frivio:region>
-      <availability>AVAILABLE</availability>
-      <custom_label_0>Båt</custom_label_0>
-      <custom_label_1>Slutar 2026-07-21 17:37</custom_label_1>
-    </item>
-    <item>
-      <vehicle_id>657</vehicle_id>
-      <g:id>657</g:id>
-      <title>Cremo 465R</title>
-      <description>Helt ny och oanvänd Cremo 465R från 2024. Denna klassiska, robusta rorkultsbåt är känd för sin fantastiska stabilitet och rymliga golvyta. Perfekt för fiske, transporter och tunga lass i skärgården. Båten säljs utan motor, så du kan fritt välja maskin efter dina behov. En trygg, svenskdesignad kvalitetsbåt redo för sjösättning till sommarens äventyr. Årsmodell: 2024 · Typ: Båt · Ort: Varberg</description>
-      <url>https://frivio.se/auktion/657</url>
-      <g:link>https://frivio.se/auktion/657</g:link>
-      <image>
-        <url>https://backend.frivio.se/vehicle/657/a1783414009194.jpeg</url>
-        <tag>Exterior</tag>
-      </image>
-      <g:image_link>https://backend.frivio.se/vehicle/657/a1783414009194.jpeg</g:image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/657/b1783414008971.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/657/c1783414009351.jpeg</g:additional_image_link>
-      <make>Cremo</make>
-      <model>Cremo 465R</model>
-      <year>2024</year>
-      <mileage>
-        <value>0</value>
-        <unit>KM</unit>
-      </mileage>
-      <price>30500 SEK</price>
-      <g:price>30500 SEK</g:price>
-      <address>Varberg</address>
-      <address format="simple">
-        <component name="addr1">Varberg</component>
-        <component name="city">Varberg</component>
-        <component name="region">Halland</component>
-        <component name="country">SE</component>
-      </address>
-      <condition>EXCELLENT</condition>
-      <state_of_vehicle>NEW</state_of_vehicle>
-      <frivio:listing_type>auction</frivio:listing_type>
-      <frivio:auction_end_date>2026-07-21T17:43:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>30500 SEK</frivio:current_bid>
-      <frivio:bid_count>1</frivio:bid_count>
-      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>483 kr/mån</frivio:monthly_cost>
-      <body_style>OTHER</body_style>
-      <frivio:body_type_label>Båt</frivio:body_type_label>
-      <fuel_type>NONE</fuel_type>
-      <frivio:region>Halland</frivio:region>
-      <availability>AVAILABLE</availability>
-      <custom_label_0>Båt</custom_label_0>
-      <custom_label_1>Slutar 2026-07-21 17:43</custom_label_1>
-    </item>
-    <item>
-      <vehicle_id>658</vehicle_id>
-      <g:id>658</g:id>
-      <title>Cremo 470R</title>
-      <description>Demokörd Cremo 470R från 2025 säljes komplett med en kraftfull Yamaha 30hk utombordare. Denna moderna, svenskdesignade rorkultsbåt är efterföljaren till klassiska 465-modellen och bjuder på ännu bättre stabilitet, höga fribord och generös golvyta. Ekipaget är endast sparsamt körd i demosyfte, vilket ger dig en fantastisk chans till ett nästintill nytt båtpaket i utmärkt skick till ett mycket förmånligt pris. Perfekt för både fiske och skärgårdstransporter! - Utan självläns - Elektrisk länspump - Yamaha 30hk (demokörd) Årsmodell: 2025 · Typ: Båt · Ort: Varberg</description>
-      <url>https://frivio.se/auktion/658</url>
-      <g:link>https://frivio.se/auktion/658</g:link>
-      <image>
-        <url>https://backend.frivio.se/vehicle/658/a1783414182061.jpeg</url>
-        <tag>Exterior</tag>
-      </image>
-      <g:image_link>https://backend.frivio.se/vehicle/658/a1783414182061.jpeg</g:image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/658/b1783414182320.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/658/c1783414182584.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/658/d1783414182868.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/658/e1783414183230.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/658/f1783414181592.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/658/g1783414183501.jpeg</g:additional_image_link>
-      <make>Cremo</make>
-      <model>Cremo 470R</model>
-      <year>2025</year>
-      <mileage>
-        <value>0</value>
-        <unit>KM</unit>
-      </mileage>
-      <price>60500 SEK</price>
-      <g:price>60500 SEK</g:price>
-      <address>Varberg</address>
-      <address format="simple">
-        <component name="addr1">Varberg</component>
-        <component name="city">Varberg</component>
-        <component name="region">Halland</component>
-        <component name="country">SE</component>
-      </address>
-      <condition>GOOD</condition>
-      <state_of_vehicle>USED</state_of_vehicle>
-      <frivio:listing_type>auction</frivio:listing_type>
-      <frivio:auction_end_date>2026-07-21T17:50:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>60500 SEK</frivio:current_bid>
-      <frivio:bid_count>1</frivio:bid_count>
-      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>957 kr/mån</frivio:monthly_cost>
-      <body_style>OTHER</body_style>
-      <frivio:body_type_label>Båt</frivio:body_type_label>
-      <fuel_type>NONE</fuel_type>
-      <frivio:region>Halland</frivio:region>
-      <availability>AVAILABLE</availability>
-      <custom_label_0>Båt</custom_label_0>
-      <custom_label_1>Slutar 2026-07-21 17:50</custom_label_1>
-    </item>
-    <item>
-      <vehicle_id>655</vehicle_id>
-      <g:id>655</g:id>
-      <title>Cremo 490SC</title>
-      <description>Trevlig Cremo 490 SC från 2022 till salu. Denna rymliga och moderna styrpulpetsbåt är känd för sin breda för, fantastiska stabilitet och höga fribord som ger en trygg färd för hela familjen. Perfekt för både badutflykter, vattensport och fiske. En lättdriven och svenskdesignad kvalitetsbåt i gott skick, redo för nya äventyr i skärgården och på öppna vatten. - Dynor - Mjukt golv - GPS 7&quot; Årsmodell: 2022 · Typ: Båt · Ort: Varberg</description>
-      <url>https://frivio.se/auktion/655</url>
-      <g:link>https://frivio.se/auktion/655</g:link>
-      <image>
-        <url>https://backend.frivio.se/vehicle/655/a1783414409085.jpeg</url>
-        <tag>Exterior</tag>
-      </image>
-      <g:image_link>https://backend.frivio.se/vehicle/655/a1783414409085.jpeg</g:image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/655/b1783414408655.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/655/c1783414409418.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/655/d1783414409976.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/655/e1783414408224.jpeg</g:additional_image_link>
-      <make>Cremo</make>
-      <model>Cremo 490SC</model>
-      <year>2022</year>
-      <mileage>
-        <value>0</value>
-        <unit>KM</unit>
-      </mileage>
-      <price>40000 SEK</price>
-      <g:price>40000 SEK</g:price>
-      <address>Varberg</address>
-      <address format="simple">
-        <component name="addr1">Varberg</component>
-        <component name="city">Varberg</component>
-        <component name="region">Halland</component>
-        <component name="country">SE</component>
-      </address>
-      <condition>GOOD</condition>
-      <state_of_vehicle>USED</state_of_vehicle>
-      <frivio:listing_type>auction</frivio:listing_type>
-      <frivio:auction_end_date>2026-07-21T17:51:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>40000 SEK</frivio:current_bid>
-      <frivio:bid_count>1</frivio:bid_count>
-      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>633 kr/mån</frivio:monthly_cost>
-      <body_style>OTHER</body_style>
-      <frivio:body_type_label>Båt</frivio:body_type_label>
-      <fuel_type>NONE</fuel_type>
-      <frivio:region>Halland</frivio:region>
-      <availability>AVAILABLE</availability>
-      <custom_label_0>Båt</custom_label_0>
-      <custom_label_1>Slutar 2026-07-21 17:51</custom_label_1>
-    </item>
-    <item>
-      <vehicle_id>659</vehicle_id>
-      <g:id>659</g:id>
-      <title>Cremo 515SC</title>
-      <description>Cremo 515 SC från 2024. Denna rymliga och moderna styrpulpetsbåt är flaggskeppet i serien och erbjuder enastående stabilitet samt höga fribord för maximal trygghet till sjöss. Båten har en smart planlösning med generösa förvaringsutrymmen och gott om plats för hela familjen. En svenskdesignad premiumbåt i absolut toppklass, redo att utrustas för sommarens alla sköna bad- och fiskeäventyr. - Mercury rigging Årsmodell: 2024 · Typ: Båt · Ort: Varberg</description>
-      <url>https://frivio.se/auktion/659</url>
-      <g:link>https://frivio.se/auktion/659</g:link>
-      <image>
-        <url>https://backend.frivio.se/vehicle/659/a1783414572770.jpeg</url>
-        <tag>Exterior</tag>
-      </image>
-      <g:image_link>https://backend.frivio.se/vehicle/659/a1783414572770.jpeg</g:image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/659/b1783414572612.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/659/c1783414572417.jpeg</g:additional_image_link>
-      <make>Cremo</make>
-      <model>Cremo 515SC</model>
-      <year>2024</year>
-      <mileage>
-        <value>0</value>
-        <unit>KM</unit>
-      </mileage>
-      <price>35000 SEK</price>
-      <g:price>35000 SEK</g:price>
-      <address>Varberg</address>
-      <address format="simple">
-        <component name="addr1">Varberg</component>
-        <component name="city">Varberg</component>
-        <component name="region">Halland</component>
-        <component name="country">SE</component>
-      </address>
-      <condition>EXCELLENT</condition>
-      <state_of_vehicle>NEW</state_of_vehicle>
-      <frivio:listing_type>auction</frivio:listing_type>
-      <frivio:auction_end_date>2026-07-21T17:54:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>35000 SEK</frivio:current_bid>
-      <frivio:bid_count>1</frivio:bid_count>
-      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>554 kr/mån</frivio:monthly_cost>
-      <body_style>OTHER</body_style>
-      <frivio:body_type_label>Båt</frivio:body_type_label>
-      <fuel_type>NONE</fuel_type>
-      <frivio:region>Halland</frivio:region>
-      <availability>AVAILABLE</availability>
-      <custom_label_0>Båt</custom_label_0>
-      <custom_label_1>Slutar 2026-07-21 17:54</custom_label_1>
-    </item>
-    <item>
-      <vehicle_id>650</vehicle_id>
-      <g:id>650</g:id>
-      <title>Forbina 650F</title>
-      <description>Forbina 650F från 1999. En Välskött walkaround med fina uppdateringar. Stabil och lättkörd walkaround-båt som passar lika bra för fisketurer som för bekväma utflykter till sjöss. Båten är utrustad med en Volvo Penta TAMD22P (1999), sötvattenkyld, där impeller och olja är bytta 2025. Drev av modell Volvo Penta SX-MTD med nyligen bytt kona och styrgaffel, ny drevolja samt stålpropeller. Den gör cirka 25 knop i toppfart och marschar bekvämt runt 20 knop. Invändigt finns uppdaterad komfort med nya flipstolar och dynor i ruffen, som erbjuder 2-3 sovplatser. Kapellet är i gott skick. Utrustningsmässigt är båten välförsedd med Garmin 721 plotter, hydraulstyrning, dubbla batterier med avskiljare samt teak i både däck och sittbrunn. Båtkärra (30 km/h) i fint skick ingår. En mycket trevlig båt i sjön med smart walkaround-layout som ger gott om ytor på däck - perfekt för både fiske och fritid. Årsmodell: 1999 · Typ: Båt · Ort: Kungsbacka</description>
-      <url>https://frivio.se/auktion/650</url>
-      <g:link>https://frivio.se/auktion/650</g:link>
-      <image>
-        <url>https://backend.frivio.se/vehicle/650/a1783320911605.jpeg</url>
-        <tag>Exterior</tag>
-      </image>
-      <g:image_link>https://backend.frivio.se/vehicle/650/a1783320911605.jpeg</g:image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/650/b1783320910782.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/650/c1783320910970.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/650/d1783320909952.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/650/e1783320909784.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/650/f1783320909012.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/650/g1783320909170.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/650/h1783320911304.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/650/i1783320910118.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/650/j1783320909470.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/650/k1783320909326.jpeg</g:additional_image_link>
-      <make>Forbina</make>
-      <model>Forbina 650F</model>
-      <year>1999</year>
-      <mileage>
-        <value>0</value>
-        <unit>KM</unit>
-      </mileage>
-      <price>80000 SEK</price>
-      <g:price>80000 SEK</g:price>
-      <address>Kungsbacka</address>
-      <address format="simple">
-        <component name="addr1">Kungsbacka</component>
-        <component name="city">Kungsbacka</component>
-        <component name="region">Halland</component>
-        <component name="country">SE</component>
-      </address>
-      <condition>GOOD</condition>
-      <state_of_vehicle>USED</state_of_vehicle>
-      <frivio:listing_type>auction</frivio:listing_type>
-      <frivio:auction_end_date>2026-07-21T17:54:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>80000 SEK</frivio:current_bid>
-      <frivio:bid_count>0</frivio:bid_count>
-      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
-      <frivio:monthly_cost>1266 kr/mån</frivio:monthly_cost>
-      <body_style>OTHER</body_style>
-      <frivio:body_type_label>Båt</frivio:body_type_label>
-      <fuel_type>NONE</fuel_type>
-      <frivio:region>Halland</frivio:region>
-      <availability>AVAILABLE</availability>
-      <custom_label_0>Båt</custom_label_0>
-      <custom_label_1>Slutar 2026-07-21 17:54</custom_label_1>
-    </item>
-    <item>
-      <vehicle_id>661</vehicle_id>
-      <g:id>661</g:id>
-      <title>Cremo 550HT</title>
-      <description>Klassisk och rymlig Cremo 550HT från 2024 till salu. Denna välkända hardtop-modell kombinerar en smart design med högsta komfort och trygga fribord för hela familjen. Båten erbjuder en skyddad ruff med möjlighet till övernattning, smarta stuvfack och en trivsam sittbrunn. En fantastisk, svenskdesignad campingbåt i utmärkt skick, redo för sommarens alla badutflykter och mysiga skärgårdsäventyr. - GPS 7&quot; - Kapell - Dynor - Mercury-rigg Årsmodell: 2024 · Typ: Båt · Ort: Varberg</description>
-      <url>https://frivio.se/auktion/661</url>
-      <g:link>https://frivio.se/auktion/661</g:link>
-      <image>
-        <url>https://backend.frivio.se/vehicle/661/a1783414869036.jpeg</url>
-        <tag>Exterior</tag>
-      </image>
-      <g:image_link>https://backend.frivio.se/vehicle/661/a1783414869036.jpeg</g:image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/661/b1783414868463.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/661/c1783414868777.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/661/d1783414869320.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/661/e1783414870025.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/661/f1783414869594.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/661/g1783414870359.jpeg</g:additional_image_link>
-      <make>Cremo</make>
-      <model>Cremo 550HT</model>
-      <year>2024</year>
-      <mileage>
-        <value>0</value>
-        <unit>KM</unit>
-      </mileage>
-      <price>90000 SEK</price>
-      <g:price>90000 SEK</g:price>
-      <address>Varberg</address>
-      <address format="simple">
-        <component name="addr1">Varberg</component>
-        <component name="city">Varberg</component>
-        <component name="region">Halland</component>
-        <component name="country">SE</component>
-      </address>
-      <condition>EXCELLENT</condition>
-      <state_of_vehicle>NEW</state_of_vehicle>
-      <frivio:listing_type>auction</frivio:listing_type>
-      <frivio:auction_end_date>2026-07-21T17:59:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>90000 SEK</frivio:current_bid>
-      <frivio:bid_count>0</frivio:bid_count>
-      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
-      <frivio:monthly_cost>1424 kr/mån</frivio:monthly_cost>
-      <body_style>OTHER</body_style>
-      <frivio:body_type_label>Båt</frivio:body_type_label>
-      <fuel_type>NONE</fuel_type>
-      <frivio:region>Halland</frivio:region>
-      <availability>AVAILABLE</availability>
-      <custom_label_0>Båt</custom_label_0>
-      <custom_label_1>Slutar 2026-07-21 17:59</custom_label_1>
-    </item>
+    <lastBuildDate>Tue, 21 Jul 2026 19:42:29 GMT</lastBuildDate>
     <item>
       <vehicle_id>662</vehicle_id>
       <g:id>662</g:id>
@@ -1087,7 +739,7 @@
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-07-28T17:44:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
       <frivio:current_bid>22500 SEK</frivio:current_bid>
       <frivio:bid_count>0</frivio:bid_count>
       <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
@@ -1143,7 +795,7 @@
       <transmission>MANUAL</transmission>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-07-28T17:58:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
       <frivio:current_bid>180000 SEK</frivio:current_bid>
       <frivio:bid_count>1</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
@@ -2012,8 +1664,8 @@
         <value>0</value>
         <unit>KM</unit>
       </mileage>
-      <price>85000 SEK</price>
-      <g:price>85000 SEK</g:price>
+      <price>86000 SEK</price>
+      <g:price>86000 SEK</g:price>
       <address>Gävle</address>
       <address format="simple">
         <component name="addr1">Gävle</component>
@@ -2026,10 +1678,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-08-10T17:35:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>85000 SEK</frivio:current_bid>
-      <frivio:bid_count>0</frivio:bid_count>
-      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
-      <frivio:monthly_cost>1345 kr/mån</frivio:monthly_cost>
+      <frivio:current_bid>86000 SEK</frivio:current_bid>
+      <frivio:bid_count>1</frivio:bid_count>
+      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
+      <frivio:monthly_cost>1361 kr/mån</frivio:monthly_cost>
       <body_style>OTHER</body_style>
       <frivio:body_type_label>Båt</frivio:body_type_label>
       <fuel_type>NONE</fuel_type>
