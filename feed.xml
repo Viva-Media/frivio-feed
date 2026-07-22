@@ -4,7 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Wed, 22 Jul 2026 06:36:53 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 09:32:13 GMT</lastBuildDate>
     <item>
       <vehicle_id>662</vehicle_id>
       <g:id>662</g:id>
@@ -1286,6 +1286,55 @@
       <custom_label_1>Slutar 2026-08-03 17:00</custom_label_1>
     </item>
     <item>
+      <vehicle_id>696</vehicle_id>
+      <g:id>696</g:id>
+      <title>Ryds Camping 570</title>
+      <description>Letar du efter en rymlig och lättkörd klassiker? Denna Ryds Camping 570 från 1979 erbjuder en skyddad hytt, generöst sittutrymme och goda möjligheter till både dagsutflykter och övernattning. Utrustad med en Mercury 60 hk utombordare som ger bra prestanda och en trevlig körupplevelse. En uppskattad modell som passar lika bra för fiske som familjeturer på sjön. - Mercury 60hk EFI drifttid 141h - Service gjord varje höst i samband med upptagning - Kapell - 30km/h båtvagn ingår Årsmodell: 1979 · Typ: Båt · Ort: Västerås</description>
+      <url>https://frivio.se/auktion/696</url>
+      <g:link>https://frivio.se/auktion/696</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/696/a1784711814128.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/696/a1784711814128.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/696/b1784711814255.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/696/c1784711814366.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/696/d1784711813932.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/696/e1784711814514.jpeg</g:additional_image_link>
+      <make>Ryds</make>
+      <model>Ryds Camping 570</model>
+      <year>1979</year>
+      <mileage>
+        <value>0</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>25000 SEK</price>
+      <g:price>25000 SEK</g:price>
+      <address>Västerås</address>
+      <address format="simple">
+        <component name="addr1">Västerås</component>
+        <component name="city">Västerås</component>
+        <component name="region">Västmanland</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <frivio:listing_type>auction</frivio:listing_type>
+      <frivio:auction_end_date>2026-08-05T17:16:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>25000 SEK</frivio:current_bid>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
+      <frivio:monthly_cost>396 kr/mån</frivio:monthly_cost>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Båt</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
+      <frivio:region>Västmanland</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Båt</custom_label_0>
+      <custom_label_1>Slutar 2026-08-05 17:16</custom_label_1>
+    </item>
+    <item>
       <vehicle_id>687</vehicle_id>
       <g:id>687</g:id>
       <title>Albin Wiggen</title>
@@ -1617,8 +1666,8 @@
         <value>65000</value>
         <unit>KM</unit>
       </mileage>
-      <price>130000 SEK</price>
-      <g:price>130000 SEK</g:price>
+      <price>131000 SEK</price>
+      <g:price>131000 SEK</g:price>
       <address>Varberg</address>
       <address format="simple">
         <component name="addr1">Varberg</component>
@@ -1632,10 +1681,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-08-10T17:07:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>130000 SEK</frivio:current_bid>
-      <frivio:bid_count>1</frivio:bid_count>
+      <frivio:current_bid>131000 SEK</frivio:current_bid>
+      <frivio:bid_count>2</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>2057 kr/mån</frivio:monthly_cost>
+      <frivio:monthly_cost>2073 kr/mån</frivio:monthly_cost>
       <body_style>VAN</body_style>
       <frivio:body_type_label>Husbil</frivio:body_type_label>
       <fuel_type>DIESEL</fuel_type>
@@ -1852,6 +1901,61 @@
       <availability>AVAILABLE</availability>
       <custom_label_0>Husvagn</custom_label_0>
       <custom_label_1>Slutar 2026-08-11 17:51</custom_label_1>
+    </item>
+    <item>
+      <vehicle_id>695</vehicle_id>
+      <g:id>695</g:id>
+      <title>Forbina 650F</title>
+      <description>Forbina 650F från 1999. En Välskött walkaround med fina uppdateringar. Stabil och lättkörd walkaround-båt som passar lika bra för fisketurer som för bekväma utflykter till sjöss. Båten är utrustad med en Volvo Penta TAMD22P (1999), sötvattenkyld, där impeller och olja är bytta 2025. Drev av modell Volvo Penta SX-MTD med nyligen bytt kona och styrgaffel, ny drevolja samt stålpropeller. Den gör cirka 25 knop i toppfart och marschar bekvämt runt 20 knop. Invändigt finns uppdaterad komfort med nya flipstolar och dynor i ruffen, som erbjuder 2-3 sovplatser. Kapellet är i gott skick. Utrustningsmässigt är båten välförsedd med Garmin 721 plotter, hydraulstyrning, dubbla batterier med avskiljare samt teak i både däck och sittbrunn. Båtkärra (30 km/h) i fint skick ingår. En mycket trevlig båt i sjön med smart walkaround-layout som ger gott om ytor på däck - perfekt för både fiske och fritid. Årsmodell: 1999 · Typ: Båt · Ort: Kungsbacka</description>
+      <url>https://frivio.se/auktion/695</url>
+      <g:link>https://frivio.se/auktion/695</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/695/a1784711604920.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/695/a1784711604920.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/695/b1784711603892.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/695/c1784711603727.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/695/d1784711603404.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/695/e1784711602874.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/695/f1784711602259.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/695/g1784711602428.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/695/h1784711604055.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/695/i1784711603226.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/695/j1784711602712.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/695/k1784711602567.jpeg</g:additional_image_link>
+      <make>Forbina</make>
+      <model>Forbina 650F</model>
+      <year>1999</year>
+      <mileage>
+        <value>0</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>80000 SEK</price>
+      <g:price>80000 SEK</g:price>
+      <address>Kungsbacka</address>
+      <address format="simple">
+        <component name="addr1">Kungsbacka</component>
+        <component name="city">Kungsbacka</component>
+        <component name="region">Halland</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <frivio:listing_type>auction</frivio:listing_type>
+      <frivio:auction_end_date>2026-08-12T17:12:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>80000 SEK</frivio:current_bid>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
+      <frivio:monthly_cost>1266 kr/mån</frivio:monthly_cost>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Båt</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
+      <frivio:region>Halland</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Båt</custom_label_0>
+      <custom_label_1>Slutar 2026-08-12 17:12</custom_label_1>
     </item>
   </channel>
 </rss>
