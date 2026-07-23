@@ -4,7 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Thu, 23 Jul 2026 07:38:35 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 10:31:10 GMT</lastBuildDate>
     <item>
       <vehicle_id>647</vehicle_id>
       <g:id>647</g:id>
@@ -88,8 +88,8 @@
         <value>0</value>
         <unit>KM</unit>
       </mileage>
-      <price>120000 SEK</price>
-      <g:price>120000 SEK</g:price>
+      <price>122000 SEK</price>
+      <g:price>122000 SEK</g:price>
       <address>Östersund</address>
       <address format="simple">
         <component name="addr1">Östersund</component>
@@ -102,10 +102,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-07-23T17:52:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>120000 SEK</frivio:current_bid>
-      <frivio:bid_count>13</frivio:bid_count>
+      <frivio:current_bid>122000 SEK</frivio:current_bid>
+      <frivio:bid_count>14</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>1899 kr/mån</frivio:monthly_cost>
+      <frivio:monthly_cost>1930 kr/mån</frivio:monthly_cost>
       <body_style>OTHER</body_style>
       <frivio:body_type_label>Husvagn</frivio:body_type_label>
       <fuel_type>NONE</fuel_type>
@@ -1588,6 +1588,61 @@
       <availability>AVAILABLE</availability>
       <custom_label_0>Husvagn</custom_label_0>
       <custom_label_1>Slutar 2026-08-11 17:20</custom_label_1>
+    </item>
+    <item>
+      <vehicle_id>699</vehicle_id>
+      <g:id>699</g:id>
+      <title>Hobby 440SFE DE LUXE</title>
+      <description>Hobby 440 SFE De Luxe 1999 i gott bruksskick säljes. Vagnen har under senare år främst använts som extrastuga vid sommarstugan och erbjuder en trivsam planlösning med franskbädd, sittgrupp, kök samt toalett. Välvårdad interiör med gott om förvaring och ett ljust, trevligt intryck. Perfekt som semesterboende, gäststuga eller för den som söker en prisvärd husvagn med många år kvar att ge. - Levereras nybesiktad och gasoltestad Årsmodell: 1999 · Typ: Husvagn · Ort: Borgholm</description>
+      <url>https://frivio.se/auktion/699</url>
+      <g:link>https://frivio.se/auktion/699</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/699/a1784731577402.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/699/a1784731577402.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/699/b1784731578099.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/699/c1784731577570.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/699/d1784731578909.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/699/e1784731578226.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/699/f1784731578740.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/699/g1784731578476.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/699/h1784731577243.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/699/i1784731577820.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/699/j1784731577967.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/699/k1784731578607.jpeg</g:additional_image_link>
+      <make>Hobby</make>
+      <model>440SFE DE LUXE</model>
+      <year>1999</year>
+      <mileage>
+        <value>0</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>30000 SEK</price>
+      <g:price>30000 SEK</g:price>
+      <address>Borgholm</address>
+      <address format="simple">
+        <component name="addr1">Borgholm</component>
+        <component name="city">Borgholm</component>
+        <component name="region">Kalmar</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <frivio:listing_type>auction</frivio:listing_type>
+      <frivio:auction_end_date>2026-08-11T17:44:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>30000 SEK</frivio:current_bid>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
+      <frivio:monthly_cost>475 kr/mån</frivio:monthly_cost>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Husvagn</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
+      <frivio:region>Kalmar</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Husvagn</custom_label_0>
+      <custom_label_1>Slutar 2026-08-11 17:44</custom_label_1>
     </item>
     <item>
       <vehicle_id>690</vehicle_id>
