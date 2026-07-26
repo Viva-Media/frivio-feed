@@ -4,7 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Sun, 26 Jul 2026 19:21:54 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 21:04:45 GMT</lastBuildDate>
     <item>
       <vehicle_id>676</vehicle_id>
       <g:id>676</g:id>
@@ -680,8 +680,8 @@
         <value>0</value>
         <unit>KM</unit>
       </mileage>
-      <price>101000 SEK</price>
-      <g:price>101000 SEK</g:price>
+      <price>105000 SEK</price>
+      <g:price>105000 SEK</g:price>
       <address>Kungälv</address>
       <address format="simple">
         <component name="addr1">Kungälv</component>
@@ -694,10 +694,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-07-30T17:23:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>101000 SEK</frivio:current_bid>
-      <frivio:bid_count>1</frivio:bid_count>
+      <frivio:current_bid>105000 SEK</frivio:current_bid>
+      <frivio:bid_count>2</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>1598 kr/mån</frivio:monthly_cost>
+      <frivio:monthly_cost>1661 kr/mån</frivio:monthly_cost>
       <body_style>OTHER</body_style>
       <frivio:body_type_label>Husvagn</frivio:body_type_label>
       <fuel_type>NONE</fuel_type>
