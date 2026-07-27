@@ -4,7 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Mon, 27 Jul 2026 11:32:57 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 14:52:51 GMT</lastBuildDate>
     <item>
       <vehicle_id>676</vehicle_id>
       <g:id>676</g:id>
@@ -467,8 +467,8 @@
         <value>70000</value>
         <unit>KM</unit>
       </mileage>
-      <price>410000 SEK</price>
-      <g:price>410000 SEK</g:price>
+      <price>420000 SEK</price>
+      <g:price>420000 SEK</g:price>
       <address>Trollhättan</address>
       <address format="simple">
         <component name="addr1">Trollhättan</component>
@@ -482,10 +482,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-07-29T17:30:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>410000 SEK</frivio:current_bid>
-      <frivio:bid_count>4</frivio:bid_count>
+      <frivio:current_bid>420000 SEK</frivio:current_bid>
+      <frivio:bid_count>5</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>6487 kr/mån</frivio:monthly_cost>
+      <frivio:monthly_cost>6645 kr/mån</frivio:monthly_cost>
       <body_style>VAN</body_style>
       <frivio:body_type_label>Husbil</frivio:body_type_label>
       <fuel_type>DIESEL</fuel_type>
@@ -1693,6 +1693,116 @@
       <availability>AVAILABLE</availability>
       <custom_label_0>Båt</custom_label_0>
       <custom_label_1>Slutar 2026-08-12 17:12</custom_label_1>
+    </item>
+    <item>
+      <vehicle_id>701</vehicle_id>
+      <g:id>701</g:id>
+      <title>Comfort 30</title>
+      <description>Välunderhållen Comfort 30 från 1977 i mycket gott skick efter 15 år hos samma ägare. Båten är rolig att segla och hanteras enkelt själv då alla fall är dragna till den stora sittbrunnen. Utrustad med rullfock, många segel i toppskick, Volvo Penta 18hk, autopilot, GPS-plotter för Östersjön, kylbox och 5 kojer. Det härliga sittbrunnskapellet förlänger kvällarna. En komplett, seglingsklar klassiker. Det medföljer två pärmar med foton, kompletta instruktioner för motorn med alla detaljer från packningar till allt annat. Sjösättning går att ordna vid köp! Utrustningslista – S/Y Celeste Allmänt - Skrovfärg gul - Däck och överbyggnad i offwhite - Invändigt mycket ädelträ - Välutrustad, välvårdad och i mycket gott skick Motor - Volvo Penta MD 2002, 18 hk - TWC laddningsregulator - Backslag - Rak axel - Tvåbladig Gori foldingpropeller (monterad 1991) - Trebladig propeller monterad 2015 Rigg - Benn&apos;s enkelspridarrigg och bom - Roddkick (1994) - Rullgenua Hood 705 (1997) - Akterstagssträckare med trapetsgänga (1989). - Alla fall och rev neddragna till sittbrunn. Lazy Jacks (2005) Segel - Storsegel UK Syversen, Dacron Crosscut (2003) - Rullgenua UK Syversen, 150 % Sandwichmylar Triradial (2003) - Kryssfock Boding, Dacron Crosscut (1977) - Spinnakerutrustad (segel från Linjett 30) - Bomkapell från Saltsjöbadssegel (1997) - Rullfockskapell Winchar m.m. - 2 st tvåväxlade Barlow spinnakerwinchar (motsvarande Lewmar 24) - 2 st Andersen 40 self-tailing skotwinchar (1993) - 2 st tvåväxlade Lewmar 24 på rufftaket (1988) - Avlastare för 10 tampar på rufftaket (delvis 2005) - All trim och segelsättning kan skötas från sittbrunnen Instrument &amp; elektronik - Kompass Silva 1000 (1988, renoverad 2001) - Autopilot Autohelm 1000 (1990) - 2 st voltmetrar - VHF Shipmate RS 8100 (1989) - GPS-plotter Raymarine C65 med sjökort Östersjön (2008) - Silva Nexus: - Server. - 2 st multiinstrument - Analogt vindinstrument - Givare för logg och vind (2002) - Clarion DRX 5575 radio/CD med två högtalare i kajutan - 2 × 25 W Naps solceller med Maxpower-regulator (2005) 50 W solcell med regulator (2023) Nya batterier (2023) Pentry - Tvålågigt ENO gaskök med gasolflaska på akterdäck och fjärrmanövrerad avstängningsventil (installerat 2004) - Kylbox Isotherm 3000 (1989) - Tryckvatten för sjö- och färskvatten (1989) - Vattentank 65 liter med påfyllning på fördäck - Rostfri diskho - Integrerad sophink Inredning - Toalett med rostfri septiktank (2007) - Nya bottenventiler (2000) - Nya dynor i förpiken (2005) - Alla dynor omklädda (2005) - Invändigt tak och väggytor (ej ädelträ) omklädda (2005) - Ädelträklädda bordläggningsytor i förpik renoverade (2005) - Eberspächer DL värmare 2000 W med två utblås (renoverad 2003) - Skeppsur och barometer i mässing - 6 st läslampor samt takbelysning - Fotogenlampa i mässing i rufftaket Övrigt - Badplattform med teleskopstege monterad på akterspegeln (2004) - Sprayhood (2004) Nya rutor 2023 - Nya rutor i sprayhood (2023) - Sittbrunnstält (2004) - Nedgångskapell (2003) - Mantågsgardiner (2002) - Stävstege - Teakytor i sittbrunn renoverade (2003) - Byte/renovering av propelleraxelgenomföring/tätning (2004) - Manuell och elektrisk länspump - Vridbart bord för sittbrunnen - Stukankare med Ankarolina - Förtöjningsgods och fendrar - Botten nedslipad och behandlad med 5 lager VC-Tar (1993) Årsmodell: 1977 · Typ: Båt · Ort: Hudiksvall</description>
+      <url>https://frivio.se/auktion/701</url>
+      <g:link>https://frivio.se/auktion/701</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/701/a1785141380986.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/701/a1785141380986.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/701/b1785141381154.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/701/c1785141381274.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/701/d1785141381388.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/701/e1785141381499.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/701/f1785141381623.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/701/g1785141381853.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/701/h1785141381743.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/701/i1785141382086.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/701/j1785141381967.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/701/k1785141382199.jpeg</g:additional_image_link>
+      <make>Comfort</make>
+      <model>Comfort 30</model>
+      <year>1977</year>
+      <mileage>
+        <value>0</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>50000 SEK</price>
+      <g:price>50000 SEK</g:price>
+      <address>Hudiksvall</address>
+      <address format="simple">
+        <component name="addr1">Hudiksvall</component>
+        <component name="city">Hudiksvall</component>
+        <component name="region">Gävleborg</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <frivio:listing_type>auction</frivio:listing_type>
+      <frivio:auction_end_date>2026-08-12T17:17:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>50000 SEK</frivio:current_bid>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
+      <frivio:monthly_cost>791 kr/mån</frivio:monthly_cost>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Båt</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
+      <frivio:region>Gävleborg</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Båt</custom_label_0>
+      <custom_label_1>Slutar 2026-08-12 17:17</custom_label_1>
+    </item>
+    <item>
+      <vehicle_id>703</vehicle_id>
+      <g:id>703</g:id>
+      <title>Hobby 650 KMFE Exclusive</title>
+      <description>Rymlig och välvårdad Hobby 650 KMFE Exclusive från 2005. Den perfekta familjevagnen. Denna barnkammarevagn rymmer hela familjen tack vare den smarta planlösningen med fasta våningssängar, en rymlig dubbelsäng och en stor, bäddbar soffgrupp. Exclusive-paketet ger extra hög komfort och en ombonad känsla under semestern. Vagnen är rymlig, stabil att dra och bjuder på fantastiska förvaringsutrymmen. Vinterförvarad och redo för nya campingäventyr. - Besiktad till 2028-06-30 - Nya däck - Stänkskydd - Gasoltestad - Nya dekaler - Ny tv-antenn - Ny kökskran - USB-uttag i vagnen - Solceller 100w - Viss ledbelysning både inne och ute - Ventura förtält 3-meter med lättviktspinnar - Markisen medföljer ej Årsmodell: 2005 · Typ: Husvagn · Ort: Vara</description>
+      <url>https://frivio.se/auktion/703</url>
+      <g:link>https://frivio.se/auktion/703</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/703/a1785144803793.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/703/a1785144803793.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/703/b1785144804872.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/703/c1785144803172.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/703/d1785144803937.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/703/e1785144803344.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/703/f1785144805046.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/703/g1785144803655.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/703/h1785144804398.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/703/i1785144804101.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/703/j1785144803522.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/703/k1785144805207.jpeg</g:additional_image_link>
+      <make>Hobby</make>
+      <model>650 KMFE Exclusive</model>
+      <year>2005</year>
+      <mileage>
+        <value>0</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>55000 SEK</price>
+      <g:price>55000 SEK</g:price>
+      <address>Vara</address>
+      <address format="simple">
+        <component name="addr1">Vara</component>
+        <component name="city">Vara</component>
+        <component name="region">Västra Götaland</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <frivio:listing_type>auction</frivio:listing_type>
+      <frivio:auction_end_date>2026-08-12T17:29:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>55000 SEK</frivio:current_bid>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
+      <frivio:monthly_cost>870 kr/mån</frivio:monthly_cost>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Husvagn</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
+      <frivio:region>Västra Götaland</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Husvagn</custom_label_0>
+      <custom_label_1>Slutar 2026-08-12 17:29</custom_label_1>
     </item>
     <item>
       <vehicle_id>702</vehicle_id>
