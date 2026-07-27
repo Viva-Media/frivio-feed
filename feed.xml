@@ -4,7 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Mon, 27 Jul 2026 07:40:27 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 11:32:57 GMT</lastBuildDate>
     <item>
       <vehicle_id>676</vehicle_id>
       <g:id>676</g:id>
@@ -138,8 +138,8 @@
         <value>0</value>
         <unit>KM</unit>
       </mileage>
-      <price>127000 SEK</price>
-      <g:price>127000 SEK</g:price>
+      <price>129000 SEK</price>
+      <g:price>129000 SEK</g:price>
       <address>Göteborg</address>
       <address format="simple">
         <component name="addr1">Göteborg</component>
@@ -152,10 +152,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-07-27T17:22:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>127000 SEK</frivio:current_bid>
-      <frivio:bid_count>2</frivio:bid_count>
+      <frivio:current_bid>129000 SEK</frivio:current_bid>
+      <frivio:bid_count>4</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>2009 kr/mån</frivio:monthly_cost>
+      <frivio:monthly_cost>2041 kr/mån</frivio:monthly_cost>
       <body_style>OTHER</body_style>
       <frivio:body_type_label>Båt</frivio:body_type_label>
       <fuel_type>NONE</fuel_type>
@@ -249,8 +249,8 @@
         <value>0</value>
         <unit>KM</unit>
       </mileage>
-      <price>100000 SEK</price>
-      <g:price>100000 SEK</g:price>
+      <price>105000 SEK</price>
+      <g:price>105000 SEK</g:price>
       <address>Stockholm</address>
       <address format="simple">
         <component name="addr1">Stockholm</component>
@@ -263,10 +263,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-07-28T17:36:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>100000 SEK</frivio:current_bid>
-      <frivio:bid_count>0</frivio:bid_count>
-      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
-      <frivio:monthly_cost>1582 kr/mån</frivio:monthly_cost>
+      <frivio:current_bid>105000 SEK</frivio:current_bid>
+      <frivio:bid_count>1</frivio:bid_count>
+      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
+      <frivio:monthly_cost>1661 kr/mån</frivio:monthly_cost>
       <body_style>OTHER</body_style>
       <frivio:body_type_label>Båt</frivio:body_type_label>
       <fuel_type>NONE</fuel_type>
@@ -334,7 +334,7 @@
       <vehicle_id>680</vehicle_id>
       <g:id>680</g:id>
       <title>Adria Coral A655 SP</title>
-      <description>Rymlig och pålitlig husbil med endast 9 300 mil på mätaren. Perfekt planlösning för familjen med en praktisk taksäng som sparar golvyta. Husbilen är i gott fungerande skick. Framstolarna har ett visst kosmetiskt slitage, men erbjuder fortfarande full god komfort och funktion under färd. Mycket bil för pengarna. - Kamrem bytt 2023 - Farthållare - Året-runt däck - Pilotstolar - Stort garage - Nytt elblock - Besiktad till 2027-09-30 - Förarstol samt passagerarstol är lite slitna i tyget, men bibehåller ändå en bra funktion Årsmodell: 2006 · Typ: Husbil · Drivmedel: Diesel · Växellåda: Manuell · Mätarställning: 9 300 mil · Ort: Uppsala</description>
+      <description>Rymlig och pålitlig husbil med endast 9 300 mil på mätaren. Perfekt planlösning för familjen med en praktisk taksäng som sparar golvyta. Husbilen är i gott fungerande skick. Framstolarna har ett visst kosmetiskt slitage, men erbjuder fortfarande full god komfort och funktion under färd. Mycket bil för pengarna. - Fukt och gasoltest utfört 2025 UA - Kamrem bytt 2023 - Farthållare - Året-runt däck - Pilotstolar - Stort garage - Nytt elblock - Besiktad till 2027-09-30 - Förarstol samt passagerarstol är lite slitna i tyget, men bibehåller ändå en bra funktion Årsmodell: 2006 · Typ: Husbil · Drivmedel: Diesel · Växellåda: Manuell · Mätarställning: 9 300 mil · Ort: Uppsala</description>
       <url>https://frivio.se/auktion/680</url>
       <g:link>https://frivio.se/auktion/680</g:link>
       <image>
@@ -1352,8 +1352,8 @@
         <value>65000</value>
         <unit>KM</unit>
       </mileage>
-      <price>133000 SEK</price>
-      <g:price>133000 SEK</g:price>
+      <price>135000 SEK</price>
+      <g:price>135000 SEK</g:price>
       <address>Varberg</address>
       <address format="simple">
         <component name="addr1">Varberg</component>
@@ -1367,10 +1367,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-08-10T17:07:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>133000 SEK</frivio:current_bid>
-      <frivio:bid_count>4</frivio:bid_count>
+      <frivio:current_bid>135000 SEK</frivio:current_bid>
+      <frivio:bid_count>5</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>2104 kr/mån</frivio:monthly_cost>
+      <frivio:monthly_cost>2136 kr/mån</frivio:monthly_cost>
       <body_style>VAN</body_style>
       <frivio:body_type_label>Husbil</frivio:body_type_label>
       <fuel_type>DIESEL</fuel_type>
@@ -1424,6 +1424,55 @@
       <availability>AVAILABLE</availability>
       <custom_label_0>Båt</custom_label_0>
       <custom_label_1>Slutar 2026-08-10 17:35</custom_label_1>
+    </item>
+    <item>
+      <vehicle_id>700</vehicle_id>
+      <g:id>700</g:id>
+      <title>Micore 65CC</title>
+      <description>Nyttja chansen att äga en Micore 65cc från 2025 i näst intill nyskick. Denna mångsidiga mittsty pulpetsbåt har endast körts 10 timmar och upplevs som helt ny. Den erbjuder en trygg stabilitet och gott om plats för upp till 6 personer. Perfekt för både dagsturer och vattensport. En fantastisk chans till ett problemfritt båtägande. - Nypris 580 000 - Cirka 10 motortimmar - Yamaha V-MAX 150hk - Garmin GPS 9&quot; - Zipwake - Stereo - Ankarspel med fjärrkontroll - Svart gummimatta i hela båten - Badbrygga med badstege - Sportstolar - TK-trailer 30km/h ingår Årsmodell: 2025 · Typ: Båt · Ort: Orust</description>
+      <url>https://frivio.se/auktion/700</url>
+      <g:link>https://frivio.se/auktion/700</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/700/a1785139831882.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/700/a1785139831882.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/700/b1785139832079.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/700/c1785139832269.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/700/d1785139832431.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/700/e1785139832576.jpeg</g:additional_image_link>
+      <make>Micore</make>
+      <model>Micore 65CC</model>
+      <year>2025</year>
+      <mileage>
+        <value>0</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>240000 SEK</price>
+      <g:price>240000 SEK</g:price>
+      <address>Orust</address>
+      <address format="simple">
+        <component name="addr1">Orust</component>
+        <component name="city">Orust</component>
+        <component name="region">Västra Götaland</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <frivio:listing_type>auction</frivio:listing_type>
+      <frivio:auction_end_date>2026-08-11T17:08:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>240000 SEK</frivio:current_bid>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
+      <frivio:monthly_cost>3797 kr/mån</frivio:monthly_cost>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Båt</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
+      <frivio:region>Västra Götaland</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Båt</custom_label_0>
+      <custom_label_1>Slutar 2026-08-11 17:08</custom_label_1>
     </item>
     <item>
       <vehicle_id>691</vehicle_id>
@@ -1644,6 +1693,55 @@
       <availability>AVAILABLE</availability>
       <custom_label_0>Båt</custom_label_0>
       <custom_label_1>Slutar 2026-08-12 17:12</custom_label_1>
+    </item>
+    <item>
+      <vehicle_id>702</vehicle_id>
+      <g:id>702</g:id>
+      <title>Sahla 495</title>
+      <description>Välvårdad Sahla 495 - perfekt för dagsutflykter och fiske. Båten är i fint skick och rymmer upp till fem personer. Modellen är en trygg klassiker från 2001, men detta exemplar levereras med en modern och driftsäker Honda motor från 2025 för ett helt bekymmersfritt båtliv. Tack vare sin låga vikt är den dessutom mycket lätt att traila. En stabil, pålitlig och redo styrpulpetbåt för sommarens alla äventyr. - Honda Motor 50hk från 2025 med endast 5h drift - Hydraulisk styrning från 2025 - Gasreglage och ratt från 2025 Årsmodell: 2001 · Typ: Båt · Ort: Lysekil</description>
+      <url>https://frivio.se/auktion/702</url>
+      <g:link>https://frivio.se/auktion/702</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/702/a1785142754099.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/702/a1785142754099.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/702/b1785142754280.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/702/c1785142754413.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/702/d1785142754542.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/702/e1785142754669.jpeg</g:additional_image_link>
+      <make>Sahla</make>
+      <model>Sahla 495</model>
+      <year>2001</year>
+      <mileage>
+        <value>0</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>60000 SEK</price>
+      <g:price>60000 SEK</g:price>
+      <address>Lysekil</address>
+      <address format="simple">
+        <component name="addr1">Lysekil</component>
+        <component name="city">Lysekil</component>
+        <component name="region">Västra Götaland</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <frivio:listing_type>auction</frivio:listing_type>
+      <frivio:auction_end_date>2026-08-12T17:57:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>60000 SEK</frivio:current_bid>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
+      <frivio:monthly_cost>949 kr/mån</frivio:monthly_cost>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Båt</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
+      <frivio:region>Västra Götaland</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Båt</custom_label_0>
+      <custom_label_1>Slutar 2026-08-12 17:57</custom_label_1>
     </item>
   </channel>
 </rss>
