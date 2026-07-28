@@ -4,173 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Tue, 28 Jul 2026 17:41:22 GMT</lastBuildDate>
-    <item>
-      <vehicle_id>679</vehicle_id>
-      <g:id>679</g:id>
-      <title>Flipper 450 HT</title>
-      <description>Klassisk Flipper 450 HT från 1975. Stabil, säker och charmig familjebåt. Denna välvårdade båt är perfekt för dagsutflykter och badresor. Lättkörd, rymlig för sin storlek och bjuder på gott vindskydd tack vare HT-taket. Båten är välhållen, redo för nya äventyr på sjön. - Ny impeller - Ny drevolja - Ny hydralolja - Nytt kapell - Fina dynor - Garmin 276C Plotter - Stereo - Förtöjning - Fendrar - Dragg - Paddel - 30km/h båtvagn Årsmodell: 1975 · Typ: Båt · Ort: Västervik</description>
-      <url>https://frivio.se/auktion/679</url>
-      <g:link>https://frivio.se/auktion/679</g:link>
-      <image>
-        <url>https://backend.frivio.se/vehicle/679/a1783928880745.jpeg</url>
-        <tag>Exterior</tag>
-      </image>
-      <g:image_link>https://backend.frivio.se/vehicle/679/a1783928880745.jpeg</g:image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/679/b1783928880984.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/679/c1783928881142.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/679/d1783928881900.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/679/e1783928881298.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/679/f1783928881464.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/679/g1783928881745.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/679/h1783928881609.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/679/i1783928882076.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/679/j1783928882357.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/679/k1783928882226.jpeg</g:additional_image_link>
-      <make>Flipper</make>
-      <model>Flipper 450 HT</model>
-      <year>1975</year>
-      <mileage>
-        <value>0</value>
-        <unit>KM</unit>
-      </mileage>
-      <price>22500 SEK</price>
-      <g:price>22500 SEK</g:price>
-      <address>Västervik</address>
-      <address format="simple">
-        <component name="addr1">Västervik</component>
-        <component name="city">Västervik</component>
-        <component name="region">Kalmar</component>
-        <component name="country">SE</component>
-      </address>
-      <condition>GOOD</condition>
-      <state_of_vehicle>USED</state_of_vehicle>
-      <frivio:listing_type>auction</frivio:listing_type>
-      <frivio:auction_end_date>2026-07-28T17:44:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>22500 SEK</frivio:current_bid>
-      <frivio:bid_count>0</frivio:bid_count>
-      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
-      <frivio:monthly_cost>356 kr/mån</frivio:monthly_cost>
-      <body_style>OTHER</body_style>
-      <frivio:body_type_label>Båt</frivio:body_type_label>
-      <fuel_type>NONE</fuel_type>
-      <frivio:region>Kalmar</frivio:region>
-      <availability>AVAILABLE</availability>
-      <custom_label_0>Båt</custom_label_0>
-      <custom_label_1>Slutar 2026-07-28 17:44</custom_label_1>
-    </item>
-    <item>
-      <vehicle_id>669</vehicle_id>
-      <g:id>669</g:id>
-      <title>Bayliner 265 Ciera</title>
-      <description>Denna populära familjecruiser erbjuder fantastiska innerutrymmen, midkabin och fullutrustat pentry för bekväma övernattningar. I motorrummet sitter en kraftfull och driftsäker MerCruiser 5.7 MPI V8 bensinmotor som ger härlig körglädje och trygg gång i sjön. Båten är i mycket fint skick och redo för omgående leverans till nya ägare. En perfekt kombination av komfort, prestanda och smart planering. - Nuvarande ägare har haft den i cirka 1,5år och har servat 2 gånger under denna tid - MerCruiser 5.7 MPI V8 Bensin - Bogpropeller - Elektriskt ankarspel i fören - Dusch på akterbrygga - Toalett med duschutrymme - Ingen trailer medföljer - Kapell medföljer med nya fönster - Raymarine Axiom 9 Kartplotter/GPS - Båten är godkänd för 10 personer eller max 850kg Årsmodell: 2004 · Typ: Båt · Ort: Stockholm</description>
-      <url>https://frivio.se/auktion/669</url>
-      <g:link>https://frivio.se/auktion/669</g:link>
-      <image>
-        <url>https://backend.frivio.se/vehicle/669/a1783500088558.jpeg</url>
-        <tag>Exterior</tag>
-      </image>
-      <g:image_link>https://backend.frivio.se/vehicle/669/a1783500088558.jpeg</g:image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/669/b1783500088735.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/669/c1783500088883.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/669/d1783500089026.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/669/e1783500089159.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/669/f1783500089539.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/669/g1783500089300.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/669/h1783500089886.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/669/i1783500089679.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/669/j1783500090018.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/669/k1783930404966.jpeg</g:additional_image_link>
-      <make>Bayliner</make>
-      <model>Bayliner 265 Ciera</model>
-      <year>2004</year>
-      <mileage>
-        <value>0</value>
-        <unit>KM</unit>
-      </mileage>
-      <price>127000 SEK</price>
-      <g:price>127000 SEK</g:price>
-      <address>Stockholm</address>
-      <address format="simple">
-        <component name="addr1">Stockholm</component>
-        <component name="city">Stockholm</component>
-        <component name="region">Stockholm</component>
-        <component name="country">SE</component>
-      </address>
-      <condition>GOOD</condition>
-      <state_of_vehicle>USED</state_of_vehicle>
-      <frivio:listing_type>auction</frivio:listing_type>
-      <frivio:auction_end_date>2026-07-28T17:45:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>127000 SEK</frivio:current_bid>
-      <frivio:bid_count>17</frivio:bid_count>
-      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>2009 kr/mån</frivio:monthly_cost>
-      <body_style>OTHER</body_style>
-      <frivio:body_type_label>Båt</frivio:body_type_label>
-      <fuel_type>NONE</fuel_type>
-      <frivio:region>Stockholm</frivio:region>
-      <availability>AVAILABLE</availability>
-      <custom_label_0>Båt</custom_label_0>
-      <custom_label_1>Slutar 2026-07-28 17:45</custom_label_1>
-    </item>
-    <item>
-      <vehicle_id>680</vehicle_id>
-      <g:id>680</g:id>
-      <title>Adria Coral A655 SP</title>
-      <description>Rymlig och pålitlig husbil med endast 9 300 mil på mätaren. Perfekt planlösning för familjen med en praktisk taksäng som sparar golvyta. Husbilen är i gott fungerande skick. Framstolarna har ett visst kosmetiskt slitage, men erbjuder fortfarande full god komfort och funktion under färd. Mycket bil för pengarna. - Fukt och gasoltest utfört 2025 UA - Kamrem bytt 2023 - Farthållare - Året-runt däck - Pilotstolar - Stort garage - Nytt elblock - Besiktad till 2027-09-30 - Förarstol samt passagerarstol är lite slitna i tyget, men bibehåller ändå en bra funktion Årsmodell: 2006 · Typ: Husbil · Drivmedel: Diesel · Växellåda: Manuell · Mätarställning: 9 300 mil · Ort: Uppsala</description>
-      <url>https://frivio.se/auktion/680</url>
-      <g:link>https://frivio.se/auktion/680</g:link>
-      <image>
-        <url>https://backend.frivio.se/vehicle/680/a1783929988374.jpeg</url>
-        <tag>Exterior</tag>
-      </image>
-      <g:image_link>https://backend.frivio.se/vehicle/680/a1783929988374.jpeg</g:image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/680/b1783929988966.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/680/c1783929989210.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/680/d1783929988605.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/680/e1783929988804.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/680/f1783929989101.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/680/g1783929989357.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/680/h1783929989484.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/680/i1783929989621.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/680/j1783929989738.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/680/k1783929989890.jpeg</g:additional_image_link>
-      <make>Adria</make>
-      <model>Coral A655 SP</model>
-      <year>2006</year>
-      <mileage>
-        <value>93000</value>
-        <unit>KM</unit>
-      </mileage>
-      <price>185500 SEK</price>
-      <g:price>185500 SEK</g:price>
-      <address>Uppsala</address>
-      <address format="simple">
-        <component name="addr1">Uppsala</component>
-        <component name="city">Uppsala</component>
-        <component name="region">Uppsala</component>
-        <component name="country">SE</component>
-      </address>
-      <condition>GOOD</condition>
-      <state_of_vehicle>USED</state_of_vehicle>
-      <transmission>MANUAL</transmission>
-      <frivio:listing_type>auction</frivio:listing_type>
-      <frivio:auction_end_date>2026-07-28T17:58:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>185500 SEK</frivio:current_bid>
-      <frivio:bid_count>5</frivio:bid_count>
-      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>2935 kr/mån</frivio:monthly_cost>
-      <body_style>VAN</body_style>
-      <frivio:body_type_label>Husbil</frivio:body_type_label>
-      <fuel_type>DIESEL</fuel_type>
-      <frivio:region>Uppsala</frivio:region>
-      <availability>AVAILABLE</availability>
-      <custom_label_0>Husbil</custom_label_0>
-      <custom_label_1>Slutar 2026-07-28 17:58</custom_label_1>
-    </item>
+    <lastBuildDate>Tue, 28 Jul 2026 19:43:21 GMT</lastBuildDate>
     <item>
       <vehicle_id>673</vehicle_id>
       <g:id>673</g:id>
@@ -252,8 +86,8 @@
         <value>70000</value>
         <unit>KM</unit>
       </mileage>
-      <price>420000 SEK</price>
-      <g:price>420000 SEK</g:price>
+      <price>430000 SEK</price>
+      <g:price>430000 SEK</g:price>
       <address>Trollhättan</address>
       <address format="simple">
         <component name="addr1">Trollhättan</component>
@@ -267,10 +101,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-07-29T17:30:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>420000 SEK</frivio:current_bid>
-      <frivio:bid_count>5</frivio:bid_count>
+      <frivio:current_bid>430000 SEK</frivio:current_bid>
+      <frivio:bid_count>6</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>6645 kr/mån</frivio:monthly_cost>
+      <frivio:monthly_cost>6804 kr/mån</frivio:monthly_cost>
       <body_style>VAN</body_style>
       <frivio:body_type_label>Husbil</frivio:body_type_label>
       <fuel_type>DIESEL</fuel_type>
@@ -1081,8 +915,8 @@
         <value>28000</value>
         <unit>KM</unit>
       </mileage>
-      <price>415000 SEK</price>
-      <g:price>415000 SEK</g:price>
+      <price>420000 SEK</price>
+      <g:price>420000 SEK</g:price>
       <address>Örnsköldsvik</address>
       <address format="simple">
         <component name="addr1">Örnsköldsvik</component>
@@ -1096,10 +930,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-08-09T17:44:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>415000 SEK</frivio:current_bid>
-      <frivio:bid_count>7</frivio:bid_count>
+      <frivio:current_bid>420000 SEK</frivio:current_bid>
+      <frivio:bid_count>8</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>6566 kr/mån</frivio:monthly_cost>
+      <frivio:monthly_cost>6645 kr/mån</frivio:monthly_cost>
       <body_style>VAN</body_style>
       <frivio:body_type_label>Husbil</frivio:body_type_label>
       <fuel_type>DIESEL</fuel_type>
