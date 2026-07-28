@@ -4,7 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Tue, 28 Jul 2026 06:33:48 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 09:40:59 GMT</lastBuildDate>
     <item>
       <vehicle_id>678</vehicle_id>
       <g:id>678</g:id>
@@ -627,8 +627,8 @@
         <value>0</value>
         <unit>KM</unit>
       </mileage>
-      <price>500000 SEK</price>
-      <g:price>500000 SEK</g:price>
+      <price>520000 SEK</price>
+      <g:price>520000 SEK</g:price>
       <address>Malmö</address>
       <address format="simple">
         <component name="addr1">Malmö</component>
@@ -641,10 +641,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-07-30T17:38:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>500000 SEK</frivio:current_bid>
-      <frivio:bid_count>0</frivio:bid_count>
-      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
-      <frivio:monthly_cost>7911 kr/mån</frivio:monthly_cost>
+      <frivio:current_bid>520000 SEK</frivio:current_bid>
+      <frivio:bid_count>1</frivio:bid_count>
+      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
+      <frivio:monthly_cost>8227 kr/mån</frivio:monthly_cost>
       <body_style>OTHER</body_style>
       <frivio:body_type_label>Båt</frivio:body_type_label>
       <fuel_type>NONE</fuel_type>
@@ -1454,8 +1454,8 @@
         <value>0</value>
         <unit>KM</unit>
       </mileage>
-      <price>72000 SEK</price>
-      <g:price>72000 SEK</g:price>
+      <price>72500 SEK</price>
+      <g:price>72500 SEK</g:price>
       <address>Kungsbacka</address>
       <address format="simple">
         <component name="addr1">Kungsbacka</component>
@@ -1468,10 +1468,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-08-11T17:45:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>72000 SEK</frivio:current_bid>
-      <frivio:bid_count>2</frivio:bid_count>
+      <frivio:current_bid>72500 SEK</frivio:current_bid>
+      <frivio:bid_count>3</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>1139 kr/mån</frivio:monthly_cost>
+      <frivio:monthly_cost>1147 kr/mån</frivio:monthly_cost>
       <body_style>OTHER</body_style>
       <frivio:body_type_label>Båt</frivio:body_type_label>
       <fuel_type>NONE</fuel_type>
@@ -1534,6 +1534,61 @@
       <availability>AVAILABLE</availability>
       <custom_label_0>Båt</custom_label_0>
       <custom_label_1>Slutar 2026-08-12 17:12</custom_label_1>
+    </item>
+    <item>
+      <vehicle_id>704</vehicle_id>
+      <g:id>704</g:id>
+      <title>Knaus Scandinavian 590 UK</title>
+      <description>Knaus Scandinavian Selection 590 UK från 2023 är en exklusiv och obetydligt använd barnkammarvagn med smart planlösning för hela familjen. Här finns en rymlig sittgrupp fram, välutrustat kök, bekväm dubbelsäng och praktiska våningssängar i separat barnavdelning. Den moderna interiören, generösa förvaringen och höga utrustningsnivån skapar maximal komfort för både korta utflykter och långa semestrar året runt med förstklassig kvalitet och genomtänkta detaljer för bekymmersfria campingäventyr tillsammans under alla årets säsonger. - Besiktad till 2027-11-30 - Inaca Fjord 300W 1025XL förtält - Fukt och gasoltest utfört 2026-06-04 UA Årsmodell: 2023 · Typ: Husvagn · Ort: Umeå</description>
+      <url>https://frivio.se/auktion/704</url>
+      <g:link>https://frivio.se/auktion/704</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/704/a1785223068365.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/704/a1785223068365.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/704/b1785223068542.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/704/c1785223068695.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/704/d1785223068857.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/704/e1785223068986.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/704/f1785223069119.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/704/g1785223069242.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/704/h1785223069377.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/704/i1785223069510.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/704/j1785223069628.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/704/k1785223069751.jpeg</g:additional_image_link>
+      <make>Knaus</make>
+      <model>Scandinavian 590 UK</model>
+      <year>2023</year>
+      <mileage>
+        <value>0</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>210000 SEK</price>
+      <g:price>210000 SEK</g:price>
+      <address>Umeå</address>
+      <address format="simple">
+        <component name="addr1">Umeå</component>
+        <component name="city">Umeå</component>
+        <component name="region">Västerbotten</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <frivio:listing_type>auction</frivio:listing_type>
+      <frivio:auction_end_date>2026-08-12T17:16:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>210000 SEK</frivio:current_bid>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
+      <frivio:monthly_cost>3323 kr/mån</frivio:monthly_cost>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Husvagn</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
+      <frivio:region>Västerbotten</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Husvagn</custom_label_0>
+      <custom_label_1>Slutar 2026-08-12 17:16</custom_label_1>
     </item>
     <item>
       <vehicle_id>701</vehicle_id>
@@ -1644,6 +1699,60 @@
       <availability>AVAILABLE</availability>
       <custom_label_0>Husvagn</custom_label_0>
       <custom_label_1>Slutar 2026-08-12 17:29</custom_label_1>
+    </item>
+    <item>
+      <vehicle_id>705</vehicle_id>
+      <g:id>705</g:id>
+      <title>Kabe Royal 520 XL KS</title>
+      <description>Välvårdad Kabe Royal 520XL KS från 2011. Denna välutrustade året-runt-vagn i exklusivt Royal-utförande erbjuder högsta komfort med vattenburen ALDE-värme och skön golvvärme. Den rymliga King Size-bredden ger en öppen känsla och rymmer en mycket praktisk franskbädd längst bak bredvid det fräscha badrummet. Ett perfekt, komplett premiumboende på hjul för bekväma semestrar oavsett säsong. - Besiktad till 2027-03-31 - Ny kyl och frys - Ny påsmarkis - Komplett Ventura förtält från 2014 - Isabella annex (lite trixxigt att få ihop) - Samma ägare sedan 2014 Årsmodell: 2011 · Typ: Husvagn · Ort: Hultsfred</description>
+      <url>https://frivio.se/auktion/705</url>
+      <g:link>https://frivio.se/auktion/705</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/705/a1785224796454.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/705/a1785224796454.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/705/b1785224797442.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/705/c1785224795977.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/705/d1785224797281.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/705/e1785224796866.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/705/f1785224796578.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/705/g1785224796717.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/705/h1785224797048.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/705/i1785224796150.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/705/j1785224796309.jpeg</g:additional_image_link>
+      <make>Kabe</make>
+      <model>Royal 520 XL KS</model>
+      <year>2011</year>
+      <mileage>
+        <value>0</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>115000 SEK</price>
+      <g:price>115000 SEK</g:price>
+      <address>Hultsfred</address>
+      <address format="simple">
+        <component name="addr1">Hultsfred</component>
+        <component name="city">Hultsfred</component>
+        <component name="region">Kalmar</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <frivio:listing_type>auction</frivio:listing_type>
+      <frivio:auction_end_date>2026-08-12T17:46:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>115000 SEK</frivio:current_bid>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
+      <frivio:monthly_cost>1820 kr/mån</frivio:monthly_cost>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Husvagn</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
+      <frivio:region>Kalmar</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Husvagn</custom_label_0>
+      <custom_label_1>Slutar 2026-08-12 17:46</custom_label_1>
     </item>
     <item>
       <vehicle_id>702</vehicle_id>
