@@ -4,7 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Tue, 28 Jul 2026 12:02:52 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 15:26:48 GMT</lastBuildDate>
     <item>
       <vehicle_id>678</vehicle_id>
       <g:id>678</g:id>
@@ -34,8 +34,8 @@
         <value>55100</value>
         <unit>KM</unit>
       </mileage>
-      <price>330000 SEK</price>
-      <g:price>330000 SEK</g:price>
+      <price>335000 SEK</price>
+      <g:price>335000 SEK</g:price>
       <address>Öckerö</address>
       <address format="simple">
         <component name="addr1">Öckerö</component>
@@ -49,10 +49,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-07-28T17:31:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>330000 SEK</frivio:current_bid>
-      <frivio:bid_count>1</frivio:bid_count>
+      <frivio:current_bid>335000 SEK</frivio:current_bid>
+      <frivio:bid_count>2</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>5221 kr/mån</frivio:monthly_cost>
+      <frivio:monthly_cost>5300 kr/mån</frivio:monthly_cost>
       <body_style>VAN</body_style>
       <frivio:body_type_label>Husbil</frivio:body_type_label>
       <fuel_type>DIESEL</fuel_type>
@@ -411,8 +411,8 @@
         <value>0</value>
         <unit>KM</unit>
       </mileage>
-      <price>107000 SEK</price>
-      <g:price>107000 SEK</g:price>
+      <price>108000 SEK</price>
+      <g:price>108000 SEK</g:price>
       <address>Lomma</address>
       <address format="simple">
         <component name="addr1">Lomma</component>
@@ -425,10 +425,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-07-29T17:51:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>107000 SEK</frivio:current_bid>
-      <frivio:bid_count>6</frivio:bid_count>
+      <frivio:current_bid>108000 SEK</frivio:current_bid>
+      <frivio:bid_count>7</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>1693 kr/mån</frivio:monthly_cost>
+      <frivio:monthly_cost>1709 kr/mån</frivio:monthly_cost>
       <body_style>OTHER</body_style>
       <frivio:body_type_label>Båt</frivio:body_type_label>
       <fuel_type>NONE</fuel_type>
@@ -678,8 +678,8 @@
         <value>0</value>
         <unit>KM</unit>
       </mileage>
-      <price>201000 SEK</price>
-      <g:price>201000 SEK</g:price>
+      <price>245000 SEK</price>
+      <g:price>245000 SEK</g:price>
       <address>Nora</address>
       <address format="simple">
         <component name="addr1">Nora</component>
@@ -692,10 +692,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-08-03T17:00:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>201000 SEK</frivio:current_bid>
-      <frivio:bid_count>1</frivio:bid_count>
+      <frivio:current_bid>245000 SEK</frivio:current_bid>
+      <frivio:bid_count>2</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>3180 kr/mån</frivio:monthly_cost>
+      <frivio:monthly_cost>3876 kr/mån</frivio:monthly_cost>
       <body_style>OTHER</body_style>
       <frivio:body_type_label>Husvagn</frivio:body_type_label>
       <fuel_type>NONE</fuel_type>
@@ -1481,6 +1481,61 @@
       <custom_label_1>Slutar 2026-08-11 17:45</custom_label_1>
     </item>
     <item>
+      <vehicle_id>707</vehicle_id>
+      <g:id>707</g:id>
+      <title>Oxelö 27</title>
+      <description>Klassisk Oxelö 27 från 1982 - en rymlig och uppskattad motorbåt med goda boendeegenskaper för semesterturer och helgutflykter. Båten erbjuder bekväm ruff med sovplatser, pentry, kylskåp, toalett och stor sittbrunn under kapell. Stabil gång, gott om förvaring och en tidlös design gör detta till ett utmärkt val för dig som söker en prisvärd familjebåt med stor trivselfaktor. - Fulltutrustad - Drev &amp; Motor 1996 VP 280/Duopropp - Motor helservad 2023 - Nya bälgar - Ny fläns kylvatten - Olje byte ink filter - Ny impeller - Nya stift - Tilt - Bensinfilter - Ny servat/omsytt kapell. - Kyl med frysfack - Två-lågigt gasolkök - Vatten cirka 180l - Bensin 180l - Enkel dusch på badbrygga - Tre service-batterier och ett startbatteri - Solceller - Toa/Portapotti - Wallasvärmare - Bottenmålad 2026 - Dynor, fendrar, ankare, el-kopplingar/kablar, gasoltub, förtöjningstampar medföljer Årsmodell: 1982 · Typ: Båt · Ort: Karlskrona</description>
+      <url>https://frivio.se/auktion/707</url>
+      <g:link>https://frivio.se/auktion/707</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/707/a1785247956497.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/707/a1785247956497.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/707/b1785247956745.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/707/c1785247957537.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/707/d1785247957004.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/707/e1785247956880.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/707/f1785247956170.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/707/g1785247956348.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/707/h1785247956635.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/707/i1785247957141.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/707/j1785247957274.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/707/k1785247957403.jpeg</g:additional_image_link>
+      <make>Oxelö</make>
+      <model>Oxelö 27</model>
+      <year>1982</year>
+      <mileage>
+        <value>0</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>45000 SEK</price>
+      <g:price>45000 SEK</g:price>
+      <address>Karlskrona</address>
+      <address format="simple">
+        <component name="addr1">Karlskrona</component>
+        <component name="city">Karlskrona</component>
+        <component name="region">Blekinge</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <frivio:listing_type>auction</frivio:listing_type>
+      <frivio:auction_end_date>2026-08-12T17:12:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>45000 SEK</frivio:current_bid>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
+      <frivio:monthly_cost>712 kr/mån</frivio:monthly_cost>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Båt</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
+      <frivio:region>Blekinge</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Båt</custom_label_0>
+      <custom_label_1>Slutar 2026-08-12 17:12</custom_label_1>
+    </item>
+    <item>
       <vehicle_id>695</vehicle_id>
       <g:id>695</g:id>
       <title>Forbina 650F</title>
@@ -1802,6 +1857,62 @@
       <availability>AVAILABLE</availability>
       <custom_label_0>Båt</custom_label_0>
       <custom_label_1>Slutar 2026-08-12 17:57</custom_label_1>
+    </item>
+    <item>
+      <vehicle_id>708</vehicle_id>
+      <g:id>708</g:id>
+      <title>Sunlight T69L</title>
+      <description>Välutrustad Sunlight T69 L från 2017 med rymlig planlösning och hög komfort för både korta och långa resor. Husbilen erbjuder queenbed, stort garage, komplett kök, separat dusch och toalett samt en trivsam sittgrupp med vridbara framstolar. Byggd på Fiat med dragkrok och markis - en lättkörd och praktisk husbil som passar perfekt för hela familjens campingäventyr. - Senaste service gjord 2025 vid 2800mil - Dragkrok - Vinteförvarad inomhus - Besiktad till 2026-08-31 - Fukttest gjort 2022 - men levereras fukttestad Årsmodell: 2017 · Typ: Husbil · Drivmedel: Diesel · Växellåda: Automatisk · Mätarställning: 3 500 mil · Ort: Borås</description>
+      <url>https://frivio.se/auktion/708</url>
+      <g:link>https://frivio.se/auktion/708</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/708/a1785250261286.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/708/a1785250261286.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/708/b1785250261429.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/708/c1785250261625.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/708/d1785250260222.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/708/e1785250260376.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/708/f1785250260892.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/708/g1785250261025.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/708/h1785250260636.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/708/i1785250261148.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/708/j1785250260508.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/708/k1785250260757.jpeg</g:additional_image_link>
+      <make>Sunlight</make>
+      <model>T69L</model>
+      <year>2017</year>
+      <mileage>
+        <value>35000</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>350000 SEK</price>
+      <g:price>350000 SEK</g:price>
+      <address>Borås</address>
+      <address format="simple">
+        <component name="addr1">Borås</component>
+        <component name="city">Borås</component>
+        <component name="region">Västra Götaland</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <transmission>AUTOMATIC</transmission>
+      <frivio:listing_type>auction</frivio:listing_type>
+      <frivio:auction_end_date>2026-08-13T14:50:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>350000 SEK</frivio:current_bid>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
+      <frivio:monthly_cost>5538 kr/mån</frivio:monthly_cost>
+      <body_style>VAN</body_style>
+      <frivio:body_type_label>Husbil</frivio:body_type_label>
+      <fuel_type>DIESEL</fuel_type>
+      <frivio:region>Västra Götaland</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Husbil</custom_label_0>
+      <custom_label_1>Slutar 2026-08-13 14:50</custom_label_1>
     </item>
   </channel>
 </rss>
