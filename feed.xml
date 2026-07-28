@@ -4,7 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Tue, 28 Jul 2026 09:40:59 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 12:02:52 GMT</lastBuildDate>
     <item>
       <vehicle_id>678</vehicle_id>
       <g:id>678</g:id>
@@ -411,8 +411,8 @@
         <value>0</value>
         <unit>KM</unit>
       </mileage>
-      <price>106000 SEK</price>
-      <g:price>106000 SEK</g:price>
+      <price>107000 SEK</price>
+      <g:price>107000 SEK</g:price>
       <address>Lomma</address>
       <address format="simple">
         <component name="addr1">Lomma</component>
@@ -425,10 +425,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-07-29T17:51:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>106000 SEK</frivio:current_bid>
-      <frivio:bid_count>5</frivio:bid_count>
+      <frivio:current_bid>107000 SEK</frivio:current_bid>
+      <frivio:bid_count>6</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>1677 kr/mån</frivio:monthly_cost>
+      <frivio:monthly_cost>1693 kr/mån</frivio:monthly_cost>
       <body_style>OTHER</body_style>
       <frivio:body_type_label>Båt</frivio:body_type_label>
       <fuel_type>NONE</fuel_type>
