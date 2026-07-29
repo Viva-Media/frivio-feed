@@ -4,7 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Wed, 29 Jul 2026 06:38:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 09:43:41 GMT</lastBuildDate>
     <item>
       <vehicle_id>673</vehicle_id>
       <g:id>673</g:id>
@@ -1691,6 +1691,213 @@
       <availability>AVAILABLE</availability>
       <custom_label_0>Husbil</custom_label_0>
       <custom_label_1>Slutar 2026-08-13 14:50</custom_label_1>
+    </item>
+    <item>
+      <vehicle_id>706</vehicle_id>
+      <g:id>706</g:id>
+      <title>Terhi</title>
+      <description>Letar du efter en pålitlig och lättmanövrerad båt för sommarens alla äventyr? Denna Terhi från 2025 är perfekt för både sol, bad, fiske och smidiga transporter i skärgården. Tack vare den praktiska styrpulpeten får du en bekväm körposition, utmärkt sikt och god kontroll på sjön. Båten erbjuder smarta förvaringsutrymmen, hög stabilitet och Terhis välkända, robusta kvalitet. Ett bekymmersfritt och tryggt båtägande väntar. - Båten står på en ny obromsad båttrailer 80/km - Båten har gått ca 15 timmar och bara i sötvatten - Stöldmärkt samt motorlås - Garmin navigation Årsmodell: 2025 · Typ: Båt · Ort: Alingsås</description>
+      <url>https://frivio.se/auktion/706</url>
+      <g:link>https://frivio.se/auktion/706</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/706/a1785247468856.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/706/a1785247468856.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/706/b1785247469084.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/706/c1785247559222.jpeg</g:additional_image_link>
+      <make>Terhi</make>
+      <model>Terhi</model>
+      <year>2025</year>
+      <mileage>
+        <value>0</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>70000 SEK</price>
+      <g:price>70000 SEK</g:price>
+      <address>Alingsås</address>
+      <address format="simple">
+        <component name="addr1">Alingsås</component>
+        <component name="city">Alingsås</component>
+        <component name="region">Västra Götaland</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <frivio:listing_type>auction</frivio:listing_type>
+      <frivio:auction_end_date>2026-08-16T17:57:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>70000 SEK</frivio:current_bid>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
+      <frivio:monthly_cost>1108 kr/mån</frivio:monthly_cost>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Båt</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
+      <frivio:region>Västra Götaland</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Båt</custom_label_0>
+      <custom_label_1>Slutar 2026-08-16 17:57</custom_label_1>
+    </item>
+    <item>
+      <vehicle_id>709</vehicle_id>
+      <g:id>709</g:id>
+      <title>Knaus 590 UE Scandinavian Edition</title>
+      <description>Välutrustad Knaus Südwind 590 UE Scandinavian Selection från 2017 med modern och smakfull interiör. Husvagnen erbjuder två bekväma långbäddar, rymlig U-soffa, stort kök med kyl/frys och mikrovågsugn samt toalett med dusch. Utrustad med Thule-markis, cykelställ, TV och gott om förvaring. En ljus och trivsam kvalitetsvagn som passar perfekt för både kortare resor och längre semestrar. - Fukt och gasoltest utfört utan anmärkning 2026-07-03 - Endast använd sommartid - Förvarad inomhus vintertid - Uttagen i trafik första gång 2020-10-02 - Besiktad till 2026-08-31 - Markis med vindskydd på sidor och framtill - Reservhjul - 2st bord runt och avlångt med 6st stolar - Mattor - Tallrikar, div glas, bestick, vattenkokare, kastruller, stekpanna samt annat husgeråd ingår. Årsmodell: 2017 · Typ: Husvagn · Ort: Sala</description>
+      <url>https://frivio.se/auktion/709</url>
+      <g:link>https://frivio.se/auktion/709</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/709/a1785311804537.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/709/a1785311804537.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/709/b1785311804409.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/709/c1785311805226.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/709/d1785311803804.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/709/e1785311803528.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/709/f1785311804275.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/709/g1785311803967.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/709/h1785311804809.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/709/i1785311804685.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/709/j1785311804122.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/709/k1785311805352.jpeg</g:additional_image_link>
+      <make>Knaus</make>
+      <model>590 UE Scandinavian Edition</model>
+      <year>2017</year>
+      <mileage>
+        <value>0</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>140000 SEK</price>
+      <g:price>140000 SEK</g:price>
+      <address>Sala</address>
+      <address format="simple">
+        <component name="addr1">Sala</component>
+        <component name="city">Sala</component>
+        <component name="region">Västmanland</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <frivio:listing_type>auction</frivio:listing_type>
+      <frivio:auction_end_date>2026-08-17T17:53:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>140000 SEK</frivio:current_bid>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
+      <frivio:monthly_cost>2215 kr/mån</frivio:monthly_cost>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Husvagn</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
+      <frivio:region>Västmanland</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Husvagn</custom_label_0>
+      <custom_label_1>Slutar 2026-08-17 17:53</custom_label_1>
+    </item>
+    <item>
+      <vehicle_id>710</vehicle_id>
+      <g:id>710</g:id>
+      <title>Royal Regal 250XL</title>
+      <description>Royal Regal 250 XL från 1989 - en rymlig och trygg båt i mycket gott skick. Perfekt för både familj och vänner som vill njuta av många dagar på sjön. Båten är välskött och har fått löpande omsorg. Ett riktigt bra val för dig som vill ha en stabil och motorstark båt utan stora överraskningar. - Nya batterier - Dubbla Volvo Penta-motorer ,helt genomgångna - Ny servad &amp; vinterkonserverad - Startklar för säsongen - Driftsäker och pigg på vattnet - Båtsläp medföljer (30-kärra) men ett hjullager behöver ses över - Nytt kapell 2023 – mycket fint skick - Nya sportstolar fram – bekväma och snygga - Nylackad träinteriör – fräsch och välvårdad look i hela båten - Gott om sittplatser och bra planlösning - Badplattform med stege - Flera stuvutrymmen Årsmodell: 1989 · Typ: Båt · Ort: Södertälje</description>
+      <url>https://frivio.se/auktion/710</url>
+      <g:link>https://frivio.se/auktion/710</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/710/b1785313259453.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/710/b1785313259453.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/710/c1785313259632.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/710/d1785313259790.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/710/e1785313259913.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/710/f1785313260052.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/710/g1785313260216.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/710/h1785313260324.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/710/i1785313260434.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/710/j1785313260541.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/710/k1785313260668.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/710/l1785313260774.jpeg</g:additional_image_link>
+      <make>Royal</make>
+      <model>Royal Regal 250XL</model>
+      <year>1989</year>
+      <mileage>
+        <value>0</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>80000 SEK</price>
+      <g:price>80000 SEK</g:price>
+      <address>Södertälje</address>
+      <address format="simple">
+        <component name="addr1">Södertälje</component>
+        <component name="city">Södertälje</component>
+        <component name="region">Stockholm</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <frivio:listing_type>fixed_price</frivio:listing_type>
+      <frivio:auction_end_date>2026-08-18T17:18:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Ej tillämpligt (fast pris)</frivio:reserve_price_status>
+      <frivio:monthly_cost>1266 kr/mån</frivio:monthly_cost>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Båt</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
+      <frivio:region>Stockholm</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Båt</custom_label_0>
+      <custom_label_1>Slutar 2026-08-18 17:18</custom_label_1>
+    </item>
+    <item>
+      <vehicle_id>711</vehicle_id>
+      <g:id>711</g:id>
+      <title>Crescent 455</title>
+      <description>Charmig segelbåt som de senaste åren förvarats på land. Båten säljs komplett med segel, åror och övrig utrustning samt en Johnson 6 hk tvåtaktsmotor med separat bränsletank. Upptagningskärra ingår för smidig transport och vinterförvaring. Varken båt eller motor har använts de senaste åtta åren, men vid senaste användningstillfället fungerade allt som det ska. Ett prisvärt projekt för nästa ägare med potential för många fina dagar på sjön framöver och semestrar. Årsmodell: 1980 · Typ: Båt · Ort: Nässjö</description>
+      <url>https://frivio.se/auktion/711</url>
+      <g:link>https://frivio.se/auktion/711</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/711/a1785314816073.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/711/a1785314816073.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/711/b1785314816201.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/711/c1785314816315.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/711/d1785314815723.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/711/e1785314815851.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/711/f1785314815965.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/711/g1785314816439.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/711/h1785314815562.jpeg</g:additional_image_link>
+      <make>Crescent</make>
+      <model>Crescent 455</model>
+      <year>1980</year>
+      <mileage>
+        <value>0</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>5000 SEK</price>
+      <g:price>5000 SEK</g:price>
+      <address>Nässjö</address>
+      <address format="simple">
+        <component name="addr1">Nässjö</component>
+        <component name="city">Nässjö</component>
+        <component name="region">Jönköping</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <frivio:listing_type>fixed_price</frivio:listing_type>
+      <frivio:auction_end_date>2026-08-18T17:46:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Ej tillämpligt (fast pris)</frivio:reserve_price_status>
+      <frivio:monthly_cost>79 kr/mån</frivio:monthly_cost>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Båt</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
+      <frivio:region>Jönköping</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Båt</custom_label_0>
+      <custom_label_1>Slutar 2026-08-18 17:46</custom_label_1>
     </item>
   </channel>
 </rss>
