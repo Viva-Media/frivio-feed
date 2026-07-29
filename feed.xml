@@ -4,7 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Wed, 29 Jul 2026 12:07:30 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 15:12:23 GMT</lastBuildDate>
     <item>
       <vehicle_id>673</vehicle_id>
       <g:id>673</g:id>
@@ -244,8 +244,8 @@
         <value>0</value>
         <unit>KM</unit>
       </mileage>
-      <price>260000 SEK</price>
-      <g:price>260000 SEK</g:price>
+      <price>280000 SEK</price>
+      <g:price>280000 SEK</g:price>
       <address>Mönsterås</address>
       <address format="simple">
         <component name="addr1">Mönsterås</component>
@@ -258,10 +258,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-07-29T17:57:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>260000 SEK</frivio:current_bid>
-      <frivio:bid_count>2</frivio:bid_count>
+      <frivio:current_bid>280000 SEK</frivio:current_bid>
+      <frivio:bid_count>4</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>4114 kr/mån</frivio:monthly_cost>
+      <frivio:monthly_cost>4430 kr/mån</frivio:monthly_cost>
       <body_style>OTHER</body_style>
       <frivio:body_type_label>Husvagn</frivio:body_type_label>
       <fuel_type>NONE</fuel_type>
