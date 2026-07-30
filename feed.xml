@@ -4,168 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Thu, 30 Jul 2026 16:41:38 GMT</lastBuildDate>
-    <item>
-      <vehicle_id>682</vehicle_id>
-      <g:id>682</g:id>
-      <title>Hobby 560 CFE Excellent</title>
-      <description>Hobby 560 CFE Excellent från 2017 är en modern och välplanerad husvagn som kombinerar hög komfort med stilren design. Den generösa U-soffan framtill skapar en trivsam sällskapsyta, medan den rymliga queensbeden baktill erbjuder hög sovkomfort. Det välutrustade köket har gott om arbetsyta och förvaring, och den stora kylskåpslösningen gör längre resor bekväma. Husvagnen har dessutom elegant LED-belysning och genomgående exklusiva materialval. En välvårdad vagn med normalt bruksslitage- perfekt för både weekendresor och längre semestrar. - Dometic Rally 390 resetält (använd 1 gång) - Vagnen är importerad och har således inget 12V system - Fukttestad 2025-06 UA - Besiktad till 2027-05-31 Årsmodell: 2017 · Typ: Husvagn · Ort: Kungälv</description>
-      <url>https://frivio.se/auktion/682</url>
-      <g:link>https://frivio.se/auktion/682</g:link>
-      <image>
-        <url>https://backend.frivio.se/vehicle/682/a1783945445904.jpeg</url>
-        <tag>Exterior</tag>
-      </image>
-      <g:image_link>https://backend.frivio.se/vehicle/682/a1783945445904.jpeg</g:image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/682/b1783945446248.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/682/c1783945446088.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/682/d1783945446370.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/682/e1783945446485.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/682/f1783945446613.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/682/g1783945446724.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/682/h1783945446858.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/682/i1783945446988.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/682/j1783945447109.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/682/k1783945447233.jpeg</g:additional_image_link>
-      <make>Hobby</make>
-      <model>560 CFE Excellent</model>
-      <year>2017</year>
-      <mileage>
-        <value>0</value>
-        <unit>KM</unit>
-      </mileage>
-      <price>107000 SEK</price>
-      <g:price>107000 SEK</g:price>
-      <address>Kungälv</address>
-      <address format="simple">
-        <component name="addr1">Kungälv</component>
-        <component name="city">Kungälv</component>
-        <component name="region">Västra Götaland</component>
-        <component name="country">SE</component>
-      </address>
-      <condition>GOOD</condition>
-      <state_of_vehicle>USED</state_of_vehicle>
-      <frivio:listing_type>auction</frivio:listing_type>
-      <frivio:auction_end_date>2026-07-30T17:23:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>107000 SEK</frivio:current_bid>
-      <frivio:bid_count>4</frivio:bid_count>
-      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>1693 kr/mån</frivio:monthly_cost>
-      <body_style>OTHER</body_style>
-      <frivio:body_type_label>Husvagn</frivio:body_type_label>
-      <fuel_type>NONE</fuel_type>
-      <frivio:region>Västra Götaland</frivio:region>
-      <availability>AVAILABLE</availability>
-      <custom_label_0>Husvagn</custom_label_0>
-      <custom_label_1>Slutar 2026-07-30 17:23</custom_label_1>
-    </item>
-    <item>
-      <vehicle_id>683</vehicle_id>
-      <g:id>683</g:id>
-      <title>Seafox 197</title>
-      <description>Seafox 197 från 2008. Denna mångsidiga kvalitetsbåt erbjuder fantastiska sjöegenskaper tack vare en djup v-vinkel. Du tar dig smidigt in i grunda vikar för sol och bad, och båten hanterar kraftfulla utombordare utan problem. Den öppna planlösningen gör den till den perfekta plattformen för både fiske, fartfylld vattensport och härliga dagsutflykter i skärgården! - Båt från 2008 - Honda motor 4-takt från 2006 - Fisksump - Bra förvaring - 2st plotter ingår - Impeller bytt 2026 - Ingen trailer ingår - Tiltmotor behöver rengöras Årsmodell: 2008 · Typ: Båt · Ort: Kungsbacka</description>
-      <url>https://frivio.se/auktion/683</url>
-      <g:link>https://frivio.se/auktion/683</g:link>
-      <image>
-        <url>https://backend.frivio.se/vehicle/683/b1783949502524.jpeg</url>
-        <tag>Exterior</tag>
-      </image>
-      <g:image_link>https://backend.frivio.se/vehicle/683/b1783949502524.jpeg</g:image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/683/c1783949502697.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/683/d1783949502952.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/683/e1783949502843.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/683/f1783949503185.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/683/g1783949503072.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/683/h1783949503308.jpeg</g:additional_image_link>
-      <make>Seafox</make>
-      <model>Seafox 197</model>
-      <year>2008</year>
-      <mileage>
-        <value>0</value>
-        <unit>KM</unit>
-      </mileage>
-      <price>51000 SEK</price>
-      <g:price>51000 SEK</g:price>
-      <address>Kungsbacka</address>
-      <address format="simple">
-        <component name="addr1">Kungsbacka</component>
-        <component name="city">Kungsbacka</component>
-        <component name="region">Halland</component>
-        <component name="country">SE</component>
-      </address>
-      <condition>GOOD</condition>
-      <state_of_vehicle>USED</state_of_vehicle>
-      <frivio:listing_type>auction</frivio:listing_type>
-      <frivio:auction_end_date>2026-07-30T17:25:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>51000 SEK</frivio:current_bid>
-      <frivio:bid_count>1</frivio:bid_count>
-      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>807 kr/mån</frivio:monthly_cost>
-      <body_style>OTHER</body_style>
-      <frivio:body_type_label>Båt</frivio:body_type_label>
-      <fuel_type>NONE</fuel_type>
-      <frivio:region>Halland</frivio:region>
-      <availability>AVAILABLE</availability>
-      <custom_label_0>Båt</custom_label_0>
-      <custom_label_1>Slutar 2026-07-30 17:25</custom_label_1>
-    </item>
-    <item>
-      <vehicle_id>684</vehicle_id>
-      <g:id>684</g:id>
-      <title>Carver Trojan Express 44</title>
-      <description>Välunderhållen Trojan Carver Express 44. Cumminsdieslarna på 450 hk vardera har genomgått total renovering för 600 000 kr kvitto finnspå allt 2023-2024 och har efter det gått ca 20 timmar. Detta är en riktig bobåt med vattenburen värme i hela båten. Dieselvärmepanna på 7.5 kw och elpatron på 3 kw. Med golvvärme på båda toaletterna är det ett nöje att utnyttja dessa faciliteter. Fullutrustat kök med fullstor kyl och frys (ny 2020) Glaskeramikhäll,spis, ugn, ismaskin och Micro. Mastercabin i fören med 160 cm bred dubbelsäng och 32 tums TV. 2 hytter i aktern med 2 120 cm sängar i vardera hytten. 2 stora fönster i salongen bytades 2018. Vill man njuta av musik finns det en Rockford Fosgate marin stereo med 12 tums bashögtalare, 2 st 8 tums och 2 st 6,5 tums som drivs av två slutsteg ifrån 2019. Det finns också en infravärmare i targabågen om det blir lite kyligt på kvällen. Elektriciteten ombord sköts/styrs av Mass combi ultra 12/3000 -150 ifrån Mastervolt, (Inverter 3000w, laddare 150 A) allt installerades 2017. Detta styrs ifrån en Easy view 5 tums pekskärm. Detta innebär att man alltid har 220volt i båten oberoende om man är liggande vid kaj eller till sjöss! Hydrauliskt nersänkbar badbrygga 400 kg - Förbrukningsbatterier tudor strong PRO 4st 235 Ah/styck ifrån 2019. - Landström 1 fas eller 3 fas. - Bogpropeller Sidepower installerad 2016 - Ankarspel i fören bytt 2015 - Garmin 12 tums plotter installerad 2024 - Undervattensbelysning i aktern - Ny bottenfärg och nya anoder 2026 - Nya soldynor på fördäck 2020 - Toalettpump ny 2024 - Helt nya kapell 2024 - Ny renoverade soffor i sittbrunn 2025 - Sony 7-kanals bioljudsförstärkare. Utrustning: - Landströmsanslutning - Generator - Batteri - Batteriladdare - Inverter - Eldsläckare - Brandsläckningsanläggning - Ankare - Ankarvinsch i fören - Länspump - Tvättmaskin - Torktumlare - Lampor under vattenytan - Navigationsljus - Bogpropeller - Trimplan - Varmvattenanläggning - Däckspolning - Färddator - Kompass - GPS - Autopilot - VHF-radio - Kartplotter - Djupmätare - Hastighetsmätare - AIS - Spis med keramikhäll - Mikrovågsugn - Bakugn - Diskbänk - Kylskåp - Frys - Elspis - Fläktkåpa - Diskmaskin - Helkapell - Integrerad badplattform - Däcksdusch - Värme - Ismaskin - Radio - Bluetooth-anslutning - Högtalare i cockpit - Cockpitbord - Bottenfärg Årsmodell: 1998 · Typ: Båt · Ort: Malmö</description>
-      <url>https://frivio.se/auktion/684</url>
-      <g:link>https://frivio.se/auktion/684</g:link>
-      <image>
-        <url>https://backend.frivio.se/vehicle/684/a1783953881611.jpeg</url>
-        <tag>Exterior</tag>
-      </image>
-      <g:image_link>https://backend.frivio.se/vehicle/684/a1783953881611.jpeg</g:image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/684/b1783953881772.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/684/c1783953881925.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/684/d1783953882089.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/684/e1783953882216.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/684/f1783953882354.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/684/g1783953882493.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/684/h1783953882919.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/684/i1783953882719.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/684/j1783953883081.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/684/k1783953883221.jpeg</g:additional_image_link>
-      <make>Carver</make>
-      <model>Carver Trojan Express 44</model>
-      <year>1998</year>
-      <mileage>
-        <value>0</value>
-        <unit>KM</unit>
-      </mileage>
-      <price>520000 SEK</price>
-      <g:price>520000 SEK</g:price>
-      <address>Malmö</address>
-      <address format="simple">
-        <component name="addr1">Malmö</component>
-        <component name="city">Malmö</component>
-        <component name="region">Skåne</component>
-        <component name="country">SE</component>
-      </address>
-      <condition>GOOD</condition>
-      <state_of_vehicle>USED</state_of_vehicle>
-      <frivio:listing_type>auction</frivio:listing_type>
-      <frivio:auction_end_date>2026-07-30T17:38:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>520000 SEK</frivio:current_bid>
-      <frivio:bid_count>1</frivio:bid_count>
-      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>8227 kr/mån</frivio:monthly_cost>
-      <body_style>OTHER</body_style>
-      <frivio:body_type_label>Båt</frivio:body_type_label>
-      <fuel_type>NONE</fuel_type>
-      <frivio:region>Skåne</frivio:region>
-      <availability>AVAILABLE</availability>
-      <custom_label_0>Båt</custom_label_0>
-      <custom_label_1>Slutar 2026-07-30 17:38</custom_label_1>
-    </item>
+    <lastBuildDate>Thu, 30 Jul 2026 18:22:39 GMT</lastBuildDate>
     <item>
       <vehicle_id>712</vehicle_id>
       <g:id>712</g:id>
@@ -513,7 +352,7 @@
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-08-06T17:11:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
       <frivio:current_bid>161000 SEK</frivio:current_bid>
       <frivio:bid_count>2</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
@@ -561,7 +400,7 @@
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-08-06T17:31:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
       <frivio:current_bid>13000 SEK</frivio:current_bid>
       <frivio:bid_count>1</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
@@ -613,7 +452,7 @@
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>fixed_price</frivio:listing_type>
       <frivio:auction_end_date>2026-08-06T17:40:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
       <frivio:bid_count>0</frivio:bid_count>
       <frivio:reserve_price_status>Ej tillämpligt (fast pris)</frivio:reserve_price_status>
       <frivio:monthly_cost>1092 kr/mån</frivio:monthly_cost>
@@ -665,7 +504,7 @@
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>fixed_price</frivio:listing_type>
       <frivio:auction_end_date>2026-08-06T17:43:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
       <frivio:bid_count>0</frivio:bid_count>
       <frivio:reserve_price_status>Ej tillämpligt (fast pris)</frivio:reserve_price_status>
       <frivio:monthly_cost>3164 kr/mån</frivio:monthly_cost>
