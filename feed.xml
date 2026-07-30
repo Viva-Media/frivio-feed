@@ -4,7 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Thu, 30 Jul 2026 05:50:08 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 08:41:13 GMT</lastBuildDate>
     <item>
       <vehicle_id>682</vehicle_id>
       <g:id>682</g:id>
@@ -165,6 +165,61 @@
       <availability>AVAILABLE</availability>
       <custom_label_0>Båt</custom_label_0>
       <custom_label_1>Slutar 2026-07-30 17:38</custom_label_1>
+    </item>
+    <item>
+      <vehicle_id>712</vehicle_id>
+      <g:id>712</g:id>
+      <title>Home-Car 45 FHU Spirit</title>
+      <description>Home-Car 45 FHU Spirit från 2006 erbjuder en smart planlösning med fokus på komfort och funktion. Den fasta franskbädden skapar en avskild sovdel intill toalettutrymmet, medan den ljusa sittgruppen ger en trivsam plats för måltider och avkoppling. Köket är välutrustat med bra arbetsytor och praktisk förvaring. En lättmanövrerad och hemtrevlig husvagn som passar perfekt för dig som söker ett smidigt boende på hjul. - Spolknapp på toalett ur funktion - Vattenkran i köksdel vill ibland att kranen vid handfatet skall sättas igång lite för att själv kunna fungera - Besiktad till 2027-04-30 - Gasoltestad och godkänd - Reservdäck medföljer Årsmodell: 2006 · Typ: Husvagn · Ort: Ronneby</description>
+      <url>https://frivio.se/auktion/712</url>
+      <g:link>https://frivio.se/auktion/712</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/712/a1785396942039.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/712/a1785396942039.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/712/b1785396941893.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/712/c1785396942186.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/712/d1785396940384.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/712/e1785396940545.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/712/f1785396943646.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/712/g1785396942399.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/712/h1785396940752.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/712/i1785396943956.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/712/j1785396944234.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/712/k1785396940922.jpeg</g:additional_image_link>
+      <make>Home-Car</make>
+      <model>45 FHU Spirit</model>
+      <year>2006</year>
+      <mileage>
+        <value>0</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>35000 SEK</price>
+      <g:price>35000 SEK</g:price>
+      <address>Ronneby</address>
+      <address format="simple">
+        <component name="addr1">Ronneby</component>
+        <component name="city">Ronneby</component>
+        <component name="region">Blekinge</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <frivio:listing_type>auction</frivio:listing_type>
+      <frivio:auction_end_date>2026-08-02T17:35:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>35000 SEK</frivio:current_bid>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
+      <frivio:monthly_cost>554 kr/mån</frivio:monthly_cost>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Husvagn</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
+      <frivio:region>Blekinge</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Husvagn</custom_label_0>
+      <custom_label_1>Slutar 2026-08-02 17:35</custom_label_1>
     </item>
     <item>
       <vehicle_id>686</vehicle_id>
@@ -445,8 +500,8 @@
         <value>0</value>
         <unit>KM</unit>
       </mileage>
-      <price>151000 SEK</price>
-      <g:price>151000 SEK</g:price>
+      <price>161000 SEK</price>
+      <g:price>161000 SEK</g:price>
       <address>Sölvesborg</address>
       <address format="simple">
         <component name="addr1">Sölvesborg</component>
@@ -459,10 +514,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-08-06T17:11:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>151000 SEK</frivio:current_bid>
-      <frivio:bid_count>1</frivio:bid_count>
+      <frivio:current_bid>161000 SEK</frivio:current_bid>
+      <frivio:bid_count>2</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>2389 kr/mån</frivio:monthly_cost>
+      <frivio:monthly_cost>2547 kr/mån</frivio:monthly_cost>
       <body_style>OTHER</body_style>
       <frivio:body_type_label>Båt</frivio:body_type_label>
       <fuel_type>NONE</fuel_type>
@@ -1400,8 +1455,8 @@
         <value>35000</value>
         <unit>KM</unit>
       </mileage>
-      <price>375000 SEK</price>
-      <g:price>375000 SEK</g:price>
+      <price>390000 SEK</price>
+      <g:price>390000 SEK</g:price>
       <address>Borås</address>
       <address format="simple">
         <component name="addr1">Borås</component>
@@ -1415,10 +1470,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-08-13T14:50:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>375000 SEK</frivio:current_bid>
-      <frivio:bid_count>1</frivio:bid_count>
+      <frivio:current_bid>390000 SEK</frivio:current_bid>
+      <frivio:bid_count>2</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>5933 kr/mån</frivio:monthly_cost>
+      <frivio:monthly_cost>6171 kr/mån</frivio:monthly_cost>
       <body_style>VAN</body_style>
       <frivio:body_type_label>Husbil</frivio:body_type_label>
       <fuel_type>DIESEL</fuel_type>
@@ -1503,8 +1558,8 @@
         <value>0</value>
         <unit>KM</unit>
       </mileage>
-      <price>140000 SEK</price>
-      <g:price>140000 SEK</g:price>
+      <price>145000 SEK</price>
+      <g:price>145000 SEK</g:price>
       <address>Sala</address>
       <address format="simple">
         <component name="addr1">Sala</component>
@@ -1517,10 +1572,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-08-17T17:53:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>140000 SEK</frivio:current_bid>
-      <frivio:bid_count>0</frivio:bid_count>
-      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
-      <frivio:monthly_cost>2215 kr/mån</frivio:monthly_cost>
+      <frivio:current_bid>145000 SEK</frivio:current_bid>
+      <frivio:bid_count>1</frivio:bid_count>
+      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
+      <frivio:monthly_cost>2294 kr/mån</frivio:monthly_cost>
       <body_style>OTHER</body_style>
       <frivio:body_type_label>Husvagn</frivio:body_type_label>
       <fuel_type>NONE</fuel_type>
