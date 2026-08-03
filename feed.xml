@@ -4,7 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Mon, 03 Aug 2026 04:35:51 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 08:35:24 GMT</lastBuildDate>
     <item>
       <vehicle_id>686</vehicle_id>
       <g:id>686</g:id>
@@ -641,8 +641,8 @@
         <value>0</value>
         <unit>KM</unit>
       </mileage>
-      <price>240000 SEK</price>
-      <g:price>240000 SEK</g:price>
+      <price>241000 SEK</price>
+      <g:price>241000 SEK</g:price>
       <address>Orust</address>
       <address format="simple">
         <component name="addr1">Orust</component>
@@ -655,10 +655,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-08-11T17:08:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>240000 SEK</frivio:current_bid>
-      <frivio:bid_count>0</frivio:bid_count>
-      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
-      <frivio:monthly_cost>3797 kr/mån</frivio:monthly_cost>
+      <frivio:current_bid>241000 SEK</frivio:current_bid>
+      <frivio:bid_count>1</frivio:bid_count>
+      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
+      <frivio:monthly_cost>3813 kr/mån</frivio:monthly_cost>
       <body_style>OTHER</body_style>
       <frivio:body_type_label>Båt</frivio:body_type_label>
       <fuel_type>NONE</fuel_type>
@@ -1081,8 +1081,8 @@
         <value>0</value>
         <unit>KM</unit>
       </mileage>
-      <price>55000 SEK</price>
-      <g:price>55000 SEK</g:price>
+      <price>60000 SEK</price>
+      <g:price>60000 SEK</g:price>
       <address>Vara</address>
       <address format="simple">
         <component name="addr1">Vara</component>
@@ -1095,10 +1095,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-08-12T17:29:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>55000 SEK</frivio:current_bid>
-      <frivio:bid_count>0</frivio:bid_count>
-      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
-      <frivio:monthly_cost>870 kr/mån</frivio:monthly_cost>
+      <frivio:current_bid>60000 SEK</frivio:current_bid>
+      <frivio:bid_count>1</frivio:bid_count>
+      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
+      <frivio:monthly_cost>949 kr/mån</frivio:monthly_cost>
       <body_style>OTHER</body_style>
       <frivio:body_type_label>Husvagn</frivio:body_type_label>
       <fuel_type>NONE</fuel_type>
@@ -1314,6 +1314,53 @@
       <custom_label_1>Slutar 2026-08-16 17:57</custom_label_1>
     </item>
     <item>
+      <vehicle_id>714</vehicle_id>
+      <g:id>714</g:id>
+      <title>Yamarin 5200</title>
+      <description>Välvårdad Yamarin 5200 från 2003 - den perfekta styrpulpetbåten för dagsutflykter, bad och fiske i skärgården. Känd för sina fantastiska och trygga köregenskaper samt ett mycket lättdrivet skrov. Båten erbjuder gott om plats samt generösa stuvutrymmen för packning. Stabil, rymlig och redo för nya sommaräventyr. Säljes i fint och fungerande bruksskick. - Tiki BS750-R 80km/h trailer ingår - Yamaha 80hk med 243 motortimmar - Välskött Årsmodell: 2003 · Typ: Båt · Ort: Åmål</description>
+      <url>https://frivio.se/auktion/714</url>
+      <g:link>https://frivio.se/auktion/714</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/714/a1785738604574.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/714/a1785738604574.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/714/b1785738604919.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/714/c1785738604770.jpeg</g:additional_image_link>
+      <make>Yamarin</make>
+      <model>Yamarin 5200</model>
+      <year>2003</year>
+      <mileage>
+        <value>0</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>70000 SEK</price>
+      <g:price>70000 SEK</g:price>
+      <address>Åmål</address>
+      <address format="simple">
+        <component name="addr1">Åmål</component>
+        <component name="city">Åmål</component>
+        <component name="region">Västra Götaland</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <frivio:listing_type>auction</frivio:listing_type>
+      <frivio:auction_end_date>2026-08-17T17:29:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>70000 SEK</frivio:current_bid>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
+      <frivio:monthly_cost>1108 kr/mån</frivio:monthly_cost>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Båt</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
+      <frivio:region>Västra Götaland</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Båt</custom_label_0>
+      <custom_label_1>Slutar 2026-08-17 17:29</custom_label_1>
+    </item>
+    <item>
       <vehicle_id>709</vehicle_id>
       <g:id>709</g:id>
       <title>Knaus 590 UE Scandinavian Edition</title>
@@ -1367,6 +1414,117 @@
       <availability>AVAILABLE</availability>
       <custom_label_0>Husvagn</custom_label_0>
       <custom_label_1>Slutar 2026-08-17 17:53</custom_label_1>
+    </item>
+    <item>
+      <vehicle_id>715</vehicle_id>
+      <g:id>715</g:id>
+      <title>Adria Coral A655 SP</title>
+      <description>Rymlig och pålitlig husbil med endast 9 300 mil på mätaren. Perfekt planlösning för familjen med en praktisk taksäng som sparar golvyta. Husbilen är i gott fungerande skick. Framstolarna har ett visst kosmetiskt slitage, men erbjuder fortfarande full god komfort och funktion under färd. Mycket bil för pengarna. - Fukt och gasoltest utfört 2025 UA - Kamrem bytt 2023 - Farthållare - Året-runt däck - Pilotstolar - Stort garage - Nytt elblock - Besiktad till 2027-09-30 - Förarstol samt passagerarstol är lite slitna i tyget, men bibehåller ändå en bra funktion Årsmodell: 2006 · Typ: Husbil · Drivmedel: Diesel · Växellåda: Manuell · Mätarställning: 9 300 mil · Ort: Uppsala</description>
+      <url>https://frivio.se/auktion/715</url>
+      <g:link>https://frivio.se/auktion/715</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/715/a1785741123844.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/715/a1785741123844.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/715/b1785741124203.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/715/c1785741124464.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/715/d1785741123220.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/715/e1785741123400.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/715/f1785741123036.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/715/g1785741124080.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/715/h1785741124339.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/715/i1785741123969.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/715/j1785741123575.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/715/k1785741123710.jpeg</g:additional_image_link>
+      <make>Adria</make>
+      <model>Coral A655 SP</model>
+      <year>2006</year>
+      <mileage>
+        <value>93000</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>174500 SEK</price>
+      <g:price>174500 SEK</g:price>
+      <address>Uppsala</address>
+      <address format="simple">
+        <component name="addr1">Uppsala</component>
+        <component name="city">Uppsala</component>
+        <component name="region">Uppsala</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <transmission>MANUAL</transmission>
+      <frivio:listing_type>auction</frivio:listing_type>
+      <frivio:auction_end_date>2026-08-18T17:11:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>174500 SEK</frivio:current_bid>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
+      <frivio:monthly_cost>2761 kr/mån</frivio:monthly_cost>
+      <body_style>VAN</body_style>
+      <frivio:body_type_label>Husbil</frivio:body_type_label>
+      <fuel_type>DIESEL</fuel_type>
+      <frivio:region>Uppsala</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Husbil</custom_label_0>
+      <custom_label_1>Slutar 2026-08-18 17:11</custom_label_1>
+    </item>
+    <item>
+      <vehicle_id>717</vehicle_id>
+      <g:id>717</g:id>
+      <title>Flipper 850</title>
+      <description>Välskött Flipper 850 från 1980 - en rymlig och uppskattad familjebåt med gott om plats för både dagsutflykter och semestrar. Båten erbjuder sex bekväma bäddplatser fördelade på för- och akterruff samt ett trivsamt kabinutrymme. Den klassiska planlösningen, generösa förvaringsmöjligheterna och den tidlösa designen gör detta till en perfekt båt för familjen som vill njuta av livet på sjön. - Vattenburen värme med gasolkamin - Lowrance plotter - Ekolod - Toa med däcktömning - Landström och solceller - VP AQ200D (Bensin V8, Cheva 305) - VP200D 2025 - Service av motor och förgasare på varv. - Ny startmotor - Nytt startbatteri 2024 - Botten slipad och målad dubbla lager bottenfärg - Ny badbrygga i teak - Nya takluckan i plexiglas - Nytt peke med infälld stege 2023 - Ny generator - Ny kyl - Nya förbrukningsbatterier 3x85 Ah - Nytt svartkapell - Ny laddregulator 2022 - Nya drevgenomföringar - Ny färskvattenpump - Ny hydrofor för färskvatten samt kranar - Nytt fönster till badrum Årsmodell: 1980 · Typ: Båt · Ort: Östhammar</description>
+      <url>https://frivio.se/auktion/717</url>
+      <g:link>https://frivio.se/auktion/717</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/717/a1785741479853.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/717/a1785741479853.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/717/b1785741478948.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/717/c1785741479729.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/717/d1785741479998.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/717/e1785741480265.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/717/f1785741480129.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/717/g1785741479122.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/717/h1785741478732.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/717/i1785741479264.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/717/j1785741479507.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/717/k1785741479382.jpeg</g:additional_image_link>
+      <make>Flipper</make>
+      <model>Flipper 850</model>
+      <year>1980</year>
+      <mileage>
+        <value>0</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>60000 SEK</price>
+      <g:price>60000 SEK</g:price>
+      <address>Östhammar</address>
+      <address format="simple">
+        <component name="addr1">Östhammar</component>
+        <component name="city">Östhammar</component>
+        <component name="region">Uppsala</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <frivio:listing_type>auction</frivio:listing_type>
+      <frivio:auction_end_date>2026-08-18T17:17:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>60000 SEK</frivio:current_bid>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
+      <frivio:monthly_cost>949 kr/mån</frivio:monthly_cost>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Båt</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
+      <frivio:region>Uppsala</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Båt</custom_label_0>
+      <custom_label_1>Slutar 2026-08-18 17:17</custom_label_1>
     </item>
     <item>
       <vehicle_id>710</vehicle_id>
@@ -1472,6 +1630,57 @@
       <availability>AVAILABLE</availability>
       <custom_label_0>Båt</custom_label_0>
       <custom_label_1>Slutar 2026-08-18 17:46</custom_label_1>
+    </item>
+    <item>
+      <vehicle_id>716</vehicle_id>
+      <g:id>716</g:id>
+      <title>Ryds 478 GTI</title>
+      <description>Ryds 478 GTI är en lättkörd och stabil styrpulpet som passar lika bra för badutflykter som fiske och transport. Den bränslesnåla Mercury 50 hk ger fin prestanda och båten erbjuder gott om sittplatser samt smarta stuvutrymmen. Säljs med båtkärra och två bränsletankar - ett komplett paket som är redo för många härliga dagar på sjön. - Mercury 50hk 4-takt med cirka 60 gångtimmar - Nyservad i år - Komplett dynsats i bra skick - Ankare, tampar, kätting med lås medföljer - 30km/h kärra ingår Årsmodell: 2010 · Typ: Båt · Ort: Eskilstuna</description>
+      <url>https://frivio.se/auktion/716</url>
+      <g:link>https://frivio.se/auktion/716</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/716/a1785741275746.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/716/a1785741275746.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/716/b1785741276336.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/716/c1785741275929.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/716/d1785741276212.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/716/e1785741276464.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/716/f1785741276068.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/716/g1785741276599.jpeg</g:additional_image_link>
+      <make>Ryds</make>
+      <model>Ryds 478 GTI</model>
+      <year>2010</year>
+      <mileage>
+        <value>0</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>40000 SEK</price>
+      <g:price>40000 SEK</g:price>
+      <address>Eskilstuna</address>
+      <address format="simple">
+        <component name="addr1">Eskilstuna</component>
+        <component name="city">Eskilstuna</component>
+        <component name="region">Södermanland</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <frivio:listing_type>auction</frivio:listing_type>
+      <frivio:auction_end_date>2026-08-19T17:14:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>40000 SEK</frivio:current_bid>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
+      <frivio:monthly_cost>633 kr/mån</frivio:monthly_cost>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Båt</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
+      <frivio:region>Södermanland</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Båt</custom_label_0>
+      <custom_label_1>Slutar 2026-08-19 17:14</custom_label_1>
     </item>
   </channel>
 </rss>
