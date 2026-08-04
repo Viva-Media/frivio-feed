@@ -4,62 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Tue, 04 Aug 2026 15:29:11 GMT</lastBuildDate>
-    <item>
-      <vehicle_id>697</vehicle_id>
-      <g:id>697</g:id>
-      <title>Kabe Royal 520 XL</title>
-      <description>Upptäck en välutrustad och mycket välhållen Kabe från 2018 som kombinerar hög komfort med en smart och trivsam planlösning. Här får du en kvalitetsvagn byggd för bekväma resor året runt, med stilren interiör och generösa utrymmen. Vagnen är i mycket gott skick. Ett tryggt och bekymmersfritt val för dig som vill resa med både komfort och kvalitet. - Fukt och gasoltestad UA 2025 Årsmodell: 2018 · Typ: Husvagn · Ort: Mörbylånga</description>
-      <url>https://frivio.se/auktion/697</url>
-      <g:link>https://frivio.se/auktion/697</g:link>
-      <image>
-        <url>https://backend.frivio.se/vehicle/697/b1784718311287.jpeg</url>
-        <tag>Exterior</tag>
-      </image>
-      <g:image_link>https://backend.frivio.se/vehicle/697/b1784718311287.jpeg</g:image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/697/c1784718311454.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/697/d1784718311575.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/697/e1784718311693.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/697/f1784718311815.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/697/g1784718311948.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/697/h1784718312101.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/697/i1784718312231.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/697/j1784718312361.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/697/k1784718312470.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/697/l1784718312588.jpeg</g:additional_image_link>
-      <make>Kabe</make>
-      <model>Royal 520 XL</model>
-      <year>2018</year>
-      <mileage>
-        <value>0</value>
-        <unit>KM</unit>
-      </mileage>
-      <price>134500 SEK</price>
-      <g:price>134500 SEK</g:price>
-      <address>Mörbylånga</address>
-      <address format="simple">
-        <component name="addr1">Mörbylånga</component>
-        <component name="city">Mörbylånga</component>
-        <component name="region">Kalmar</component>
-        <component name="country">SE</component>
-      </address>
-      <condition>GOOD</condition>
-      <state_of_vehicle>USED</state_of_vehicle>
-      <frivio:listing_type>auction</frivio:listing_type>
-      <frivio:auction_end_date>2026-08-04T17:24:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>134500 SEK</frivio:current_bid>
-      <frivio:bid_count>0</frivio:bid_count>
-      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
-      <frivio:monthly_cost>2128 kr/mån</frivio:monthly_cost>
-      <body_style>OTHER</body_style>
-      <frivio:body_type_label>Husvagn</frivio:body_type_label>
-      <fuel_type>NONE</fuel_type>
-      <frivio:region>Kalmar</frivio:region>
-      <availability>AVAILABLE</availability>
-      <custom_label_0>Husvagn</custom_label_0>
-      <custom_label_1>Slutar 2026-08-04 17:24</custom_label_1>
-    </item>
+    <lastBuildDate>Tue, 04 Aug 2026 17:56:48 GMT</lastBuildDate>
     <item>
       <vehicle_id>698</vehicle_id>
       <g:id>698</g:id>
@@ -603,7 +548,7 @@
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-08-11T17:08:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
       <frivio:current_bid>241000 SEK</frivio:current_bid>
       <frivio:bid_count>1</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
@@ -658,7 +603,7 @@
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-08-11T17:20:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
       <frivio:current_bid>160000 SEK</frivio:current_bid>
       <frivio:bid_count>1</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
@@ -713,7 +658,7 @@
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-08-11T17:44:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
       <frivio:current_bid>30000 SEK</frivio:current_bid>
       <frivio:bid_count>0</frivio:bid_count>
       <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
@@ -768,7 +713,7 @@
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-08-11T17:45:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
       <frivio:current_bid>75500 SEK</frivio:current_bid>
       <frivio:bid_count>7</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
