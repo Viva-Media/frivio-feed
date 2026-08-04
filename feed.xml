@@ -4,7 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Tue, 04 Aug 2026 06:34:23 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 09:43:02 GMT</lastBuildDate>
     <item>
       <vehicle_id>697</vehicle_id>
       <g:id>697</g:id>
@@ -1630,6 +1630,166 @@
       <availability>AVAILABLE</availability>
       <custom_label_0>Båt</custom_label_0>
       <custom_label_1>Slutar 2026-08-19 17:14</custom_label_1>
+    </item>
+    <item>
+      <vehicle_id>719</vehicle_id>
+      <g:id>719</g:id>
+      <title>Ryds 510 GTI</title>
+      <description>Söker du en pålitlig, stabil och lättkörd styrpulpetsbåt? Denna Ryds 510 GTI kombinerar smart planlösning med ett lättdrivet V-skrov, perfekt för härliga badresor, fiske och fartfylld vattensport. Utrustad med en pigg och stark Mercury 75hk-motor som snabbt tar båten upp i plan och ger en stabil marschfart. Båten bjuder på generösa sällskapsytor, rymliga stuvfack och en praktisk badbrygga i aktern. - Omålad båt och endast körd i sötvatten - Dubbla trycktankar och diverse utrustning ingår - Förtöjningar, ankare samt paddel ingår - TK Boggie kärra från 2010 medföljer - Vet ej exakt motortimmar, men den är sparsamt körd - Komplett dynsats ingår Årsmodell: 2004 · Typ: Båt · Ort: Botkyrka</description>
+      <url>https://frivio.se/auktion/719</url>
+      <g:link>https://frivio.se/auktion/719</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/719/a1785759552768.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/719/a1785759552768.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/719/b1785759552605.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/719/c1785759552903.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/719/d1785759553016.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/719/e1785759553129.jpeg</g:additional_image_link>
+      <make>Ryds</make>
+      <model>Ryds 510 GTI</model>
+      <year>2004</year>
+      <mileage>
+        <value>0</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>60000 SEK</price>
+      <g:price>60000 SEK</g:price>
+      <address>Botkyrka</address>
+      <address format="simple">
+        <component name="addr1">Botkyrka</component>
+        <component name="city">Botkyrka</component>
+        <component name="region">Stockholm</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <frivio:listing_type>auction</frivio:listing_type>
+      <frivio:auction_end_date>2026-08-19T17:17:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>60000 SEK</frivio:current_bid>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
+      <frivio:monthly_cost>949 kr/mån</frivio:monthly_cost>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Båt</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
+      <frivio:region>Stockholm</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Båt</custom_label_0>
+      <custom_label_1>Slutar 2026-08-19 17:17</custom_label_1>
+    </item>
+    <item>
+      <vehicle_id>720</vehicle_id>
+      <g:id>720</g:id>
+      <title>Tailwind 36</title>
+      <description>Tailwind 36 är en välseglande och rymlig cruiser med klassiska linjer, hög komfort och gediget hantverk. Denna båt sjösattes första gången 2005 och erbjuder en trivsam interiör i varm träinredning med generösa sociala ytor, välutrustat pentry och flera bekväma sovplatser. Ombord finns gott om förvaring, separat navigationsplats och en rymlig sittbrunn för långa dagar till sjöss. Båten är väl omhändertagen och har normalt bruksslitage utifrån ålder och användning. Ett utmärkt val för både familjesegling och längre semestrar. Båten är byggd för segling på alla hav, försedd med monitor, vindroder och extra isolering. - Motorn är en BMW 35 hkr från 90-talet och få gångtimmar - Servad årligen och senast i år - Båten är sjösatt Årsmodell: 2005 · Typ: Båt · Ort: Stockholm</description>
+      <url>https://frivio.se/auktion/720</url>
+      <g:link>https://frivio.se/auktion/720</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/720/a1785826712409.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/720/a1785826712409.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/720/b1785826712947.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/720/c1785826712795.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/720/d1785826712632.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/720/e1785826716870.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/720/f1785826713615.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/720/g1785826714849.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/720/h1785826715248.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/720/i1785826714037.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/720/j1785826714436.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/720/k1785826716059.jpeg</g:additional_image_link>
+      <make>Tailwind</make>
+      <model>Tailwind 36</model>
+      <year>2005</year>
+      <mileage>
+        <value>0</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>100000 SEK</price>
+      <g:price>100000 SEK</g:price>
+      <address>Stockholm</address>
+      <address format="simple">
+        <component name="addr1">Stockholm</component>
+        <component name="city">Stockholm</component>
+        <component name="region">Stockholm</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <frivio:listing_type>auction</frivio:listing_type>
+      <frivio:auction_end_date>2026-08-20T17:58:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>100000 SEK</frivio:current_bid>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
+      <frivio:monthly_cost>1582 kr/mån</frivio:monthly_cost>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Båt</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
+      <frivio:region>Stockholm</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Båt</custom_label_0>
+      <custom_label_1>Slutar 2026-08-20 17:58</custom_label_1>
+    </item>
+    <item>
+      <vehicle_id>721</vehicle_id>
+      <g:id>721</g:id>
+      <title>Chausson C656</title>
+      <description>Välvårdad Chausson C656 från 2020 med modern planlösning och gott om utrymme för hela familjen. Husbilen erbjuder ljus och trivsam interiör med bekväma sovplatser, praktiskt kök, rymligt badrum, stor kyl med frysfack samt AC i bodelen för ökad komfort. Utrustad med cykelställ och genomtänkta förvaringslösningar gör den lika lämpad för korta weekendresor som längre semestrar. En mycket fin och välutrustad husbil redo för nya äventyr. - Ny kamrem, spännrullar, multirem samt vattenpump 2026 - Servad med olja och filter 2026 - Nytt startbatteri 2026 - 7 bältade platser samt 7 sovplatser - 1 Våningsäng - 1 Sovalkov med bäddmått 160x200 - 1 bäddbar dubbeldinette - 1 bäddbar enkeldinett Årsmodell: 2020 · Typ: Husbil · Drivmedel: Diesel · Växellåda: Manuell · Mätarställning: 6 100 mil · Ort: Boden</description>
+      <url>https://frivio.se/auktion/721</url>
+      <g:link>https://frivio.se/auktion/721</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/721/a1785830554649.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/721/a1785830554649.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/721/b1785830555117.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/721/c1785830556085.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/721/d1785830554992.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/721/e1785830555294.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/721/f1785830554851.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/721/g1785830555692.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/721/h1785830555555.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/721/i1785830555439.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/721/j1785830555811.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/721/k1785830555954.jpeg</g:additional_image_link>
+      <make>Chausson</make>
+      <model>C656</model>
+      <year>2020</year>
+      <mileage>
+        <value>61000</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>325000 SEK</price>
+      <g:price>325000 SEK</g:price>
+      <address>Boden</address>
+      <address format="simple">
+        <component name="addr1">Boden</component>
+        <component name="city">Boden</component>
+        <component name="region">Norrbotten</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <transmission>MANUAL</transmission>
+      <frivio:listing_type>auction</frivio:listing_type>
+      <frivio:auction_end_date>2026-08-23T17:58:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>325000 SEK</frivio:current_bid>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
+      <frivio:monthly_cost>5142 kr/mån</frivio:monthly_cost>
+      <body_style>VAN</body_style>
+      <frivio:body_type_label>Husbil</frivio:body_type_label>
+      <fuel_type>DIESEL</fuel_type>
+      <frivio:region>Norrbotten</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Husbil</custom_label_0>
+      <custom_label_1>Slutar 2026-08-23 17:58</custom_label_1>
     </item>
   </channel>
 </rss>
