@@ -4,7 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Wed, 05 Aug 2026 17:48:15 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 19:46:04 GMT</lastBuildDate>
     <item>
       <vehicle_id>692</vehicle_id>
       <g:id>692</g:id>
@@ -234,8 +234,8 @@
         <value>28000</value>
         <unit>KM</unit>
       </mileage>
-      <price>550000 SEK</price>
-      <g:price>550000 SEK</g:price>
+      <price>560000 SEK</price>
+      <g:price>560000 SEK</g:price>
       <address>Örnsköldsvik</address>
       <address format="simple">
         <component name="addr1">Örnsköldsvik</component>
@@ -249,10 +249,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-08-09T17:44:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>550000 SEK</frivio:current_bid>
-      <frivio:bid_count>14</frivio:bid_count>
+      <frivio:current_bid>560000 SEK</frivio:current_bid>
+      <frivio:bid_count>15</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>8702 kr/mån</frivio:monthly_cost>
+      <frivio:monthly_cost>8860 kr/mån</frivio:monthly_cost>
       <body_style>VAN</body_style>
       <frivio:body_type_label>Husbil</frivio:body_type_label>
       <fuel_type>DIESEL</fuel_type>
@@ -942,7 +942,7 @@
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-08-12T17:57:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
       <frivio:current_bid>60000 SEK</frivio:current_bid>
       <frivio:bid_count>0</frivio:bid_count>
       <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
