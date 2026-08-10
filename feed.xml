@@ -4,7 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Mon, 10 Aug 2026 11:53:37 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 13:25:12 GMT</lastBuildDate>
     <item>
       <vehicle_id>694</vehicle_id>
       <g:id>694</g:id>
@@ -1546,6 +1546,107 @@
       <availability>AVAILABLE</availability>
       <custom_label_0>Husbil</custom_label_0>
       <custom_label_1>Slutar 2026-08-24 17:36</custom_label_1>
+    </item>
+    <item>
+      <vehicle_id>728</vehicle_id>
+      <g:id>728</g:id>
+      <title>Crescent 535 Classic</title>
+      <description>Crescent 535 Classic från 2010 - en rymlig och praktisk familjebåt med klassisk hardtop. Båten erbjuder gott om plats för upp till sex personer och fyra kojplatser för övernattning. Den rymliga kajutan, bra förvaringsmöjligheter och skyddade sittbrunnen gör den perfekt för både dagsutflykter, fiske och härliga sommardagar på sjön. - Mercury 50hk 4-takt - 250 gångtimmar - Plotter - Servad varje höst - Inomhusförvarad vintertid Årsmodell: 2010 · Typ: Båt · Ort: Kungälv</description>
+      <url>https://frivio.se/auktion/728</url>
+      <g:link>https://frivio.se/auktion/728</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/728/a1786365788090.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/728/a1786365788090.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/728/b1786365787661.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/728/c1786365787817.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/728/d1786365787968.jpeg</g:additional_image_link>
+      <make>Crescent</make>
+      <model>Crescent 535 Classic</model>
+      <year>2010</year>
+      <mileage>
+        <value>0</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>50000 SEK</price>
+      <g:price>50000 SEK</g:price>
+      <address>Kungälv</address>
+      <address format="simple">
+        <component name="addr1">Kungälv</component>
+        <component name="city">Kungälv</component>
+        <component name="region">Västra Götaland</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <frivio:listing_type>auction</frivio:listing_type>
+      <frivio:auction_end_date>2026-08-26T12:42:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>50000 SEK</frivio:current_bid>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
+      <frivio:monthly_cost>791 kr/mån</frivio:monthly_cost>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Båt</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
+      <frivio:region>Västra Götaland</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Båt</custom_label_0>
+      <custom_label_1>Slutar 2026-08-26 12:42</custom_label_1>
+    </item>
+    <item>
+      <vehicle_id>731</vehicle_id>
+      <g:id>731</g:id>
+      <title>Kabe Royal 780 TDL KS</title>
+      <description>KABE Royal 780 TDL KS 2008. En rymlig och välskött premiumvagn med hög komfort året runt. Planlösningen erbjuder stor rundsoffa fram, mittgrupp, välutrustat kök med spis, ugn och stor kyl/frys samt en bekväm dubbelsäng bak. Badrummet har separat duschkabin och gott om förvaring. Vagnen är utrustad med KABEs välkända vinteregenskaper. Invändigt är den ljus, trivsam och mycket väl omhändertagen. En perfekt husvagn för både långresor och säsongscamping där komfort och kvalitet står i fokus. - Besiktad till 2027-06-30 - Nya däck 2025 - Fukttestad UA 2026 - Låscylinder till gasolluckan saknas - Isabella förtält med lättviktsstativ Årsmodell: 2008 · Typ: Husvagn · Ort: Sandviken</description>
+      <url>https://frivio.se/auktion/731</url>
+      <g:link>https://frivio.se/auktion/731</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/731/a1786368152670.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/731/a1786368152670.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/731/b1786368152550.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/731/c1786368152405.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/731/d1786368152795.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/731/e1786368151873.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/731/f1786368152054.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/731/g1786368151685.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/731/h1786368152179.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/731/i1786368152295.jpeg</g:additional_image_link>
+      <make>Kabe</make>
+      <model>Royal 780 TDL KS</model>
+      <year>2008</year>
+      <mileage>
+        <value>0</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>110000 SEK</price>
+      <g:price>110000 SEK</g:price>
+      <address>Sandviken</address>
+      <address format="simple">
+        <component name="addr1">Sandviken</component>
+        <component name="city">Sandviken</component>
+        <component name="region">Gävleborg</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <frivio:listing_type>auction</frivio:listing_type>
+      <frivio:auction_end_date>2026-08-27T17:21:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>110000 SEK</frivio:current_bid>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
+      <frivio:monthly_cost>1740 kr/mån</frivio:monthly_cost>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Husvagn</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
+      <frivio:region>Gävleborg</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Husvagn</custom_label_0>
+      <custom_label_1>Slutar 2026-08-27 17:21</custom_label_1>
     </item>
   </channel>
 </rss>
