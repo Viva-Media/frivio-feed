@@ -4,7 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Mon, 10 Aug 2026 13:25:12 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 15:06:15 GMT</lastBuildDate>
     <item>
       <vehicle_id>694</vehicle_id>
       <g:id>694</g:id>
@@ -1548,6 +1548,59 @@
       <custom_label_1>Slutar 2026-08-24 17:36</custom_label_1>
     </item>
     <item>
+      <vehicle_id>727</vehicle_id>
+      <g:id>727</g:id>
+      <title>Sea ray Sundancer</title>
+      <description>Sea Ray Sundancer 25 fot från 1986 - en rymlig och klassisk familjebåt för härliga dagar på sjön. Ombord finns generösa sittplatser, sovutrymme, pentry med kylskåp och diskho samt separat toalett. Båten har en trivsam sittbrunn med kapell och badplattform. En välutrustad båt med gott om utrymme för semester och utflykter. * NY Mercruisrer V8 mpi 26 gångtimmar 300 Hk * 100 gallon bensintank * 150 l vattentank * 2-delat kapell * Inverter som producerar 220v för navigationsutrustning * 4-6 kojplatser * Pentry och toalett med rinnde vatten * Isothermkylskåp * Vattenspolning på toaletten * Spritkök * VHF Årsmodell: 1986 · Typ: Båt · Ort: Ekerö</description>
+      <url>https://frivio.se/auktion/727</url>
+      <g:link>https://frivio.se/auktion/727</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/727/a1786362485140.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/727/a1786362485140.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/727/b1786362485317.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/727/c1786362485693.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/727/d1786362485463.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/727/e1786362485580.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/727/f1786362485812.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/727/g1786362486033.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/727/h1786362485918.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/727/i1786362486157.jpeg</g:additional_image_link>
+      <make>Sea</make>
+      <model>Sea ray Sundancer</model>
+      <year>1986</year>
+      <mileage>
+        <value>0</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>65000 SEK</price>
+      <g:price>65000 SEK</g:price>
+      <address>Ekerö</address>
+      <address format="simple">
+        <component name="addr1">Ekerö</component>
+        <component name="city">Ekerö</component>
+        <component name="region">Stockholm</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <frivio:listing_type>auction</frivio:listing_type>
+      <frivio:auction_end_date>2026-08-25T17:35:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>65000 SEK</frivio:current_bid>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
+      <frivio:monthly_cost>1028 kr/mån</frivio:monthly_cost>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Båt</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
+      <frivio:region>Stockholm</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Båt</custom_label_0>
+      <custom_label_1>Slutar 2026-08-25 17:35</custom_label_1>
+    </item>
+    <item>
       <vehicle_id>728</vehicle_id>
       <g:id>728</g:id>
       <title>Crescent 535 Classic</title>
@@ -1594,6 +1647,61 @@
       <availability>AVAILABLE</availability>
       <custom_label_0>Båt</custom_label_0>
       <custom_label_1>Slutar 2026-08-26 12:42</custom_label_1>
+    </item>
+    <item>
+      <vehicle_id>729</vehicle_id>
+      <g:id>729</g:id>
+      <title>Adria Adora 563TK</title>
+      <description>Adria Adora 563TK från 2012 i bra begagnat skick. En rymlig och välplanerad husvagn som passar utmärkt för familjen, med gott om sovplatser och praktiska förvaringsmöjligheter. Ljus och trivsam interiör med kök, sittgrupp och badrum. En bekväm husvagn för både längre semestrar och härliga helger på camping. * Markis medföljer men påsen börjar bli dålig * Varmvatten på elpatron * 180w Solcell * Gasolvarnare * Brandlarm * 12v laddare monterade (2 vid dubbelsäng och 1 nedre våningssäng) * 2-år gamla däck * Nya friktionsbelägg i draget 2026 * Cykelställ bak medföljer (ej monterat) * Fukttestad 2024-05-21 UA * Besiktad till 2028-05-31 Årsmodell: 2012 · Typ: Husvagn · Ort: Laholm</description>
+      <url>https://frivio.se/auktion/729</url>
+      <g:link>https://frivio.se/auktion/729</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/729/a1786367142408.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/729/a1786367142408.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/729/b1786367142607.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/729/c1786367142782.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/729/d1786367142910.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/729/e1786367143210.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/729/f1786367143053.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/729/g1786367143848.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/729/h1786367143353.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/729/i1786367143680.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/729/j1786367143520.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/729/k1786367144181.jpeg</g:additional_image_link>
+      <make>Adria</make>
+      <model>Adora 563TK</model>
+      <year>2012</year>
+      <mileage>
+        <value>0</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>92500 SEK</price>
+      <g:price>92500 SEK</g:price>
+      <address>Laholm</address>
+      <address format="simple">
+        <component name="addr1">Laholm</component>
+        <component name="city">Laholm</component>
+        <component name="region">Halland</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <frivio:listing_type>auction</frivio:listing_type>
+      <frivio:auction_end_date>2026-08-26T17:01:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>92500 SEK</frivio:current_bid>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
+      <frivio:monthly_cost>1464 kr/mån</frivio:monthly_cost>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Husvagn</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
+      <frivio:region>Halland</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Husvagn</custom_label_0>
+      <custom_label_1>Slutar 2026-08-26 17:01</custom_label_1>
     </item>
     <item>
       <vehicle_id>731</vehicle_id>
