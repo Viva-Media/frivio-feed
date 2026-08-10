@@ -4,109 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Mon, 10 Aug 2026 17:00:18 GMT</lastBuildDate>
-    <item>
-      <vehicle_id>694</vehicle_id>
-      <g:id>694</g:id>
-      <title>Pilote P600</title>
-      <description>Trevlig Pilote P600 från 2006 med cirka 6 500 mil på mätaren. En lättkörd och praktisk halvintegrerad husbil med genomtänkt planlösning, rymlig franskbädd bak, välutrustat kök samt toalett med separat dusch. Perfekt för både weekendresor och längre semestrar. Ett fint exemplar som erbjuder hög komfort och är redo för nya äventyr. - Besiktad till 2027-02-28 - Kamrem bytt 2025 - Nyservad Årsmodell: 2006 · Typ: Husbil · Drivmedel: Diesel · Växellåda: Manuell · Mätarställning: 6 500 mil · Ort: Varberg</description>
-      <url>https://frivio.se/auktion/694</url>
-      <g:link>https://frivio.se/auktion/694</g:link>
-      <image>
-        <url>https://backend.frivio.se/vehicle/694/a1784642971733.jpeg</url>
-        <tag>Exterior</tag>
-      </image>
-      <g:image_link>https://backend.frivio.se/vehicle/694/a1784642971733.jpeg</g:image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/694/b1784642971909.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/694/c1784642972051.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/694/d1784642972197.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/694/e1784642972321.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/694/f1784642972963.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/694/g1784642973974.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/694/h1784642974236.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/694/i1784642973097.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/694/j1784642973360.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/694/k1784642974103.jpeg</g:additional_image_link>
-      <make>Pilote</make>
-      <model>P600</model>
-      <year>2006</year>
-      <mileage>
-        <value>65000</value>
-        <unit>KM</unit>
-      </mileage>
-      <price>205000 SEK</price>
-      <g:price>205000 SEK</g:price>
-      <address>Varberg</address>
-      <address format="simple">
-        <component name="addr1">Varberg</component>
-        <component name="city">Varberg</component>
-        <component name="region">Halland</component>
-        <component name="country">SE</component>
-      </address>
-      <condition>GOOD</condition>
-      <state_of_vehicle>USED</state_of_vehicle>
-      <transmission>MANUAL</transmission>
-      <frivio:listing_type>auction</frivio:listing_type>
-      <frivio:auction_end_date>2026-08-10T17:07:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>205000 SEK</frivio:current_bid>
-      <frivio:bid_count>16</frivio:bid_count>
-      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>3244 kr/mån</frivio:monthly_cost>
-      <body_style>VAN</body_style>
-      <frivio:body_type_label>Husbil</frivio:body_type_label>
-      <fuel_type>DIESEL</fuel_type>
-      <frivio:region>Halland</frivio:region>
-      <availability>AVAILABLE</availability>
-      <custom_label_0>Husbil</custom_label_0>
-      <custom_label_1>Slutar 2026-08-10 17:07</custom_label_1>
-    </item>
-    <item>
-      <vehicle_id>689</vehicle_id>
-      <g:id>689</g:id>
-      <title>Sandström Classic 565</title>
-      <description>Sandström Classic 565 är en stabil och lättkörd styrpulpetbåt som passar perfekt för fiske, bad och familjeutflykter. Utrustad med en Parsun 60 hk som ger god prestanda och trygga köregenskaper. Rymliga stuvutrymmen, praktisk planlösning och plats för upp till sex personer gör detta till en mångsidig och lättskött fritidsbåt. - Motorn är från 2019 - 60hk motor - Cirka 18h drifttid - Senaste service gjord 2025 - Välutrustad med instrument - 30km/h Trailer ingår Årsmodell: 2019 · Typ: Båt · Ort: Gävle</description>
-      <url>https://frivio.se/auktion/689</url>
-      <g:link>https://frivio.se/auktion/689</g:link>
-      <image>
-        <url>https://backend.frivio.se/vehicle/689/a1784547330205.jpeg</url>
-        <tag>Exterior</tag>
-      </image>
-      <g:image_link>https://backend.frivio.se/vehicle/689/a1784547330205.jpeg</g:image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/689/b1784547330042.jpeg</g:additional_image_link>
-      <make>Sandström</make>
-      <model>Sandström Classic 565</model>
-      <year>2019</year>
-      <mileage>
-        <value>0</value>
-        <unit>KM</unit>
-      </mileage>
-      <price>86000 SEK</price>
-      <g:price>86000 SEK</g:price>
-      <address>Gävle</address>
-      <address format="simple">
-        <component name="addr1">Gävle</component>
-        <component name="city">Gävle</component>
-        <component name="region">Gävleborg</component>
-        <component name="country">SE</component>
-      </address>
-      <condition>GOOD</condition>
-      <state_of_vehicle>USED</state_of_vehicle>
-      <frivio:listing_type>auction</frivio:listing_type>
-      <frivio:auction_end_date>2026-08-10T17:35:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>86000 SEK</frivio:current_bid>
-      <frivio:bid_count>1</frivio:bid_count>
-      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>1361 kr/mån</frivio:monthly_cost>
-      <body_style>OTHER</body_style>
-      <frivio:body_type_label>Båt</frivio:body_type_label>
-      <fuel_type>NONE</fuel_type>
-      <frivio:region>Gävleborg</frivio:region>
-      <availability>AVAILABLE</availability>
-      <custom_label_0>Båt</custom_label_0>
-      <custom_label_1>Slutar 2026-08-10 17:35</custom_label_1>
-    </item>
+    <lastBuildDate>Mon, 10 Aug 2026 19:06:18 GMT</lastBuildDate>
     <item>
       <vehicle_id>700</vehicle_id>
       <g:id>700</g:id>
@@ -130,8 +28,8 @@
         <value>0</value>
         <unit>KM</unit>
       </mileage>
-      <price>257000 SEK</price>
-      <g:price>257000 SEK</g:price>
+      <price>300000 SEK</price>
+      <g:price>300000 SEK</g:price>
       <address>Orust</address>
       <address format="simple">
         <component name="addr1">Orust</component>
@@ -144,10 +42,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-08-11T17:08:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>257000 SEK</frivio:current_bid>
-      <frivio:bid_count>6</frivio:bid_count>
+      <frivio:current_bid>300000 SEK</frivio:current_bid>
+      <frivio:bid_count>7</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>4066 kr/mån</frivio:monthly_cost>
+      <frivio:monthly_cost>4747 kr/mån</frivio:monthly_cost>
       <body_style>OTHER</body_style>
       <frivio:body_type_label>Båt</frivio:body_type_label>
       <fuel_type>NONE</fuel_type>
@@ -836,7 +734,7 @@
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-08-17T17:29:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
       <frivio:current_bid>70000 SEK</frivio:current_bid>
       <frivio:bid_count>0</frivio:bid_count>
       <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
@@ -891,7 +789,7 @@
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-08-17T17:53:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
       <frivio:current_bid>145000 SEK</frivio:current_bid>
       <frivio:bid_count>1</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
