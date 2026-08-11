@@ -4,7 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Tue, 11 Aug 2026 11:51:10 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 13:21:45 GMT</lastBuildDate>
     <item>
       <vehicle_id>700</vehicle_id>
       <g:id>700</g:id>
@@ -1708,6 +1708,61 @@
       <availability>AVAILABLE</availability>
       <custom_label_0>Husvagn</custom_label_0>
       <custom_label_1>Slutar 2026-08-27 17:21</custom_label_1>
+    </item>
+    <item>
+      <vehicle_id>718</vehicle_id>
+      <g:id>718</g:id>
+      <title>Adria Adora 593UK</title>
+      <description>Fin och välvårdad Adria Adora 593 UK från 2016 Jubileumsmodell, och en perfekt familjevagn med rymlig barnkammardel och bekväma våningssängar. Denna välutrustade jubileumsutgåva bjuder på ett fantastiskt ljusinsläpp genom det stora panoramataket, ett fullstort kök och ett rymligt badrum. Vagnen har modern design, smart planlösning och generösa förvaringsutrymmen. Den är redo för nya campingäventyr både sommar och vinter. - Ventura D300 förtält från 2024 med lättviktspinnar - Truma Aventa Comfort AC kyla/värme monterad 2024 - Isabella 3-m förtält med pinnar från 2016 - Bäddmadrasser till säng - Isabella förtältsmatta - Adria Connect Bluetooth - Nytt AGM 95ah batteri 2026 - Nya däck 2026 Årsmodell: 2016 · Typ: Husvagn · Ort: Sala</description>
+      <url>https://frivio.se/auktion/718</url>
+      <g:link>https://frivio.se/auktion/718</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/718/a1785758983766.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/718/a1785758983766.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/718/b1785758983955.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/718/c1785758984100.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/718/d1785758984948.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/718/e1785758984474.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/718/f1785758984244.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/718/g1785758984359.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/718/h1785758984834.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/718/i1785758984711.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/718/j1785758984601.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/718/k1785758985220.jpeg</g:additional_image_link>
+      <make>Adria</make>
+      <model>Adora 593UK</model>
+      <year>2016</year>
+      <mileage>
+        <value>0</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>130000 SEK</price>
+      <g:price>130000 SEK</g:price>
+      <address>Sala</address>
+      <address format="simple">
+        <component name="addr1">Sala</component>
+        <component name="city">Sala</component>
+        <component name="region">Västmanland</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <frivio:listing_type>auction</frivio:listing_type>
+      <frivio:auction_end_date>2026-08-31T17:53:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>130000 SEK</frivio:current_bid>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
+      <frivio:monthly_cost>2057 kr/mån</frivio:monthly_cost>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Husvagn</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
+      <frivio:region>Västmanland</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Husvagn</custom_label_0>
+      <custom_label_1>Slutar 2026-08-31 17:53</custom_label_1>
     </item>
   </channel>
 </rss>
