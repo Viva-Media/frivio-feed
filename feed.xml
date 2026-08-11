@@ -4,7 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Tue, 11 Aug 2026 04:25:43 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 05:57:12 GMT</lastBuildDate>
     <item>
       <vehicle_id>700</vehicle_id>
       <g:id>700</g:id>
@@ -1600,6 +1600,61 @@
       <availability>AVAILABLE</availability>
       <custom_label_0>Husvagn</custom_label_0>
       <custom_label_1>Slutar 2026-08-26 17:01</custom_label_1>
+    </item>
+    <item>
+      <vehicle_id>730</vehicle_id>
+      <g:id>730</g:id>
+      <title>Knaus Sudwind 500 FU</title>
+      <description>Knaus Südwind 500 FU från 2020 - en modern och mycket välplanerad husvagn med ljus och stilren interiör. Här finns en rymlig rundsittgrupp, bekväm dubbelsäng, välutrustat kök och praktiskt badrum. Gott om förvaring och fina materialval skapar en hemtrevlig känsla. En bekväm husvagn för såväl semesterresor som längre campingvistelser. * Besiktad till 2027-06-30 Årsmodell: 2020 · Typ: Husvagn · Ort: Vingåker</description>
+      <url>https://frivio.se/auktion/730</url>
+      <g:link>https://frivio.se/auktion/730</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/730/a1786367735553.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/730/a1786367735553.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/730/b1786367735753.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/730/c1786367735917.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/730/d1786367736100.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/730/e1786367736399.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/730/f1786367736257.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/730/g1786367736567.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/730/h1786367736731.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/730/i1786367736929.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/730/j1786367737095.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/730/k1786367737271.jpeg</g:additional_image_link>
+      <make>Knaus</make>
+      <model>Sudwind 500 FU</model>
+      <year>2020</year>
+      <mileage>
+        <value>0</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>107500 SEK</price>
+      <g:price>107500 SEK</g:price>
+      <address>Vingåker</address>
+      <address format="simple">
+        <component name="addr1">Vingåker</component>
+        <component name="city">Vingåker</component>
+        <component name="region">Södermanland</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <frivio:listing_type>auction</frivio:listing_type>
+      <frivio:auction_end_date>2026-08-26T17:10:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>107500 SEK</frivio:current_bid>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
+      <frivio:monthly_cost>1701 kr/mån</frivio:monthly_cost>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Husvagn</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
+      <frivio:region>Södermanland</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Husvagn</custom_label_0>
+      <custom_label_1>Slutar 2026-08-26 17:10</custom_label_1>
     </item>
     <item>
       <vehicle_id>731</vehicle_id>
