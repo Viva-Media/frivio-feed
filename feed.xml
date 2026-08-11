@@ -4,7 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Tue, 11 Aug 2026 13:21:45 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 15:05:40 GMT</lastBuildDate>
     <item>
       <vehicle_id>700</vehicle_id>
       <g:id>700</g:id>
@@ -1444,6 +1444,59 @@
       <availability>AVAILABLE</availability>
       <custom_label_0>Husbil</custom_label_0>
       <custom_label_1>Slutar 2026-08-24 17:36</custom_label_1>
+    </item>
+    <item>
+      <vehicle_id>733</vehicle_id>
+      <g:id>733</g:id>
+      <title>Kabe Royal 780 TDL KS</title>
+      <description>KABE Royal 780 TDL KS från 2022 - en exklusiv husvagn för dig som vill resa bekvämt året runt. Utrustad med AC för varma dagar och mover som gör parkeringen enkel. En välutrustad vagn med hög KABE-kvalitet och gott om plats för både familj och längre resor. Standbytältet samt markiserna vid fönstren ingår ej. Besiktad till 2028-06-30 Årsmodell: 2022 · Typ: Husvagn · Ort: Upplands Väsby</description>
+      <url>https://frivio.se/auktion/733</url>
+      <g:link>https://frivio.se/auktion/733</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/733/a1786443731040.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/733/a1786443731040.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/733/b1786443731225.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/733/c1786443731369.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/733/d1786443731490.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/733/e1786443731615.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/733/f1786443731742.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/733/g1786443731867.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/733/h1786443732004.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/733/i1786443732120.jpeg</g:additional_image_link>
+      <make>Kabe</make>
+      <model>Royal 780 TDL KS</model>
+      <year>2022</year>
+      <mileage>
+        <value>0</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>350000 SEK</price>
+      <g:price>350000 SEK</g:price>
+      <address>Upplands Väsby</address>
+      <address format="simple">
+        <component name="addr1">Upplands Väsby</component>
+        <component name="city">Upplands Väsby</component>
+        <component name="region">Stockholm</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <frivio:listing_type>auction</frivio:listing_type>
+      <frivio:auction_end_date>2026-08-25T17:04:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>350000 SEK</frivio:current_bid>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
+      <frivio:monthly_cost>5538 kr/mån</frivio:monthly_cost>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Husvagn</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
+      <frivio:region>Stockholm</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Husvagn</custom_label_0>
+      <custom_label_1>Slutar 2026-08-25 17:04</custom_label_1>
     </item>
     <item>
       <vehicle_id>727</vehicle_id>
