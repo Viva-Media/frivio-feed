@@ -4,7 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Wed, 12 Aug 2026 06:19:47 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 08:24:01 GMT</lastBuildDate>
     <item>
       <vehicle_id>707</vehicle_id>
       <g:id>707</g:id>
@@ -1338,6 +1338,61 @@
       <custom_label_1>Slutar 2026-08-25 17:35</custom_label_1>
     </item>
     <item>
+      <vehicle_id>735</vehicle_id>
+      <g:id>735</g:id>
+      <title>Kabe Safir GLE KS</title>
+      <description>KABE Safir GLE KS från 2014 - en rymlig och välutrustad familjevagn med separat barnkammare och våningssängar. Den trivsamma planlösningen erbjuder generös sittgrupp, välutrustat kök, gott om förvaring och fina sällskapsytor. En bekväm och ombonad husvagn med gott om plats för hela familjen, perfekt för både semester och längre campingvistelser. - Endast 1 ägare sen ny - Väldig få skavanker - Chassit har &quot;anti slinger&quot; funktion Årsmodell: 2014 · Typ: Husvagn · Ort: Falköping</description>
+      <url>https://frivio.se/auktion/735</url>
+      <g:link>https://frivio.se/auktion/735</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/735/a1786455406160.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/735/a1786455406160.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/735/b1786455406326.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/735/c1786455406487.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/735/d1786455406597.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/735/e1786455406711.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/735/g1786455406993.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/735/h1786455407107.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/735/i1786455407225.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/735/j1786455407348.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/735/k1786455407458.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/735/l1786455407579.jpeg</g:additional_image_link>
+      <make>Kabe</make>
+      <model>Safir GLE KS</model>
+      <year>2014</year>
+      <mileage>
+        <value>0</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>125000 SEK</price>
+      <g:price>125000 SEK</g:price>
+      <address>Falköping</address>
+      <address format="simple">
+        <component name="addr1">Falköping</component>
+        <component name="city">Falköping</component>
+        <component name="region">Västra Götaland</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <frivio:listing_type>auction</frivio:listing_type>
+      <frivio:auction_end_date>2026-08-25T18:33:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>125000 SEK</frivio:current_bid>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
+      <frivio:monthly_cost>1978 kr/mån</frivio:monthly_cost>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Husvagn</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
+      <frivio:region>Västra Götaland</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Husvagn</custom_label_0>
+      <custom_label_1>Slutar 2026-08-25 18:33</custom_label_1>
+    </item>
+    <item>
       <vehicle_id>728</vehicle_id>
       <g:id>728</g:id>
       <title>Crescent 535 Classic</title>
@@ -1547,6 +1602,115 @@
       <availability>AVAILABLE</availability>
       <custom_label_0>Husvagn</custom_label_0>
       <custom_label_1>Slutar 2026-08-27 17:21</custom_label_1>
+    </item>
+    <item>
+      <vehicle_id>732</vehicle_id>
+      <g:id>732</g:id>
+      <title>Nimbus 21 DC</title>
+      <description>Nimbus 21 DC från 1985 - en klassisk och sportig daycruiser med fina sjöegenskaper och tidlös design. Båten erbjuder en rymlig sittbrunn med gott om plats för familj och vänner samt en praktisk ruff med sovplatser. En trevlig och mångsidig båt för både dagsutflykter, bad och härliga turer på sjön. - Marchfart är 22 knop och maxfart är ca 35 knop. - Motor: VP AQ200D - Renoverad förgasare (2024) - Bytt till brytarlöst tändsystem (2024) - Ny bränslepump (2023) - Ny olja och filter samt bränslefilter inför varje säsong - Drev: VP 290 SP - Nya trimkolvar (2023) - Nya bälgar (2023) - Bytt drevolja (2024) - Nya dynor 2023 se bilder - Kapell från 2019 i bra skick - Plotter Garmin 721 med ekolod och fartmätare - Boogietrailer 30km/h ingår Årsmodell: 1985 · Typ: Båt · Ort: Karlskrona</description>
+      <url>https://frivio.se/auktion/732</url>
+      <g:link>https://frivio.se/auktion/732</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/732/a1786440825627.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/732/a1786440825627.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/732/b1786440826346.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/732/c1786440826223.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/732/d1786440826078.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/732/e1786440825936.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/732/f1786440825796.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/732/g1786440826625.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/732/h1786440826471.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/732/j1786440826907.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/732/k1786440826760.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/732/l1786440827060.jpeg</g:additional_image_link>
+      <make>Nimbus</make>
+      <model>Nimbus 21 DC</model>
+      <year>1985</year>
+      <mileage>
+        <value>0</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>50000 SEK</price>
+      <g:price>50000 SEK</g:price>
+      <address>Karlskrona</address>
+      <address format="simple">
+        <component name="addr1">Karlskrona</component>
+        <component name="city">Karlskrona</component>
+        <component name="region">Blekinge</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <frivio:listing_type>auction</frivio:listing_type>
+      <frivio:auction_end_date>2026-08-27T17:30:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>50000 SEK</frivio:current_bid>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
+      <frivio:monthly_cost>791 kr/mån</frivio:monthly_cost>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Båt</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
+      <frivio:region>Blekinge</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Båt</custom_label_0>
+      <custom_label_1>Slutar 2026-08-27 17:30</custom_label_1>
+    </item>
+    <item>
+      <vehicle_id>734</vehicle_id>
+      <g:id>734</g:id>
+      <title>Bella 620 DC</title>
+      <description>Bella 620 DC - en sportig och rymlig daycruiser som passar perfekt för härliga dagar på sjön. Båten erbjuder en generös sittbrunn med gott om plats för familj och vänner samt en praktisk ruff med två sovplatser. En mångsidig familjebåt som passar lika bra för bad, dagsutflykter och längre turer. Motor &amp; Dokumentation: - Mercury 4-cyl 2-takt 125HK (2004): - En mycket rapp och bränsleeffektiv motor. Den har ett fantastiskt vridmoment som gör att båten går upp i plan snabbt, vilket gör den idealisk för vattensporter som vattenskidor och tube. - Service: Servad på professionell marin verkstad. - Historik: Servicehistorik finns för de senaste åren. Uppgraderingar: - Nytt kapell (2022): I utmärkt skick. - Elsystem (Litium): Nytt LiFePO4-batteri för förbrukning (bo-del). Ger mycket bättre kapacitet jämfört med vanliga batterier. - Victron Laddsystem: Victron Orion-Tr DC-DC (isolerad omvandlare). - Garmin Echomap 42dv: Kombinerad plotter och ekolod med sjökort över södra västkusten. Trailer: - Brenderup O2 (2014): Registrerad och bromsad 80 km/h-trailer. Utrustning: - Badstege - Rymlig U-soffa - Rejäla förarstolar - Lanternor - Länspump - USB-uttag för laddning - Ankare för och akter - Fendrar - Sittdynorna håller på att kläs om i samma blå kulör som den marinblå på bilden. Årsmodell: 2003 · Typ: Båt · Ort: Sölvesborg</description>
+      <url>https://frivio.se/auktion/734</url>
+      <g:link>https://frivio.se/auktion/734</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/734/a1786454810170.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/734/a1786454810170.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/734/b1786454811116.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/734/c1786454810553.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/734/d1786454810397.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/734/e1786454811280.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/734/f1786454810702.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/734/g1786454810907.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/734/h1786454811487.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/734/i1786454811800.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/734/j1786454811681.jpeg</g:additional_image_link>
+      <make>Bella</make>
+      <model>Bella 620 DC</model>
+      <year>2003</year>
+      <mileage>
+        <value>0</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>80000 SEK</price>
+      <g:price>80000 SEK</g:price>
+      <address>Sölvesborg</address>
+      <address format="simple">
+        <component name="addr1">Sölvesborg</component>
+        <component name="city">Sölvesborg</component>
+        <component name="region">Blekinge</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <frivio:listing_type>auction</frivio:listing_type>
+      <frivio:auction_end_date>2026-08-30T17:21:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>80000 SEK</frivio:current_bid>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
+      <frivio:monthly_cost>1266 kr/mån</frivio:monthly_cost>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Båt</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
+      <frivio:region>Blekinge</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Båt</custom_label_0>
+      <custom_label_1>Slutar 2026-08-30 17:21</custom_label_1>
     </item>
     <item>
       <vehicle_id>718</vehicle_id>
