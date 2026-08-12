@@ -4,7 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Wed, 12 Aug 2026 11:53:16 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 13:25:45 GMT</lastBuildDate>
     <item>
       <vehicle_id>707</vehicle_id>
       <g:id>707</g:id>
@@ -1549,6 +1549,56 @@
       <availability>AVAILABLE</availability>
       <custom_label_0>Husvagn</custom_label_0>
       <custom_label_1>Slutar 2026-08-26 17:10</custom_label_1>
+    </item>
+    <item>
+      <vehicle_id>724</vehicle_id>
+      <g:id>724</g:id>
+      <title>Cabby 650L</title>
+      <description>Cabby 650L från 2013 - en rymlig och välplanerad husvagn med hög komfort och ombonad känsla. Här finns generösa sällskapsytor, bekväma sovplatser, välutrustat kök och gott om praktisk förvaring. En trivsam kvalitetsvagn som passar utmärkt för både längre semesterresor och härliga campinghelger under stora delar av året. - Markis - Isabella förtält - Cityvattenanslutning - Utvändigt gasoluttag (perfekt för grill/Muurikka) - Långbäddar - bekvämt och rymligt - Välvårdad, allt fungerar som det ska - Vagnen är redo för säsongen - bara att koppla på och åka! Årsmodell: 2013 · Typ: Husvagn · Ort: Norrköping</description>
+      <url>https://frivio.se/auktion/724</url>
+      <g:link>https://frivio.se/auktion/724</g:link>
+      <image>
+        <url>https://backend.frivio.se/vehicle/724/b1786535893644.jpeg</url>
+        <tag>Exterior</tag>
+      </image>
+      <g:image_link>https://backend.frivio.se/vehicle/724/b1786535893644.jpeg</g:image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/724/c1786535893906.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/724/d1786535893778.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/724/e1786535893494.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/724/f1786535894164.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://backend.frivio.se/vehicle/724/g1786535894046.jpeg</g:additional_image_link>
+      <make>Cabby</make>
+      <model>650L</model>
+      <year>2013</year>
+      <mileage>
+        <value>0</value>
+        <unit>KM</unit>
+      </mileage>
+      <price>95000 SEK</price>
+      <g:price>95000 SEK</g:price>
+      <address>Norrköping</address>
+      <address format="simple">
+        <component name="addr1">Norrköping</component>
+        <component name="city">Norrköping</component>
+        <component name="region">Östergötland</component>
+        <component name="country">SE</component>
+      </address>
+      <condition>GOOD</condition>
+      <state_of_vehicle>USED</state_of_vehicle>
+      <frivio:listing_type>auction</frivio:listing_type>
+      <frivio:auction_end_date>2026-08-26T17:50:00.000Z</frivio:auction_end_date>
+      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:current_bid>95000 SEK</frivio:current_bid>
+      <frivio:bid_count>0</frivio:bid_count>
+      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
+      <frivio:monthly_cost>1503 kr/mån</frivio:monthly_cost>
+      <body_style>OTHER</body_style>
+      <frivio:body_type_label>Husvagn</frivio:body_type_label>
+      <fuel_type>NONE</fuel_type>
+      <frivio:region>Östergötland</frivio:region>
+      <availability>AVAILABLE</availability>
+      <custom_label_0>Husvagn</custom_label_0>
+      <custom_label_1>Slutar 2026-08-26 17:50</custom_label_1>
     </item>
     <item>
       <vehicle_id>731</vehicle_id>
