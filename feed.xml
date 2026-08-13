@@ -4,63 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Thu, 13 Aug 2026 13:27:32 GMT</lastBuildDate>
-    <item>
-      <vehicle_id>708</vehicle_id>
-      <g:id>708</g:id>
-      <title>Sunlight T69L</title>
-      <description>Välutrustad Sunlight T69 L från 2017 med rymlig planlösning och hög komfort för både korta och långa resor. Husbilen erbjuder queenbed, stort garage, komplett kök, separat dusch och toalett samt en trivsam sittgrupp med vridbara framstolar. Byggd på Fiat med dragkrok och markis - en lättkörd och praktisk husbil som passar perfekt för hela familjens campingäventyr. - Senaste service gjord 2025 vid 2800mil - Dragkrok - Vinteförvarad inomhus - Besiktad till 2026-08-31 - Fukttest gjort 2022 - men levereras fukttestad Årsmodell: 2017 · Typ: Husbil · Drivmedel: Diesel · Växellåda: Automatisk · Mätarställning: 3 500 mil · Ort: Borås</description>
-      <url>https://frivio.se/auktion/708</url>
-      <g:link>https://frivio.se/auktion/708</g:link>
-      <image>
-        <url>https://backend.frivio.se/vehicle/708/a1785250261286.jpeg</url>
-        <tag>Exterior</tag>
-      </image>
-      <g:image_link>https://backend.frivio.se/vehicle/708/a1785250261286.jpeg</g:image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/708/b1785250261429.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/708/c1785250261625.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/708/d1785250260222.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/708/e1785250260376.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/708/f1785250260892.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/708/g1785250261025.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/708/h1785250260636.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/708/i1785250261148.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/708/j1785250260508.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/708/k1785250260757.jpeg</g:additional_image_link>
-      <make>Sunlight</make>
-      <model>T69L</model>
-      <year>2017</year>
-      <mileage>
-        <value>35000</value>
-        <unit>KM</unit>
-      </mileage>
-      <price>490000 SEK</price>
-      <g:price>490000 SEK</g:price>
-      <address>Borås</address>
-      <address format="simple">
-        <component name="addr1">Borås</component>
-        <component name="city">Borås</component>
-        <component name="region">Västra Götaland</component>
-        <component name="country">SE</component>
-      </address>
-      <condition>GOOD</condition>
-      <state_of_vehicle>USED</state_of_vehicle>
-      <transmission>AUTOMATIC</transmission>
-      <frivio:listing_type>auction</frivio:listing_type>
-      <frivio:auction_end_date>2026-08-13T14:50:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>490000 SEK</frivio:current_bid>
-      <frivio:bid_count>7</frivio:bid_count>
-      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>7753 kr/mån</frivio:monthly_cost>
-      <body_style>VAN</body_style>
-      <frivio:body_type_label>Husbil</frivio:body_type_label>
-      <fuel_type>DIESEL</fuel_type>
-      <frivio:region>Västra Götaland</frivio:region>
-      <availability>AVAILABLE</availability>
-      <custom_label_0>Husbil</custom_label_0>
-      <custom_label_1>Slutar 2026-08-13 14:50</custom_label_1>
-    </item>
+    <lastBuildDate>Thu, 13 Aug 2026 15:04:11 GMT</lastBuildDate>
     <item>
       <vehicle_id>706</vehicle_id>
       <g:id>706</g:id>
