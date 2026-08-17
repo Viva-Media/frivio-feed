@@ -4,62 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Mon, 17 Aug 2026 17:33:30 GMT</lastBuildDate>
-    <item>
-      <vehicle_id>709</vehicle_id>
-      <g:id>709</g:id>
-      <title>Knaus 590 UE Scandinavian Edition</title>
-      <description>Välutrustad Knaus Südwind 590 UE Scandinavian Selection från 2017 med modern och smakfull interiör. Husvagnen erbjuder två bekväma långbäddar, rymlig U-soffa, stort kök med kyl/frys och mikrovågsugn samt toalett med dusch. Utrustad med Thule-markis, cykelställ, TV och gott om förvaring. En ljus och trivsam kvalitetsvagn som passar perfekt för både kortare resor och längre semestrar. - Fukt och gasoltest utfört utan anmärkning 2026-07-03 - Endast använd sommartid - Förvarad inomhus vintertid - Uttagen i trafik första gång 2020-10-02 - Besiktad till 2026-08-31 - Markis med vindskydd på sidor och framtill - Reservhjul - 2st bord runt och avlångt med 6st stolar - Mattor - Tallrikar, div glas, bestick, vattenkokare, kastruller, stekpanna samt annat husgeråd ingår. Årsmodell: 2017 · Typ: Husvagn · Ort: Sala</description>
-      <url>https://frivio.se/auktion/709</url>
-      <g:link>https://frivio.se/auktion/709</g:link>
-      <image>
-        <url>https://backend.frivio.se/vehicle/709/a1785311804537.jpeg</url>
-        <tag>Exterior</tag>
-      </image>
-      <g:image_link>https://backend.frivio.se/vehicle/709/a1785311804537.jpeg</g:image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/709/b1785311804409.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/709/c1785311805226.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/709/d1785311803804.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/709/e1785311803528.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/709/f1785311804275.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/709/g1785311803967.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/709/h1785311804809.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/709/i1785311804685.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/709/j1785311804122.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/709/k1785311805352.jpeg</g:additional_image_link>
-      <make>Knaus</make>
-      <model>590 UE Scandinavian Edition</model>
-      <year>2017</year>
-      <mileage>
-        <value>0</value>
-        <unit>KM</unit>
-      </mileage>
-      <price>180000 SEK</price>
-      <g:price>180000 SEK</g:price>
-      <address>Sala</address>
-      <address format="simple">
-        <component name="addr1">Sala</component>
-        <component name="city">Sala</component>
-        <component name="region">Västmanland</component>
-        <component name="country">SE</component>
-      </address>
-      <condition>GOOD</condition>
-      <state_of_vehicle>USED</state_of_vehicle>
-      <frivio:listing_type>auction</frivio:listing_type>
-      <frivio:auction_end_date>2026-08-17T17:53:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>180000 SEK</frivio:current_bid>
-      <frivio:bid_count>3</frivio:bid_count>
-      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>2848 kr/mån</frivio:monthly_cost>
-      <body_style>OTHER</body_style>
-      <frivio:body_type_label>Husvagn</frivio:body_type_label>
-      <fuel_type>NONE</fuel_type>
-      <frivio:region>Västmanland</frivio:region>
-      <availability>AVAILABLE</availability>
-      <custom_label_0>Husvagn</custom_label_0>
-      <custom_label_1>Slutar 2026-08-17 17:53</custom_label_1>
-    </item>
+    <lastBuildDate>Mon, 17 Aug 2026 18:50:04 GMT</lastBuildDate>
     <item>
       <vehicle_id>715</vehicle_id>
       <g:id>715</g:id>
@@ -690,7 +635,7 @@
       <transmission>MANUAL</transmission>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-08-24T17:36:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
       <frivio:current_bid>76000 SEK</frivio:current_bid>
       <frivio:bid_count>5</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
