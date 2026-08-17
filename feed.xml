@@ -4,54 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Mon, 17 Aug 2026 16:35:57 GMT</lastBuildDate>
-    <item>
-      <vehicle_id>714</vehicle_id>
-      <g:id>714</g:id>
-      <title>Yamarin 5200</title>
-      <description>Välvårdad Yamarin 5200 från 2003 - den perfekta styrpulpetbåten för dagsutflykter, bad och fiske i skärgården. Känd för sina fantastiska och trygga köregenskaper samt ett mycket lättdrivet skrov. Båten erbjuder gott om plats samt generösa stuvutrymmen för packning. Stabil, rymlig och redo för nya sommaräventyr. Säljes i fint och fungerande bruksskick. - Tiki BS750-R 80km/h trailer ingår - Yamaha 80hk med 243 motortimmar - Välskött Årsmodell: 2003 · Typ: Båt · Ort: Åmål</description>
-      <url>https://frivio.se/auktion/714</url>
-      <g:link>https://frivio.se/auktion/714</g:link>
-      <image>
-        <url>https://backend.frivio.se/vehicle/714/a1785738604574.jpeg</url>
-        <tag>Exterior</tag>
-      </image>
-      <g:image_link>https://backend.frivio.se/vehicle/714/a1785738604574.jpeg</g:image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/714/b1785738604919.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/714/c1785738604770.jpeg</g:additional_image_link>
-      <make>Yamarin</make>
-      <model>Yamarin 5200</model>
-      <year>2003</year>
-      <mileage>
-        <value>0</value>
-        <unit>KM</unit>
-      </mileage>
-      <price>72000 SEK</price>
-      <g:price>72000 SEK</g:price>
-      <address>Åmål</address>
-      <address format="simple">
-        <component name="addr1">Åmål</component>
-        <component name="city">Åmål</component>
-        <component name="region">Västra Götaland</component>
-        <component name="country">SE</component>
-      </address>
-      <condition>GOOD</condition>
-      <state_of_vehicle>USED</state_of_vehicle>
-      <frivio:listing_type>auction</frivio:listing_type>
-      <frivio:auction_end_date>2026-08-17T17:29:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>72000 SEK</frivio:current_bid>
-      <frivio:bid_count>2</frivio:bid_count>
-      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>1139 kr/mån</frivio:monthly_cost>
-      <body_style>OTHER</body_style>
-      <frivio:body_type_label>Båt</frivio:body_type_label>
-      <fuel_type>NONE</fuel_type>
-      <frivio:region>Västra Götaland</frivio:region>
-      <availability>AVAILABLE</availability>
-      <custom_label_0>Båt</custom_label_0>
-      <custom_label_1>Slutar 2026-08-17 17:29</custom_label_1>
-    </item>
+    <lastBuildDate>Mon, 17 Aug 2026 17:33:30 GMT</lastBuildDate>
     <item>
       <vehicle_id>709</vehicle_id>
       <g:id>709</g:id>
@@ -81,8 +34,8 @@
         <value>0</value>
         <unit>KM</unit>
       </mileage>
-      <price>150000 SEK</price>
-      <g:price>150000 SEK</g:price>
+      <price>180000 SEK</price>
+      <g:price>180000 SEK</g:price>
       <address>Sala</address>
       <address format="simple">
         <component name="addr1">Sala</component>
@@ -95,10 +48,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-08-17T17:53:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>150000 SEK</frivio:current_bid>
-      <frivio:bid_count>2</frivio:bid_count>
+      <frivio:current_bid>180000 SEK</frivio:current_bid>
+      <frivio:bid_count>3</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>2373 kr/mån</frivio:monthly_cost>
+      <frivio:monthly_cost>2848 kr/mån</frivio:monthly_cost>
       <body_style>OTHER</body_style>
       <frivio:body_type_label>Husvagn</frivio:body_type_label>
       <fuel_type>NONE</fuel_type>
@@ -626,7 +579,7 @@
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-08-24T17:23:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
       <frivio:current_bid>125000 SEK</frivio:current_bid>
       <frivio:bid_count>0</frivio:bid_count>
       <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
@@ -681,7 +634,7 @@
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-08-24T17:27:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
       <frivio:current_bid>137500 SEK</frivio:current_bid>
       <frivio:bid_count>1</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
