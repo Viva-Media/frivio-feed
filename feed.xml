@@ -4,58 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Tue, 18 Aug 2026 17:33:58 GMT</lastBuildDate>
-    <item>
-      <vehicle_id>711</vehicle_id>
-      <g:id>711</g:id>
-      <title>Crescent 455</title>
-      <description>Charmig segelbåt som de senaste åren förvarats på land. Båten säljs komplett med segel, åror och övrig utrustning samt en Johnson 6 hk tvåtaktsmotor med separat bränsletank. Upptagningskärra ingår för smidig transport och vinterförvaring. Varken båt eller motor har använts de senaste åtta åren, men vid senaste användningstillfället fungerade allt som det ska. Ett prisvärt projekt för nästa ägare med potential för många fina dagar på sjön framöver och semestrar. Årsmodell: 1980 · Typ: Båt · Ort: Nässjö</description>
-      <url>https://frivio.se/auktion/711</url>
-      <g:link>https://frivio.se/auktion/711</g:link>
-      <image>
-        <url>https://backend.frivio.se/vehicle/711/a1785314816073.jpeg</url>
-        <tag>Exterior</tag>
-      </image>
-      <g:image_link>https://backend.frivio.se/vehicle/711/a1785314816073.jpeg</g:image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/711/b1785314816201.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/711/c1785314816315.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/711/d1785314815723.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/711/e1785314815851.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/711/f1785314815965.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/711/g1785314816439.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/711/h1785314815562.jpeg</g:additional_image_link>
-      <make>Crescent</make>
-      <model>Crescent 455</model>
-      <year>1980</year>
-      <mileage>
-        <value>0</value>
-        <unit>KM</unit>
-      </mileage>
-      <price>5000 SEK</price>
-      <g:price>5000 SEK</g:price>
-      <address>Nässjö</address>
-      <address format="simple">
-        <component name="addr1">Nässjö</component>
-        <component name="city">Nässjö</component>
-        <component name="region">Jönköping</component>
-        <component name="country">SE</component>
-      </address>
-      <condition>GOOD</condition>
-      <state_of_vehicle>USED</state_of_vehicle>
-      <frivio:listing_type>fixed_price</frivio:listing_type>
-      <frivio:auction_end_date>2026-08-18T17:46:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:bid_count>0</frivio:bid_count>
-      <frivio:reserve_price_status>Ej tillämpligt (fast pris)</frivio:reserve_price_status>
-      <frivio:monthly_cost>79 kr/mån</frivio:monthly_cost>
-      <body_style>OTHER</body_style>
-      <frivio:body_type_label>Båt</frivio:body_type_label>
-      <fuel_type>NONE</fuel_type>
-      <frivio:region>Jönköping</frivio:region>
-      <availability>AVAILABLE</availability>
-      <custom_label_0>Båt</custom_label_0>
-      <custom_label_1>Slutar 2026-08-18 17:46</custom_label_1>
-    </item>
+    <lastBuildDate>Tue, 18 Aug 2026 18:48:39 GMT</lastBuildDate>
     <item>
       <vehicle_id>716</vehicle_id>
       <g:id>716</g:id>
@@ -401,8 +350,8 @@
         <value>0</value>
         <unit>KM</unit>
       </mileage>
-      <price>137500 SEK</price>
-      <g:price>137500 SEK</g:price>
+      <price>138000 SEK</price>
+      <g:price>138000 SEK</g:price>
       <address>Mörbylånga</address>
       <address format="simple">
         <component name="addr1">Mörbylånga</component>
@@ -415,10 +364,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-08-24T17:27:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>137500 SEK</frivio:current_bid>
-      <frivio:bid_count>1</frivio:bid_count>
+      <frivio:current_bid>138000 SEK</frivio:current_bid>
+      <frivio:bid_count>2</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>2176 kr/mån</frivio:monthly_cost>
+      <frivio:monthly_cost>2183 kr/mån</frivio:monthly_cost>
       <body_style>OTHER</body_style>
       <frivio:body_type_label>Husvagn</frivio:body_type_label>
       <fuel_type>NONE</fuel_type>
@@ -576,7 +525,7 @@
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-08-25T17:35:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
       <frivio:current_bid>65000 SEK</frivio:current_bid>
       <frivio:bid_count>0</frivio:bid_count>
       <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
@@ -631,7 +580,7 @@
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-08-25T18:33:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
       <frivio:current_bid>125000 SEK</frivio:current_bid>
       <frivio:bid_count>0</frivio:bid_count>
       <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
