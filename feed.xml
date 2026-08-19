@@ -4,7 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Wed, 19 Aug 2026 10:35:31 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 11:31:59 GMT</lastBuildDate>
     <item>
       <vehicle_id>716</vehicle_id>
       <g:id>716</g:id>
@@ -30,8 +30,8 @@
         <value>0</value>
         <unit>KM</unit>
       </mileage>
-      <price>65000 SEK</price>
-      <g:price>65000 SEK</g:price>
+      <price>66000 SEK</price>
+      <g:price>66000 SEK</g:price>
       <address>Eskilstuna</address>
       <address format="simple">
         <component name="addr1">Eskilstuna</component>
@@ -44,10 +44,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-08-19T17:14:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>65000 SEK</frivio:current_bid>
-      <frivio:bid_count>9</frivio:bid_count>
+      <frivio:current_bid>66000 SEK</frivio:current_bid>
+      <frivio:bid_count>10</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>1028 kr/mån</frivio:monthly_cost>
+      <frivio:monthly_cost>1044 kr/mån</frivio:monthly_cost>
       <body_style>OTHER</body_style>
       <frivio:body_type_label>Båt</frivio:body_type_label>
       <fuel_type>NONE</fuel_type>
