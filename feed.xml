@@ -4,107 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Wed, 19 Aug 2026 16:38:34 GMT</lastBuildDate>
-    <item>
-      <vehicle_id>716</vehicle_id>
-      <g:id>716</g:id>
-      <title>Ryds 478 GTI</title>
-      <description>Ryds 478 GTI är en lättkörd och stabil styrpulpet som passar lika bra för badutflykter som fiske och transport. Den bränslesnåla Mercury 50 hk ger fin prestanda och båten erbjuder gott om sittplatser samt smarta stuvutrymmen. Säljs med båtkärra och två bränsletankar - ett komplett paket som är redo för många härliga dagar på sjön. - Mercury 50hk 4-takt med cirka 60 gångtimmar - Nyservad i år - Komplett dynsats i bra skick - Ankare, tampar, kätting med lås medföljer - 30km/h kärra ingår Årsmodell: 2010 · Typ: Båt · Ort: Eskilstuna</description>
-      <url>https://frivio.se/auktion/716</url>
-      <g:link>https://frivio.se/auktion/716</g:link>
-      <image>
-        <url>https://backend.frivio.se/vehicle/716/a1785741275746.jpeg</url>
-        <tag>Exterior</tag>
-      </image>
-      <g:image_link>https://backend.frivio.se/vehicle/716/a1785741275746.jpeg</g:image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/716/b1785741276336.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/716/c1785741275929.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/716/d1785741276212.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/716/e1785741276464.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/716/f1785741276068.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/716/g1785741276599.jpeg</g:additional_image_link>
-      <make>Ryds</make>
-      <model>Ryds 478 GTI</model>
-      <year>2010</year>
-      <mileage>
-        <value>0</value>
-        <unit>KM</unit>
-      </mileage>
-      <price>67000 SEK</price>
-      <g:price>67000 SEK</g:price>
-      <address>Eskilstuna</address>
-      <address format="simple">
-        <component name="addr1">Eskilstuna</component>
-        <component name="city">Eskilstuna</component>
-        <component name="region">Södermanland</component>
-        <component name="country">SE</component>
-      </address>
-      <condition>GOOD</condition>
-      <state_of_vehicle>USED</state_of_vehicle>
-      <frivio:listing_type>auction</frivio:listing_type>
-      <frivio:auction_end_date>2026-08-19T17:14:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>67000 SEK</frivio:current_bid>
-      <frivio:bid_count>11</frivio:bid_count>
-      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>1060 kr/mån</frivio:monthly_cost>
-      <body_style>OTHER</body_style>
-      <frivio:body_type_label>Båt</frivio:body_type_label>
-      <fuel_type>NONE</fuel_type>
-      <frivio:region>Södermanland</frivio:region>
-      <availability>AVAILABLE</availability>
-      <custom_label_0>Båt</custom_label_0>
-      <custom_label_1>Slutar 2026-08-19 17:14</custom_label_1>
-    </item>
-    <item>
-      <vehicle_id>719</vehicle_id>
-      <g:id>719</g:id>
-      <title>Ryds 510 GTI</title>
-      <description>Söker du en pålitlig, stabil och lättkörd styrpulpetsbåt? Denna Ryds 510 GTI kombinerar smart planlösning med ett lättdrivet V-skrov, perfekt för härliga badresor, fiske och fartfylld vattensport. Utrustad med en pigg och stark Mercury 75hk-motor som snabbt tar båten upp i plan och ger en stabil marschfart. Båten bjuder på generösa sällskapsytor, rymliga stuvfack och en praktisk badbrygga i aktern. - Omålad båt och endast körd i sötvatten - Dubbla trycktankar och diverse utrustning ingår - Förtöjningar, ankare samt paddel ingår - TK Boggie kärra från 2010 medföljer - Vet ej exakt motortimmar, men den är sparsamt körd - Komplett dynsats ingår Årsmodell: 2004 · Typ: Båt · Ort: Botkyrka</description>
-      <url>https://frivio.se/auktion/719</url>
-      <g:link>https://frivio.se/auktion/719</g:link>
-      <image>
-        <url>https://backend.frivio.se/vehicle/719/a1785759552768.jpeg</url>
-        <tag>Exterior</tag>
-      </image>
-      <g:image_link>https://backend.frivio.se/vehicle/719/a1785759552768.jpeg</g:image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/719/b1785759552605.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/719/c1785759552903.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/719/d1785759553016.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/719/e1785759553129.jpeg</g:additional_image_link>
-      <make>Ryds</make>
-      <model>Ryds 510 GTI</model>
-      <year>2004</year>
-      <mileage>
-        <value>0</value>
-        <unit>KM</unit>
-      </mileage>
-      <price>61000 SEK</price>
-      <g:price>61000 SEK</g:price>
-      <address>Botkyrka</address>
-      <address format="simple">
-        <component name="addr1">Botkyrka</component>
-        <component name="city">Botkyrka</component>
-        <component name="region">Stockholm</component>
-        <component name="country">SE</component>
-      </address>
-      <condition>GOOD</condition>
-      <state_of_vehicle>USED</state_of_vehicle>
-      <frivio:listing_type>auction</frivio:listing_type>
-      <frivio:auction_end_date>2026-08-19T17:17:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>61000 SEK</frivio:current_bid>
-      <frivio:bid_count>2</frivio:bid_count>
-      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>965 kr/mån</frivio:monthly_cost>
-      <body_style>OTHER</body_style>
-      <frivio:body_type_label>Båt</frivio:body_type_label>
-      <fuel_type>NONE</fuel_type>
-      <frivio:region>Stockholm</frivio:region>
-      <availability>AVAILABLE</availability>
-      <custom_label_0>Båt</custom_label_0>
-      <custom_label_1>Slutar 2026-08-19 17:17</custom_label_1>
-    </item>
+    <lastBuildDate>Wed, 19 Aug 2026 17:32:21 GMT</lastBuildDate>
     <item>
       <vehicle_id>723</vehicle_id>
       <g:id>723</g:id>
@@ -130,8 +30,8 @@
         <value>0</value>
         <unit>KM</unit>
       </mileage>
-      <price>191000 SEK</price>
-      <g:price>191000 SEK</g:price>
+      <price>201000 SEK</price>
+      <g:price>201000 SEK</g:price>
       <address>Nora</address>
       <address format="simple">
         <component name="addr1">Nora</component>
@@ -142,19 +42,19 @@
       <condition>GOOD</condition>
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
-      <frivio:auction_end_date>2026-08-19T17:28:00.000Z</frivio:auction_end_date>
+      <frivio:auction_end_date>2026-08-19T17:34:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>191000 SEK</frivio:current_bid>
-      <frivio:bid_count>4</frivio:bid_count>
+      <frivio:current_bid>201000 SEK</frivio:current_bid>
+      <frivio:bid_count>9</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>3022 kr/mån</frivio:monthly_cost>
+      <frivio:monthly_cost>3180 kr/mån</frivio:monthly_cost>
       <body_style>OTHER</body_style>
       <frivio:body_type_label>Husvagn</frivio:body_type_label>
       <fuel_type>NONE</fuel_type>
       <frivio:region>Örebro</frivio:region>
       <availability>AVAILABLE</availability>
       <custom_label_0>Husvagn</custom_label_0>
-      <custom_label_1>Slutar 2026-08-19 17:28</custom_label_1>
+      <custom_label_1>Slutar 2026-08-19 17:34</custom_label_1>
     </item>
     <item>
       <vehicle_id>720</vehicle_id>
@@ -683,7 +583,7 @@
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-08-26T17:01:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
       <frivio:current_bid>92500 SEK</frivio:current_bid>
       <frivio:bid_count>0</frivio:bid_count>
       <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
@@ -738,7 +638,7 @@
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-08-26T17:10:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
+      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
       <frivio:current_bid>135000 SEK</frivio:current_bid>
       <frivio:bid_count>3</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
@@ -1045,8 +945,8 @@
         <value>0</value>
         <unit>KM</unit>
       </mileage>
-      <price>140000 SEK</price>
-      <g:price>140000 SEK</g:price>
+      <price>160000 SEK</price>
+      <g:price>160000 SEK</g:price>
       <address>Sala</address>
       <address format="simple">
         <component name="addr1">Sala</component>
@@ -1059,10 +959,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-08-31T17:53:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>false</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>140000 SEK</frivio:current_bid>
-      <frivio:bid_count>2</frivio:bid_count>
+      <frivio:current_bid>160000 SEK</frivio:current_bid>
+      <frivio:bid_count>5</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>2215 kr/mån</frivio:monthly_cost>
+      <frivio:monthly_cost>2532 kr/mån</frivio:monthly_cost>
       <body_style>OTHER</body_style>
       <frivio:body_type_label>Husvagn</frivio:body_type_label>
       <fuel_type>NONE</fuel_type>
