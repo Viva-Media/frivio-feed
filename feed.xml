@@ -4,62 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Thu, 20 Aug 2026 17:36:38 GMT</lastBuildDate>
-    <item>
-      <vehicle_id>720</vehicle_id>
-      <g:id>720</g:id>
-      <title>Tailwind 36</title>
-      <description>Tailwind 36 är en välseglande och rymlig cruiser med klassiska linjer, hög komfort och gediget hantverk. Denna båt sjösattes första gången 2005 och erbjuder en trivsam interiör i varm träinredning med generösa sociala ytor, välutrustat pentry och flera bekväma sovplatser. Ombord finns gott om förvaring, separat navigationsplats och en rymlig sittbrunn för långa dagar till sjöss. Båten är väl omhändertagen och har normalt bruksslitage utifrån ålder och användning. Ett utmärkt val för både familjesegling och längre semestrar. Båten är byggd för segling på alla hav, försedd med monitor, vindroder och extra isolering. - Motorn är en BMW 35 hkr från 90-talet och få gångtimmar - Servad årligen och senast i år - Båten är sjösatt Årsmodell: 2005 · Typ: Båt · Ort: Stockholm</description>
-      <url>https://frivio.se/auktion/720</url>
-      <g:link>https://frivio.se/auktion/720</g:link>
-      <image>
-        <url>https://backend.frivio.se/vehicle/720/a1785826712409.jpeg</url>
-        <tag>Exterior</tag>
-      </image>
-      <g:image_link>https://backend.frivio.se/vehicle/720/a1785826712409.jpeg</g:image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/720/b1785826712947.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/720/c1785826712795.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/720/d1785826712632.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/720/e1785826716870.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/720/f1785826713615.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/720/g1785826714849.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/720/h1785826715248.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/720/i1785826714037.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/720/j1785826714436.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/720/k1785826716059.jpeg</g:additional_image_link>
-      <make>Tailwind</make>
-      <model>Tailwind 36</model>
-      <year>2005</year>
-      <mileage>
-        <value>0</value>
-        <unit>KM</unit>
-      </mileage>
-      <price>115000 SEK</price>
-      <g:price>115000 SEK</g:price>
-      <address>Stockholm</address>
-      <address format="simple">
-        <component name="addr1">Stockholm</component>
-        <component name="city">Stockholm</component>
-        <component name="region">Stockholm</component>
-        <component name="country">SE</component>
-      </address>
-      <condition>GOOD</condition>
-      <state_of_vehicle>USED</state_of_vehicle>
-      <frivio:listing_type>auction</frivio:listing_type>
-      <frivio:auction_end_date>2026-08-20T17:58:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>115000 SEK</frivio:current_bid>
-      <frivio:bid_count>2</frivio:bid_count>
-      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>1820 kr/mån</frivio:monthly_cost>
-      <body_style>OTHER</body_style>
-      <frivio:body_type_label>Båt</frivio:body_type_label>
-      <fuel_type>NONE</fuel_type>
-      <frivio:region>Stockholm</frivio:region>
-      <availability>AVAILABLE</availability>
-      <custom_label_0>Båt</custom_label_0>
-      <custom_label_1>Slutar 2026-08-20 17:58</custom_label_1>
-    </item>
+    <lastBuildDate>Thu, 20 Aug 2026 18:50:44 GMT</lastBuildDate>
     <item>
       <vehicle_id>718</vehicle_id>
       <g:id>718</g:id>
