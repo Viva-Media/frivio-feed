@@ -4,61 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Mon, 24 Aug 2026 16:47:05 GMT</lastBuildDate>
-    <item>
-      <vehicle_id>725</vehicle_id>
-      <g:id>725</g:id>
-      <title>Joda Caribic 290</title>
-      <description>Joda Caribic 290 från 1995. En klassisk och rymlig familjecruiser som erbjuder gott om komfort för både dagsutflykter och längre turer på sjön. Den stora sittbrunnen med kapell ger generösa sociala ytor, medan den välplanerade kabinen erbjuder bekväma sovplatser, sittgrupp, pentry och goda förvaringsmöjligheter. Båten har en tidlös inredning i trä som skapar en varm och trivsam känsla ombord. Stabil, sjövärdig och väl lämpad för semesterlivet på vattnet. - Kad 42 / 290dp - Motortimmar 613h - Tank cirka 400l - Dieselmotor - Ny propeller 2023 - Nytt kylskåp 2019 - Ny turbo 2016 - Bog finns nyare - Dieselvärmare - Kapell i bruksskick - Trailer ingår ej Årsmodell: 1995 · Typ: Båt · Ort: Simrishamn</description>
-      <url>https://frivio.se/auktion/725</url>
-      <g:link>https://frivio.se/auktion/725</g:link>
-      <image>
-        <url>https://backend.frivio.se/vehicle/725/a1786361020924.jpeg</url>
-        <tag>Exterior</tag>
-      </image>
-      <g:image_link>https://backend.frivio.se/vehicle/725/a1786361020924.jpeg</g:image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/725/b1786361021609.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/725/c1786361021726.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/725/d1786361021127.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/725/e1786361021468.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/725/f1786361021259.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/725/g1786361021358.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/725/h1786361021845.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/725/i1786361022074.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/725/j1786361021957.jpeg</g:additional_image_link>
-      <make>Joda</make>
-      <model>Joda Caribic 290</model>
-      <year>1995</year>
-      <mileage>
-        <value>0</value>
-        <unit>KM</unit>
-      </mileage>
-      <price>180000 SEK</price>
-      <g:price>180000 SEK</g:price>
-      <address>Simrishamn</address>
-      <address format="simple">
-        <component name="addr1">Simrishamn</component>
-        <component name="city">Simrishamn</component>
-        <component name="region">Skåne</component>
-        <component name="country">SE</component>
-      </address>
-      <condition>GOOD</condition>
-      <state_of_vehicle>USED</state_of_vehicle>
-      <frivio:listing_type>auction</frivio:listing_type>
-      <frivio:auction_end_date>2026-08-24T17:23:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>180000 SEK</frivio:current_bid>
-      <frivio:bid_count>1</frivio:bid_count>
-      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>2848 kr/mån</frivio:monthly_cost>
-      <body_style>OTHER</body_style>
-      <frivio:body_type_label>Båt</frivio:body_type_label>
-      <fuel_type>NONE</fuel_type>
-      <frivio:region>Skåne</frivio:region>
-      <availability>AVAILABLE</availability>
-      <custom_label_0>Båt</custom_label_0>
-      <custom_label_1>Slutar 2026-08-24 17:23</custom_label_1>
-    </item>
+    <lastBuildDate>Mon, 24 Aug 2026 17:36:24 GMT</lastBuildDate>
     <item>
       <vehicle_id>726</vehicle_id>
       <g:id>726</g:id>
@@ -88,8 +34,8 @@
         <value>0</value>
         <unit>KM</unit>
       </mileage>
-      <price>165000 SEK</price>
-      <g:price>165000 SEK</g:price>
+      <price>215000 SEK</price>
+      <g:price>215000 SEK</g:price>
       <address>Mörbylånga</address>
       <address format="simple">
         <component name="addr1">Mörbylånga</component>
@@ -100,75 +46,19 @@
       <condition>GOOD</condition>
       <state_of_vehicle>USED</state_of_vehicle>
       <frivio:listing_type>auction</frivio:listing_type>
-      <frivio:auction_end_date>2026-08-24T17:27:00.000Z</frivio:auction_end_date>
+      <frivio:auction_end_date>2026-08-24T17:39:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>165000 SEK</frivio:current_bid>
-      <frivio:bid_count>7</frivio:bid_count>
+      <frivio:current_bid>215000 SEK</frivio:current_bid>
+      <frivio:bid_count>17</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>2611 kr/mån</frivio:monthly_cost>
+      <frivio:monthly_cost>3402 kr/mån</frivio:monthly_cost>
       <body_style>OTHER</body_style>
       <frivio:body_type_label>Husvagn</frivio:body_type_label>
       <fuel_type>NONE</fuel_type>
       <frivio:region>Kalmar</frivio:region>
       <availability>AVAILABLE</availability>
       <custom_label_0>Husvagn</custom_label_0>
-      <custom_label_1>Slutar 2026-08-24 17:27</custom_label_1>
-    </item>
-    <item>
-      <vehicle_id>722</vehicle_id>
-      <g:id>722</g:id>
-      <title>Hymer 534</title>
-      <description>Klassisk Hymer 534 från 1995 i välvårdat begagnat skick. En kompakt och smart planerad husbil perfekt för smidiga äventyr. Rymlig u-soffa bak som enkelt bäddas om till en stor dubbelsäng, samt en praktisk taksäng fram. Utrustad med funktionellt kök, toalett och bra förvaring. Pålitlig trotjänare redo för nya vägval. Säljes i befintligt skick, besiktad och körklar. - Besiktad utan anmärkning 2026-04-08 - Nya kranar 2023 - Nytt bilbatteri 2023 - Nya däck 2024 - Nytt bodelsbatteri 2026 - Nya stolsöverdrag 2025 - Gasoltestad 2020 - Kamrem bytt 2017 vid 14 300mil - Senaste service 2020 - Truma C3400 panna - Inget tryck på varmvatten men kallvatten och värme är OK - Nivåklossar - Gaslarm - Brandsläckare Årsmodell: 1995 · Typ: Husbil · Drivmedel: Diesel · Växellåda: Manuell · Mätarställning: 17 100 mil · Ort: Håbo</description>
-      <url>https://frivio.se/auktion/722</url>
-      <g:link>https://frivio.se/auktion/722</g:link>
-      <image>
-        <url>https://backend.frivio.se/vehicle/722/a1785854199733.jpeg</url>
-        <tag>Exterior</tag>
-      </image>
-      <g:image_link>https://backend.frivio.se/vehicle/722/a1785854199733.jpeg</g:image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/722/b1785854200992.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/722/c1785854200185.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/722/d1785854201376.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/722/e1785854201183.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/722/f1785854200445.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/722/g1785854200325.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/722/h1785854200832.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/722/i1785854199922.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/722/j1785854200065.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/722/k1785854200568.jpeg</g:additional_image_link>
-      <make>Hymer</make>
-      <model>534</model>
-      <year>1995</year>
-      <mileage>
-        <value>171000</value>
-        <unit>KM</unit>
-      </mileage>
-      <price>84000 SEK</price>
-      <g:price>84000 SEK</g:price>
-      <address>Håbo</address>
-      <address format="simple">
-        <component name="addr1">Håbo</component>
-        <component name="city">Håbo</component>
-        <component name="region">Uppsala</component>
-        <component name="country">SE</component>
-      </address>
-      <condition>GOOD</condition>
-      <state_of_vehicle>USED</state_of_vehicle>
-      <transmission>MANUAL</transmission>
-      <frivio:listing_type>auction</frivio:listing_type>
-      <frivio:auction_end_date>2026-08-24T17:36:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>84000 SEK</frivio:current_bid>
-      <frivio:bid_count>9</frivio:bid_count>
-      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>1329 kr/mån</frivio:monthly_cost>
-      <body_style>VAN</body_style>
-      <frivio:body_type_label>Husbil</frivio:body_type_label>
-      <fuel_type>DIESEL</fuel_type>
-      <frivio:region>Uppsala</frivio:region>
-      <availability>AVAILABLE</availability>
-      <custom_label_0>Husbil</custom_label_0>
-      <custom_label_1>Slutar 2026-08-24 17:36</custom_label_1>
+      <custom_label_1>Slutar 2026-08-24 17:39</custom_label_1>
     </item>
     <item>
       <vehicle_id>733</vehicle_id>
