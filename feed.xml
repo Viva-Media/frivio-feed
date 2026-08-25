@@ -4,62 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Tue, 25 Aug 2026 17:37:05 GMT</lastBuildDate>
-    <item>
-      <vehicle_id>735</vehicle_id>
-      <g:id>735</g:id>
-      <title>Kabe Safir GLE KS</title>
-      <description>KABE Safir GLE KS från 2014 - en rymlig och välutrustad familjevagn med separat barnkammare och våningssängar. Den trivsamma planlösningen erbjuder generös sittgrupp, välutrustat kök, gott om förvaring och fina sällskapsytor. En bekväm och ombonad husvagn med gott om plats för hela familjen, perfekt för både semester och längre campingvistelser. - Endast 1 ägare sen ny - Väldig få skavanker - Chassit har &quot;anti slinger&quot; funktion Årsmodell: 2014 · Typ: Husvagn · Ort: Falköping</description>
-      <url>https://frivio.se/auktion/735</url>
-      <g:link>https://frivio.se/auktion/735</g:link>
-      <image>
-        <url>https://backend.frivio.se/vehicle/735/a1786455406160.jpeg</url>
-        <tag>Exterior</tag>
-      </image>
-      <g:image_link>https://backend.frivio.se/vehicle/735/a1786455406160.jpeg</g:image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/735/b1786455406326.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/735/c1786455406487.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/735/d1786455406597.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/735/e1786455406711.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/735/g1786455406993.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/735/h1786455407107.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/735/i1786455407225.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/735/j1786455407348.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/735/k1786455407458.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/735/l1786455407579.jpeg</g:additional_image_link>
-      <make>Kabe</make>
-      <model>Safir GLE KS</model>
-      <year>2014</year>
-      <mileage>
-        <value>0</value>
-        <unit>KM</unit>
-      </mileage>
-      <price>125000 SEK</price>
-      <g:price>125000 SEK</g:price>
-      <address>Falköping</address>
-      <address format="simple">
-        <component name="addr1">Falköping</component>
-        <component name="city">Falköping</component>
-        <component name="region">Västra Götaland</component>
-        <component name="country">SE</component>
-      </address>
-      <condition>GOOD</condition>
-      <state_of_vehicle>USED</state_of_vehicle>
-      <frivio:listing_type>auction</frivio:listing_type>
-      <frivio:auction_end_date>2026-08-25T18:33:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>125000 SEK</frivio:current_bid>
-      <frivio:bid_count>0</frivio:bid_count>
-      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
-      <frivio:monthly_cost>1978 kr/mån</frivio:monthly_cost>
-      <body_style>OTHER</body_style>
-      <frivio:body_type_label>Husvagn</frivio:body_type_label>
-      <fuel_type>NONE</fuel_type>
-      <frivio:region>Västra Götaland</frivio:region>
-      <availability>AVAILABLE</availability>
-      <custom_label_0>Husvagn</custom_label_0>
-      <custom_label_1>Slutar 2026-08-25 18:33</custom_label_1>
-    </item>
+    <lastBuildDate>Tue, 25 Aug 2026 18:48:57 GMT</lastBuildDate>
     <item>
       <vehicle_id>728</vehicle_id>
       <g:id>728</g:id>
@@ -137,8 +82,8 @@
         <value>0</value>
         <unit>KM</unit>
       </mileage>
-      <price>94000 SEK</price>
-      <g:price>94000 SEK</g:price>
+      <price>95000 SEK</price>
+      <g:price>95000 SEK</g:price>
       <address>Laholm</address>
       <address format="simple">
         <component name="addr1">Laholm</component>
@@ -151,10 +96,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-08-26T17:01:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>94000 SEK</frivio:current_bid>
-      <frivio:bid_count>1</frivio:bid_count>
+      <frivio:current_bid>95000 SEK</frivio:current_bid>
+      <frivio:bid_count>2</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>1487 kr/mån</frivio:monthly_cost>
+      <frivio:monthly_cost>1503 kr/mån</frivio:monthly_cost>
       <body_style>OTHER</body_style>
       <frivio:body_type_label>Husvagn</frivio:body_type_label>
       <fuel_type>NONE</fuel_type>
