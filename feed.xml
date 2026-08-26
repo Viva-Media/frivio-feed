@@ -4,55 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Wed, 26 Aug 2026 11:36:03 GMT</lastBuildDate>
-    <item>
-      <vehicle_id>728</vehicle_id>
-      <g:id>728</g:id>
-      <title>Crescent 535 Classic</title>
-      <description>Crescent 535 Classic från 2010 - en rymlig och praktisk familjebåt med klassisk hardtop. Båten erbjuder gott om plats för upp till sex personer och fyra kojplatser för övernattning. Den rymliga kajutan, bra förvaringsmöjligheter och skyddade sittbrunnen gör den perfekt för både dagsutflykter, fiske och härliga sommardagar på sjön. - Mercury 50hk 4-takt - 250 gångtimmar - Plotter - Servad varje höst - Inomhusförvarad vintertid Årsmodell: 2010 · Typ: Båt · Ort: Kungälv</description>
-      <url>https://frivio.se/auktion/728</url>
-      <g:link>https://frivio.se/auktion/728</g:link>
-      <image>
-        <url>https://backend.frivio.se/vehicle/728/a1786365788090.jpeg</url>
-        <tag>Exterior</tag>
-      </image>
-      <g:image_link>https://backend.frivio.se/vehicle/728/a1786365788090.jpeg</g:image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/728/b1786365787661.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/728/c1786365787817.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/728/d1786365787968.jpeg</g:additional_image_link>
-      <make>Crescent</make>
-      <model>Crescent 535 Classic</model>
-      <year>2010</year>
-      <mileage>
-        <value>0</value>
-        <unit>KM</unit>
-      </mileage>
-      <price>50000 SEK</price>
-      <g:price>50000 SEK</g:price>
-      <address>Kungälv</address>
-      <address format="simple">
-        <component name="addr1">Kungälv</component>
-        <component name="city">Kungälv</component>
-        <component name="region">Västra Götaland</component>
-        <component name="country">SE</component>
-      </address>
-      <condition>GOOD</condition>
-      <state_of_vehicle>USED</state_of_vehicle>
-      <frivio:listing_type>auction</frivio:listing_type>
-      <frivio:auction_end_date>2026-08-26T12:42:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>50000 SEK</frivio:current_bid>
-      <frivio:bid_count>0</frivio:bid_count>
-      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
-      <frivio:monthly_cost>791 kr/mån</frivio:monthly_cost>
-      <body_style>OTHER</body_style>
-      <frivio:body_type_label>Båt</frivio:body_type_label>
-      <fuel_type>NONE</fuel_type>
-      <frivio:region>Västra Götaland</frivio:region>
-      <availability>AVAILABLE</availability>
-      <custom_label_0>Båt</custom_label_0>
-      <custom_label_1>Slutar 2026-08-26 12:42</custom_label_1>
-    </item>
+    <lastBuildDate>Wed, 26 Aug 2026 13:05:37 GMT</lastBuildDate>
     <item>
       <vehicle_id>729</vehicle_id>
       <g:id>729</g:id>
@@ -137,8 +89,8 @@
         <value>0</value>
         <unit>KM</unit>
       </mileage>
-      <price>135000 SEK</price>
-      <g:price>135000 SEK</g:price>
+      <price>135500 SEK</price>
+      <g:price>135500 SEK</g:price>
       <address>Vingåker</address>
       <address format="simple">
         <component name="addr1">Vingåker</component>
@@ -151,10 +103,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-08-26T17:10:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>135000 SEK</frivio:current_bid>
-      <frivio:bid_count>3</frivio:bid_count>
+      <frivio:current_bid>135500 SEK</frivio:current_bid>
+      <frivio:bid_count>4</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>2136 kr/mån</frivio:monthly_cost>
+      <frivio:monthly_cost>2144 kr/mån</frivio:monthly_cost>
       <body_style>OTHER</body_style>
       <frivio:body_type_label>Husvagn</frivio:body_type_label>
       <fuel_type>NONE</fuel_type>
