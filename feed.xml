@@ -4,60 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Sun, 30 Aug 2026 12:44:36 GMT</lastBuildDate>
-    <item>
-      <vehicle_id>736</vehicle_id>
-      <g:id>736</g:id>
-      <title>Kawasaki  Ulta-LX</title>
-      <description>Vattenskotern har en cylindervolym 1498cc 80-kärra ingår, Brenderup. Drifttid 12 h. 2 nycklar, en för begränsad fart och en för full effekt. Överdragsskydd för transport och uppställes på land. 3-sits med maxlast 225 kg. Motorn är 4-takts, 4 cylindrig radmotor. Mycket fint skick, finns något litet skav. Årsmodell: 2018 · Typ: Båt · Ort: Växjö</description>
-      <url>https://frivio.se/auktion/736</url>
-      <g:link>https://frivio.se/auktion/736</g:link>
-      <image>
-        <url>https://backend.frivio.se/vehicle/736/b1786714425015.jpeg</url>
-        <tag>Exterior</tag>
-      </image>
-      <g:image_link>https://backend.frivio.se/vehicle/736/b1786714425015.jpeg</g:image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/736/c1786714424820.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/736/d1786714424710.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/736/e1786714425128.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/736/f1786714424921.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/736/g1786715139491.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/736/h1786715139596.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/736/i1786715479921.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/736/i1786718231184.jpeg</g:additional_image_link>
-      <make>Kawasaki</make>
-      <model>Kawasaki  Ulta-LX</model>
-      <year>2018</year>
-      <mileage>
-        <value>0</value>
-        <unit>KM</unit>
-      </mileage>
-      <price>41000 SEK</price>
-      <g:price>41000 SEK</g:price>
-      <address>Växjö</address>
-      <address format="simple">
-        <component name="addr1">Växjö</component>
-        <component name="city">Växjö</component>
-        <component name="region">Kronoberg</component>
-        <component name="country">SE</component>
-      </address>
-      <condition>EXCELLENT</condition>
-      <state_of_vehicle>NEW</state_of_vehicle>
-      <frivio:listing_type>auction</frivio:listing_type>
-      <frivio:auction_end_date>2026-08-30T13:16:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>41000 SEK</frivio:current_bid>
-      <frivio:bid_count>0</frivio:bid_count>
-      <frivio:reserve_price_status>Inga bud lagda</frivio:reserve_price_status>
-      <frivio:monthly_cost>649 kr/mån</frivio:monthly_cost>
-      <body_style>OTHER</body_style>
-      <frivio:body_type_label>Båt</frivio:body_type_label>
-      <fuel_type>NONE</fuel_type>
-      <frivio:region>Kronoberg</frivio:region>
-      <availability>AVAILABLE</availability>
-      <custom_label_0>Båt</custom_label_0>
-      <custom_label_1>Slutar 2026-08-30 13:16</custom_label_1>
-    </item>
+    <lastBuildDate>Sun, 30 Aug 2026 17:18:30 GMT</lastBuildDate>
     <item>
       <vehicle_id>734</vehicle_id>
       <g:id>734</g:id>
@@ -86,8 +33,8 @@
         <value>0</value>
         <unit>KM</unit>
       </mileage>
-      <price>81000 SEK</price>
-      <g:price>81000 SEK</g:price>
+      <price>100000 SEK</price>
+      <g:price>100000 SEK</g:price>
       <address>Sölvesborg</address>
       <address format="simple">
         <component name="addr1">Sölvesborg</component>
@@ -100,10 +47,10 @@
       <frivio:listing_type>auction</frivio:listing_type>
       <frivio:auction_end_date>2026-08-30T17:21:00.000Z</frivio:auction_end_date>
       <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>81000 SEK</frivio:current_bid>
-      <frivio:bid_count>1</frivio:bid_count>
+      <frivio:current_bid>100000 SEK</frivio:current_bid>
+      <frivio:bid_count>6</frivio:bid_count>
       <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>1282 kr/mån</frivio:monthly_cost>
+      <frivio:monthly_cost>1582 kr/mån</frivio:monthly_cost>
       <body_style>OTHER</body_style>
       <frivio:body_type_label>Båt</frivio:body_type_label>
       <fuel_type>NONE</fuel_type>
