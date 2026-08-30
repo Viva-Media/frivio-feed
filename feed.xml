@@ -4,61 +4,7 @@
     <title>Frivio - Fritidsfordon på nätet</title>
     <link>https://frivio.se</link>
     <description>Auktioner och fastpris-annonser på husbilar, husvagnar och båtar</description>
-    <lastBuildDate>Sun, 30 Aug 2026 17:18:30 GMT</lastBuildDate>
-    <item>
-      <vehicle_id>734</vehicle_id>
-      <g:id>734</g:id>
-      <title>Bella 620 DC</title>
-      <description>Bella 620 DC - en sportig och rymlig daycruiser som passar perfekt för härliga dagar på sjön. Båten erbjuder en generös sittbrunn med gott om plats för familj och vänner samt en praktisk ruff med två sovplatser. En mångsidig familjebåt som passar lika bra för bad, dagsutflykter och längre turer. Motor &amp; Dokumentation: - Mercury 4-cyl 2-takt 125HK (2004): - En mycket rapp och bränsleeffektiv motor. Den har ett fantastiskt vridmoment som gör att båten går upp i plan snabbt, vilket gör den idealisk för vattensporter som vattenskidor och tube. - Service: Servad på professionell marin verkstad. - Historik: Servicehistorik finns för de senaste åren. Uppgraderingar: - Nytt kapell (2022): I utmärkt skick. - Elsystem (Litium): Nytt LiFePO4-batteri för förbrukning (bo-del). Ger mycket bättre kapacitet jämfört med vanliga batterier. - Victron Laddsystem: Victron Orion-Tr DC-DC (isolerad omvandlare). - Garmin Echomap 42dv: Kombinerad plotter och ekolod med sjökort över södra västkusten. Trailer: - Brenderup O2 (2014): Registrerad och bromsad 80 km/h-trailer. Utrustning: - Badstege - Rymlig U-soffa - Rejäla förarstolar - Lanternor - Länspump - USB-uttag för laddning - Ankare för och akter - Fendrar - Sittdynorna håller på att kläs om i samma blå kulör som den marinblå på bilden. Årsmodell: 2003 · Typ: Båt · Ort: Sölvesborg</description>
-      <url>https://frivio.se/auktion/734</url>
-      <g:link>https://frivio.se/auktion/734</g:link>
-      <image>
-        <url>https://backend.frivio.se/vehicle/734/a1786454810170.jpeg</url>
-        <tag>Exterior</tag>
-      </image>
-      <g:image_link>https://backend.frivio.se/vehicle/734/a1786454810170.jpeg</g:image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/734/b1786454811116.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/734/c1786454810553.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/734/d1786454810397.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/734/e1786454811280.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/734/f1786454810702.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/734/g1786454810907.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/734/h1786454811487.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/734/i1786454811800.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://backend.frivio.se/vehicle/734/j1786454811681.jpeg</g:additional_image_link>
-      <make>Bella</make>
-      <model>Bella 620 DC</model>
-      <year>2003</year>
-      <mileage>
-        <value>0</value>
-        <unit>KM</unit>
-      </mileage>
-      <price>100000 SEK</price>
-      <g:price>100000 SEK</g:price>
-      <address>Sölvesborg</address>
-      <address format="simple">
-        <component name="addr1">Sölvesborg</component>
-        <component name="city">Sölvesborg</component>
-        <component name="region">Blekinge</component>
-        <component name="country">SE</component>
-      </address>
-      <condition>GOOD</condition>
-      <state_of_vehicle>USED</state_of_vehicle>
-      <frivio:listing_type>auction</frivio:listing_type>
-      <frivio:auction_end_date>2026-08-30T17:21:00.000Z</frivio:auction_end_date>
-      <frivio:auction_ends_within_7_days>true</frivio:auction_ends_within_7_days>
-      <frivio:current_bid>100000 SEK</frivio:current_bid>
-      <frivio:bid_count>6</frivio:bid_count>
-      <frivio:reserve_price_status>Reservationspris ej uppnått</frivio:reserve_price_status>
-      <frivio:monthly_cost>1582 kr/mån</frivio:monthly_cost>
-      <body_style>OTHER</body_style>
-      <frivio:body_type_label>Båt</frivio:body_type_label>
-      <fuel_type>NONE</fuel_type>
-      <frivio:region>Blekinge</frivio:region>
-      <availability>AVAILABLE</availability>
-      <custom_label_0>Båt</custom_label_0>
-      <custom_label_1>Slutar 2026-08-30 17:21</custom_label_1>
-    </item>
+    <lastBuildDate>Sun, 30 Aug 2026 20:54:56 GMT</lastBuildDate>
     <item>
       <vehicle_id>739</vehicle_id>
       <g:id>739</g:id>
